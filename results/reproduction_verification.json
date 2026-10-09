@@ -1,0 +1,385 @@
+{
+  "verified_tables": [
+    {
+      "file": "catalog_annual_audit.csv",
+      "rows": 130,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "cell_stability.csv",
+      "rows": 2928,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "data_audit.csv",
+      "rows": 5,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_alaska_band35_45.csv",
+      "rows": 4655,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_alaska_ge35.csv",
+      "rows": 4655,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_alaska_ge45.csv",
+      "rows": 4655,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_chile_band35_45.csv",
+      "rows": 1330,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_chile_ge35.csv",
+      "rows": 1330,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_chile_ge45.csv",
+      "rows": 1330,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_greece_band35_45.csv",
+      "rows": 9044,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_greece_ge35.csv",
+      "rows": 9044,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_greece_ge45.csv",
+      "rows": 9044,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_italy_band35_45.csv",
+      "rows": 2527,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_italy_ge35.csv",
+      "rows": 2527,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_italy_ge45.csv",
+      "rows": 2527,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_japan_band35_45.csv",
+      "rows": 2660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_japan_ge35.csv",
+      "rows": 2660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "issued_japan_ge45.csv",
+      "rows": 2660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "magnitude_types.csv",
+      "rows": 35,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "metrics.csv",
+      "rows": 207,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "numerical_checks.csv",
+      "rows": 45,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_cell_stability.csv",
+      "rows": 456,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_metrics.csv",
+      "rows": 120,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_outcome_contributions.csv",
+      "rows": 30,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_paired_tests.csv",
+      "rows": 315,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_alaska_band35_45.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_alaska_ge35.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_alaska_ge45.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_chile_band35_45.csv",
+      "rows": 720,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_chile_ge35.csv",
+      "rows": 720,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_chile_ge45.csv",
+      "rows": 720,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_greece_band35_45.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_greece_ge35.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_greece_ge45.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_italy_band35_45.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_italy_ge35.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_italy_ge45.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_japan_band35_45.csv",
+      "rows": 1440,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_japan_ge35.csv",
+      "rows": 1440,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_predictions_japan_ge45.csv",
+      "rows": 1440,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_reliability.csv",
+      "rows": 240,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "online_year_stability.csv",
+      "rows": 90,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "outcome_contributions.csv",
+      "rows": 144,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "paired_tests.csv",
+      "rows": 1134,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_cell_stability.csv",
+      "rows": 7128,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_metrics.csv",
+      "rows": 312,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_outcome_contributions.csv",
+      "rows": 432,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_paired_tests.csv",
+      "rows": 2088,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_alaska_band35_45.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_alaska_ge35.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_alaska_ge45.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_chile_band35_45.csv",
+      "rows": 720,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_chile_ge35.csv",
+      "rows": 720,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_chile_ge45.csv",
+      "rows": 720,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_greece_band35_45.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_greece_ge35.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_greece_ge45.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_italy_band35_45.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_italy_ge35.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_predictions_italy_ge45.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_reliability.csv",
+      "rows": 768,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "persistence_year_stability.csv",
+      "rows": 1296,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_alaska_band35_45.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_alaska_ge35.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_alaska_ge45.csv",
+      "rows": 2520,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_greece_band35_45.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_greece_ge35.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_greece_ge45.csv",
+      "rows": 4896,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_italy_band35_45.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_italy_ge35.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "predictions_italy_ge45.csv",
+      "rows": 1368,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "reliability.csv",
+      "rows": 432,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "skill_resolution.csv",
+      "rows": 9,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "synthetic_replicates.csv",
+      "rows": 800,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "synthetic_summary.csv",
+      "rows": 4,
+      "max_abs_difference": 0.0
+    },
+    {
+      "file": "year_stability.csv",
+      "rows": 432,
+      "max_abs_difference": 0.0
+    }
+  ],
+  "selected_specifications_match": true
+}

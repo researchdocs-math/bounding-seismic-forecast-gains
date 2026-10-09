@@ -1,0 +1,6 @@
+country,events,eligible_events,cells,origins,test_n,positive_primary,positive_band,positive_large,catalog_threshold,primary_threshold,large_threshold
+italy,7124,4986,19,194,1368,102,97,9,3.0,3.5,4.5
+greece,64915,64533,68,194,4896,1059,1013,151,3.0,3.5,4.5
+alaska,27385,20231,35,194,2520,818,756,207,3.0,3.5,4.5
+chile,4859,2290,10,194,720,64,60,6,4.5,5.0,6.0
+japan,10547,8734,20,194,1440,188,180,20,4.5,5.0,6.0

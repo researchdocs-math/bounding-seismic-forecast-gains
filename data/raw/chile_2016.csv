@@ -1,0 +1,337 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-01-02T14:15:44.700Z,-30.4197,-72.2837,10,4.5,mb,,193,0.614,0.93,us,us10004avp,2016-03-28T22:09:33.040Z,"104 km WSW of Coquimbo, Chile",earthquake,4.3,1.8,0.27,4,reviewed,us,us
+2016-01-03T11:04:33.550Z,-32.9464,-69.2749,10,4.5,mb,,39,1.089,1.09,us,us10004bfa,2022-08-02T03:00:50.767Z,"42 km W of Mendoza, Argentina",earthquake,4.8,1.7,0.145,14,reviewed,us,us
+2016-01-06T21:23:20.400Z,-29.1558,-68.9521,84.89,4.7,mb,,41,1.537,1.08,us,us10004bwx,2016-03-28T22:09:41.040Z,"84 km WSW of Vinchina, Argentina",earthquake,6.5,5.8,0.104,28,reviewed,us,us
+2016-01-07T02:09:43.600Z,-30.6311,-71.6563,30.28,4.5,mb,,140,0.046,0.4,us,us10004byi,2016-03-28T22:09:42.040Z,"43 km W of Ovalle, Chile",earthquake,4.4,5.2,0.157,12,reviewed,us,us
+2016-01-07T15:40:42.920Z,-41.6653,-74.0885,22.6,5,mww,,116,0.529,0.7,us,us10004c4b,2022-05-03T17:38:21.780Z,"32 km NW of Ancud, Chile",earthquake,5.6,3.5,,,reviewed,us,us
+2016-01-08T01:12:01.020Z,-30.664,-71.6383,24.03,5.7,mww,,76,0.01,0.79,us,us10004c96,2022-08-07T08:43:03.025Z,"42 km W of Ovalle, Chile",earthquake,4.6,3,,,reviewed,us,us
+2016-01-08T03:11:28.000Z,-29.644,-72.1303,4.53,4.6,mb,,143,0.822,0.97,us,us10004cam,2016-03-30T02:27:48.040Z,"83 km WNW of Coquimbo, Chile",earthquake,3.4,3.7,0.133,17,reviewed,us,us
+2016-01-08T09:21:17.100Z,-22.3535,-67.6073,147.45,4.7,mb,,41,1.233,0.9,us,us10004cbl,2016-03-30T02:27:48.040Z,"86 km NE of San Pedro de Atacama, Chile",earthquake,2.8,6.4,0.059,89,reviewed,us,us
+2016-01-08T18:41:01.450Z,-32.9597,-70.6051,87.29,4.6,mb,,78,0.192,0.73,us,us10004ceg,2022-08-02T04:11:30.673Z,"13 km S of Los Andes, Chile",earthquake,5.1,4.1,0.122,22,reviewed,us,us
+2016-01-09T18:47:18.340Z,-31.757,-68.1695,94.02,4.6,mwr,,47,0.487,0.98,us,us10004d61,2022-08-02T04:16:16.824Z,"San Juan, Argentina",earthquake,7.2,4.1,0.06,27,reviewed,us,us
+2016-01-10T04:36:39.000Z,-36.3824,-72.6483,40.79,4.7,mwr,,115,1.172,0.76,us,us10004d8q,2022-08-02T04:19:06.944Z,"14 km SW of Quirihue, Chile",earthquake,7.3,3.6,0.051,37,reviewed,us,us
+2016-01-10T10:21:31.000Z,-17.0213,-66.6035,24.8,4.5,mb,,50,1.635,1,us,us10004d9v,2016-03-30T02:27:52.040Z,"34 km NNE of Colchani, Bolivia",earthquake,7.2,4.5,0.118,21,reviewed,us,us
+2016-01-10T13:33:35.760Z,-31.3272,-71.7545,26.22,5,mwr,,58,0.659,0.89,us,us10004db0,2022-08-02T04:22:02.331Z,"65 km WNW of Illapel, Chile",earthquake,4.8,3.3,,,reviewed,us,guc
+2016-01-11T07:51:02.210Z,-31.461,-69.4346,105.43,4.6,mb,,62,0.646,0.84,us,us10004dg3,2016-03-30T02:27:54.040Z,"14 km S of Calingasta, Argentina",earthquake,3.2,4.6,0.062,78,reviewed,us,us
+2016-01-13T11:36:47.720Z,-23.5385,-68.0434,113.51,4.5,mwr,,35,1.219,0.86,us,us10004e2a,2016-03-30T02:27:57.040Z,"71 km SSE of San Pedro de Atacama, Chile",earthquake,3.6,5.2,0.062,25,reviewed,us,us
+2016-01-13T12:20:39.580Z,-19.2847,-70.1676,55.05,4.8,mww,,127,0.676,0.92,us,us10004e2m,2022-08-07T08:49:47.483Z,"90 km S of Arica, Chile",earthquake,4.7,4.7,,,reviewed,us,us
+2016-01-13T13:31:03.590Z,-24.1458,-67.0801,159.79,4.9,mb,,40,2.271,0.68,us,us10004e3e,2016-03-30T02:27:58.040Z,"77 km W of San Antonio de los Cobres, Argentina",earthquake,7.9,6,0.078,52,reviewed,us,us
+2016-01-15T20:32:55.090Z,-28.4636,-67.9168,25.68,4.9,mww,,19,1.946,0.98,us,us10004eym,2016-11-10T22:08:31.101Z,"43 km NE of Vinchina, Argentina",earthquake,5.6,3.3,,,reviewed,us,us
+2016-01-16T03:37:13.560Z,-28.3278,-67.5022,129.94,4.6,mb,,81,2.073,1.14,us,us10004f06,2016-04-06T17:30:21.040Z,"29 km SSE of Tinogasta, Argentina",earthquake,6.3,8,0.117,23,reviewed,us,us
+2016-01-16T09:42:33.360Z,-37.9495,-75.3077,10,4.5,mwr,,83,2.856,0.5,us,us10004f1m,2022-08-02T05:26:18.967Z,"Off the coast of Bio-Bio, Chile",earthquake,7.4,1.8,0.068,21,reviewed,us,us
+2016-01-17T15:28:38.980Z,-21.3044,-68.763,90.29,5,mwr,,42,0.662,0.84,us,us10004f7g,2016-11-10T22:08:49.718Z,"128 km N of Calama, Chile",earthquake,5.1,4,,,reviewed,us,guc
+2016-01-17T17:05:38.400Z,-26.4372,-70.8561,36.87,5,mb,,139,1.278,1.31,us,us10004f80,2016-04-06T17:30:24.040Z,"80 km W of Diego de Almagro, Chile",earthquake,1.9,6.5,0.17,11,reviewed,us,us
+2016-01-19T08:43:44.410Z,-29.6893,-69.1636,110.42,4.6,mb,,46,1.499,0.6,us,us10004fit,2016-04-06T17:30:26.040Z,"73 km NNW of San José de Jáchal, Argentina",earthquake,7.5,6.9,0.085,41,reviewed,us,us
+2016-01-19T11:39:40.000Z,-22.97,-69.009,96.5,4.7,mb,,,,1.48,us,us10004fk3,2016-04-06T17:30:27.040Z,"57 km S of Calama, Chile",earthquake,6.7,4.8,0.056,99,reviewed,guc,us
+2016-01-20T07:24:50.730Z,-30.5749,-71.6757,29.27,4.5,mb,,107,0.104,0.92,us,us20004uqq,2016-04-06T17:30:28.040Z,"45 km W of Ovalle, Chile",earthquake,6.1,3.6,0.192,8,reviewed,us,us
+2016-01-24T12:52:05.630Z,-23.1972,-66.6054,198.25,4.7,mb,,32,2.204,1,us,us10004gs9,2016-04-08T23:06:11.040Z,"94 km W of El Aguilar, Argentina",earthquake,7.1,5.7,0.072,58,reviewed,us,us
+2016-01-25T04:35:57.970Z,-31.6922,-72.1202,15.16,4.5,mb,,191,1.097,0.65,us,us10004gyp,2016-04-08T23:06:13.040Z,"90 km W of Illapel, Chile",earthquake,7.5,6.7,0.242,5,reviewed,us,us
+2016-01-25T07:16:57.970Z,-21.3944,-68.7166,111.33,4.5,mb,,44,0.631,1.23,us,us10004h04,2016-04-08T23:06:14.040Z,"119 km N of Calama, Chile",earthquake,5.2,4.1,0.121,20,reviewed,us,us
+2016-01-26T00:19:10.020Z,-32.5866,-71.8378,7.75,4.8,mwr,,115,0.466,0.73,us,us20004ujc,2022-08-07T09:05:55.278Z,"53 km NNW of Valparaíso, Chile",earthquake,4.9,3.1,0.047,44,reviewed,us,us
+2016-01-26T01:35:14.310Z,-30.7429,-71.4603,38.41,4.5,mb,,109,0.165,0.46,us,us20004ukd,2016-04-08T23:06:15.040Z,"29 km WSW of Ovalle, Chile",earthquake,4.7,6.8,0.18,9,reviewed,us,us
+2016-01-26T09:08:55.020Z,-30.1613,-71.898,14.81,4.5,mwr,,116,0.559,1.31,us,us20004uml,2022-08-02T07:20:51.254Z,"58 km WSW of Coquimbo, Chile",earthquake,4.8,3.7,0.05,39,reviewed,us,us
+2016-01-27T13:16:35.900Z,-30.6312,-71.6147,28.05,4.5,mwr,,84,0.045,0.63,us,us20004v1z,2016-04-08T23:06:17.040Z,"39 km W of Ovalle, Chile",earthquake,6.3,3.9,0.044,50,reviewed,us,us
+2016-01-29T20:07:15.100Z,-30.3325,-71.6327,35.78,5.2,mwr,,113,0.34,1.1,us,us20004vly,2022-08-02T07:45:18.951Z,"50 km SW of Coquimbo, Chile",earthquake,4.7,4.1,,,reviewed,us,guc
+2016-01-30T13:28:18.760Z,-33.2002,-72.4136,12.55,4.5,mwr,,151,0.675,1.47,us,us20004w1c,2016-04-14T22:51:35.040Z,"75 km WSW of Valparaíso, Chile",earthquake,5.1,4.8,0.038,68,reviewed,us,us
+2016-01-31T07:42:50.300Z,-21.9254,-68.0999,115.71,4.6,mwr,,75,1.016,0.79,us,us20004w4e,2016-04-14T22:51:37.040Z,"103 km NE of Calama, Chile",earthquake,6.6,6.1,0.052,36,reviewed,us,us
+2016-02-01T21:45:57.690Z,-22.5579,-66.0461,245.7,4.5,mb,,29,2.648,1.05,us,us20004we3,2016-04-14T22:51:39.040Z,"40 km WNW of Abra Pampa, Argentina",earthquake,8.3,6.4,0.151,13,reviewed,us,us
+2016-02-02T22:26:19.570Z,-21.742,-68.3608,117.3,4.6,mb,,31,0.82,0.77,us,us20004wqj,2016-04-14T22:51:41.040Z,"98 km NE of Calama, Chile",earthquake,6.1,5.6,0.095,33,reviewed,us,us
+2016-02-04T17:55:00.740Z,-31.0531,-71.7082,25.27,4.9,mwr,,113,0.383,0.85,us,us20004x4m,2022-08-02T08:34:39.802Z,"69 km SW of Ovalle, Chile",earthquake,6,4,,,reviewed,us,guc
+2016-02-04T17:59:58.640Z,-31.0669,-71.7512,26.98,4.6,mb,,159,0.404,0.75,us,us20004yzf,2016-04-14T22:51:44.040Z,"73 km SW of Ovalle, Chile",earthquake,6.8,6,0.244,5,reviewed,us,us
+2016-02-05T05:24:40.500Z,-31.0793,-71.7851,24.66,5,mwr,,145,0.424,0.8,us,us20004xzv,2016-04-19T01:33:18.040Z,"77 km SW of Ovalle, Chile",earthquake,4.6,4.2,,,reviewed,us,guc
+2016-02-05T05:28:08.110Z,-31.0741,-71.6711,23.7,5.1,mwr,,141,0.4,0.79,us,us20004xzw,2022-05-03T17:43:24.087Z,"69 km SW of Ovalle, Chile",earthquake,5,4.2,,,reviewed,us,guc
+2016-02-09T22:37:26.970Z,-22.6471,-66.7322,190.34,4.7,mb,,32,2.013,0.99,us,us20004z4g,2016-04-19T01:33:27.040Z,"106 km W of Abra Pampa, Argentina",earthquake,6.7,5.4,0.053,107,reviewed,us,us
+2016-02-10T00:33:05.340Z,-30.5723,-71.5838,29,6.3,mww,,45,0.11,0.81,us,us20004z5b,2022-05-03T19:07:23.070Z,"37 km W of Ovalle, Chile",earthquake,4.5,1.8,,,reviewed,us,us
+2016-02-10T00:47:09.280Z,-30.5812,-71.6663,28.79,5,mb,,183,0.096,1.01,us,us20004z5r,2016-04-19T01:33:27.040Z,"44 km W of Ovalle, Chile",earthquake,4.4,5.1,0.162,12,reviewed,us,us
+2016-02-10T00:52:58.220Z,-30.6644,-71.5828,30.3,4.8,mb,,49,0.045,0.86,us,us20004z5p,2016-04-19T01:33:28.040Z,"37 km W of Ovalle, Chile",earthquake,5,4.4,0.125,20,reviewed,us,us
+2016-02-10T00:59:55.990Z,-30.6031,-71.6034,21.41,4.7,mb,,126,0.075,0.78,us,us20004z5s,2016-04-19T01:33:28.040Z,"38 km W of Ovalle, Chile",earthquake,3.9,4.3,0.097,32,reviewed,us,us
+2016-02-10T01:04:36.970Z,-30.633,-71.5663,29.69,4.8,mb,,94,0.071,0.68,us,us20004z5t,2016-04-19T01:33:28.040Z,"35 km W of Ovalle, Chile",earthquake,6.1,4.6,0.153,13,reviewed,us,us
+2016-02-10T01:14:06.380Z,-30.676,-71.6542,33.84,5.1,mwr,,138,0.016,1.4,us,us20004z6p,2016-04-19T01:33:28.040Z,"44 km W of Ovalle, Chile",earthquake,5.1,3.1,,,reviewed,us,guc
+2016-02-10T11:10:59.030Z,-36.8221,-73.7564,21.23,4.7,mwr,,97,0.46,0.5,us,us20004z99,2022-08-02T09:27:19.760Z,"58 km W of Talcahuano, Chile",earthquake,6.5,4.5,0.045,47,reviewed,us,us
+2016-02-11T20:04:09.080Z,-31.3,-68.7163,107.55,4.5,mb,,41,0.246,0.99,us,us20004zk3,2022-08-07T09:34:36.460Z,"23 km NW of Albardón, Argentina",earthquake,7.6,4.6,0.066,67,reviewed,us,us
+2016-02-12T22:32:04.330Z,-19.9598,-70.3106,62.29,4.8,mwr,,81,0.352,1.08,us,us20004zv5,2022-08-02T09:43:38.351Z,"32 km NNW of Iquique, Chile",earthquake,4.6,4.6,,,reviewed,us,guc
+2016-02-17T10:54:11.240Z,-31.2139,-71.6783,36.24,4.8,mb,,120,0.539,1.02,us,us200050u4,2016-04-26T23:28:25.040Z,"67 km NW of Illapel, Chile",earthquake,2,5.2,0.119,22,reviewed,us,us
+2016-02-18T01:32:31.210Z,-30.5832,-71.4573,50.77,4.6,mb,,129,0.177,0.78,us,us10004rrv,2016-04-26T23:28:26.040Z,"24 km W of Ovalle, Chile",earthquake,5.5,8.7,0.244,5,reviewed,us,us
+2016-02-18T09:18:42.000Z,-20.31,-69.166,100.5,4.5,mb,,,,0.83,us,us10004qra,2022-08-02T10:34:59.347Z,"103 km E of Iquique, Chile",earthquake,5.5,4.4,0.102,28,reviewed,guc,us
+2016-02-19T01:46:59.500Z,-45.6796,-77.873,4.5,4.8,mb,,127,4.064,1.08,us,us10004qyl,2016-05-03T23:44:10.040Z,"Off the coast of Aisen, Chile",earthquake,10.6,4.1,0.089,39,reviewed,us,us
+2016-02-19T05:33:08.350Z,-30.5929,-71.5928,23.62,4.9,mww,,82,0.088,0.7,us,us10004qzj,2022-08-07T09:50:26.516Z,"37 km W of Ovalle, Chile",earthquake,4.8,4.3,,,reviewed,us,us
+2016-02-19T09:26:09.540Z,-31.1107,-72.9461,10,4.6,mb,,143,1.208,1.01,us,us10004r07,2016-05-03T23:44:11.040Z,"176 km WSW of Ovalle, Chile",earthquake,5.8,1.5,0.112,24,reviewed,us,us
+2016-02-19T21:50:49.360Z,-45.7308,-77.6806,10,4.7,mwr,,153,3.888,0.84,us,us10004r6c,2025-12-22T17:13:24.620Z,"Off the coast of Aisen, Chile",earthquake,9.9,1.9,0.093,11,reviewed,us,us
+2016-02-20T18:23:01.530Z,-32.4769,-69.8406,116.24,4.5,mwr,,40,0.664,1.3,us,us10004reu,2016-05-03T23:44:14.040Z,"81 km ENE of Los Andes, Chile",earthquake,5.3,3.8,0.068,21,reviewed,us,us
+2016-02-22T06:36:59.400Z,-30.4242,-72.2967,12,6,mww,,39,0.622,1.37,us,us10004rn7,2022-08-02T11:27:09.660Z,"105 km WSW of Coquimbo, Chile",earthquake,4.7,1.7,,,reviewed,us,us
+2016-02-22T07:01:15.630Z,-30.4622,-72.2211,10,4.5,mb,,150,0.547,1.3,us,us10004rnc,2016-05-03T23:44:16.040Z,"99 km W of Ovalle, Chile",earthquake,3,1.8,0.242,5,reviewed,us,us
+2016-02-24T03:51:29.570Z,-31.7467,-69.4633,116.25,4.7,mww,,50,0.694,0.9,us,us10004s9h,2022-08-02T11:47:13.482Z,"45 km S of Calingasta, Argentina",earthquake,5.3,4.7,,,reviewed,us,us
+2016-02-24T17:02:04.630Z,-29.9603,-71.6703,24.02,4.6,mb,,144,0.377,0.84,us,us10004scj,2022-08-02T11:49:57.678Z,"31 km W of Coquimbo, Chile",earthquake,4,4.8,0.119,21,reviewed,us,us
+2016-02-24T19:09:57.640Z,-29.9287,-71.8335,15.23,4.6,mb,,147,0.516,0.96,us,us10004sec,2016-05-03T23:44:20.040Z,"Near the coast of Coquimbo, Chile",earthquake,4.8,4.3,0.146,14,reviewed,us,us
+2016-02-25T11:27:54.270Z,-30.7875,-71.493,37.16,4.8,mb,,103,0.166,1.17,us,us10004sk4,2022-08-02T11:58:56.746Z,"34 km SW of Ovalle, Chile",earthquake,6.1,6,0.068,68,reviewed,us,us
+2016-02-25T15:35:06.740Z,-23.1052,-68.9667,85.47,5.2,mww,,45,0.475,1.21,us,us10004slu,2025-12-22T17:13:33.778Z,"71 km S of Calama, Chile",earthquake,5.3,2.2,,,reviewed,us,us
+2016-02-26T07:19:19.730Z,-28.8908,-67.5705,100.06,4.5,mb,,43,2.469,1.22,us,us10004suw,2016-05-06T23:34:13.040Z,"30 km NNW of Chilecito, Argentina",earthquake,7,5.7,0.136,16,reviewed,us,us
+2016-02-26T08:52:48.320Z,-31.7298,-67.5629,25.64,4.9,mww,,25,0.973,0.89,us,us10004svb,2022-05-03T17:41:16.597Z,"68 km E of Caucete, Argentina",earthquake,5.5,2.8,,,reviewed,us,us
+2016-02-26T16:48:28.000Z,-24.144,-66.979,192,4.5,mb,,,,0.82,us,us10004sz3,2016-05-06T23:34:14.040Z,"67 km W of San Antonio de los Cobres, Argentina",earthquake,10.8,8.3,0.242,5,reviewed,sja,us
+2016-02-26T17:01:42.320Z,-24.0953,-66.9416,181.25,4.6,mb,,33,2.335,1.42,us,us10004szc,2016-05-06T23:34:14.040Z,"64 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.9,7,0.063,74,reviewed,us,us
+2016-03-02T09:49:53.740Z,-18.6904,-70.7402,33.44,5.2,mww,,87,0.398,0.88,us,us10004u0r,2022-08-02T12:41:13.725Z,"52 km WSW of Arica, Chile",earthquake,4.7,3.7,,,reviewed,us,us
+2016-03-03T18:51:01.000Z,-19.139,-69.271,112.5,4.7,mb,,,,1.38,us,us10004ug4,2016-05-06T23:34:25.040Z,"130 km SE of Arica, Chile",earthquake,5.4,4.6,0.101,30,reviewed,guc,us
+2016-03-04T18:58:31.600Z,-20.6733,-71.0282,24.63,4.5,mwr,,125,0.832,1.45,us,us10004usk,2016-05-16T18:01:43.040Z,"104 km WSW of Iquique, Chile",earthquake,4.9,3.6,0.05,38,reviewed,us,us
+2016-03-05T17:31:50.290Z,-20.7371,-69.7472,38.22,4.5,mb,,64,0.388,1.11,us,us10004uxf,2016-05-16T18:01:44.040Z,"71 km SE of Iquique, Chile",earthquake,3.2,6,0.101,32,reviewed,us,us
+2016-03-06T16:23:08.000Z,-18.08,-70.38,99,4.7,mb,,,,0.84,us,us10004vnu,2016-05-16T18:01:46.040Z,"15 km WSW of Tacna, Peru",earthquake,7.9,5.9,0.06,86,reviewed,lim,us
+2016-03-09T13:28:11.870Z,-30.4412,-71.3451,49.66,4.8,mww,,96,0.341,0.54,us,us10004w9z,2022-08-02T13:39:57.663Z,"22 km NW of Ovalle, Chile",earthquake,6.8,4.6,,,reviewed,us,us
+2016-03-10T08:34:12.440Z,-18.8045,-69.629,94.43,5,mb,,88,0.48,1.04,us,us10004wgx,2022-08-02T13:47:18.632Z,"79 km ESE of Arica, Chile",earthquake,6.7,6.2,0.058,96,reviewed,us,us
+2016-03-11T07:02:17.230Z,-23.1188,-68.7595,85.61,4.8,mwr,,62,0.522,1.06,us,us10004wph,2022-08-02T13:55:54.552Z,"61 km WSW of San Pedro de Atacama, Chile",earthquake,7.4,6.4,,,reviewed,us,guc
+2016-03-12T16:05:15.180Z,-30.2495,-71.6502,36.83,5.1,mww,,117,0.423,1.27,us,us10004x18,2022-08-02T14:14:27.968Z,"44 km SW of Coquimbo, Chile",earthquake,2.5,4.6,,,reviewed,us,us
+2016-03-14T04:23:18.430Z,-26.0349,-70.8699,34.01,4.7,mb,,118,0.268,0.78,us,us10004xal,2016-05-21T00:05:30.040Z,"79 km SSW of Taltal, Chile",earthquake,5,4.5,0.072,58,reviewed,us,us
+2016-03-14T10:22:47.000Z,-21.913,-68.475,120.5,4.5,mb,,,,0.97,us,us10004xd1,2016-05-21T00:05:30.040Z,"75 km NE of Calama, Chile",earthquake,7.2,3.2,0.157,12,reviewed,guc,us
+2016-03-14T10:26:19.580Z,-32.2454,-71.8153,27.64,4.6,mb,,136,0.539,1.02,us,us10004xd6,2016-05-21T00:05:30.040Z,"59 km WNW of La Ligua, Chile",earthquake,5.7,5.2,0.164,11,reviewed,us,us
+2016-03-14T13:21:53.000Z,-30.722,-71.631,33.7,4.5,mb,,,,1.82,us,us10004xee,2016-05-21T00:05:30.040Z,"43 km WSW of Ovalle, Chile",earthquake,4.5,5.9,0.384,2,reviewed,guc,us
+2016-03-14T15:28:24.000Z,-20.9,-68.923,103.3,4.6,mb,,,,0.92,us,us10004xfn,2016-05-21T00:05:30.040Z,"148 km ESE of Iquique, Chile",earthquake,3.7,4.9,0.073,55,reviewed,guc,us
+2016-03-15T11:44:44.670Z,-30.1776,-71.9575,21.79,4.5,mb,,183,0.567,0.76,us,us10004xrl,2016-05-21T00:05:32.040Z,"64 km WSW of Coquimbo, Chile",earthquake,3.5,7.9,0.313,3,reviewed,us,us
+2016-03-16T03:49:32.850Z,-31.241,-71.7314,25.41,5.3,mww,,92,0.571,0.76,us,us20005a3a,2022-08-07T10:19:17.547Z,"68 km NW of Illapel, Chile",earthquake,4.6,3.5,,,reviewed,us,us
+2016-03-16T13:41:34.150Z,-31.0149,-71.3309,24.68,4.6,mb,,135,0.34,0.83,us,us20005a5t,2016-05-21T00:05:33.040Z,"47 km SSW of Ovalle, Chile",earthquake,5.5,7.7,0.207,7,reviewed,us,us
+2016-03-19T12:24:07.510Z,-30.6487,-71.6113,27.95,4.7,mb,,106,0.032,1.01,us,us20005b0g,2016-06-09T21:41:51.040Z,"39 km W of Ovalle, Chile",earthquake,6.1,4,0.147,14,reviewed,us,us
+2016-03-19T23:19:29.370Z,-38.097,-73.9437,8.91,4.6,mb,,153,0.816,0.82,us,us20005b4i,2016-06-09T21:41:52.040Z,"58 km SW of Cañete, Chile",earthquake,5.9,4.4,0.105,27,reviewed,us,us
+2016-03-20T08:34:02.370Z,-23.3061,-66.6839,205.94,4.6,mwr,,32,2.165,0.89,us,us20005b7p,2016-06-09T21:41:52.040Z,"103 km W of El Aguilar, Argentina",earthquake,7,4.6,,,reviewed,us,guc
+2016-03-20T23:23:10.370Z,-31.4506,-71.7766,29.28,4.5,mwr,,138,0.708,0.73,us,us20005bbr,2016-06-09T21:41:53.040Z,"61 km WNW of Illapel, Chile",earthquake,4.3,4.4,0.039,64,reviewed,us,us
+2016-03-23T00:38:00.450Z,-31.7694,-71.4177,42.73,4.6,mwr,,120,0.667,0.99,us,us20005bxq,2022-08-02T15:35:01.659Z,"27 km WSW of Illapel, Chile",earthquake,3,4,,,reviewed,us,guc
+2016-03-23T13:14:06.900Z,-30.3349,-71.7081,24.4,4.5,mb,,148,0.343,0.95,us,us20005c10,2016-06-09T21:41:57.040Z,"55 km SW of Coquimbo, Chile",earthquake,6.6,6.5,0.18,9,reviewed,us,us
+2016-03-25T08:03:19.960Z,-30.688,-71.5356,29.62,4.8,mwr,,56,0.086,0.85,us,us20005cdz,2016-06-10T23:32:50.040Z,"33 km WSW of Ovalle, Chile",earthquake,5.6,3.8,,,reviewed,us,guc
+2016-03-25T20:02:10.330Z,-19.6031,-69.0559,116.98,4.5,mb,,55,0.145,1.12,us,us20005che,2016-06-10T23:32:50.040Z,"133 km ENE of Iquique, Chile",earthquake,5.9,5.5,0.118,23,reviewed,us,us
+2016-03-25T22:36:02.350Z,-35.1936,-71.1842,92.58,4.5,mwr,,49,0.519,0.69,us,us20005cir,2022-08-07T10:30:46.855Z,"12 km SE of Molina, Chile",earthquake,5.1,3.9,0.069,20,reviewed,us,us
+2016-03-26T08:56:31.110Z,-30.7159,-71.5051,38.1,4.5,mwr,,83,0.119,0.67,us,us20005ck2,2016-06-10T23:32:51.040Z,"31 km WSW of Ovalle, Chile",earthquake,6.4,3.2,,,reviewed,us,guc
+2016-03-27T12:01:39.540Z,-45.6293,-77.1565,10,4.7,mb,,56,3.417,0.81,us,us20005cpm,2025-12-22T17:14:00.242Z,"Off the coast of Aisen, Chile",earthquake,9.1,1.8,0.123,20,reviewed,us,us
+2016-03-29T20:32:26.150Z,-22.3028,-67.4503,189.97,4.6,mb,,31,1.386,1.34,us,us20005d7x,2016-06-10T23:32:57.040Z,"102 km NE of San Pedro de Atacama, Chile",earthquake,7.5,9.9,0.126,20,reviewed,us,us
+2016-03-29T20:56:41.520Z,-21.9366,-67.2342,216.2,4.7,mb,,56,1.692,1.3,us,us20005d84,2016-06-10T23:32:57.040Z,"146 km NE of San Pedro de Atacama, Chile",earthquake,7.9,8.5,0.106,29,reviewed,us,us
+2016-03-31T07:17:19.300Z,-18.779,-67.3104,242.42,4.5,mb,,65,1.987,0.85,us,us20005dlx,2016-06-10T23:32:59.040Z,"55 km SW of Totoral, Bolivia",earthquake,10.2,12.6,0.204,7,reviewed,us,us
+2016-03-31T07:53:28.830Z,-22.6577,-68.5345,95.74,4.8,mww,,33,0.35,0.97,us,us20005dm3,2022-08-02T16:28:21.357Z,"44 km NW of San Pedro de Atacama, Chile",earthquake,6.5,4.3,,,reviewed,us,us
+2016-04-01T03:13:19.280Z,-20.3298,-69.9424,54.41,4.6,mb,,65,0.186,0.92,us,us20005du6,2022-08-02T16:36:12.288Z,"25 km ESE of Iquique, Chile",earthquake,5.5,4.8,0.103,31,reviewed,us,us
+2016-04-03T06:02:04.380Z,-28.9457,-69.9853,89.14,4.5,mwr,,54,0.63,0.94,us,us20005e8k,2016-06-17T21:45:14.040Z,"85 km ESE of Vallenar, Chile",earthquake,5.5,5.4,,,reviewed,us,guc
+2016-04-04T12:32:45.000Z,-31.2367,-71.77,24.36,5.3,mww,,80,0.572,0.91,us,us20005eg7,2022-08-02T16:53:55.178Z,"72 km NW of Illapel, Chile",earthquake,2.8,3,,,reviewed,us,us
+2016-04-06T17:35:38.680Z,-31.4832,-71.7832,29.74,5.3,mww,,80,0.725,0.81,us,us20005fvy,2022-08-07T10:48:47.318Z,"60 km WNW of Illapel, Chile",earthquake,4.3,0.8,,,reviewed,us,us
+2016-04-07T07:03:06.240Z,-20.4254,-68.8185,102.95,4.7,mwr,,42,0.422,1.24,us,us20005g13,2016-06-17T21:45:52.040Z,"141 km E of Iquique, Chile",earthquake,6.4,5.5,,,reviewed,us,guc
+2016-04-10T18:10:57.240Z,-31.4915,-71.7921,35,4.6,mwr,,162,0.735,1,us,us20005gu3,2016-06-21T01:14:07.040Z,"61 km WNW of Illapel, Chile",earthquake,5.2,1.9,,,reviewed,us,guc
+2016-04-13T20:01:57.810Z,-20.9384,-66.4777,220.9,5.3,mww,,22,2.63,0.97,us,us20005hve,2022-05-03T17:44:13.349Z,"26 km W of Atocha, Bolivia",earthquake,7.5,4.9,,,reviewed,us,us
+2016-04-14T07:35:05.160Z,-31.2439,-68.9893,122.68,4.7,mb,,47,0.398,0.97,us,us20005hyt,2016-06-21T01:14:12.040Z,"41 km NW of Villa Basilio Nievas, Argentina",earthquake,7.9,5.8,0.083,44,reviewed,us,us
+2016-04-14T09:38:44.100Z,-33.8833,-70.4192,110.52,5.1,mww,,35,0.179,0.83,us,us20005hz4,2025-12-22T17:32:08.652Z,"30 km ESE of Paine, Chile",earthquake,5.9,3.6,,,reviewed,us,us
+2016-04-14T17:44:55.370Z,-32.1303,-71.7922,18.09,4.6,mwr,,172,0.599,0.8,us,us20005i3l,2022-08-02T18:25:28.052Z,"63 km NW of La Ligua, Chile",earthquake,4,3.9,0.041,58,reviewed,us,us
+2016-04-15T04:27:56.470Z,-32.1568,-71.8144,19.99,4.8,mwr,,121,0.594,0.72,us,us20005ict,2022-08-02T18:30:00.077Z,"63 km WNW of La Ligua, Chile",earthquake,5.4,3.7,,,reviewed,us,guc
+2016-04-16T06:05:22.860Z,-26.4613,-69.8601,59.32,5.3,mww,,47,0.732,0.83,us,us20005iy5,2025-12-22T17:14:18.424Z,"21 km ESE of Diego de Almagro, Chile",earthquake,6.4,3,,,reviewed,us,us
+2016-04-16T15:07:56.520Z,-21.1553,-68.6358,140.57,4.6,mb,,61,0.851,1.4,us,us20005j0v,2016-06-27T23:01:50.040Z,"147 km NNE of Calama, Chile",earthquake,8.2,8.7,0.172,10,reviewed,us,us
+2016-04-17T14:59:45.190Z,-30.7527,-71.4614,40.03,4.9,mwr,,75,0.169,0.65,us,us20005j8a,2022-08-02T18:52:41.021Z,"30 km WSW of Ovalle, Chile",earthquake,4.8,1.5,,,reviewed,us,guc
+2016-04-18T04:25:59.510Z,-29.5172,-71.0155,39.74,4.5,mb,,123,0.444,0.69,us,us20005jdf,2022-08-02T18:59:07.449Z,"48 km NNE of La Serena, Chile",earthquake,4.2,6.1,0.136,16,reviewed,us,us
+2016-04-18T11:38:38.680Z,-31.7266,-71.2874,42.04,5.2,mww,,79,0.576,1.09,us,us20005jgy,2022-05-03T17:44:32.997Z,"15 km SW of Illapel, Chile",earthquake,4.6,3.5,,,reviewed,us,us
+2016-04-19T16:37:19.490Z,-30.6799,-71.818,25,4.5,mb,,181,0.157,1.06,us,us20005jui,2016-06-27T23:02:18.040Z,"59 km W of Ovalle, Chile",earthquake,6.9,5.4,0.18,9,reviewed,us,us
+2016-04-21T18:07:42.820Z,-22.302,-67.4034,152.99,4.9,mb,,25,1.428,0.97,us,us20005kj2,2025-12-22T17:14:25.682Z,"106 km NE of San Pedro de Atacama, Chile",earthquake,6.8,4.9,0.032,316,reviewed,us,us
+2016-04-22T15:55:50.550Z,-23.597,-71.1348,15.77,4.6,mb,,142,0.539,1.13,us,us20005kx4,2016-07-08T02:49:18.040Z,"75 km W of Antofagasta, Chile",earthquake,5,4.8,0.146,14,reviewed,us,us
+2016-04-23T09:00:27.110Z,-24.1506,-69.0789,89.38,4.5,mb,,47,1.004,1.08,us,us20005l5l,2016-07-08T02:49:19.040Z,"144 km ESE of Antofagasta, Chile",earthquake,5.2,5.8,0.057,92,reviewed,us,us
+2016-04-24T00:35:02.720Z,-24.1751,-66.954,169.34,4.5,mb,,35,1.656,1,us,us20005lav,2016-07-08T02:49:19.040Z,"64 km W of San Antonio de los Cobres, Argentina",earthquake,7,5.4,0.061,79,reviewed,us,us
+2016-04-25T14:01:46.490Z,-32.1461,-71.9091,22.32,4.6,mwr,,140,0.662,0.79,us,us20005lk7,2022-08-02T20:04:43.587Z,"72 km WNW of La Ligua, Chile",earthquake,3.2,4.3,0.043,52,reviewed,us,us
+2016-04-25T22:20:49.210Z,-30.9416,-71.7672,23.02,4.6,mwr,,131,0.29,0.82,us,us10005bhz,2016-07-08T02:49:23.040Z,"66 km SW of Ovalle, Chile",earthquake,4.9,3.7,,,reviewed,us,guc
+2016-04-26T19:58:15.550Z,-21.0685,-68.7063,132.55,4.9,mb,,31,0.73,1.42,us,us10005brg,2016-07-08T02:49:24.040Z,"155 km N of Calama, Chile",earthquake,5.6,6.1,0.065,73,reviewed,us,us
+2016-04-27T02:16:51.190Z,-31.6405,-67.7468,17.46,5,mb,,29,0.805,1.33,us,us10005buk,2022-08-02T20:22:04.651Z,"50 km E of Caucete, Argentina",earthquake,5.7,3.2,0.044,166,reviewed,us,us
+2016-04-27T10:13:50.260Z,-24.1304,-66.782,173.47,5.1,mb,,25,1.737,1.17,us,us10005bwt,2025-12-22T17:14:32.975Z,"48 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.4,4.9,0.028,405,reviewed,us,us
+2016-04-30T02:49:06.790Z,-29.7636,-72.0392,10,4.8,mb,,141,0.712,0.97,us,us10005cmu,2016-07-19T20:03:06.040Z,"71 km WNW of Coquimbo, Chile",earthquake,2.2,1.8,0.083,46,reviewed,us,us
+2016-04-30T06:36:25.340Z,-30.0378,-72.6926,10,4.5,mb,,145,1.112,0.85,us,us10005cnr,2016-07-19T20:03:06.040Z,"130 km W of Coquimbo, Chile",earthquake,7.4,1.9,0.205,7,reviewed,us,us
+2016-05-02T15:53:33.340Z,-25.9107,-70.7578,55.32,4.7,mb,,153,0.276,1.29,us,us10005d1t,2016-07-19T20:03:10.040Z,"62 km SSW of Taltal, Chile",earthquake,6.2,6,0.275,5,reviewed,us,us
+2016-05-07T07:22:21.990Z,-33.9558,-71.4845,51.56,4.5,mb,,119,0.214,0.81,us,us10005fpe,2022-08-02T21:34:21.927Z,"38 km SW of Melipilla, Chile",earthquake,5.1,5.7,0.163,11,reviewed,us,us
+2016-05-07T14:09:54.060Z,-36.644,-70.5431,157.02,4.7,mb,,62,1.128,0.91,us,us10005fqd,2016-07-20T18:10:47.040Z,"42 km NNE of Las Ovejas, Argentina",earthquake,8,7.2,0.081,46,reviewed,us,us
+2016-05-08T19:05:59.840Z,-24.8083,-69.4078,87.87,4.7,mwr,,62,0.923,1.27,us,us10005fwi,2022-08-02T21:47:05.857Z,"127 km ENE of Taltal, Chile",earthquake,5.7,4.3,0.039,64,reviewed,us,us
+2016-05-10T21:55:38.240Z,-37.8611,-73.7496,7.09,4.5,mwr,,153,0.97,0.63,us,us10005gee,2022-08-02T22:07:17.942Z,"29 km SSW of Lebu, Chile",earthquake,6.9,4.9,,,reviewed,us,guc
+2016-05-11T13:11:34.020Z,-30.663,-71.7475,24.68,5.4,mww,,90,0.097,0.7,us,us10005gih,2022-05-03T18:52:09.519Z,"53 km W of Ovalle, Chile",earthquake,4.5,3.4,,,reviewed,us,us
+2016-05-11T17:59:35.830Z,-27.8494,-71.3502,10,4.7,mwr,,134,0.429,0.88,us,us10005gl5,2022-08-02T22:13:45.005Z,"99 km NW of Vallenar, Chile",earthquake,2.1,1.8,,,reviewed,us,guc
+2016-05-12T17:47:40.260Z,-33.9996,-73.3651,10,4.6,mb,,116,1.496,1.18,us,us10005guu,2022-08-02T22:26:01.958Z,"168 km WSW of San Antonio, Chile",earthquake,7,1.7,0.072,57,reviewed,us,us
+2016-05-15T09:42:12.290Z,-29.2418,-69.2959,96.03,4.6,mb,,46,1.01,0.82,us,us10005hj6,2016-07-22T19:39:07.040Z,"118 km WSW of Vinchina, Argentina",earthquake,6.3,5.2,0.057,93,reviewed,us,us
+2016-05-15T15:14:00.090Z,-23.6548,-67.9894,103.54,4.5,mb,,117,1.34,1.1,us,us10005hk8,2016-07-22T19:39:07.040Z,"85 km SSE of San Pedro de Atacama, Chile",earthquake,8.5,5.7,0.065,69,reviewed,us,us
+2016-05-17T23:57:53.750Z,-24.3018,-67.1259,180.97,4.5,mb,,76,1.654,1.02,us,us10005i3t,2016-07-22T19:39:11.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,8.4,6.7,0.098,30,reviewed,us,us
+2016-05-18T14:49:02.940Z,-24.3941,-66.9305,148.4,5.2,mww,,34,1.835,0.75,us,us10005i77,2025-12-22T17:14:51.475Z,"65 km WSW of San Antonio de los Cobres, Argentina",earthquake,7.9,6.2,,,reviewed,us,us
+2016-05-19T18:28:33.970Z,-30.712,-71.4365,45.6,4.6,mb,,97,0.175,0.82,us,us10005ik2,2022-08-02T23:08:06.747Z,"25 km WSW of Ovalle, Chile",earthquake,2.5,5.4,0.056,95,reviewed,us,us
+2016-05-19T20:25:42.140Z,-27.9805,-66.4687,156.55,5.1,mww,,44,2.626,0.71,us,us10005ili,2025-12-22T17:14:52.817Z,"46 km SSW of Andalgalá, Argentina",earthquake,7.4,5,,,reviewed,us,us
+2016-05-21T17:30:33.310Z,-21.215,-68.486,133.26,4.7,mb,,38,0.911,1.16,us,us10005j59,2016-08-03T22:33:40.040Z,"144 km NNE of Calama, Chile",earthquake,6.1,6.2,0.082,45,reviewed,us,us
+2016-05-21T18:23:36.020Z,-21.5879,-71.6209,10,4.5,mb,,125,1.554,1.3,us,us10005j5c,2016-08-03T22:33:40.040Z,"157 km WNW of Tocopilla, Chile",earthquake,4.2,1.7,0.171,10,reviewed,us,us
+2016-05-22T11:14:34.460Z,-34.0427,-73.2657,6.88,4.5,mb,,151,1.427,1.41,us,us10005j7t,2016-08-03T22:33:41.040Z,"161 km WSW of San Antonio, Chile",earthquake,7.1,4.7,0.221,6,reviewed,us,us
+2016-05-22T11:47:09.110Z,-30.6111,-71.6884,25.77,5.1,mww,,82,0.077,0.8,us,us10005j7v,2022-08-02T23:30:05.120Z,"46 km W of Ovalle, Chile",earthquake,6.3,3.5,,,reviewed,us,us
+2016-05-23T03:43:12.910Z,-22.0311,-67.3269,174.56,5,mww,,30,1.208,1.12,us,us10005j9s,2025-12-22T17:14:56.876Z,"132 km NE of San Pedro de Atacama, Chile",earthquake,7.3,5.7,,,reviewed,us,us
+2016-05-24T00:29:35.660Z,-18.6247,-69.3935,125.63,4.9,mb,,70,0.307,0.73,us,us10005jgx,2022-08-02T23:39:10.399Z,"96 km E of Arica, Chile",earthquake,5.6,5.2,0.029,370,reviewed,us,us
+2016-05-26T20:36:50.530Z,-29.943,-71.8753,17,4.8,mwr,,113,0.553,0.61,us,us20005y8v,2022-08-02T23:59:48.397Z,"51 km W of Coquimbo, Chile",earthquake,5.1,1.8,,,reviewed,us,guc
+2016-05-30T12:41:55.940Z,-31.6518,-71.4394,56,4.7,mwr,,107,0.583,0.79,us,us20005z6j,2016-08-10T22:30:28.040Z,"25 km W of Illapel, Chile",earthquake,5.5,1.9,,,reviewed,us,guc
+2016-06-01T07:53:07.120Z,-22.6668,-68.6375,98.76,4.7,mwr,,37,0.258,0.94,us,us20005zjc,2016-08-10T22:30:30.040Z,"37 km SE of Calama, Chile",earthquake,5.8,4.7,,,reviewed,us,guc
+2016-06-05T01:53:57.950Z,-24.2886,-67.0035,165.05,4.6,mwr,,46,1.712,0.7,us,us20006244,2016-08-18T00:36:31.040Z,"69 km W of San Antonio de los Cobres, Argentina",earthquake,7.4,6,,,reviewed,us,guc
+2016-06-05T05:51:11.550Z,-29.3424,-71.8594,28,5.8,mww,,72,0.788,1,us,us20006257,2022-08-03T00:53:19.301Z,"84 km NW of Coquimbo, Chile",earthquake,4.2,1.7,,,reviewed,us,us
+2016-06-05T15:05:33.750Z,-19.4083,-69.0325,97.17,5.1,mww,,64,0.684,0.74,us,us2000626c,2025-12-22T17:15:18.063Z,"147 km NE of Iquique, Chile",earthquake,5.3,3.7,,,reviewed,us,us
+2016-06-06T13:16:02.220Z,-30.0433,-71.4636,28.31,5.5,mww,,60,0.231,0.79,us,us200062bu,2022-08-03T01:01:41.602Z,"15 km SW of Coquimbo, Chile",earthquake,4.3,2.9,,,reviewed,us,us
+2016-06-06T13:21:59.190Z,-30.069,-71.5238,29.5,5.4,mww,,69,0.289,0.72,us,us200062by,2022-05-03T17:49:49.012Z,"21 km SW of Coquimbo, Chile",earthquake,4,3,,,reviewed,us,us
+2016-06-10T12:09:54.380Z,-22.6933,-66.2726,216.63,4.7,mb,,30,1.777,0.82,us,us200063hf,2016-08-25T01:22:50.040Z,"59 km W of Abra Pampa, Argentina",earthquake,7.7,5.5,0.039,203,reviewed,us,us
+2016-06-12T17:07:48.560Z,-37.7339,-74.2719,14.85,4.6,mwr,,207,1.262,0.5,us,us200063ys,2016-08-25T01:22:53.040Z,"56 km WSW of Lebu, Chile",earthquake,9.5,9.4,,,reviewed,us,guc
+2016-06-14T22:42:24.760Z,-21.1136,-68.9588,114.1,4.6,mwr,,28,0.498,0.84,us,us200064fk,2016-08-25T01:22:56.040Z,"148 km N of Calama, Chile",earthquake,5,4.8,,,reviewed,us,guc
+2016-06-16T01:14:45.440Z,-30.6707,-71.3203,58.41,4.7,mwr,,55,0.271,0.74,us,us200064pg,2016-08-25T01:22:58.040Z,"13 km WSW of Ovalle, Chile",earthquake,6.4,4.5,,,reviewed,us,guc
+2016-06-17T03:48:38.690Z,-30.0617,-71.5824,33.79,4.5,mwr,,89,0.33,1.03,us,us200064zk,2022-08-03T02:04:29.377Z,"26 km WSW of Coquimbo, Chile",earthquake,5.3,3.2,0.039,63,reviewed,us,us
+2016-06-17T06:38:25.680Z,-30.661,-71.7577,30,4.8,mwr,,51,0.106,0.85,us,us2000650g,2016-08-27T02:15:26.040Z,"53 km W of Ovalle, Chile",earthquake,4.5,1.8,,,reviewed,us,guc
+2016-06-18T10:24:52.370Z,-24.3351,-67.2263,157.44,4.7,mb,,38,1.63,1.22,us,us2000658g,2016-08-27T02:15:27.040Z,"93 km W of San Antonio de los Cobres, Argentina",earthquake,7.5,6.6,0.108,31,reviewed,us,us
+2016-06-18T17:29:46.460Z,-24.1467,-67.1526,186,5.7,mww,,31,1.516,1.32,us,us2000659j,2022-05-03T17:50:33.585Z,"85 km W of San Antonio de los Cobres, Argentina",earthquake,6.7,1.6,,,reviewed,us,us
+2016-06-19T14:58:23.250Z,-35.8041,-71.3254,92.8,4.6,mb,,50,0.085,0.8,us,us200065dw,2016-08-27T02:15:30.040Z,"14 km SSE of Colbún, Chile",earthquake,6.1,4.6,0.04,186,reviewed,us,us
+2016-06-20T08:34:21.730Z,-23.9391,-66.6913,203.96,4.5,mb,,58,1.682,0.91,us,us200065gt,2016-08-27T02:15:31.040Z,"48 km NW of San Antonio de los Cobres, Argentina",earthquake,7.8,6.5,0.054,101,reviewed,us,us
+2016-06-22T03:54:40.610Z,-30.6352,-71.6921,26.01,5.1,mww,,132,0.815,0.68,us,us200065x1,2022-08-03T02:24:29.719Z,"47 km W of Ovalle, Chile",earthquake,2.7,4.1,,,reviewed,us,us
+2016-06-24T21:29:19.020Z,-25.7705,-69.3417,118.96,5.5,mww,,43,0.645,1.13,us,us200066n4,2025-12-22T17:15:42.844Z,"96 km NE of Diego de Almagro, Chile",earthquake,5.1,3.4,,,reviewed,us,us
+2016-06-27T12:51:13.180Z,-31.7806,-71.4198,45.67,5,mww,,120,0.677,0.71,us,us2000676p,2022-08-03T02:43:11.808Z,"28 km SW of Illapel, Chile",earthquake,5.6,2.2,,,reviewed,us,us
+2016-06-28T23:07:29.330Z,-30.361,-71.692,29.47,4.8,mwr,,84,0.315,0.96,us,us200067rb,2016-08-31T03:08:21.040Z,"54 km WNW of Ovalle, Chile",earthquake,2,3.7,,,reviewed,us,guc
+2016-07-01T22:20:08.090Z,-30.8029,-71.4833,38.19,4.6,mwr,,71,0.183,0.69,us,us10005zbz,2016-09-02T21:36:33.040Z,"35 km SW of Ovalle, Chile",earthquake,4.4,4.2,0.044,49,reviewed,us,us
+2016-07-03T09:22:16.150Z,-21.0755,-68.7383,114.41,4.7,mb,,59,0.7,1.11,us,us10005zku,2016-09-02T21:36:35.040Z,"154 km N of Calama, Chile",earthquake,6.5,6.1,0.084,43,reviewed,us,us
+2016-07-04T00:13:03.830Z,-31.4434,-71.5559,44.03,4.6,mwr,,73,0.532,0.67,us,us10005zpe,2022-08-03T03:04:07.366Z,"42 km WNW of Illapel, Chile",earthquake,4.9,4.5,0.044,49,reviewed,us,us
+2016-07-04T23:02:23.510Z,-20.7049,-69.1482,91.01,4.9,mwr,,39,0.462,0.81,us,us10005zxd,2016-09-02T21:36:37.040Z,"117 km ESE of Iquique, Chile",earthquake,4.3,4.3,,,reviewed,us,guc
+2016-07-05T02:29:03.180Z,-20.19,-70.9463,11.13,5.1,mww,,126,0.769,0.86,us,us10005zyk,2025-12-22T17:16:00.908Z,"83 km W of Iquique, Chile",earthquake,4.5,3.6,,,reviewed,us,us
+2016-07-06T23:56:28.540Z,-30.3666,-71.5699,35.17,4.5,mb,,173,0.311,1.03,us,us100061gv,2016-09-02T21:36:40.040Z,"44 km NW of Ovalle, Chile",earthquake,6,7.8,0.222,6,reviewed,us,us
+2016-07-09T23:42:33.890Z,-24.2083,-66.888,182.97,4.6,mb,,38,1.722,0.92,us,us1000629y,2016-09-08T01:50:25.040Z,"57 km W of San Antonio de los Cobres, Argentina",earthquake,7.4,6.5,0.06,84,reviewed,us,us
+2016-07-10T20:00:38.190Z,-21.0831,-68.9674,114.44,4.5,mwr,,37,0.487,1.14,us,us100062fl,2016-09-08T01:50:26.040Z,"152 km N of Calama, Chile",earthquake,5.7,6.7,,,reviewed,us,guc
+2016-07-11T13:27:36.620Z,-30.6879,-71.4136,48.82,4.9,mwr,,83,0.191,0.67,us,us100062lm,2016-09-08T01:50:27.040Z,"22 km WSW of Ovalle, Chile",earthquake,4.6,3.9,,,reviewed,us,guc
+2016-07-11T16:15:58.560Z,-29.8653,-72.1306,7.65,4.7,mwr,,90,0.776,0.97,us,us100062me,2016-09-08T01:50:27.040Z,"77 km W of Coquimbo, Chile",earthquake,4.5,4,,,reviewed,us,guc
+2016-07-12T02:23:26.480Z,-42.182,-73.3693,67.25,4.6,mwr,,92,0.654,0.75,us,us100062tb,2022-08-03T03:43:39.805Z,"31 km NE of Dalcahue, Chile",earthquake,4.4,7.1,,,reviewed,us,guc
+2016-07-18T01:07:22.090Z,-31.3888,-69.1297,110.81,4.5,mb,,45,0.411,1.07,us,us20006ffs,2016-09-17T01:27:49.040Z,"28 km ESE of Calingasta, Argentina",earthquake,4.6,4.3,0.054,101,reviewed,us,us
+2016-07-18T01:13:14.520Z,-30.8154,-71.5824,24.22,4.5,mb,,161,0.148,0.76,us,us20006fft,2016-09-17T01:27:49.040Z,"43 km WSW of Ovalle, Chile",earthquake,2,5.4,0.15,13,reviewed,us,us
+2016-07-18T02:58:50.040Z,-30.7537,-71.7935,23.97,5.2,mwr,,55,0.158,1.19,us,us20006fgd,2022-05-03T17:55:03.793Z,"Near the coast of Coquimbo, Chile",earthquake,3.9,3.7,,,reviewed,us,guc
+2016-07-18T08:59:43.390Z,-30.3561,-71.8616,35,5,mwr,,52,0.372,1,us,us20006fhz,2022-08-03T04:01:38.546Z,"67 km SW of Coquimbo, Chile",earthquake,5.4,1.8,,,reviewed,us,guc
+2016-07-18T13:58:19.170Z,-30.7067,-71.852,25.5,4.8,mwr,,88,0.189,1.01,us,us20006fj1,2016-09-17T01:27:49.040Z,"63 km W of Ovalle, Chile",earthquake,5.9,1.3,,,reviewed,us,guc
+2016-07-19T05:18:40.260Z,-30.2523,-71.9722,8.01,5.8,mww,,82,0.511,1.44,us,us20006fpn,2024-06-16T23:47:16.994Z,"69 km WSW of Coquimbo, Chile",earthquake,5.1,2.6,,,reviewed,us,us
+2016-07-19T07:59:48.660Z,-30.1461,-72.1675,8.34,4.6,mwr,,134,0.698,0.82,us,us20006fqp,2016-09-17T01:27:50.040Z,"82 km WSW of Coquimbo, Chile",earthquake,4.8,4.1,,,reviewed,us,guc
+2016-07-19T13:36:51.550Z,-23.3883,-66.5521,197.7,4.6,mww,,46,1.558,0.86,us,us20006ft4,2016-09-17T01:27:51.040Z,"91 km WSW of El Aguilar, Argentina",earthquake,7.9,5.9,,,reviewed,us,us
+2016-07-23T22:17:57.370Z,-22.4116,-67.1718,27.54,5,mb,,30,1.074,0.79,us,us20006h58,2022-05-03T17:55:53.534Z,"119 km ENE of San Pedro de Atacama, Chile",earthquake,3.8,4.1,0.058,95,reviewed,us,us
+2016-07-24T16:25:17.400Z,-21.2344,-68.7396,122.15,4.5,mb,,48,0.723,0.81,us,us20006h9y,2016-09-24T22:47:18.040Z,"136 km N of Calama, Chile",earthquake,6.5,6.4,0.221,6,reviewed,us,us
+2016-07-25T03:08:58.320Z,-19.729,-69.254,109.9,4.5,mb,,52,0.082,1.17,us,us20006hc0,2016-09-24T22:47:18.040Z,"108 km ENE of Iquique, Chile",earthquake,4.5,6.4,0.124,19,reviewed,us,us
+2016-07-25T12:08:35.430Z,-33.3771,-70.3353,97.27,4.8,mwr,,82,0.049,0.64,us,us20006hes,2016-09-24T22:47:19.040Z,"24 km ENE of Villa Presidente Frei, Ñuñoa, Santiago, Chile, Chile",earthquake,6.4,3.6,,,reviewed,us,guc
+2016-07-25T14:59:29.550Z,-30.8276,-71.5075,41.69,4.7,mwr,,53,0.188,0.57,us,us20006hfj,2016-09-24T22:47:19.040Z,"38 km SW of Ovalle, Chile",earthquake,5,4.9,,,reviewed,us,guc
+2016-07-25T17:26:50.210Z,-26.1067,-70.5111,72,6.1,mww,,25,0.088,0.68,us,us20006hi2,2022-05-03T18:53:34.484Z,"54 km WNW of Diego de Almagro, Chile",earthquake,4.9,1.7,,,reviewed,us,us
+2016-07-25T23:07:27.710Z,-24.1622,-66.9152,181.11,4.8,mb,,35,1.672,0.9,us,us20006hly,2016-09-24T22:47:19.040Z,"60 km W of San Antonio de los Cobres, Argentina",earthquake,6.7,5.5,0.03,346,reviewed,us,us
+2016-07-26T12:26:01.890Z,-24.6811,-71.0169,25.8,4.6,mb,,143,0.56,0.98,us,us20006hrq,2016-09-24T22:47:20.040Z,"96 km NNW of Taltal, Chile",earthquake,3.5,6.4,0.207,7,reviewed,us,us
+2016-07-26T23:00:21.700Z,-32.633,-71.8415,16.35,4.8,mwr,,55,0.425,1.05,us,us20006hyj,2016-09-24T22:47:21.040Z,"Near the coast of Valparaiso, Chile",earthquake,3.2,3,,,reviewed,us,guc
+2016-07-27T06:43:48.580Z,-24.065,-67.7928,121,5.4,mww,,36,1.163,1.36,us,us20006i18,2025-12-22T17:16:38.121Z,"134 km SSE of San Pedro de Atacama, Chile",earthquake,8.5,1.8,,,reviewed,us,us
+2016-07-29T16:52:15.540Z,-31.5503,-71.5508,42.34,4.6,mwr,,81,0.584,1.01,us,us100068f0,2016-10-19T04:51:41.040Z,"37 km WNW of Illapel, Chile",earthquake,3.1,4.8,0.042,55,reviewed,us,us
+2016-08-03T05:34:20.730Z,-24.2058,-67.0126,183.64,4.5,mb,,74,1.643,1.24,us,us100069ne,2016-10-19T04:52:17.040Z,"70 km W of San Antonio de los Cobres, Argentina",earthquake,8.2,8.5,0.094,33,reviewed,us,us
+2016-08-03T10:31:31.720Z,-24.2027,-67.1068,172.95,4.9,mb,,35,1.586,1.05,us,us100069p8,2016-10-19T04:52:18.040Z,"80 km W of San Antonio de los Cobres, Argentina",earthquake,6.4,6.2,0.084,44,reviewed,us,us
+2016-08-04T14:15:12.930Z,-22.3343,-66.0078,270,6.2,mww,,20,2.097,1.03,us,us10006a1d,2022-05-03T17:56:55.795Z,"49 km WSW of La Quiaca, Argentina",earthquake,7.5,1.9,,,reviewed,us,us
+2016-08-08T12:24:32.820Z,-31.5865,-71.6537,29.95,5,mwr,,113,0.676,0.77,us,us10006c1k,2016-10-26T03:10:22.040Z,"46 km W of Illapel, Chile",earthquake,5.5,3.2,,,reviewed,us,guc
+2016-08-08T16:08:15.960Z,-24.1798,-68.1063,114.51,4.9,mwr,,41,1.224,0.69,us,us10006c2h,2016-10-26T03:10:22.040Z,"140 km S of San Pedro de Atacama, Chile",earthquake,7.3,4.8,,,reviewed,us,guc
+2016-08-09T17:56:13.460Z,-31.7338,-72.214,17.56,4.5,mwr,,76,1.133,1.01,us,us10006cds,2016-10-26T03:10:24.040Z,"99 km W of Illapel, Chile",earthquake,4.3,3.9,0.036,73,reviewed,us,us
+2016-08-10T06:43:40.130Z,-31.9631,-71.6571,31.89,4.5,mwr,,81,0.669,0.9,us,us10006cj8,2016-10-26T03:10:24.040Z,"58 km SW of Illapel, Chile",earthquake,5.3,4.5,,,reviewed,us,guc
+2016-08-10T08:20:18.330Z,-32.0802,-71.259,84.05,4.8,mwr,,69,0.48,0.7,us,us10006cjm,2016-10-26T03:10:24.040Z,"41 km N of La Ligua, Chile",earthquake,5.6,4.9,,,reviewed,us,guc
+2016-08-10T17:37:07.000Z,-30.747,-71.407,46.2,4.6,mwr,,,,0.54,us,us10006cnb,2016-10-26T03:10:25.040Z,"25 km SW of Ovalle, Chile",earthquake,5.1,5.3,,,reviewed,guc,guc
+2016-08-12T06:14:49.140Z,-22.0198,-68.6904,144.73,4.7,mb,,77,0.558,1.12,us,us10006d7r,2016-11-15T02:21:46.040Z,"54 km NNE of Calama, Chile",earthquake,7.9,8.3,0.195,8,reviewed,us,us
+2016-08-14T13:28:42.520Z,-20.2005,-69.1698,100,5,mwr,,43,0.529,0.94,us,us10006dri,2025-12-22T17:17:06.906Z,"102 km E of Iquique, Chile",earthquake,5.4,1.8,0.046,45,reviewed,us,us
+2016-08-16T02:58:38.270Z,-22.5053,-68.6772,107.19,5.4,mww,,28,0.241,0.89,us,us10006e1n,2025-12-22T17:17:08.178Z,"25 km ESE of Calama, Chile",earthquake,6.5,4.2,,,reviewed,us,us
+2016-08-16T12:27:36.310Z,-19.9179,-71.0823,16.41,4.5,mwr,,142,0.96,0.88,us,us10006e41,2016-11-15T02:21:50.040Z,"102 km WNW of Iquique, Chile",earthquake,3.8,4.8,,,reviewed,us,guc
+2016-08-16T17:50:46.410Z,-19.7955,-71.0008,11.23,4.7,mwr,,138,0.944,0.91,us,us10006e6g,2016-11-15T02:21:51.040Z,"100 km WNW of Iquique, Chile",earthquake,4.6,3.6,0.044,49,reviewed,us,us
+2016-08-16T18:17:32.230Z,-19.7581,-71.0971,17.61,5.1,mww,,136,1.041,1.09,us,us10006e6x,2025-12-22T17:17:08.899Z,"111 km WNW of Iquique, Chile",earthquake,2.7,3.3,,,reviewed,us,us
+2016-08-19T00:11:01.800Z,-24.1522,-67.0565,169.57,4.6,mb,,51,1.577,0.97,us,us10006gfh,2016-11-19T04:58:28.040Z,"75 km W of San Antonio de los Cobres, Argentina",earthquake,8.1,10.3,0.273,4,reviewed,us,us
+2016-08-19T05:59:23.890Z,-20.5989,-68.8989,109.8,4.7,mwr,,39,0.706,1.17,us,us10006exb,2016-11-19T04:58:29.040Z,"137 km ESE of Iquique, Chile",earthquake,4.7,7.8,,,reviewed,us,guc
+2016-08-19T09:49:10.810Z,-17.0241,-72.349,44.91,5.3,mwr,,138,2.335,0.74,us,us10006eyx,2022-05-03T17:57:32.068Z,"26 km W of Islay (Matarani), Peru",earthquake,7.3,6.3,,,reviewed,us,guc
+2016-08-23T14:47:27.270Z,-45.6823,-77.2215,13.57,4.6,mb,,155,3.478,1.24,us,us10006fzq,2025-12-22T17:17:28.564Z,"Off the coast of Aisen, Chile",earthquake,9.7,3.5,0.119,21,reviewed,us,us
+2016-08-24T04:03:28.140Z,-45.6171,-77.4468,14.15,4.5,mwr,,199,3.606,0.59,us,us10006gdx,2016-11-19T04:58:37.040Z,"Off the coast of Aisen, Chile",earthquake,10.4,6.5,,,reviewed,us,guc
+2016-08-27T20:14:11.030Z,-38.0739,-73.3524,23.9,4.9,mwr,,131,1.33,0.92,us,us20006umh,2016-11-29T01:28:42.040Z,"30 km S of Cañete, Chile",earthquake,5.4,4.2,,,reviewed,us,guc
+2016-08-28T16:32:04.000Z,-27.68,-71.226,35,4.6,mwr,,,,0.88,us,us20006utw,2016-11-29T01:28:44.040Z,"94 km WSW of Copiapó, Chile",earthquake,6.6,5.5,,,reviewed,guc,guc
+2016-08-29T01:27:20.140Z,-18.4242,-69.8321,121.27,4.6,mb,,59,0.32,1.03,us,us20006ux1,2016-11-29T01:28:45.040Z,"49 km E of Arica, Chile",earthquake,5,4.8,0.059,86,reviewed,us,us
+2016-08-30T08:09:09.290Z,-34.8956,-72.555,14.2,5.4,mww,,72,0.525,0.87,us,us20006v8s,2022-05-03T17:57:54.580Z,"50 km NNW of Constitución, Chile",earthquake,4.7,1.1,,,reviewed,us,us
+2016-09-03T23:13:08.930Z,-17.6841,-69.3844,148.76,4.6,mwr,,74,0.658,0.67,us,us10006k6y,2016-12-03T02:54:39.040Z,"61 km E of Palca, Peru",earthquake,7.8,6,,,reviewed,us,guc
+2016-09-04T01:26:04.530Z,-23.9103,-66.7711,192.57,4.9,mwr,,34,1.606,1.02,us,us10006k7v,2016-12-03T02:54:40.040Z,"57 km NW of San Antonio de los Cobres, Argentina",earthquake,7.7,5.7,,,reviewed,us,guc
+2016-09-06T07:37:45.860Z,-21.2264,-67.6974,148.46,5,mww,,37,1.545,1.06,us,us10006mci,2025-12-22T17:17:46.413Z,"124 km SW of Uyuni, Bolivia",earthquake,7.2,5.5,,,reviewed,us,us
+2016-09-07T20:03:23.450Z,-20.0451,-69.0053,98.83,5.3,mww,,54,0.414,0.75,us,us10006mu3,2025-12-22T16:51:47.401Z,"121 km E of Iquique, Chile",earthquake,6.2,4.2,,,reviewed,us,us
+2016-09-07T22:54:32.590Z,-32.3206,-71.6197,30.49,4.9,mwr,,70,0.362,0.54,us,us10006mwe,2016-12-03T02:54:48.040Z,"39 km WNW of La Ligua, Chile",earthquake,4.8,3.7,,,reviewed,us,guc
+2016-09-08T02:34:04.000Z,-21.799,-68.622,121.4,5,mww,,,,2.53,us,us10006mxc,2016-12-03T02:54:48.040Z,"79 km NNE of Calama, Chile",earthquake,6.1,4.5,,,reviewed,guc,us
+2016-09-10T00:55:33.180Z,-19.505,-69.0875,127.44,4.6,mb,,75,0.191,0.86,us,us10006ni0,2016-12-07T02:56:08.040Z,"136 km NE of Iquique, Chile",earthquake,3.7,8.9,0.107,26,reviewed,us,us
+2016-09-12T05:36:59.480Z,-24.2401,-66.985,171.23,4.6,mwr,,58,1.686,1.41,us,us10006nyb,2016-12-07T02:56:12.040Z,"67 km W of San Antonio de los Cobres, Argentina",earthquake,5.2,10.4,,,reviewed,us,guc
+2016-09-14T21:16:16.900Z,-28.9927,-71.4919,19.82,4.6,mb,,119,0.693,1.04,us,us10006pm4,2016-12-07T02:56:15.040Z,"85 km WSW of Vallenar, Chile",earthquake,4.5,3.6,0.132,17,reviewed,us,us
+2016-09-15T15:31:07.220Z,-38.0349,-73.4203,25.68,4.8,mwr,,131,1.297,1,us,us10006pti,2016-12-07T02:56:16.040Z,"26 km S of Cañete, Chile",earthquake,6.9,5.3,,,reviewed,us,guc
+2016-09-17T03:55:57.040Z,-37.2824,-73.7244,13.51,4.9,mwr,,130,0.683,0.88,us,us10006qck,2016-12-12T23:01:26.040Z,"36 km W of Arauco, Chile",earthquake,6.5,3.6,,,reviewed,us,guc
+2016-09-19T02:02:13.160Z,-23.106,-70.6483,23.58,4.5,mwr,,137,0.896,1.22,us,us10006qrp,2016-12-12T23:01:30.040Z,"65 km NNW of Antofagasta, Chile",earthquake,3.6,4.4,,,reviewed,us,guc
+2016-09-20T05:05:21.030Z,-17.5239,-70.4927,101.34,5,mb,,153,0.854,1.71,us,us10006qzq,2016-12-12T23:01:32.040Z,"11 km S of Ilabaya, Peru",earthquake,4.5,8.9,0.146,15,reviewed,us,us
+2016-09-20T13:24:42.870Z,-23.5762,-68.1828,127.44,5,mwr,,45,0.621,0.8,us,us10006r20,2016-12-12T23:01:33.040Z,"73 km S of San Pedro de Atacama, Chile",earthquake,6,4.4,,,reviewed,us,guc
+2016-09-21T22:04:50.700Z,-31.7533,-70.633,10,4.7,mb,,106,0.631,1.08,us,us10006rgh,2016-12-12T23:01:35.040Z,"31 km E of Salamanca, Chile",earthquake,2.2,1.8,0.095,34,reviewed,us,us
+2016-09-24T20:27:18.750Z,-21.5363,-68.3542,104.4,5.1,mww,,21,0.865,1.18,us,us10006scg,2025-12-22T17:18:19.743Z,"117 km NNE of Calama, Chile",earthquake,5.2,3.8,,,reviewed,us,us
+2016-09-25T01:23:48.250Z,-30.3432,-71.7837,30.32,4.6,mwr,,90,0.353,1.14,us,us10006sg4,2016-12-14T03:17:48.040Z,"60 km SW of Coquimbo, Chile",earthquake,6.3,4.4,0.042,55,reviewed,us,us
+2016-09-26T09:57:10.000Z,-22.264,-67.214,185.6,4.5,ml,,,,0.88,us,us10006sqi,2016-12-14T03:17:51.040Z,"124 km NE of San Pedro de Atacama, Chile",earthquake,11.3,8.6,,,reviewed,guc,guc
+2016-09-27T16:49:59.350Z,-23.0922,-70.6534,19.99,4.8,mwr,,141,0.429,0.84,us,us10006t88,2016-12-14T03:17:53.040Z,"67 km NNW of Antofagasta, Chile",earthquake,6.5,4.1,,,reviewed,us,guc
+2016-09-27T17:07:27.220Z,-23.0908,-70.6982,24.8,4.6,mwr,,145,0.441,1.17,us,us10006t8j,2016-12-14T03:17:53.040Z,"69 km NNW of Antofagasta, Chile",earthquake,4.2,4.7,,,reviewed,us,guc
+2016-09-30T00:39:04.840Z,-28.3094,-71.1718,52.1,4.5,mb,,92,0.135,1.22,us,us10006tzx,2017-01-03T21:10:38.040Z,"50 km NW of Vallenar, Chile",earthquake,5.8,7.3,0.204,7,reviewed,us,us
+2016-10-01T10:25:57.270Z,-29.625,-72.0474,10,4.8,mwr,,96,0.761,0.85,us,us10006ucx,2025-12-22T17:18:34.601Z,"77 km WNW of Coquimbo, Chile",earthquake,2.1,1.8,,,reviewed,us,guc
+2016-10-01T11:25:11.000Z,-32.078,-71.709,16.3,4.6,mb,,,,1.09,us,us10006udi,2017-01-03T21:10:40.040Z,"61 km NW of La Ligua, Chile",earthquake,5.2,4.9,0.165,11,reviewed,guc,us
+2016-10-03T04:40:28.970Z,-31.2491,-68.8068,102.59,4.5,mb,,37,0.313,1.3,us,us10006uli,2017-01-03T21:10:42.040Z,"33 km NW of Albardón, Argentina",earthquake,7.6,6,0.14,15,reviewed,us,us
+2016-10-07T23:59:28.460Z,-30.9941,-71.4065,66.76,4.6,mwr,,83,0.374,1.1,us,us20007cpf,2017-01-07T00:20:45.040Z,"47 km SSW of Ovalle, Chile",earthquake,6.1,4.7,0.05,39,reviewed,us,us
+2016-10-11T05:46:38.280Z,-31.3296,-67.2482,47.18,4.6,mb,,53,1.246,0.91,us,us20007d79,2017-01-07T00:20:50.040Z,"79 km SSE of San Agustín de Valle Fértil, Argentina",earthquake,7.8,12.2,0.157,12,reviewed,us,us
+2016-10-12T01:59:21.930Z,-30.695,-71.53,38.44,4.9,mwr,,40,0.092,0.9,us,us20007dbk,2017-01-07T00:20:51.040Z,"33 km WSW of Ovalle, Chile",earthquake,3.2,4,,,reviewed,us,guc
+2016-10-14T10:58:11.670Z,-37.5357,-73.7163,35,4.8,mwr,,131,0.891,0.76,us,us20007e27,2017-01-15T01:13:57.040Z,"9 km NW of Lebu, Chile",earthquake,5.7,2,,,reviewed,us,guc
+2016-10-14T18:09:33.680Z,-21.8594,-68.4613,119.12,4.7,mwr,,31,0.728,0.84,us,us20007e6r,2017-01-15T01:13:51.040Z,"81 km NE of Calama, Chile",earthquake,5.3,4,,,reviewed,us,guc
+2016-10-15T02:44:48.820Z,-24.1129,-66.8771,193.41,4.5,mb,,54,1.662,0.67,us,us20007eaa,2017-01-15T01:13:59.040Z,"57 km WNW of San Antonio de los Cobres, Argentina",earthquake,7.2,7.5,0.104,27,reviewed,us,us
+2016-10-25T07:18:20.090Z,-26.7009,-71.0692,10,5,mww,,105,0.693,1.34,us,us20007gk0,2022-05-03T18:02:09.557Z,"103 km NW of Copiapó, Chile",earthquake,5.3,1.8,,,reviewed,us,us
+2016-10-27T00:59:33.270Z,-22.1818,-68.2963,117.56,4.6,mwr,,32,0.712,1.08,us,us10007285,2017-01-20T00:31:08.040Z,"71 km ENE of Calama, Chile",earthquake,6.8,7.1,,,reviewed,us,guc
+2016-10-27T15:50:37.920Z,-30.0588,-66.5375,25.72,4.6,mb,,57,2.368,0.99,us,us100072dj,2017-01-20T00:31:10.040Z,"39 km NNW of Chamical, Argentina",earthquake,6.7,2.7,0.122,25,reviewed,us,us
+2016-10-27T20:32:55.790Z,-33.7771,-72.5321,12.57,6,mww,,78,0.774,1.05,us,us100072gn,2022-05-03T18:55:52.592Z,"88 km WSW of San Antonio, Chile",earthquake,4.2,2.7,,,reviewed,us,us
+2016-10-29T22:01:39.300Z,-33.8433,-72.5856,10,5.2,mww,,79,0.83,0.9,us,us100072zy,2025-12-22T17:19:19.152Z,"94 km WSW of San Antonio, Chile",earthquake,4.1,1.7,,,reviewed,us,us
+2016-10-30T04:49:41.530Z,-25.1833,-70.3654,53.01,5.3,mww,,48,0.556,1.11,us,us1000731c,2022-05-03T18:02:59.932Z,"27 km NNE of Taltal, Chile",earthquake,4.9,4,,,reviewed,us,us
+2016-10-31T05:44:30.640Z,-22.3901,-68.4858,91.87,5.1,mww,,23,0.451,1.29,us,us1000736z,2025-12-22T17:19:21.376Z,"45 km E of Calama, Chile",earthquake,6,4.3,,,reviewed,us,us
+2016-10-31T11:15:47.160Z,-33.7597,-72.5112,9.36,4.9,mww,,121,0.754,1.06,us,us1000738c,2025-12-22T17:19:26.074Z,"85 km WSW of San Antonio, Chile",earthquake,4.4,3,,,reviewed,us,us
+2016-10-31T21:04:52.230Z,-29.8482,-72.152,7.73,4.5,mwr,,94,0.796,0.81,us,us100073b4,2017-01-24T02:02:13.040Z,"79 km W of Coquimbo, Chile",earthquake,4.1,4.2,0.039,62,reviewed,us,us
+2016-11-01T23:29:33.650Z,-23.1134,-66.5802,210.02,4.6,mb,,33,1.481,0.92,us,us100073kx,2017-01-24T02:02:14.040Z,"92 km W of El Aguilar, Argentina",earthquake,7.8,6.6,0.078,49,reviewed,us,us
+2016-11-02T07:21:31.850Z,-22.4296,-68.3644,116.76,4.9,mww,,43,0.537,1.05,us,us100073nc,2017-01-24T02:02:14.040Z,"55 km NNW of San Pedro de Atacama, Chile",earthquake,6.7,4.3,,,reviewed,us,us
+2016-11-03T12:44:02.680Z,-19.3563,-69.2943,113.38,4.9,mww,,81,0.324,1.27,us,us100073xf,2017-01-24T02:02:16.040Z,"130 km NE of Iquique, Chile",earthquake,5.3,4.8,,,reviewed,us,us
+2016-11-04T16:20:44.440Z,-35.0945,-71.0457,90,6.3,mww,,34,0.371,1.06,us,us1000744u,2022-05-03T19:46:34.554Z,"21 km SE of Curicó, Chile",earthquake,6.1,1.8,,,reviewed,us,us
+2016-11-06T16:48:34.470Z,-27.9604,-66.6952,148.98,4.7,mwr,,28,2.437,0.79,us,us100075vh,2017-02-02T02:21:01.040Z,"51 km ESE of Londres, Argentina",earthquake,7.7,6.7,,,reviewed,us,guc
+2016-11-07T15:24:07.550Z,-23.9902,-66.6217,208.74,4.6,mwr,,41,1.764,0.75,us,us10007626,2017-02-02T02:21:02.040Z,"39 km NW of San Antonio de los Cobres, Argentina",earthquake,8,7.6,,,reviewed,us,guc
+2016-11-08T04:55:45.900Z,-36.5776,-73.5603,20,6,mww,,54,0.342,0.82,us,us10007681,2022-05-03T19:46:46.393Z,"42 km WNW of Talcahuano, Chile",earthquake,4.1,1.8,,,reviewed,us,us
+2016-11-08T05:16:16.940Z,-36.5989,-73.5511,17.03,4.9,mwr,,151,0.325,0.77,us,us10007685,2017-02-02T02:21:03.040Z,"41 km WNW of Talcahuano, Chile",earthquake,6.1,5.5,,,reviewed,us,guc
+2016-11-08T05:44:41.650Z,-36.5913,-73.663,14.24,4.6,mwr,,123,0.41,0.71,us,us1000768d,2017-02-02T02:21:03.040Z,"51 km WNW of Talcahuano, Chile",earthquake,3.1,4.5,0.043,52,reviewed,us,us
+2016-11-08T07:08:02.600Z,-36.6001,-73.5462,17.72,4.9,mww,,111,0.321,1.11,us,us1000768w,2017-02-02T02:21:03.040Z,"40 km WNW of Talcahuano, Chile",earthquake,5.1,3.4,,,reviewed,us,us
+2016-11-08T07:13:09.000Z,-36.65,-73.572,10.4,4.6,mb,,,,0.91,us,us1000768x,2017-02-02T02:21:03.040Z,"41 km WNW of Talcahuano, Chile",earthquake,4.5,4.8,0.146,14,reviewed,guc,us
+2016-11-08T14:13:58.540Z,-25.3841,-70.169,58.87,4.7,mwr,,113,0.568,1.08,us,us100076a8,2017-02-02T02:21:04.040Z,"31 km E of Taltal, Chile",earthquake,6.3,4.8,,,reviewed,us,guc
+2016-11-08T17:09:50.810Z,-38.1882,-74.0963,4.79,4.5,mwr,,138,0.816,1.21,us,us100076au,2017-02-02T02:21:04.040Z,"75 km SW of Cañete, Chile",earthquake,4,5,0.052,35,reviewed,us,us
+2016-11-08T23:11:58.730Z,-17.1569,-70.4323,127.52,4.5,mb,,158,1.21,1.1,us,us100076cz,2017-02-02T02:21:04.040Z,"8 km W of Pujocucho, Peru",earthquake,10.9,7.9,0.135,16,reviewed,us,us
+2016-11-09T11:04:07.880Z,-36.483,-73.7047,10,4.6,mwr,,121,0.49,0.64,us,us100076g2,2017-02-02T02:21:05.040Z,"59 km WNW of Talcahuano, Chile",earthquake,5.8,1.9,,,reviewed,us,guc
+2016-11-09T12:21:29.820Z,-36.4906,-73.6018,10,4.8,mwr,,122,0.418,0.72,us,us100076g5,2017-02-02T02:21:05.040Z,"50 km WNW of Talcahuano, Chile",earthquake,4.9,1.9,,,reviewed,us,guc
+2016-11-10T17:14:54.340Z,-19.1068,-69.4082,94.74,4.5,mwr,,37,0.178,0.86,us,us100076p3,2017-02-02T02:21:06.040Z,"117 km SE of Arica, Chile",earthquake,5.1,4.6,,,reviewed,us,guc
+2016-11-13T01:01:51.370Z,-28.1225,-67.3071,118.77,5.3,mww,,25,2.065,0.66,us,us1000776j,2025-12-22T16:53:43.477Z,"26 km ESE of Tinogasta, Argentina",earthquake,6.5,2.9,,,reviewed,us,us
+2016-11-13T14:01:01.680Z,-28.8647,-67.4565,109.12,5.7,mwr,,27,2.471,0.63,us,us100077ap,2022-05-03T19:47:41.268Z,"33 km N of Chilecito, Argentina",earthquake,6.8,2.6,0.071,19,reviewed,us,us
+2016-11-13T14:50:38.620Z,-28.8729,-71.5291,22.45,4.8,mwr,,98,0.739,1.01,us,us100077b9,2017-02-09T03:02:23.040Z,"Near the coast of Atacama, Chile",earthquake,4.4,4.6,,,reviewed,us,guc
+2016-11-13T17:52:53.000Z,-32.0065,-68.1058,113.48,4.9,mwr,,30,0.673,1.09,us,us100077cs,2021-02-08T03:53:11.568Z,"42 km SSE of Caucete, Argentina",earthquake,7.3,4.3,0.048,42,reviewed,us,us
+2016-11-15T05:04:28.520Z,-19.5705,-69.2883,99.1,4.5,mb,,55,0.131,1.09,us,us1000783i,2017-02-09T03:02:28.040Z,"114 km NE of Iquique, Chile",earthquake,6.6,5.8,0.221,6,reviewed,us,us
+2016-11-16T20:44:27.450Z,-24.0969,-66.7671,197.53,4.5,mb,,49,1.725,0.97,us,us1000790k,2017-02-09T03:02:31.040Z,"47 km WNW of San Antonio de los Cobres, Argentina",earthquake,5.4,8.1,0.121,20,reviewed,us,us
+2016-11-17T19:10:07.880Z,-24.1953,-67.1646,169.27,4.5,mb,,104,1.548,1.22,us,us100079ik,2017-02-09T03:02:33.040Z,"85 km W of San Antonio de los Cobres, Argentina",earthquake,8.3,5.5,0.192,8,reviewed,us,us
+2016-11-17T22:08:54.790Z,-27.9344,-66.4859,156.36,4.8,mb,,44,2.593,1.06,us,us100079nr,2017-02-09T03:02:33.040Z,"42 km SSW of Andalgalá, Argentina",earthquake,7.4,7.5,0.149,14,reviewed,us,us
+2016-11-18T17:11:32.670Z,-21.4365,-66.6973,217.36,4.6,mb,,56,2.039,0.75,us,us10007a3g,2017-02-15T23:21:27.040Z,"74 km SW of Atocha, Bolivia",earthquake,4.1,9.8,0.183,11,reviewed,us,us
+2016-11-20T07:06:22.410Z,-24.1574,-67.1198,221.62,4.6,md,,212,1.544,0.56,us,us10007atk,2017-02-15T23:21:29.040Z,"81 km W of San Antonio de los Cobres, Argentina",earthquake,7.9,15.8,,,reviewed,us,sja
+2016-11-20T15:55:49.330Z,-23.227,-66.8913,199.39,4.6,mwr,,32,1.216,0.82,us,us10007axi,2017-02-15T23:21:30.040Z,"123 km W of El Aguilar, Argentina",earthquake,7.9,6.8,,,reviewed,us,guc
+2016-11-20T20:57:44.000Z,-31.6226,-68.6259,108,6.4,mww,,59,0.091,0.98,us,us10007az5,2022-05-03T19:49:14.623Z,"7 km NNW of Pocito, Argentina",earthquake,5,1.8,,,reviewed,us,us
+2016-11-21T00:09:49.710Z,-37.4786,-73.7243,16.16,4.8,mwr,,131,0.845,0.94,us,us10007b0z,2017-02-15T23:21:31.040Z,"15 km NNW of Lebu, Chile",earthquake,6,2.4,0.045,47,reviewed,us,us
+2016-11-21T12:51:48.040Z,-38.1321,-74.1126,16.19,4.8,mwr,,141,0.867,0.85,us,us10007b4u,2017-02-15T23:21:32.040Z,"70 km SW of Lebu, Chile",earthquake,6.5,4.6,,,reviewed,us,guc
+2016-11-22T12:57:03.130Z,-24.2101,-67.099,160.82,4.6,mb,,26,1.596,1.1,us,us10007bek,2017-02-15T23:21:36.040Z,"79 km W of San Antonio de los Cobres, Argentina",earthquake,5.5,5.1,0.065,71,reviewed,us,us
+2016-11-23T17:36:16.000Z,-22.154,-68.676,112.9,4.7,mwr,,,,1.23,us,us10007btv,2017-02-15T23:21:38.040Z,"42 km NE of Calama, Chile",earthquake,3.8,5.6,,,reviewed,guc,guc
+2016-11-24T14:09:09.330Z,-24.3147,-66.9917,180.69,4.6,mb,,58,1.739,1.21,us,us10007c3c,2017-02-15T23:21:39.040Z,"69 km W of San Antonio de los Cobres, Argentina",earthquake,7.2,7.7,0.08,46,reviewed,us,us
+2016-11-26T20:58:35.070Z,-31.5143,-68.6527,104.88,4.6,mb,,34,0.041,0.87,us,us10007clr,2017-02-23T00:11:49.040Z,"8 km ENE of Villa Basilio Nievas, Argentina",earthquake,5.8,4.3,0.083,43,reviewed,us,us
+2016-11-27T00:54:55.790Z,-30.3147,-72.2933,10,4.5,mwr,,93,0.671,1.13,us,us10007cmq,2017-02-23T00:11:49.040Z,"100 km WSW of Coquimbo, Chile",earthquake,4.5,1.9,0.04,60,reviewed,us,us
+2016-11-30T13:14:10.210Z,-21.0404,-68.5883,103.32,4.8,mww,,43,0.839,0.92,us,us10007d9e,2017-02-23T00:11:54.040Z,"160 km NNE of Calama, Chile",earthquake,6.2,4.9,,,reviewed,us,us
+2016-11-30T16:34:37.070Z,-27.0566,-71.3287,4.87,4.7,mwr,,119,0.917,1.38,us,us10007dae,2017-02-23T00:11:54.040Z,"104 km WNW of Copiapó, Chile",earthquake,2.6,4.1,,,reviewed,us,guc
+2016-11-30T17:51:28.000Z,-28.738,-70.5,88.8,4.6,mb,,,,1.16,us,us10007dha,2017-02-23T00:11:54.040Z,"31 km SE of Vallenar, Chile",earthquake,4.4,4.8,0.386,2,reviewed,guc,us
+2016-12-01T02:24:08.170Z,-27.0414,-71.2411,18.29,4.8,mwr,,170,0.849,0.87,us,us10007dy0,2017-02-23T00:11:54.040Z,"97 km WNW of Copiapó, Chile",earthquake,6.3,5.5,,,reviewed,us,guc
+2016-12-02T01:14:30.820Z,-27.0525,-71.3593,15.88,4.7,mwr,,140,0.944,1.07,us,us10007e6c,2017-03-03T07:05:58.040Z,"107 km WNW of Copiapó, Chile",earthquake,5.7,4.5,,,reviewed,us,guc
+2016-12-03T04:30:58.700Z,-32.178,-71.9788,22.54,4.7,mwr,,79,0.691,0.91,us,us10007eix,2017-03-03T07:06:00.040Z,"77 km WNW of La Ligua, Chile",earthquake,5.5,4.9,,,reviewed,us,guc
+2016-12-04T18:14:56.180Z,-21.0311,-66.7783,244.34,4.6,mb,,32,2.311,1.3,us,us10007eu4,2017-03-03T07:06:02.040Z,"58 km W of Atocha, Bolivia",earthquake,6.5,8,0.079,48,reviewed,us,us
+2016-12-05T18:06:04.000Z,-23.185,-66.656,223,5,mww,,,,1.88,us,us10007f0t,2025-12-22T17:19:40.859Z,"99 km W of El Aguilar, Argentina",earthquake,7.1,6,,,reviewed,sja,us
+2016-12-05T18:57:02.000Z,-17.709,-69.754,152.3,4.5,mb,,,,1.3,us,us10007f18,2017-03-03T07:06:04.040Z,"23 km ENE of Palca, Peru",earthquake,9.1,5.7,0.136,16,reviewed,guc,us
+2016-12-06T18:52:54.430Z,-31.4765,-69.0823,113.94,4.5,mb,,73,0.346,1.09,us,us10007f86,2017-03-03T07:06:05.040Z,"34 km WNW of Villa Basilio Nievas, Argentina",earthquake,6,7.1,0.192,9,reviewed,us,us
+2016-12-08T09:36:17.780Z,-30.6046,-69.0461,63.38,4.7,mb,,45,0.988,1.33,us,us20007z4b,2017-03-03T07:06:08.040Z,"49 km SW of San José de Jáchal, Argentina",earthquake,7.2,8.8,0.137,16,reviewed,us,us
+2016-12-08T20:42:36.000Z,-31.548,-71.798,41.2,5.2,mwr,,,,1.42,us,us20007zam,2017-03-03T07:06:09.040Z,"60 km W of Illapel, Chile",earthquake,4.1,4.5,0.037,72,reviewed,guc,us
+2016-12-08T20:44:34.930Z,-31.4901,-71.6604,33.53,4.9,mb,,139,0.632,0.81,us,us200081cj,2017-03-03T07:06:09.040Z,"49 km WNW of Illapel, Chile",earthquake,5.5,5.1,0.162,12,reviewed,us,us
+2016-12-10T03:01:08.880Z,-34.938,-74.1684,10,4.5,mwr,,107,1.839,1.17,us,us20007zq8,2017-03-09T02:14:25.040Z,"166 km WNW of Constitución, Chile",earthquake,6.3,1.8,0.056,31,reviewed,us,us
+2016-12-12T01:40:25.010Z,-30.9368,-71.4241,49.94,4.8,mww,,78,0.318,0.82,us,us2000802x,2022-05-03T18:05:30.925Z,"43 km SSW of Ovalle, Chile",earthquake,4.8,3.6,,,reviewed,us,us
+2016-12-12T02:56:58.960Z,-30.9721,-68.062,10,5,mww,,33,0.648,1.21,us,us2000803e,2022-05-03T18:05:31.882Z,"65 km NE of San Martín, Argentina",earthquake,4.6,1.7,,,reviewed,us,us
+2016-12-16T04:13:23.460Z,-23.9793,-66.7962,198.83,4.5,mb,,34,1.63,0.88,us,us2000817f,2017-03-16T02:31:22.040Z,"55 km WNW of San Antonio de los Cobres, Argentina",earthquake,8,6.1,0.053,107,reviewed,us,us
+2016-12-16T23:11:43.220Z,-30.4233,-71.6189,35.61,5.2,mwr,,81,0.601,0.63,us,us200081rv,2022-05-03T18:05:51.941Z,"44 km WNW of Ovalle, Chile",earthquake,4.4,4.7,,,reviewed,us,guc
+2016-12-17T17:54:03.950Z,-21.5673,-67.0335,246.83,4.5,mb,,51,1.739,1.35,us,us200081z7,2017-03-16T02:31:26.040Z,"109 km SW of Atocha, Bolivia",earthquake,7.7,12,0.191,10,reviewed,us,us
+2016-12-19T15:36:46.930Z,-30.767,-71.4801,35.06,4.9,mwr,,79,0.599,0.57,us,us200082kn,2022-05-03T18:06:23.646Z,"32 km SW of Ovalle, Chile",earthquake,3.9,5.2,,,reviewed,us,guc
+2016-12-20T11:29:56.860Z,-43.6393,-75.4722,21.25,4.6,mb,,193,1.418,0.66,us,us10007rfa,2017-03-16T02:31:30.040Z,"161 km WSW of Quellón, Chile",earthquake,10.2,7.5,0.315,3,reviewed,us,us
+2016-12-22T03:24:11.970Z,-17.9262,-69.735,125.03,4.5,mb,,77,0.413,0.89,us,us10007lwp,2017-03-16T02:31:33.040Z,"29 km SE of Palca, Peru",earthquake,6.1,3.1,0.106,26,reviewed,us,us
+2016-12-25T14:01:33.190Z,-19.877,-68.6624,103.32,5.1,mww,,23,0.531,0.71,us,us10007mmu,2017-03-23T22:52:02.040Z,"160 km ENE of Iquique, Chile",earthquake,5.7,4.1,,,reviewed,us,us
+2016-12-25T14:22:27.010Z,-43.4064,-73.9413,38,7.6,mww,,29,0.355,0.79,us,us10007mn3,2024-04-17T11:07:38.805Z,"41 km SW of Quellón, Chile",earthquake,5.4,1.9,,,reviewed,us,us
+2016-12-25T14:32:13.310Z,-43.481,-74.4771,14.93,5.6,mb,,96,0.697,0.52,us,us10007mnb,2022-05-03T18:07:21.250Z,"80 km WSW of Quellón, Chile",earthquake,7.1,3.3,0.067,83,reviewed,us,us
+2016-12-25T17:03:38.520Z,-43.4082,-74.5922,14.28,4.5,mb,,191,0.738,0.81,us,us10007mpk,2017-03-23T22:52:02.040Z,"85 km WSW of Quellón, Chile",earthquake,6,2.9,0.191,8,reviewed,us,us
+2016-12-25T17:58:06.430Z,-43.3024,-74.5045,17.46,4.5,mb,,229,0.642,0.97,us,us10007mpz,2017-03-23T22:52:02.040Z,"74 km WSW of Quellón, Chile",earthquake,7.3,5.3,0.204,7,reviewed,us,us
+2016-12-25T22:54:34.100Z,-43.2565,-74.4433,18.02,5.2,mwr,,130,0.587,0.74,us,us10007mrf,2017-03-23T22:52:03.040Z,"68 km WSW of Quellón, Chile",earthquake,4.9,3.7,,,reviewed,us,guc
+2016-12-27T00:45:13.030Z,-43.3595,-74.3206,23.34,4.7,mwr,,223,0.538,0.7,us,us10007mym,2017-03-23T22:52:04.040Z,"63 km WSW of Quellón, Chile",earthquake,4.7,7.1,,,reviewed,us,guc
+2016-12-27T02:45:06.140Z,-22.2369,-67.7434,197.17,4.6,mb,,83,0.817,0.68,us,us10007mys,2017-03-23T22:52:04.040Z,"88 km NNE of San Pedro de Atacama, Chile",earthquake,6.1,7.8,0.243,5,reviewed,us,us
+2016-12-27T14:07:23.400Z,-43.4162,-74.0672,30.42,4.8,mwr,,137,0.421,0.63,us,us10007n0y,2017-03-23T22:52:05.040Z,"49 km SW of Quellón, Chile",earthquake,6.9,5.1,,,reviewed,us,guc
+2016-12-27T18:18:05.100Z,-43.2161,-74.2925,25.85,4.5,mwr,,133,0.47,0.79,us,us10007n24,2017-03-23T22:52:05.040Z,"56 km W of Quellón, Chile",earthquake,5.3,5,0.073,18,reviewed,us,us
+2016-12-28T01:06:53.190Z,-19.2327,-69.1669,109,4.6,mwr,,36,0.417,0.76,us,us10007n47,2017-03-23T22:52:05.040Z,"145 km SE of Arica, Chile",earthquake,6.5,3.7,,,reviewed,us,guc
+2016-12-29T08:31:06.610Z,-21.5902,-68.363,115.15,4.6,mb,,32,0.842,0.86,us,us10007ni1,2017-03-23T22:52:08.040Z,"112 km NNE of Calama, Chile",earthquake,2.7,5.3,0.059,86,reviewed,us,us
+2016-12-30T15:48:24.320Z,-31.6078,-68.6146,107.61,4.5,mwr,,34,0.085,1.6,us,us10007ns3,2017-03-23T22:52:10.040Z,"8 km NNW of Pocito, Argentina",earthquake,6.6,4.3,0.048,42,reviewed,us,us

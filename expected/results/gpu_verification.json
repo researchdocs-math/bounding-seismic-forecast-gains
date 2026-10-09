@@ -1,0 +1,56 @@
+[
+  {
+    "country": "alaska",
+    "block": 3,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 5.935962355332891e-10
+  },
+  {
+    "country": "alaska",
+    "block": 6,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 4.3033465809902416e-10
+  },
+  {
+    "country": "alaska",
+    "block": 12,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 4.6442788937534063e-10
+  },
+  {
+    "country": "chile",
+    "block": 3,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 8.865474214123092e-10
+  },
+  {
+    "country": "chile",
+    "block": 6,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 7.551583663945038e-10
+  },
+  {
+    "country": "chile",
+    "block": 12,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 7.939527160716331e-10
+  },
+  {
+    "country": "japan",
+    "block": 3,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 5.667550552132528e-10
+  },
+  {
+    "country": "japan",
+    "block": 6,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 6.235192817789781e-10
+  },
+  {
+    "country": "japan",
+    "block": 12,
+    "backend": "GPU checked against CPU",
+    "max_abs_error": 5.282859327944422e-10
+  }
+]

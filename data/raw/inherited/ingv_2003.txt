@@ -1,0 +1,499 @@
+#EventID|Time|Latitude|Longitude|Depth/Km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+1398119|2003-01-04T12:44:28.930000|45.542|14.419|10.0|BULLETIN-VAX||||Md|3.3|--|Confine Slovenia-Croazia (SLOVENIA, CROAZIA)|earthquake
+1398139|2003-01-04T17:25:39.350000|37.716|16.354|51.1|BULLETIN-VAX||||Md|3.2|--|Costa Calabra sud-orientale (Reggio di Calabria)|earthquake
+1398239|2003-01-05T12:41:22.930000|42.495|13.297|5.0|BULLETIN-VAX||||Md|3.0|--|3 km S Capitignano (AQ)|earthquake
+1398859|2003-01-10T18:04:37.590000|38.426|13.673|5.0|BULLETIN-VAX||||Md|3.1|--|Tirreno Meridionale [Mare]|earthquake
+1398879|2003-01-10T18:56:41.230000|46.493|12.488|5.0|BULLETIN-VAX||||Md|3.0|--|1 km SE Vigo di Cadore (BL)|earthquake
+1399129|2003-01-13T02:52:23.660000|37.654|11.062|10.0|BULLETIN-VAX||||Md|3.0|--|Canale di Sicilia settentrionale [Mare]|earthquake
+1399489|2003-01-14T21:17:43.560000|41.678|14.848|10.0|BULLETIN-VAX||||Md|3.0|--|4 km E Ripabottoni (CB)|earthquake
+1399889|2003-01-16T19:35:48.610000|38.414|13.637|5.0|BULLETIN-VAX||||Md|3.1|--|Costa Siciliana centro-settentrionale (Palermo)|earthquake
+1400059|2003-01-17T03:18:20.610000|44.999|14.791|10.0|BULLETIN-VAX||||ML|4.1|--|Costa Croata Settentrionale (CROAZIA)|earthquake
+1400149|2003-01-17T16:25:17.320000|39.365|16.574|5.0|BULLETIN-VAX||||Md|3.1|--|10 km SW Longobucco (CS)|earthquake
+1400169|2003-01-17T16:26:09.500000|39.412|16.837|5.0|BULLETIN-VAX||||Md|3.2|--|1 km E Campana (CS)|earthquake
+1400249|2003-01-18T03:04:50.320000|43.642|17.424|10.0|BULLETIN-VAX||||Md|3.3|--|Bosnia and Herz. [Land]|earthquake
+1401029|2003-01-22T18:18:58.730000|41.636|14.837|5.0|BULLETIN-VAX||||Md|3.2|--|3 km NE Monacilioni (CB)|earthquake
+1401229|2003-01-25T01:23:42.060000|42.945|17.832|10.0|BULLETIN-VAX||||Md|3.4|--|Bosnia and Herz. [Land]|earthquake
+1401469|2003-01-26T19:40:47.910000|43.866|11.97|5.4|BULLETIN-VAX||||Md|3.3|--|1 km NW Bagno di Romagna (FC)|earthquake
+1401489|2003-01-26T19:57:03.210000|43.883|11.96|6.5|BULLETIN-VAX||||Md|3.9|--|3 km NW Bagno di Romagna (FC)|earthquake
+1401509|2003-01-26T20:01:15.420000|43.887|11.95|6.7|BULLETIN-VAX||||Md|3.4|--|4 km NW Bagno di Romagna (FC)|earthquake
+1401539|2003-01-26T20:15:03.070000|43.875|11.959|7.0|BULLETIN-VAX||||Md|3.7|--|2 km NW Bagno di Romagna (FC)|earthquake
+1401929|2003-01-26T22:20:20.230000|43.893|11.958|6.5|BULLETIN-VAX||||Md|3.0|--|4 km NW Bagno di Romagna (FC)|earthquake
+1402039|2003-01-26T23:18:02.280000|43.88|11.971|7.3|BULLETIN-VAX||||Md|3.1|--|2 km N Bagno di Romagna (FC)|earthquake
+1402499|2003-01-27T03:05:50.670000|41.742|14.773|10.5|BULLETIN-VAX||||Md|3.2|--|3 km N Morrone del Sannio (CB)|earthquake
+1402619|2003-01-27T04:03:46.570000|41.71|14.766|5.0|BULLETIN-VAX||||Md|3.5|--|1 km W Morrone del Sannio (CB)|earthquake
+1402659|2003-01-27T04:39:26.220000|43.904|11.952|10.1|BULLETIN-VAX||||Md|3.0|--|5 km NW Bagno di Romagna (FC)|earthquake
+1406519|2003-01-29T23:50:16.380000|43.898|11.926|9.7|BULLETIN-VAX||||Md|3.7|--|6 km S Santa Sofia (FC)|earthquake
+1408239|2003-02-01T09:24:37.780000|44.584|12.225|6.8|BULLETIN-VAX||||Md|3.2|--|13 km S Comacchio (FE)|earthquake
+1409329|2003-02-03T11:24:40.950000|40.753|15.643|8.4|BULLETIN-VAX||||Md|3.4|--|5 km NW Ruoti (PZ)|earthquake
+1409409|2003-02-03T12:18:45.850000|40.751|15.669|8.0|BULLETIN-VAX||||Md|3.5|--|4 km N Ruoti (PZ)|earthquake
+1409969|2003-02-04T11:51:15.290000|43.182|16.166|10.0|BULLETIN-VAX||||ML|4.2|--|Costa Croata meridionale (CROAZIA)|earthquake
+1410099|2003-02-04T20:49:42.030000|45.947|7.785|4.9|BULLETIN-VAX||||Md|3.1|--|Confine Italia-Svizzera (SVIZZERA)|earthquake
+1410729|2003-02-07T02:17:19.530000|43.879|11.955|9.9|BULLETIN-VAX||||Md|3.4|--|3 km NW Bagno di Romagna (FC)|earthquake
+1410959|2003-02-07T05:26:29.380000|43.873|11.973|9.2|BULLETIN-VAX||||Md|3.2|--|2 km N Bagno di Romagna (FC)|earthquake
+1411339|2003-02-07T20:20:33.380000|38.419|13.679|5.0|BULLETIN-VAX||||Md|3.2|--|Tirreno Meridionale [Mare]|earthquake
+1411789|2003-02-08T14:37:32.150000|43.886|11.974|6.7|BULLETIN-VAX||||Md|3.0|--|3 km N Bagno di Romagna (FC)|earthquake
+1412159|2003-02-09T08:22:46.640000|46.275|10.346|5.0|BULLETIN-VAX||||Md|3.0|--|6 km NW Vezza d'Oglio (BS)|earthquake
+1413029|2003-02-13T05:33:04.440000|37.789|15.15|10.0|BULLETIN-VAX||||ML|3.9|--|3 km SW Piedimonte Etneo (CT)|earthquake
+1413469|2003-02-15T04:55:55.300000|43.897|11.943|8.4|BULLETIN-VAX||||Md|3.1|--|5 km NW Bagno di Romagna (FC)|earthquake
+1413769|2003-02-16T00:36:05.770000|41.684|14.789|5.0|BULLETIN-VAX||||Md|3.0|--|2 km W Ripabottoni (CB)|earthquake
+1414219|2003-02-18T16:35:28.970000|43.169|12.923|36.3|BULLETIN-VAX||||Md|3.0|--|2 km SW Fiuminata (MC)|earthquake
+1414279|2003-02-18T19:19:49.700000|41.298|13.361|5.0|BULLETIN-VAX||||Md|3.0|--|6 km S Monte San Biagio (LT)|earthquake
+1414379|2003-02-19T05:52:31.590000|41.656|14.754|5.0|BULLETIN-VAX||||Md|3.6|--|2 km NW Campolieto (CB)|earthquake
+1414449|2003-02-20T00:55:31.220000|44.97|14.99|5.0|BULLETIN-VAX||||Md|3.3|--|Costa Croata Settentrionale (CROAZIA)|earthquake
+1415279|2003-02-23T10:23:23.520000|38.391|13.666|5.0|BULLETIN-VAX||||Md|3.1|--|Costa Siciliana centro-settentrionale (Palermo)|earthquake
+1415399|2003-02-24T04:48:09.460000|41.407|12.786|5.0|BULLETIN-VAX||||Md|3.0|--|Costa Laziale meridionale (Latina)|earthquake
+1415559|2003-02-24T21:21:27.230000|46.92|6.426|10.0|BULLETIN-VAX||||Md|3.3|--|Confine Svizzera-Francia (SVIZZERA, FRANCIA)|earthquake
+1417539|2003-03-05T17:21:27.780000|37.283|13.043|5.0|BULLETIN-VAX||||Md|3.3|--|Costa Agrigentina (Agrigento)|earthquake
+1418199|2003-03-08T14:57:19.200000|45.926|11.729|10.0|BULLETIN-VAX||||Md|3.2|--|1 km NW Cismon del Grappa (VI)|earthquake
+1418789|2003-03-10T13:25:06.090000|44.899|7.791|13.0|BULLETIN-VAX||||Md|3.1|--|4 km SE Villastellone (TO)|earthquake
+1418949|2003-03-11T05:54:27.830000|46.411|13.239|8.4|BULLETIN-VAX||||Md|3.0|--|2 km NE Resiutta (UD)|earthquake
+1418959|2003-03-11T05:57:09.030000|46.442|13.218|5.0|BULLETIN-VAX||||Md|3.4|--|4 km NE Moggio Udinese (UD)|earthquake
+1419289|2003-03-12T06:19:47.580000|38.499|13.795|5.0|BULLETIN-VAX||||Md|3.0|--|Tirreno Meridionale [Mare]|earthquake
+1419439|2003-03-12T16:45:11.890000|42.959|13.146|5.0|BULLETIN-VAX||||Md|3.2|--|2 km NE Ussita (MC)|earthquake
+1420609|2003-03-18T20:09:31.800000|43.246|17.203|10.0|BULLETIN-VAX||||Md|3.2|--|Croatia [Land]|earthquake
+1421669|2003-03-25T16:01:57.810000|38.541|16.909|5.0|BULLETIN-VAX||||Md|3.3|--|Mar Ionio Settentrionale [Mare]|earthquake
+1421709|2003-03-25T19:42:08.910000|38.575|16.744|5.0|BULLETIN-VAX||||Md|3.1|--|Costa Ionica Catanzarese (Catanzaro)|earthquake
+1421809|2003-03-26T11:32:19.010000|43.046|12.907|7.6|BULLETIN-VAX||||Md|3.0|--|5 km SW Serravalle di Chienti (MC)|earthquake
+1422089|2003-03-27T14:55:15.250000|43.265|15.642|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1422109|2003-03-27T16:10:38.210000|43.095|15.419|10.0|BULLETIN-VAX||||ML|4.7|--|Adriatico Centrale [Mare]|earthquake
+1422119|2003-03-27T16:13:37.220000|43.179|15.492|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1422129|2003-03-27T16:20:35.620000|43.114|15.431|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1422179|2003-03-27T19:30:18.080000|43.225|15.346|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422199|2003-03-27T19:54:35.590000|43.207|15.32|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1422219|2003-03-27T21:27:04.020000|43.19|15.441|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1422229|2003-03-27T21:46:33.640000|43.142|15.22|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422299|2003-03-28T09:01:16.500000|43.244|15.468|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422309|2003-03-28T09:05:09.320000|43.238|15.252|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422449|2003-03-29T04:30:08.390000|43.047|15.27|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422569|2003-03-29T17:42:15.690000|43.109|15.464|10.0|BULLETIN-VAX||||ML|5.4|--|Adriatico Centrale [Mare]|earthquake
+1422579|2003-03-29T17:58:34.680000|42.971|15.478|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1422589|2003-03-29T18:02:19.090000|43.332|15.577|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1422609|2003-03-29T18:20:33.030000|43.123|15.371|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1422659|2003-03-29T18:40:17.090000|43.263|15.433|10.0|BULLETIN-VAX||||ML|3.6|--|Adriatico Centrale [Mare]|earthquake
+1422669|2003-03-29T18:44:34.290000|43.268|15.574|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422679|2003-03-29T18:52:20.510000|43.208|15.328|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422689|2003-03-29T18:55:50.920000|43.246|15.336|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422719|2003-03-29T19:05:58.650000|43.155|15.656|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1422739|2003-03-29T19:13:44.740000|43.237|15.633|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1422749|2003-03-29T19:20:34.010000|43.3|15.64|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1422759|2003-03-29T19:29:02.880000|43.197|15.459|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422769|2003-03-29T19:33:57.530000|42.573|15.449|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1422809|2003-03-29T19:56:17.800000|43.175|15.335|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1422819|2003-03-29T20:03:31.800000|43.168|15.744|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422829|2003-03-29T20:05:37.800000|43.409|16.207|10.0|BULLETIN-VAX||||Md|3.1|--|Costa Croata meridionale (CROAZIA)|earthquake
+1422859|2003-03-29T20:27:12.740000|43.265|15.583|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422889|2003-03-29T20:41:35.720000|43.225|15.452|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1422939|2003-03-29T20:58:14.940000|43.166|15.318|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1422949|2003-03-29T21:00:27.260000|43.188|15.406|10.0|BULLETIN-VAX||||ML|3.5|--|Adriatico Centrale [Mare]|earthquake
+1423019|2003-03-29T21:35:54.410000|43.387|15.825|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1423029|2003-03-29T21:44:00.270000|43.429|15.969|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1423049|2003-03-29T22:26:44.020000|43.239|15.589|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1423109|2003-03-29T22:39:44.160000|43.265|15.634|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1423129|2003-03-29T22:45:29.360000|43.276|15.671|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1423139|2003-03-29T22:51:25.980000|43.303|15.554|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1423199|2003-03-30T00:00:50.190000|43.226|15.483|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1423229|2003-03-30T00:33:43.260000|43.164|15.492|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1423239|2003-03-30T00:56:24.360000|43.17|15.435|10.0|BULLETIN-VAX||||ML|4.3|--|Adriatico Centrale [Mare]|earthquake
+1423329|2003-03-30T02:06:28.700000|43.187|15.459|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1423339|2003-03-30T02:11:04.360000|43.236|15.105|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1423379|2003-03-30T03:08:04.940000|43.15|15.287|10.0|BULLETIN-VAX||||ML|3.3|--|Adriatico Centrale [Mare]|earthquake
+1423389|2003-03-30T03:14:23.610000|43.191|15.437|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1423419|2003-03-30T03:45:49.910000|43.365|15.659|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1423429|2003-03-30T03:52:38.110000|43.281|15.542|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1423439|2003-03-30T03:55:52.750000|43.338|15.493|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1423459|2003-03-30T04:09:56.680000|43.226|15.481|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1423469|2003-03-30T04:16:37.520000|44.132|16.761|10.0|BULLETIN-VAX||||Md|3.2|--|Bosnia and Herz. [Land]|earthquake
+1423479|2003-03-30T04:23:34.110000|43.156|15.472|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1423489|2003-03-30T04:34:40.420000|43.22|15.483|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1423639|2003-03-30T06:05:26.060000|43.263|15.656|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1423649|2003-03-30T06:08:21.550000|43.16|15.508|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1423689|2003-03-30T06:55:44.010000|43.199|15.45|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1423769|2003-03-30T09:03:30.100000|43.151|15.378|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1423859|2003-03-30T10:28:44.290000|43.235|15.171|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1423909|2003-03-30T11:09:59.850000|43.169|15.527|10.0|BULLETIN-VAX||||ML|4.6|--|Adriatico Centrale [Mare]|earthquake
+1423949|2003-03-30T12:02:13.990000|43.198|15.552|10.0|BULLETIN-VAX||||Md|3.7|--|Adriatico Centrale [Mare]|earthquake
+1423969|2003-03-30T12:16:01.960000|43.152|15.435|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1424039|2003-03-30T13:01:33.220000|43.286|15.714|10.0|BULLETIN-VAX||||Md|3.3|--|Costa Croata meridionale (CROAZIA)|earthquake
+1424069|2003-03-30T13:24:34.330000|43.136|15.596|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1424109|2003-03-30T14:08:08.580000|43.184|15.352|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1424129|2003-03-30T14:40:59.400000|43.178|15.478|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1424189|2003-03-30T15:25:18.180000|43.169|15.334|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1424209|2003-03-30T15:33:55.890000|43.145|15.38|10.0|BULLETIN-VAX||||Md|3.7|--|Adriatico Centrale [Mare]|earthquake
+1424249|2003-03-30T16:11:48.530000|43.198|15.37|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1424269|2003-03-30T16:42:59.710000|41.656|14.795|5.0|BULLETIN-VAX||||Md|3.2|--|3 km NE Campolieto (CB)|earthquake
+1424279|2003-03-30T16:47:48.710000|43.184|15.581|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1424289|2003-03-30T17:00:32.650000|43.211|15.342|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1424319|2003-03-30T17:15:50.880000|43.341|15.607|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1424329|2003-03-30T17:22:41.350000|43.268|15.557|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1424339|2003-03-30T17:31:01.070000|43.273|15.512|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1424359|2003-03-30T18:05:29.700000|43.175|15.442|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1424419|2003-03-30T19:03:26.410000|43.254|15.645|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1424479|2003-03-30T19:56:03.430000|43.173|15.457|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1424509|2003-03-30T20:30:55.930000|43.157|15.236|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1424569|2003-03-30T21:43:15.450000|43.129|15.351|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1424719|2003-03-31T00:50:59.600000|43.2|15.457|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1424729|2003-03-31T01:19:14.690000|43.155|15.302|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1424749|2003-03-31T01:36:07.870000|43.147|15.437|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1424799|2003-03-31T01:50:07.060000|43.256|15.455|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1424819|2003-03-31T02:11:39.820000|43.096|15.116|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1424839|2003-03-31T02:51:56.830000|43.199|15.452|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1424889|2003-03-31T03:18:43.740000|43.19|15.517|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1424959|2003-03-31T05:46:46.470000|43.212|15.395|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1424969|2003-03-31T06:03:57.770000|43.239|15.484|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1425019|2003-03-31T06:36:30.240000|43.182|15.503|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1425169|2003-03-31T10:07:25.260000|43.177|15.374|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1425189|2003-03-31T10:33:10.960000|42.893|15.518|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1425219|2003-03-31T12:07:50.780000|43.06|15.211|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1425269|2003-03-31T15:08:29.420000|43.16|15.398|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1425279|2003-03-31T16:04:33.430000|43.138|15.345|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1425299|2003-03-31T16:50:33.000000|43.098|15.529|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1425319|2003-03-31T18:10:22.900000|43.156|15.453|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1425329|2003-03-31T18:30:38.040000|43.26|16.117|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1425359|2003-03-31T19:36:29.150000|43.128|15.466|10.0|BULLETIN-VAX||||Md|3.8|--|Adriatico Centrale [Mare]|earthquake
+1425369|2003-03-31T19:51:16.200000|43.087|15.471|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1425389|2003-03-31T20:11:58.760000|43.118|15.445|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1425399|2003-03-31T20:28:00.820000|43.184|15.497|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1425459|2003-03-31T22:21:14.230000|43.188|15.176|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1425469|2003-03-31T22:56:53.140000|43.152|15.394|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1425509|2003-04-01T00:55:26.630000|43.721|16.191|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1425539|2003-04-01T03:39:16.590000|43.201|15.496|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1425569|2003-04-01T05:29:15.050000|43.806|16.13|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata Settentrionale (CROAZIA)|earthquake
+1425659|2003-04-01T09:15:06.770000|43.337|15.536|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1425699|2003-04-01T10:55:22.620000|43.109|15.477|5.0|BULLETIN-VAX||||Md|3.7|--|Adriatico Centrale [Mare]|earthquake
+1425739|2003-04-01T13:53:01.100000|43.171|15.432|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1425989|2003-04-02T05:21:23.900000|43.139|15.366|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1425999|2003-04-02T05:41:59.060000|39.118|15.525|249.0|BULLETIN-VAX||||Md|3.1|--|Tirreno Meridionale [Mare]|earthquake
+1426049|2003-04-02T07:14:53.530000|43.123|15.332|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1426169|2003-04-02T15:55:25.820000|43.197|15.332|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1426179|2003-04-02T16:11:07.950000|43.173|15.373|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1426239|2003-04-02T22:27:36.550000|43.228|15.54|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1426299|2003-04-03T02:42:57.080000|38.785|16.668|28.2|BULLETIN-VAX||||Md|3.2|--|Costa Ionica Catanzarese (Catanzaro)|earthquake
+1426309|2003-04-03T05:09:53.970000|43.175|15.494|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1426319|2003-04-03T05:41:40.190000|44.092|16.904|10.0|BULLETIN-VAX||||Md|3.2|--|Bosnia and Herz. [Land]|earthquake
+1426329|2003-04-03T07:23:16.920000|43.2|15.477|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1426439|2003-04-03T21:11:04.990000|43.167|15.448|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1426449|2003-04-03T21:58:03.770000|43.405|15.905|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1426459|2003-04-03T22:30:11.350000|43.151|15.43|10.0|BULLETIN-VAX||||Md|3.7|--|Adriatico Centrale [Mare]|earthquake
+1426509|2003-04-04T05:13:03.340000|43.485|15.613|10.0|BULLETIN-VAX||||Md|3.2|--|Costa Croata meridionale (CROAZIA)|earthquake
+1426519|2003-04-04T06:15:10.530000|38.799|16.376|23.5|BULLETIN-VAX||||Md|3.2|--|5 km SW Girifalco (CZ)|earthquake
+1426649|2003-04-05T10:17:45.810000|43.197|15.281|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1426699|2003-04-05T15:41:15.270000|43.194|15.482|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1426729|2003-04-05T17:49:47.400000|43.304|15.651|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1426779|2003-04-05T20:09:30.140000|43.326|15.644|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1426799|2003-04-05T22:52:19.210000|43.153|15.292|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1426809|2003-04-06T01:19:21.100000|43.233|15.421|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1426819|2003-04-06T02:38:28.690000|43.089|15.276|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1426829|2003-04-06T02:39:49.750000|43.214|15.578|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1426849|2003-04-06T05:01:04.790000|43.191|15.496|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1426879|2003-04-06T07:39:10.400000|43.115|15.439|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1426909|2003-04-06T10:44:07.380000|43.487|16.084|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1426919|2003-04-06T12:08:57.000000|43.188|15.452|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1426949|2003-04-06T13:05:00.790000|43.133|15.394|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1426999|2003-04-06T16:43:38.480000|43.188|15.546|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1427009|2003-04-06T17:39:27.210000|43.11|15.61|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1427029|2003-04-06T19:07:56.180000|39.868|18.954|10.0|BULLETIN-VAX||||Md|3.4|--|Canale di Otranto [Mare]|earthquake
+1427049|2003-04-06T20:36:27.510000|44.266|10.987|7.1|BULLETIN-VAX||||Md|3.0|--|2 km SW Castel d'Aiano (BO)|earthquake
+1427069|2003-04-06T20:38:56.860000|43.161|15.368|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1427209|2003-04-07T08:49:20.630000|43.486|15.882|10.0|BULLETIN-VAX||||Md|3.1|--|Costa Croata meridionale (CROAZIA)|earthquake
+1427399|2003-04-07T23:24:56.920000|43.258|15.492|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1427409|2003-04-08T00:35:34.400000|43.217|15.663|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1427509|2003-04-08T14:40:42.290000|43.124|15.495|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1427599|2003-04-09T00:39:00.650000|43.177|15.387|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1427739|2003-04-09T14:09:51.300000|44.509|8.261|4.2|BULLETIN-VAX||||Md|3.1|--|3 km W Merana (AL)|earthquake
+1427929|2003-04-10T10:27:31.150000|43.207|15.387|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1427969|2003-04-10T14:03:00.880000|43.275|15.622|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1427989|2003-04-10T15:23:00.910000|43.331|15.901|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1428089|2003-04-11T09:26:57.780000|44.758|8.868|8.2|BULLETIN-VAX||||Md|4.5|--|1 km SE Cassano Spinola (AL)|earthquake
+1428169|2003-04-11T14:37:03.390000|43.176|15.308|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1428189|2003-04-11T16:23:54.160000|43.193|15.306|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1428269|2003-04-12T00:06:28.860000|43.323|16.01|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1428279|2003-04-12T00:13:10.480000|44.761|8.817|8.1|BULLETIN-VAX||||Md|3.3|--|2 km E Novi Ligure (AL)|earthquake
+1428389|2003-04-12T11:55:48.130000|43.121|15.199|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1428399|2003-04-12T13:22:41.120000|43.454|15.772|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1428489|2003-04-13T01:29:39.240000|42.993|13.511|5.0|BULLETIN-VAX||||Md|3.2|--|3 km SE Santa Vittoria in Matenano (FM)|earthquake
+1428529|2003-04-13T04:53:27.680000|43.154|15.298|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1428639|2003-04-13T22:54:12.020000|43.871|12.389|51.6|BULLETIN-VAX||||Md|3.6|--|4 km NW Monte Cerignone (PU)|earthquake
+1428649|2003-04-13T23:49:42.040000|43.418|15.69|10.0|BULLETIN-VAX||||Md|3.1|--|Costa Croata meridionale (CROAZIA)|earthquake
+1428689|2003-04-14T01:38:08.130000|43.199|15.645|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1428879|2003-04-14T22:31:39.550000|43.109|15.416|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1428929|2003-04-15T03:54:23.180000|43.135|15.387|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1429139|2003-04-16T00:33:37.130000|43.182|15.347|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1429149|2003-04-16T01:55:27.610000|43.41|15.513|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1429209|2003-04-16T09:44:02.210000|43.206|15.281|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1429409|2003-04-17T05:58:11.130000|43.194|15.47|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1429449|2003-04-17T09:58:05.190000|43.175|15.344|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1429569|2003-04-17T17:38:49.360000|43.563|15.682|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1429639|2003-04-17T22:50:39.580000|43.145|15.302|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1429659|2003-04-17T23:17:07.210000|43.183|15.497|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1429679|2003-04-18T01:17:41.560000|46.371|12.983|5.0|BULLETIN-VAX||||Md|3.4|--|2 km SW Verzegnis (UD)|earthquake
+1429689|2003-04-18T01:34:35.000000|43.556|16.042|10.0|BULLETIN-VAX||||Md|3.1|--|Costa Croata meridionale (CROAZIA)|earthquake
+1429949|2003-04-18T19:17:45.300000|38.557|16.925|14.2|BULLETIN-VAX||||Md|3.0|--|Mar Ionio Settentrionale [Mare]|earthquake
+1430169|2003-04-19T11:37:39.640000|43.305|15.494|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1430259|2003-04-19T20:01:17.560000|43.323|15.566|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1430339|2003-04-20T04:01:35.020000|43.293|15.457|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1430419|2003-04-20T10:10:31.610000|43.299|15.4|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1430439|2003-04-20T13:02:52.490000|43.3|15.548|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1430549|2003-04-21T01:47:02.610000|43.161|15.509|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1430889|2003-04-21T23:41:33.060000|40.886|14.593|5.2|BULLETIN-VAX||||Md|3.0|--|1 km NE Domicella (AV)|earthquake
+1431119|2003-04-23T03:19:18.060000|43.193|15.496|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1431139|2003-04-23T03:39:25.050000|43.244|15.502|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1431339|2003-04-23T21:46:57.600000|43.209|15.464|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1431359|2003-04-24T00:15:39.710000|43.18|15.41|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1431389|2003-04-24T01:48:25.730000|43.241|15.605|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1431429|2003-04-24T06:52:20.900000|38.541|17.206|10.5|BULLETIN-VAX||||Md|3.4|--|Mar Ionio Settentrionale [Mare]|earthquake
+1431609|2003-04-24T18:37:07.700000|43.248|15.472|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1431769|2003-04-25T11:23:11.640000|42.873|14.594|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1431889|2003-04-25T22:39:33.380000|43.248|15.571|10.0|BULLETIN-VAX||||Md|3.7|--|Adriatico Centrale [Mare]|earthquake
+1432149|2003-04-26T08:20:43.130000|43.182|15.549|10.0|BULLETIN-VAX||||ML|4.0|--|Adriatico Centrale [Mare]|earthquake
+1432239|2003-04-26T11:07:02.530000|43.139|15.335|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1432269|2003-04-26T11:51:52.820000|43.305|15.695|10.0|BULLETIN-VAX||||Md|3.5|--|Costa Croata meridionale (CROAZIA)|earthquake
+1432359|2003-04-26T15:30:35.800000|43.187|15.507|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1432429|2003-04-26T18:01:16.580000|43.196|15.427|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1432469|2003-04-26T20:51:00.250000|43.172|15.543|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1432479|2003-04-26T21:11:27.210000|43.205|15.391|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1432489|2003-04-26T22:08:05.860000|43.275|15.465|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1432529|2003-04-26T23:20:37.200000|43.524|15.793|10.0|BULLETIN-VAX||||Md|3.1|--|Costa Croata meridionale (CROAZIA)|earthquake
+1432659|2003-04-27T09:06:11.220000|43.141|15.278|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1432739|2003-04-27T12:55:51.230000|43.181|15.112|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1432749|2003-04-27T14:19:46.330000|43.385|15.726|10.0|BULLETIN-VAX||||Md|3.1|--|Costa Croata meridionale (CROAZIA)|earthquake
+1432799|2003-04-27T19:02:07.190000|43.241|15.361|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1432809|2003-04-27T19:12:38.340000|43.26|15.539|10.0|BULLETIN-VAX||||ML|4.1|--|Adriatico Centrale [Mare]|earthquake
+1432829|2003-04-27T20:14:02.470000|43.38|15.563|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1432969|2003-04-28T01:24:03.000000|43.196|15.342|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1432989|2003-04-28T03:13:53.300000|43.324|15.551|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1433019|2003-04-28T06:23:48.930000|43.218|15.415|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1433049|2003-04-28T08:09:34.820000|43.217|15.349|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1433149|2003-04-28T14:13:11.710000|43.15|15.093|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1433199|2003-04-28T16:20:16.430000|43.204|15.691|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1433239|2003-04-28T20:12:36.290000|41.691|14.847|9.9|BULLETIN-VAX||||Md|3.4|--|3 km E Ripabottoni (CB)|earthquake
+1433309|2003-04-28T22:56:04.680000|43.171|15.504|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1433579|2003-04-29T10:47:32.580000|41.61|14.963|10.0|BULLETIN-VAX||||Md|3.5|--|2 km NW Carlantino (FG)|earthquake
+1433669|2003-04-29T14:53:23.470000|43.138|15.375|10.0|BULLETIN-VAX||||ML|3.9|--|Adriatico Centrale [Mare]|earthquake
+1433679|2003-04-29T15:13:06.150000|43.254|15.572|10.0|BULLETIN-VAX||||ML|4.4|--|Adriatico Centrale [Mare]|earthquake
+1433769|2003-04-29T17:41:31.500000|43.152|15.303|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1433819|2003-04-29T18:30:15.150000|43.185|15.491|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1433829|2003-04-29T18:45:45.560000|41.625|16.217|5.0|BULLETIN-VAX||||Md|3.4|--|Golfo di Manfredonia (Foggia)|earthquake
+1433839|2003-04-29T18:57:24.150000|43.251|15.701|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1433849|2003-04-29T19:03:05.520000|43.22|15.53|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1433899|2003-04-29T21:37:46.770000|43.383|15.723|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1433909|2003-04-29T21:47:52.130000|43.151|15.397|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1433919|2003-04-29T22:08:16.480000|43.336|15.647|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1433929|2003-04-29T22:18:48.090000|43.124|15.468|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1434039|2003-04-30T03:49:25.900000|43.207|15.285|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1434059|2003-04-30T06:24:41.960000|43.143|15.438|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1434109|2003-04-30T09:49:42.290000|43.203|15.232|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1434119|2003-04-30T10:13:28.150000|43.167|15.424|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1434189|2003-04-30T14:12:09.380000|43.222|15.496|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1434209|2003-04-30T15:38:41.800000|43.237|15.52|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1434239|2003-04-30T18:57:28.150000|43.165|15.416|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1434349|2003-05-01T01:30:14.430000|43.422|15.665|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1434389|2003-05-01T04:58:28.330000|43.305|15.608|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1434409|2003-05-01T06:11:41.140000|43.24|15.432|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1434489|2003-05-01T16:47:37.590000|43.089|15.306|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1434579|2003-05-01T22:27:18.330000|43.283|15.356|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1434609|2003-05-01T22:59:27.320000|43.148|15.427|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1434639|2003-05-01T23:22:27.410000|43.363|15.533|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1434649|2003-05-02T00:46:48.040000|43.309|15.471|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1434699|2003-05-02T03:53:06.970000|41.649|14.795|5.9|BULLETIN-VAX||||Md|3.8|--|3 km NE Campolieto (CB)|earthquake
+1434809|2003-05-02T12:14:57.280000|43.277|15.583|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1434829|2003-05-02T15:27:35.570000|43.335|15.751|10.0|BULLETIN-VAX||||Md|3.4|--|Costa Croata meridionale (CROAZIA)|earthquake
+1434969|2003-05-03T06:09:53.220000|43.416|15.857|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1435079|2003-05-03T12:44:56.160000|44.387|7.266|11.4|BULLETIN-VAX||||Md|3.1|--|4 km SW Pradleves (CN)|earthquake
+1435149|2003-05-03T17:58:13.910000|43.258|15.532|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1435159|2003-05-03T19:34:44.390000|43.18|15.485|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1435179|2003-05-03T20:39:27.850000|43.239|15.231|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1435379|2003-05-04T06:10:53.070000|40.506|16.164|5.0|BULLETIN-VAX||||Md|3.1|--|2 km NE Accettura (MT)|earthquake
+1435409|2003-05-04T08:04:09.270000|36.872|13.568|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Agrigentina (Agrigento)|earthquake
+1435579|2003-05-04T20:48:40.460000|43.218|15.404|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1435609|2003-05-04T22:07:21.770000|43.149|15.47|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1435659|2003-05-05T00:51:43.950000|43.224|15.407|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1435739|2003-05-05T06:16:38.170000|43.218|15.506|10.0|BULLETIN-VAX||||Md|3.6|--|Adriatico Centrale [Mare]|earthquake
+1435999|2003-05-06T05:01:08.440000|38.838|15.736|218.9|BULLETIN-VAX||||Md|3.0|--|Costa Calabra sud-occidentale (Catanzaro, Vibo Valentia, Reggio di Calabria)|earthquake
+1436599|2003-05-08T21:28:40.520000|38.407|13.623|5.0|BULLETIN-VAX||||Md|3.0|--|Costa Siciliana centro-settentrionale (Palermo)|earthquake
+1437129|2003-05-10T20:32:54.480000|43.283|15.654|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1437539|2003-05-12T09:02:33.180000|43.194|15.507|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1437719|2003-05-13T00:44:25.190000|43.349|15.658|10.0|BULLETIN-VAX||||Md|3.2|--|Costa Croata meridionale (CROAZIA)|earthquake
+1438229|2003-05-15T22:04:59.390000|43.286|15.739|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1438289|2003-05-16T04:18:36.470000|43.172|15.323|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1438949|2003-05-18T23:43:37.660000|43.157|12.801|8.9|BULLETIN-VAX||||Md|3.0|--|5 km N Nocera Umbra (PG)|earthquake
+1440009|2003-05-24T14:46:37.340000|40.814|15.24|8.6|BULLETIN-VAX||||Md|3.1|--|1 km E Caposele (AV)|earthquake
+1440109|2003-05-25T00:53:41.100000|44.477|13.415|5.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Settentrionale [Mare]|earthquake
+1440159|2003-05-25T08:07:55.980000|44.785|10.095|4.6|BULLETIN-VAX||||Md|3.0|--|5 km NW Medesano (PR)|earthquake
+1440259|2003-05-25T17:15:13.950000|42.998|13.676|5.0|BULLETIN-VAX||||Md|3.5|--|2 km NW Cossignano (AP)|earthquake
+1440269|2003-05-25T18:16:37.870000|42.969|13.622|5.0|BULLETIN-VAX||||Md|3.0|--|2 km SE Montalto delle Marche (AP)|earthquake
+1440349|2003-05-26T02:41:31.340000|43.417|15.732|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1440369|2003-05-26T03:57:30.250000|40.632|15.429|10.1|BULLETIN-VAX||||Md|3.1|--|1 km NW Romagnano al Monte (SA)|earthquake
+1440699|2003-05-27T02:04:58.210000|43.177|15.397|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1441539|2003-05-30T14:22:24.040000|43.185|15.223|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1441599|2003-05-30T17:47:00.210000|43.211|15.379|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1441659|2003-05-31T01:45:50.170000|43.103|15.383|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1441699|2003-05-31T11:21:56.170000|43.155|15.578|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1441829|2003-06-01T01:46:11.090000|43.118|15.372|10.0|BULLETIN-VAX||||Md|3.9|--|Adriatico Centrale [Mare]|earthquake
+1441849|2003-06-01T03:18:42.180000|43.215|15.174|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1441879|2003-06-01T05:27:29.560000|43.429|15.383|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1441909|2003-06-01T06:37:05.940000|40.698|14.675|10.0|BULLETIN-VAX||||Md|3.0|--|3 km W Cava de' Tirreni (SA)|earthquake
+1441919|2003-06-01T06:50:43.330000|43.328|15.355|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1441969|2003-06-01T10:19:15.250000|42.98|14.903|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1442029|2003-06-01T15:45:18.040000|41.661|14.821|11.8|BULLETIN-VAX||||Md|4.1|--|3 km SE Ripabottoni (CB)|earthquake
+1442179|2003-06-02T05:18:53.640000|39.559|16.685|5.0|BULLETIN-VAX||||Md|3.4|--|3 km N Paludi (CS)|earthquake
+1442219|2003-06-02T10:58:26.960000|43.099|15.42|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1442259|2003-06-02T13:56:36.660000|45.225|14.609|10.0|BULLETIN-VAX||||Md|3.1|--|Costa Croata Settentrionale (CROAZIA)|earthquake
+1442269|2003-06-02T15:10:36.800000|46.188|12.407|3.4|BULLETIN-VAX||||Md|3.1|--|2 km NE Chies d'Alpago (BL)|earthquake
+1442339|2003-06-03T00:36:55.180000|41.616|14.631|9.5|BULLETIN-VAX||||Md|3.2|--|3 km W Ripalimosani (CB)|earthquake
+1442539|2003-06-04T00:45:59.880000|43.399|16.13|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1442679|2003-06-04T10:37:49.620000|43.331|15.548|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1442709|2003-06-04T10:50:47.400000|43.333|15.298|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1442739|2003-06-04T12:00:06.170000|43.158|15.146|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1442899|2003-06-05T00:37:55.230000|43.194|15.326|10.0|BULLETIN-VAX||||Md|3.5|--|Adriatico Centrale [Mare]|earthquake
+1443309|2003-06-07T00:21:36.690000|41.487|15.642|6.2|BULLETIN-VAX||||Md|3.1|--|9 km E Foggia (FG)|earthquake
+1443449|2003-06-07T22:38:51.220000|43.375|15.449|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1443459|2003-06-08T00:48:54.040000|43.416|15.368|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1443559|2003-06-08T06:39:07.410000|43.223|15.654|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1444049|2003-06-10T19:34:43.390000|43.643|16.427|10.0|BULLETIN-VAX||||Md|3.3|--|Costa Croata meridionale (CROAZIA)|earthquake
+1444089|2003-06-10T22:59:47.030000|44.86|7.664|5.0|BULLETIN-VAX||||Md|3.4|--|3 km NE Lombriasco (TO)|earthquake
+1444159|2003-06-11T06:55:45.590000|43.579|16.439|10.0|BULLETIN-VAX||||Md|3.2|--|Costa Croata meridionale (CROAZIA)|earthquake
+1444319|2003-06-11T20:20:40.250000|43.155|15.417|10.0|BULLETIN-VAX||||Md|3.4|--|Adriatico Centrale [Mare]|earthquake
+1444329|2003-06-11T20:56:00.220000|41.694|17.876|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Meridionale [Mare]|earthquake
+1444339|2003-06-11T21:01:56.840000|43.328|15.286|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1444419|2003-06-12T02:23:28.270000|43.446|15.917|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1444599|2003-06-12T16:22:24.980000|43.248|15.307|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1444649|2003-06-12T18:51:26.630000|37.591|16.437|21.8|BULLETIN-VAX||||Md|3.2|--|Mar Ionio Meridionale [Mare]|earthquake
+1444719|2003-06-13T01:45:53.620000|43.357|17.812|10.0|BULLETIN-VAX||||Md|3.3|--|Bosnia and Herz. [Land]|earthquake
+1444929|2003-06-13T23:19:27.240000|38.191|15.058|7.5|BULLETIN-VAX||||Md|3.4|--|Costa Siciliana nord-orientale (Messina)|earthquake
+1444949|2003-06-14T00:08:20.080000|43.49|15.516|10.0|BULLETIN-VAX||||Md|3.1|--|Costa Croata meridionale (CROAZIA)|earthquake
+1445229|2003-06-15T19:56:26.300000|38.325|17.884|73.1|BULLETIN-VAX||||Md|3.0|--|Mar Ionio Settentrionale [Mare]|earthquake
+1445269|2003-06-15T22:15:12.070000|41.663|14.922|10.9|BULLETIN-VAX||||Md|3.1|--|4 km W Colletorto (CB)|earthquake
+1446139|2003-06-19T05:47:27.920000|43.495|16.086|10.0|BULLETIN-VAX||||Md|3.0|--|Costa Croata meridionale (CROAZIA)|earthquake
+1446329|2003-06-19T22:58:49.590000|43.199|15.479|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1446369|2003-06-20T02:29:43.900000|37.147|13.483|10.0|BULLETIN-VAX||||Md|3.2|--|Costa Agrigentina (Agrigento)|earthquake
+1446709|2003-06-21T09:00:23.140000|43.109|15.467|10.0|BULLETIN-VAX||||Md|3.8|--|Adriatico Centrale [Mare]|earthquake
+1446729|2003-06-21T09:42:23.640000|43.149|15.387|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1446779|2003-06-21T20:02:33.090000|43.128|15.53|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1447329|2003-06-23T22:26:40.200000|42.999|15.3|10.0|BULLETIN-VAX||||Md|3.0|--|Adriatico Centrale [Mare]|earthquake
+1447629|2003-06-24T14:39:17.350000|41.993|15.686|4.0|BULLETIN-VAX||||Md|3.3|--|Costa Garganica (Foggia)|earthquake
+1448829|2003-06-30T07:03:41.210000|43.651|10.189|6.5|BULLETIN-VAX||||Md|4.0|--|Costa Toscana settentrionale (Massa-Carrara, Lucca, Pisa)|earthquake
+1448929|2003-06-30T10:11:10.120000|42.261|13.224|5.0|BULLETIN-VAX||||Md|3.7|--|7 km W Tornimparte (AQ)|earthquake
+1448949|2003-06-30T11:21:11.200000|43.176|15.551|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1449369|2003-07-01T15:05:21.800000|43.27|18.505|10.0|BULLETIN-VAX||||Md|3.4|--|Bosnia and Herz. [Land]|earthquake
+1449439|2003-07-01T20:25:06.050000|43.231|18.485|10.0|BULLETIN-VAX||||Md|3.4|--|Bosnia and Herz. [Land]|earthquake
+1449459|2003-07-01T22:06:43.950000|43.216|18.533|10.0|BULLETIN-VAX||||Md|3.3|--|Bosnia and Herz. [Land]|earthquake
+1449469|2003-07-01T23:49:36.560000|38.139|15.205|5.8|BULLETIN-VAX||||Md|3.3|--|2 km SW Barcellona Pozzo di Gotto (ME)|earthquake
+1449589|2003-07-02T21:57:59.570000|42.873|13.148|5.0|BULLETIN-VAX||||Md|3.1|--|3 km S Castelsantangelo sul Nera (MC)|earthquake
+1450129|2003-07-05T05:07:42.970000|42.305|13.266|5.0|BULLETIN-VAX||||Md|3.1|--|3 km W Tornimparte (AQ)|earthquake
+1450519|2003-07-06T10:52:41.290000|43.647|16.948|10.0|BULLETIN-VAX||||Md|3.3|--|Bosnia and Herz. [Land]|earthquake
+1450639|2003-07-06T18:58:05.030000|43.146|15.61|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1451569|2003-07-09T10:25:03.710000|38.588|15.423|238.1|BULLETIN-VAX||||Md|3.3|--|Tirreno Meridionale [Mare]|earthquake
+1452329|2003-07-11T10:05:59.590000|38.378|12.416|5.0|BULLETIN-VAX||||Md|3.4|--|Tirreno Meridionale [Mare]|earthquake
+1452939|2003-07-12T15:09:29.680000|43.992|17.869|10.0|BULLETIN-VAX||||Md|3.4|--|Bosnia and Herz. [Land]|earthquake
+1453539|2003-07-13T15:48:08.720000|41.27|14.936|6.4|BULLETIN-VAX||||Md|3.1|--|1 km E San Giorgio La Molara (BN)|earthquake
+1453939|2003-07-15T03:46:50.130000|37.565|11.383|9.9|BULLETIN-VAX||||Md|3.2|--|Canale di Sicilia settentrionale [Mare]|earthquake
+1453999|2003-07-15T08:30:44.900000|44.774|8.821|5.0|BULLETIN-VAX||||Md|3.0|--|3 km E Novi Ligure (AL)|earthquake
+1454089|2003-07-15T15:52:23.610000|36.346|11.369|5.0|BULLETIN-VAX||||Md|3.3|--|Canale di Sicilia meridionale [Mare]|earthquake
+1454329|2003-07-16T15:09:01.240000|43.171|18.438|10.0|BULLETIN-VAX||||Md|3.2|--|Bosnia and Herz. [Land]|earthquake
+1454389|2003-07-17T02:57:10.080000|46.416|12.647|4.9|BULLETIN-VAX||||Md|3.0|--|3 km NW Forni di Sotto (UD)|earthquake
+1454479|2003-07-17T12:41:03.890000|37.812|15.154|5.0|BULLETIN-VAX||||Md|3.4|--|2 km W Piedimonte Etneo (CT)|earthquake
+1455469|2003-07-23T11:56:58.280000|44.704|7.261|10.0|BULLETIN-VAX||||Md|3.0|--|2 km NW Paesana (CN)|earthquake
+1455529|2003-07-24T04:58:01.290000|41.859|15.658|5.0|BULLETIN-VAX||||Md|3.5|--|8 km E San Nicandro Garganico (FG)|earthquake
+1455539|2003-07-24T08:37:43.900000|41.885|15.673|6.3|BULLETIN-VAX||||Md|3.0|--|10 km NW Cagnano Varano (FG)|earthquake
+1455549|2003-07-24T10:16:45.520000|41.869|15.662|3.2|BULLETIN-VAX||||Md|3.1|--|9 km E San Nicandro Garganico (FG)|earthquake
+1455959|2003-07-26T11:18:26.220000|41.818|15.671|6.5|BULLETIN-VAX||||Md|3.2|--|9 km W Cagnano Varano (FG)|earthquake
+1456009|2003-07-26T14:37:47.770000|38.126|11.44|10.0|BULLETIN-VAX||||Md|3.0|--|Tirreno Meridionale [Mare]|earthquake
+1456679|2003-07-29T17:05:55.390000|41.874|15.675|5.0|BULLETIN-VAX||||Md|3.1|--|10 km NW Cagnano Varano (FG)|earthquake
+1457449|2003-08-02T18:39:00.650000|43.248|11.363|8.7|BULLETIN-VAX||||Md|3.2|--|5 km W Monteroni d'Arbia (SI)|earthquake
+1457819|2003-08-03T21:44:45.070000|45.245|10.076|5.1|BULLETIN-VAX||||Md|3.4|--|2 km S Robecco d'Oglio (CR)|earthquake
+1458929|2003-08-07T13:38:39.880000|43.169|15.163|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1458939|2003-08-07T17:20:35.560000|43.267|15.303|10.0|BULLETIN-VAX||||Md|3.2|--|Adriatico Centrale [Mare]|earthquake
+1459329|2003-08-10T00:44:39.810000|38.37|12.349|5.0|BULLETIN-VAX||||Md|3.1|--|Tirreno Meridionale [Mare]|earthquake
+1459469|2003-08-10T13:42:31.810000|44.199|6.849|10.0|BULLETIN-VAX||||Md|3.0|--|Confine Italia-Francia (FRANCIA)|earthquake
+1459939|2003-08-12T05:10:06.870000|38.431|13.687|5.0|BULLETIN-VAX||||Md|3.4|--|Tirreno Meridionale [Mare]|earthquake
+1460019|2003-08-12T19:17:30.130000|38.423|13.673|5.0|BULLETIN-VAX||||Md|3.0|--|Tirreno Meridionale [Mare]|earthquake
+1460229|2003-08-13T19:44:44.730000|38.205|13.269|5.0|BULLETIN-VAX||||Md|3.0|--|Costa Siciliana centro-settentrionale (Palermo)|earthquake
+1460479|2003-08-14T08:54:05.780000|39.182|15.549|137.4|BULLETIN-VAX||||Md|3.0|--|Tirreno Meridionale [Mare]|earthquake
+1461429|2003-08-16T02:49:59.980000|43.08|17.809|10.0|BULLETIN-VAX||||Md|3.4|--|Bosnia and Herz. [Land]|earthquake
+1461449|2003-08-16T05:44:18.570000|46.387|12.783|5.0|BULLETIN-VAX||||Md|3.1|--|4 km S Ampezzo (UD)|earthquake
+1461459|2003-08-16T05:59:14.470000|41.923|15.973|27.1|BULLETIN-VAX||||Md|3.2|--|3 km NE Vico del Gargano (FG)|earthquake
+1461579|2003-08-16T21:58:51.810000|46.428|14.409|5.0|BULLETIN-VAX||||Md|3.3|--|Confine Austri-Slovenia (AUSTRIA, SLOVENIA)|earthquake
+1461729|2003-08-17T22:31:50.770000|44.637|6.842|10.8|BULLETIN-VAX||||Md|3.3|--|Confine Italia-Francia (FRANCIA)|earthquake
+1462109|2003-08-19T09:15:29.320000|41.63|14.89|3.0|BULLETIN-VAX||||Md|3.1|--|1 km NE Sant'Elia a Pianisi (CB)|earthquake
+1462149|2003-08-19T14:23:52.820000|37.826|15.388|5.3|BULLETIN-VAX||||Md|3.4|--|Stretto di Messina (Reggio di Calabria, Messina)|earthquake
+1462159|2003-08-19T19:36:22.450000|42.669|13.257|5.0|BULLETIN-VAX||||Md|3.0|--|3 km S Accumoli (RI)|earthquake
+1462439|2003-08-21T11:06:23.000000|44.226|15.649|10.0|BULLETIN-VAX||||Md|3.4|--|Costa Croata Settentrionale (CROAZIA)|earthquake
+1462609|2003-08-22T09:21:36.670000|46.042|7.514|5.0|BULLETIN-VAX||||Md|3.5|--|Confine Italia-Svizzera (SVIZZERA)|earthquake
+1462619|2003-08-22T09:30:13.260000|46.104|7.487|5.0|BULLETIN-VAX||||Md|3.1|--|Confine Italia-Svizzera (SVIZZERA)|earthquake
+1462759|2003-08-22T22:01:17.510000|37.188|12.68|5.0|BULLETIN-VAX||||Md|3.0|--|Costa Siciliana sud-occidentale (Trapani)|earthquake
+1463049|2003-08-24T01:09:58.850000|36.161|13.935|10.0|BULLETIN-VAX||||Md|3.2|--|Canale di Sicilia meridionale [Mare]|earthquake
+1463079|2003-08-24T03:07:37.640000|46.092|14.107|5.0|BULLETIN-VAX||||Md|3.2|--|Slovenia (SLOVENIA)|earthquake
+1463919|2003-08-28T09:43:37.900000|38.488|13.791|5.0|BULLETIN-VAX||||Md|3.4|--|Tirreno Meridionale [Mare]|earthquake
+1464269|2003-08-30T09:10:51.480000|46.336|12.847|5.0|BULLETIN-VAX||||Md|3.7|--|5 km NE Tramonti di Sopra (PN)|earthquake
+1464449|2003-08-31T05:06:36.040000|46.142|9.907|10.0|BULLETIN-VAX||||Md|3.2|--|1 km S Faedo Valtellino (SO)|earthquake
+1464479|2003-08-31T10:34:06.130000|42.377|13.326|10.1|BULLETIN-VAX||||Md|3.3|--|6 km E Scoppito (AQ)|earthquake
+1464639|2003-09-01T19:28:11.310000|44.233|7.26|10.0|BULLETIN-VAX||||Md|3.3|--|10 km SE Aisone (CN)|earthquake
+1465179|2003-09-02T19:17:50.630000|44.153|16.929|10.0|BULLETIN-VAX||||Md|3.3|--|Bosnia and Herz. [Land]|earthquake
+1465189|2003-09-02T21:17:28.000000|43.155|15.419|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1465359|2003-09-03T12:44:48.570000|43.911|11.967|6.7|BULLETIN-VAX||||Md|3.0|--|6 km N Bagno di Romagna (FC)|earthquake
+1466839|2003-09-10T06:31:44.330000|43.109|17.619|10.0|BULLETIN-VAX||||Md|3.3|--|Bosnia and Herz. [Land]|earthquake
+1467579|2003-09-14T21:42:53.180000|44.255|11.38|8.3|BULLETIN-VAX||||Mw|5.2|--|5 km E Loiano (BO)|earthquake
+1467609|2003-09-14T21:56:14.550000|44.296|11.441|6.2|BULLETIN-VAX||||Md|3.1|--|4 km SE Monterenzio (BO)|earthquake
+1467749|2003-09-14T22:18:34.450000|44.223|11.405|4.5|BULLETIN-VAX||||Md|3.3|--|7 km E Monghidoro (BO)|earthquake
+1467949|2003-09-14T23:29:48.080000|44.286|11.471|5.0|BULLETIN-VAX||||Md|3.2|--|7 km SE Monterenzio (BO)|earthquake
+1467959|2003-09-14T23:36:40.090000|44.287|11.456|5.0|BULLETIN-VAX||||Md|3.0|--|6 km SE Monterenzio (BO)|earthquake
+1467999|2003-09-15T00:02:34.520000|44.273|11.404|9.8|BULLETIN-VAX||||Md|3.6|--|6 km S Monterenzio (BO)|earthquake
+1469559|2003-09-15T19:51:34.630000|44.286|11.447|5.0|BULLETIN-VAX||||Md|3.2|--|6 km SE Monterenzio (BO)|earthquake
+1470329|2003-09-16T21:18:32.270000|43.233|18.729|10.0|BULLETIN-VAX||||Md|3.4|--|Montenegro [Land]|earthquake
+1470689|2003-09-17T12:27:22.250000|44.272|11.421|3.6|BULLETIN-VAX||||Md|3.2|--|6 km S Monterenzio (BO)|earthquake
+1470739|2003-09-17T13:27:50.290000|43.698|11.948|5.3|BULLETIN-VAX||||Md|3.1|--|1 km E Chiusi della Verna (AR)|earthquake
+1470759|2003-09-17T13:43:16.950000|44.291|11.403|3.3|BULLETIN-VAX||||Md|3.3|--|4 km S Monterenzio (BO)|earthquake
+1471459|2003-09-18T18:29:02.880000|44.269|11.448|11.1|BULLETIN-VAX||||Md|3.1|--|7 km SE Monterenzio (BO)|earthquake
+1471939|2003-09-19T19:44:00.590000|44.466|15.465|10.0|BULLETIN-VAX||||Md|3.2|--|Costa Croata Settentrionale (CROAZIA)|earthquake
+1472039|2003-09-20T01:31:32.200000|44.253|11.421|4.2|BULLETIN-VAX||||Md|3.1|--|8 km NW Castel del Rio (BO)|earthquake
+1472469|2003-09-21T11:32:48.460000|42.367|18.965|10.0|BULLETIN-VAX||||Md|3.2|--|Montenegro [Land]|earthquake
+1473249|2003-09-24T11:05:56.930000|38.655|14.172|15.2|BULLETIN-VAX||||Md|3.5|--|Tirreno Meridionale [Mare]|earthquake
+1474099|2003-09-27T17:36:47.640000|42.217|13.259|5.0|BULLETIN-VAX||||Md|3.5|--|3 km NE Borgorose (RI)|earthquake
+1474139|2003-09-27T21:44:40.700000|42.865|18.579|10.0|BULLETIN-VAX||||Md|3.1|--|Montenegro [Land]|earthquake
+1475099|2003-10-01T05:35:56.620000|43.054|13.382|5.0|BULLETIN-VAX||||Md|3.0|--|3 km W Penna San Giovanni (MC)|earthquake
+1476969|2003-10-09T12:29:59.000000|38.557|17.065|9.9|BULLETIN-VAX||||Md|3.0|--|Mar Ionio Settentrionale [Mare]|earthquake
+1477449|2003-10-11T06:13:24.460000|43.154|15.523|10.0|BULLETIN-VAX||||Md|3.3|--|Adriatico Centrale [Mare]|earthquake
+1477929|2003-10-13T11:08:09.580000|40.709|15.687|3.5|BULLETIN-VAX||||Md|3.3|--|1 km SE Ruoti (PZ)|earthquake
+1477949|2003-10-13T11:21:27.480000|40.662|15.483|15.2|BULLETIN-VAX||||Md|3.1|--|1 km S Ricigliano (SA)|earthquake
+1478469|2003-10-16T04:40:02.850000|37.212|16.935|10.0|BULLETIN-VAX||||Md|3.3|--|Mar Ionio Meridionale [Mare]|earthquake
+1478599|2003-10-16T12:46:14.920000|43.174|15.259|10.0|BULLETIN-VAX||||Md|3.1|--|Adriatico Centrale [Mare]|earthquake
+1478739|2003-10-16T16:23:25.190000|44.576|6.957|18.3|BULLETIN-VAX||||Md|3.0|--|5 km W Bellino (CN)|earthquake
+1478959|2003-10-17T14:58:25.730000|44.272|11.449|5.0|BULLETIN-VAX||||Md|3.1|--|7 km SE Monterenzio (BO)|earthquake
+1479389|2003-10-19T02:10:30.720000|43.85|15.341|10.0|BULLETIN-VAX||||Md|3.3|--|Costa Croata Settentrionale (CROAZIA)|earthquake
+1479889|2003-10-20T05:20:00.620000|44.23|11.409|8.5|BULLETIN-VAX||||Md|3.0|--|7 km E Monghidoro (BO)|earthquake
+1480119|2003-10-20T21:23:48.730000|41.711|9.198|8.4|BULLETIN-VAX||||Md|3.1|--|Corsica (FRANCIA)|earthquake
+1480689|2003-10-22T16:46:14.470000|43.055|13.376|5.0|BULLETIN-VAX||||Md|3.3|--|3 km E Gualdo (MC)|earthquake
+1480839|2003-10-23T13:11:49.960000|43.271|18.19|10.0|BULLETIN-VAX||||Md|3.3|--|Bosnia and Herz. [Land]|earthquake
+1480959|2003-10-24T02:05:19.400000|45.478|11.523|5.0|BULLETIN-VAX||||Md|3.1|--|3 km SW Arcugnano (VI)|earthquake
+1481349|2003-10-25T17:33:53.410000|42.305|13.289|9.6|BULLETIN-VAX||||Md|3.2|--|2 km NW Tornimparte (AQ)|earthquake
+1481679|2003-10-27T20:57:10.630000|44.432|6.803|10.0|BULLETIN-VAX||||Md|3.0|--|Confine Italia-Francia (FRANCIA)|earthquake
+1482289|2003-10-30T12:19:52.840000|37.349|16.138|13.2|BULLETIN-VAX||||Md|3.3|--|Mar Ionio Meridionale [Mare]|earthquake
+1483449|2003-11-06T01:01:35.810000|38.68|13.882|9.9|BULLETIN-VAX||||Md|3.6|--|Tirreno Meridionale [Mare]|earthquake
+1483909|2003-11-09T01:26:17.280000|42.002|15.592|5.9|BULLETIN-VAX||||Md|3.1|--|Costa Garganica (Foggia)|earthquake
+1484279|2003-11-11T05:17:57.920000|43.868|16.517|10.0|BULLETIN-VAX||||Md|3.2|--|Croatia [Land]|earthquake
+1484899|2003-11-14T00:21:58.500000|40.339|14.568|378.1|BULLETIN-VAX||||ML|4.6|--|Golfo di Salerno (Salerno)|earthquake
+1485769|2003-11-18T06:08:43.060000|39.173|16.41|5.0|BULLETIN-VAX||||Md|3.4|--|1 km N Parenti (CS)|earthquake
+1486249|2003-11-20T05:49:37.910000|42.534|12.761|5.0|BULLETIN-VAX||||Md|3.0|--|3 km W Labro (RI)|earthquake
+1486509|2003-11-21T14:28:56.550000|41.688|14.81|4.0|BULLETIN-VAX||||Md|3.4|--|SE Ripabottoni (CB)|earthquake
+1486599|2003-11-21T18:05:04.320000|43.926|11.828|10.1|BULLETIN-VAX||||Md|3.1|--|7 km W Santa Sofia (FC)|earthquake
+1487679|2003-11-27T09:42:10.330000|43.226|16.135|10.0|BULLETIN-VAX||||Md|3.5|--|Costa Croata meridionale (CROAZIA)|earthquake
+1488079|2003-11-30T08:12:24.470000|38.424|13.686|2.7|BULLETIN-VAX||||Md|3.0|--|Tirreno Meridionale [Mare]|earthquake
+1488419|2003-12-02T04:59:18.390000|38.191|15.18|141.2|BULLETIN-VAX||||Md|3.0|--|Costa Siciliana nord-orientale (Messina)|earthquake
+1488539|2003-12-02T17:51:10.170000|45.674|14.189|10.0|BULLETIN-VAX||||Md|3.2|--|Slovenia (SLOVENIA)|earthquake
+1488899|2003-12-04T03:25:47.130000|43.005|13.453|5.0|BULLETIN-VAX||||Md|3.0|--|1 km E Smerillo (FM)|earthquake
+1489009|2003-12-04T17:43:08.550000|44.449|10.299|11.7|BULLETIN-VAX||||Md|3.1|--|5 km SW Vetto (RE)|earthquake
+1489559|2003-12-07T10:20:33.040000|44.162|12.18|9.2|BULLETIN-VAX||||ML|4.0|--|4 km E Bertinoro (FC)|earthquake
+1490069|2003-12-10T07:20:02.920000|42.521|12.747|5.0|BULLETIN-VAX||||Md|3.2|--|4 km NW Colli sul Velino (RI)|earthquake
+1490209|2003-12-10T22:22:09.380000|43.648|11.049|5.0|BULLETIN-VAX||||Md|3.2|--|2 km W Montespertoli (FI)|earthquake
+1490459|2003-12-11T18:00:43.680000|44.326|11.055|12.0|BULLETIN-VAX||||Md|3.2|--|5 km E Zocca (MO)|earthquake
+1491179|2003-12-16T01:11:15.600000|40.335|15.616|312.7|BULLETIN-VAX||||Md|3.2|--|4 km W Padula (SA)|earthquake
+1491489|2003-12-18T10:13:37.320000|38.446|13.678|13.5|BULLETIN-VAX||||Md|3.0|--|Tirreno Meridionale [Mare]|earthquake
+1491589|2003-12-19T00:37:37.020000|44.465|7.033|14.8|BULLETIN-VAX||||Md|3.0|--|3 km SW Prazzo (CN)|earthquake
+1491749|2003-12-20T03:29:40.950000|44.462|7.141|10.0|BULLETIN-VAX||||Md|3.4|--|4 km E Marmora (CN)|earthquake
+1491879|2003-12-21T01:35:57.000000|44.433|6.993|5.0|BULLETIN-VAX||||Md|3.3|--|5 km S Acceglio (CN)|earthquake
+1493019|2003-12-28T13:40:41.830000|41.67|14.804|4.3|BULLETIN-VAX||||Md|3.1|--|2 km S Ripabottoni (CB)|earthquake
+1493049|2003-12-28T18:32:45.910000|41.641|14.826|5.0|BULLETIN-VAX||||Md|3.1|--|4 km NE Monacilioni (CB)|earthquake
+1493169|2003-12-29T20:12:19.550000|36.273|12.776|10.0|BULLETIN-VAX||||Md|3.2|--|Canale di Sicilia meridionale [Mare]|earthquake
+1493199|2003-12-30T05:31:38.260000|41.64|14.849|5.0|BULLETIN-VAX||||Md|3.8|--|3 km NW Sant'Elia a Pianisi (CB)|earthquake
+1493279|2003-12-30T06:20:58.340000|41.647|14.837|10.0|BULLETIN-VAX||||Md|3.1|--|4 km NW Sant'Elia a Pianisi (CB)|earthquake
+1493369|2003-12-30T16:40:12.050000|39.02|15.354|290.2|BULLETIN-VAX||||Md|3.0|--|Tirreno Meridionale [Mare]|earthquake

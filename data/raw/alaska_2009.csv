@@ -1,0 +1,885 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2009-01-02T01:06:12.374Z,58.9601,-153.883,108,3.3,ml,,,,0.54,ak,ak0093bpfud,2019-02-13T10:57:13.429Z,"73 km SE of Kokhanok, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-01-02T08:31:07.780Z,53.446,-165.375,18.2,3,ml,11,237.9,,,us,usp000gs08,2019-02-13T10:57:15.902Z,"80 km SSE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-02T14:17:14.040Z,58.3943,-151.9586,64.1,5.3,mw,,,,1.01,ak,ak0093jifpo,2025-12-29T21:01:49.127Z,"62 km NNE of Ouzinkie, Alaska",earthquake,,4.4,,,reviewed,ak,ak
+2009-01-02T14:17:37.130Z,53.663,-164.871,26.7,3,ml,14,223.1,,,us,usp000gs0n,2019-02-13T10:57:19.522Z,"79 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-03T05:11:06.330Z,52.206,-169.782,13,3.1,ml,10,341.8,,,us,usp000gs1n,2019-02-13T10:57:33.318Z,"102 km SW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-03T21:06:48.160Z,53.615,-164.674,17.8,3.8,ml,37,165.3,,,us,usp000gs3c,2019-02-13T10:57:39.461Z,"92 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-05T02:45:10.230Z,54.488,-161.559,13.5,3,ml,10,244.5,,,us,usp000gs6w,2019-02-13T10:58:03.179Z,"80 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-05T13:01:37.480Z,54.663,-161.477,21.4,3.1,ml,14,214.2,,,us,usp000gs7j,2019-02-13T10:58:06.793Z,"69 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-05T19:00:50.250Z,54.414,-161.475,5.2,3.5,ml,20,228.6,,,us,usp000gs7x,2019-02-13T10:58:08.913Z,"90 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-06T08:19:02.682Z,61.9795,-152.2986,142.1,3.8,ml,,,,0.78,ak,ak009a23mm4,2019-02-13T10:58:19.064Z,"47 km W of Skwentna, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2009-01-07T08:58:23.483Z,65.3683,-162.2213,36.2,3.3,ml,,,,0.45,ak,ak009bpvdn0,2019-02-13T10:58:44.975Z,"69 km NW of Koyuk, Alaska",earthquake,,262.8,,,reviewed,ak,ak
+2009-01-07T11:44:05.220Z,54.138,-165.316,85,4.5,mb,100,136.5,,1.04,us,usp000gsaw,2019-02-13T10:58:37.471Z,"30 km E of Akutan, Alaska",earthquake,,2.6,,17,reviewed,us,us
+2009-01-07T21:13:21.060Z,54.747,-153.98,10,3.7,ml,65,170.7,,0.55,us,usp000gsbc,2019-02-13T10:58:41.910Z,"245 km S of Akhiok, Alaska",earthquake,,,,,reviewed,us,aeic
+2009-01-08T03:15:15.354Z,61.6558,-150.6331,57.1,3.2,ml,,,,0.51,ak,ak009da6bov,2019-02-13T10:58:49.000Z,"14 km NNW of Susitna, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2009-01-08T08:46:08.770Z,53.392,-163.599,17.9,3,ml,15,188.9,,,us,usp000gsbw,2019-02-13T10:58:50.286Z,"163 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-08T22:21:43.990Z,52.391,-164.82,17,3.5,ml,26,190.2,,,us,usp000gsck,2019-02-13T10:58:55.880Z,"200 km SE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-09T10:52:17.550Z,53.368,-169.643,241.8,3.3,m,25,151.4,,,us,usp000gsda,2019-02-13T10:59:09.496Z,"70 km NW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-10T04:27:05.760Z,53.494,-163.742,4.9,3.1,ml,12,251,,,us,usp000gsec,2019-02-28T20:06:24.992Z,"151 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-11T05:55:10.010Z,53.426,-163.539,7.4,3.1,ml,15,240.6,,,us,usp000gsfk,2019-02-13T10:59:42.979Z,"159 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-11T06:19:23.990Z,53.427,-163.516,3,3.1,ml,14,240.7,,,us,usp000gsfn,2019-02-13T10:59:43.285Z,"159 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-11T08:09:45.700Z,53.412,-163.554,4.7,3.1,ml,13,257.2,,,us,usp000gsfq,2019-02-13T10:59:44.177Z,"160 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-11T11:22:50.124Z,60.6719,-151.684,70.1,3.3,ml,,,,0.62,ak,ak009idlepg,2019-02-13T10:59:45.964Z,"20 km WNW of Salamatof, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-01-13T22:03:20.508Z,57.0938,-154.0876,15.4,3.2,ml,,,,0.57,ak,ak009lv3qgi,2019-02-13T11:00:18.201Z,"17 km NNE of Akhiok, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-01-13T22:39:57.084Z,60.9528,-146.752,14.9,3.4,ml,,,,0.64,ak,ak009lvbj24,2019-02-13T11:05:54.363Z,"10 km NNW of Tatitlek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-01-14T02:17:57.990Z,52.659,-168.181,15.5,3.2,ml,20,217.9,,,us,usp000gsju,2019-02-13T11:00:26.053Z,"55 km SE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-14T10:10:32.179Z,62.0109,-152.0223,111,3.3,ml,,,,0.56,ak,ak009nbjelt,2019-02-13T11:00:30.258Z,"32 km W of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-01-14T22:30:15.506Z,55.5463,-158.7327,45.7,3.3,ml,,,,0.53,ak,ak009nisuwe,2019-02-13T11:00:32.685Z,"48 km SSE of Perryville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-01-15T10:10:41.130Z,53.316,-161.084,10.9,3.2,ml,9,270.8,,,us,usp000gsmg,2019-02-13T11:00:44.679Z,"210 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-15T10:55:36.140Z,53.245,-160.883,28.2,3,ml,8,275.1,,,us,usp000gsmm,2019-02-13T11:00:44.978Z,"222 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-15T13:04:27.243Z,56.1241,-135.6093,19.9,3.2,ml,,,,0.66,ak,ak009p0tr8k,2019-02-13T11:00:45.555Z,"61 km WSW of Port Alexander, Alaska",earthquake,,13.5,,,reviewed,ak,ak
+2009-01-15T23:27:23.940Z,63.6055,-161.8057,22.5,3.1,ml,,,,0.72,ak,ak009p6x0i2,2019-02-13T11:00:47.540Z,"18 km NE of Saint Michael, Alaska",earthquake,,38.2,,,reviewed,ak,ak
+2009-01-16T02:56:49.203Z,61.8744,-142.7663,4.2,3.6,ml,,,,0.86,ak,ak009qi4j08,2019-02-13T11:05:57.702Z,"49 km N of McCarthy, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-01-16T22:58:00.010Z,61.6242,-146.6269,18,3,ml,,,,0.69,ak,ak009qu1iqp,2019-02-13T11:06:00.498Z,"41 km S of Nelchina, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2009-01-17T00:09:32.250Z,52.734,-169.501,61.2,4.2,mb,52,138.6,,,us,usp000gsqf,2019-02-13T11:00:57.433Z,"48 km WSW of Nikolski, Alaska",earthquake,,,,5,reviewed,aeic,us
+2009-01-17T06:24:27.498Z,63.5687,-148.8355,13.6,3.1,ml,,,,0.73,ak,ak009s7upbx,2019-02-13T11:00:58.627Z,"18 km SSE of McKinley Park, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-01-17T08:21:07.040Z,52.257,-132.508,20,4,mb,47,177.2,,,us,usp000gsr2,2014-11-07T01:38:13.038Z,"271 km SSW of Prince Rupert, Canada",earthquake,,,,10,reviewed,pgc,us
+2009-01-17T13:56:40.546Z,63.5715,-151.0205,9.3,4.3,mw,,,,0.86,ak,ak009sc7mhi,2019-02-13T11:01:00.795Z,"Central Alaska",earthquake,,2,,,reviewed,ak,ak
+2009-01-17T23:39:15.441Z,63.1709,-150.6261,118.5,3.3,ml,,,,0.68,ak,ak009si29fc,2019-02-13T11:01:04.136Z,"68 km SE of Denali National Park, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2009-01-18T21:04:56.410Z,54.461,-161.491,15.3,3.6,ml,26,207.6,,,us,usp000gst1,2019-02-13T11:01:18.046Z,"85 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-18T21:17:16.400Z,54.655,-161.662,51.6,4.8,mb,160,134.8,,0.91,us,usp000gst2,2019-02-13T11:01:18.345Z,"61 km SE of King Cove, Alaska",earthquake,,2.5,,58,reviewed,us,us
+2009-01-19T09:24:24.750Z,54.39,-161.548,14.6,3.4,ml,8,252.3,,,us,usp000gsu7,2019-02-13T11:01:29.080Z,"89 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-19T16:03:23.136Z,61.8959,-142.7764,7.1,3.6,ml,,,,0.92,ak,ak009vor7zt,2019-02-13T11:06:03.441Z,"52 km N of McCarthy, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2009-01-20T09:21:47.500Z,59.978,-138.011,2.6,3.3,ml,23,88.5,,,us,usp000gsw9,2019-02-13T11:06:06.560Z,"90 km SSW of Haines Junction, Canada",earthquake,,,,,reviewed,aeic,pgc
+2009-01-20T10:39:13.830Z,53.578,-163.579,10,3.3,ml,28,170.7,,0.95,us,usp000gswf,2019-02-13T11:01:48.488Z,"142 km S of False Pass, Alaska",earthquake,,,,,reviewed,us,aeic
+2009-01-20T17:08:48.206Z,56.7294,-154.7258,15.1,4.2,mb,,,,0.6,ak,ak009xcx4lw,2019-02-13T11:01:50.680Z,"41 km SW of Akhiok, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-01-21T00:16:19.030Z,54.442,-161.491,41.1,3.2,ml,15,231.1,,1.02,us,usp000gsx9,2019-02-13T11:02:03.189Z,"87 km SE of King Cove, Alaska",earthquake,,15.2,,,reviewed,us,aeic
+2009-01-21T00:46:21.800Z,63.0427,-148.4751,80.3,3.6,ml,,,,0.66,ak,ak009yqk6zo,2019-02-13T11:02:03.759Z,"45 km SSE of Cantwell, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-01-21T05:02:28.386Z,62.0876,-151.2051,85.3,3,ml,,,,0.55,ak,ak009yt9y0m,2019-02-13T11:02:06.659Z,"14 km NE of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-01-21T06:27:23.345Z,64.4576,-151.7783,12.9,3.1,ml,,,,0.71,ak,ak009yu0q4u,2019-02-13T11:02:07.361Z,"69 km NNE of Lake Minchumina, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-01-21T12:40:33.858Z,61.8713,-142.8226,5.1,3.3,ml,,,,0.9,ak,ak009yxo4vt,2019-02-13T11:06:08.384Z,"49 km N of McCarthy, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-01-21T23:53:41.660Z,53.379,-163.5,17.2,3,ml,17,231.8,,,us,usp000gsyh,2019-02-13T11:02:15.202Z,"164 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-22T03:37:55.169Z,59.4953,-152.7649,94.8,3.5,ml,,,,0.54,ak,ak00910ftzfg,2019-02-13T11:02:23.883Z,"50 km WNW of Nanwalek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-01-22T10:27:09.640Z,52.358,-163.523,10,3.1,ml,8,253,,,us,usp000gsz9,2019-02-13T11:02:37.208Z,"248 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-22T12:27:00.931Z,55.846,-159.9786,106.7,3.5,ml,,,,0.83,ak,ak00910l4mj1,2019-02-13T11:02:28.706Z,"31 km WSW of Ivanof Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-01-24T12:18:46.704Z,59.0089,-152.6736,59.9,3.4,ml,,,,0.78,ak,ak00913w5hlq,2019-02-13T11:03:00.308Z,"57 km SW of Nanwalek, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2009-01-24T18:09:50.811Z,59.4302,-152.8875,97.9,5.9,ml,,,,0.96,ak,ak00913zo63t,2022-05-02T21:28:50.248Z,"Southern Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2009-01-25T08:08:00.290Z,54.448,-161.494,15.7,3.8,ml,64,153.5,,,us,usp000gt2z,2019-02-13T11:03:13.493Z,"86 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-25T12:53:04.180Z,54.234,-162.374,2.7,3.5,ml,39,154.8,,,us,usp000gt39,2019-02-13T11:03:14.417Z,"Alaska Peninsula",earthquake,,,,,reviewed,aeic,aeic
+2009-01-26T03:20:26.006Z,59.9453,-152.8569,106.3,3.4,ml,,,,0.54,ak,ak009171vnzc,2019-02-13T11:03:28.277Z,"60 km WNW of Anchor Point, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-01-26T05:19:27.560Z,54.441,-161.568,14.6,3,ml,9,247.6,,,us,usp000gt42,2019-02-13T11:03:29.876Z,"84 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-28T18:21:29.325Z,58.8898,-152.2213,41.3,3.4,ml,,,,0.52,ak,ak0091alw30k,2019-02-13T11:04:13.626Z,"54 km SSW of Nanwalek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-01-28T18:56:12.120Z,54.462,-161.444,16,4.8,mb,80,139.1,,,us,usp000gt75,2019-02-13T11:04:14.091Z,"87 km SE of King Cove, Alaska",earthquake,,,,16,reviewed,aeic,us
+2009-01-30T02:40:28.140Z,54.434,-161.433,11.5,3.4,ml,23,212.2,,,us,usp000gt8q,2019-02-13T11:04:58.670Z,"90 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-30T19:08:03.020Z,54.425,-161.422,11.1,3.2,ml,10,242.6,,,us,usp000gt9e,2019-02-13T11:05:03.029Z,"91 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-31T07:27:17.068Z,60.6066,-150.9898,54.8,3.2,ml,,,,0.74,ak,ak0091fdzm6y,2019-02-13T11:05:20.920Z,"9 km NNE of Ridgeway, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-01-31T10:01:34.730Z,53.965,-163.192,13.5,3,ml,20,219.6,,,us,usp000gtac,2019-02-13T11:05:22.751Z,"99 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-01-31T10:07:14.810Z,54.41,-161.451,14.7,3.2,ml,9,242.7,,,us,usp000gtad,2019-02-13T11:05:23.207Z,"Alaska Peninsula",earthquake,,,,,reviewed,aeic,aeic
+2009-01-31T23:54:11.540Z,54.97,-161.496,62.1,3.1,ml,14,194.4,,,us,usp000gtb5,2019-02-13T11:05:30.593Z,"53 km E of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-01T13:18:38.125Z,61.5443,-150.4413,51.7,3.2,ml,,,,0.59,ak,ak0091h51ohw,2019-02-13T11:07:58.456Z,"3 km E of Susitna, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-02-01T15:28:43.900Z,53.235,-167.863,77.5,3,m,15,193.5,,,us,usp000gtby,2019-02-13T11:07:59.683Z,"74 km ENE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-01T16:57:29.340Z,54.859,-160.357,20,3.1,ml,14,233.6,,,us,usp000gtbz,2019-02-13T11:08:00.067Z,"53 km S of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-02T01:54:32.858Z,59.6527,-153.2644,124.6,3.3,ml,,,,0.8,ak,ak0091ilnj3p,2019-02-13T11:08:18.213Z,"49 km ESE of Pedro Bay, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2009-02-04T07:55:00.040Z,54.354,-161.56,10.8,3.1,ml,12,230.3,,,us,usp000gtey,2019-02-13T11:09:10.975Z,"92 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-05T13:46:45.869Z,62.8943,-148.8901,63.8,3,ml,,,,0.77,ak,ak0091nrd34a,2019-02-13T11:09:36.804Z,"55 km S of Cantwell, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-02-05T14:12:47.717Z,58.7265,-152.243,20.9,3,ml,,,,0.6,ak,ak0091nrr8ir,2019-02-13T11:09:37.303Z,"72 km SSW of Nanwalek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-02-05T15:49:31.869Z,56.8681,-156.3638,39.9,4.2,mb,,,,0.67,ak,ak0091nskkea,2019-02-13T11:09:38.157Z,"95 km SE of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-02-05T22:04:36.497Z,59.8508,-152.9877,114.7,3.4,ml,,,,0.64,ak,ak0091nwgyrl,2019-02-13T11:09:40.765Z,"63 km E of Pedro Bay, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-02-06T19:31:24.016Z,59.8037,-153.1641,117,3.2,ml,,,,0.46,ak,ak0091pidrtd,2019-02-13T11:10:05.031Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-02-07T05:32:23.960Z,60.32,-139.405,1,3.1,ml,35,74.3,,,us,usp000gth4,2019-02-13T11:18:46.487Z,"87 km NNE of Yakutat, Alaska",earthquake,,,,,reviewed,pgc,pgc
+2009-02-08T04:11:51.790Z,52.637,-166.373,25.6,3,ml,15,270.4,,,us,usp000gtht,2019-02-13T11:10:38.547Z,"138 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-08T06:13:53.620Z,57.9347,-138.5626,25.2,3,ml,,,,0.56,ak,ak0091slm1c2,2019-02-13T11:18:48.030Z,"134 km WSW of Elfin Cove, Alaska",earthquake,,8.4,,,reviewed,ak,ak
+2009-02-08T06:56:25.082Z,62.2141,-150.2405,57.1,3.5,ml,,,,0.73,ak,ak0091slv6x8,2019-02-13T11:10:41.122Z,"11 km S of Trapper Creek, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-02-08T08:02:12.380Z,52.772,-166.767,1.7,3.4,ml,25,186.3,,,us,usp000gtj1,2019-02-13T11:10:42.357Z,"123 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-08T15:54:35.102Z,60.8439,-152.0888,89.3,3,ml,,,,0.64,ak,ak0091sr7opi,2019-02-13T11:10:46.455Z,"46 km WNW of Nikiski, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-02-09T15:44:15.350Z,54.574,-162.778,84.5,3,m,16,192.3,,,us,usp000gtkb,2019-02-13T11:11:14.561Z,"51 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-10T02:11:21.334Z,57.3881,-154.5762,29.7,4.5,mb,,,,0.93,ak,ak0091vuahz9,2019-02-13T11:11:33.691Z,"21 km SSW of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-02-10T07:42:54.600Z,61.7856,-151.1833,68.4,3.5,ml,,,,0.63,ak,ak0091vxgdro,2019-02-28T20:07:03.810Z,"25 km SSE of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-02-10T23:48:36.440Z,53.675,-165.671,43.2,3,ml,15,207,,,us,usp000gtmh,2019-02-13T11:11:47.896Z,"51 km S of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-12T20:47:31.530Z,54.646,-163.524,4.8,3.6,ml,19,180.8,,,us,usp000gtuk,2019-02-13T11:12:29.291Z,"24 km SSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-13T04:49:17.066Z,57.0664,-156.5546,78.8,3.2,ml,,,,0.78,ak,ak00920ubjju,2019-02-13T11:12:46.769Z,"71 km SE of Ugashik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-02-13T19:10:37.470Z,52.734,-167.018,1.3,3.2,ml,14,254.1,,,us,usp000gtxd,2019-02-13T11:12:53.724Z,"126 km E of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-14T08:11:42.210Z,53.582,-164.737,24.1,3.3,ml,20,214.2,,,us,usp000gtyh,2019-02-13T11:13:07.513Z,"91 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-15T19:35:00.098Z,61.6029,-146.3337,37.2,4.5,mw,,,,0.53,ak,ak00924e8pa1,2019-03-19T20:20:04.598Z,"49 km SSE of Nelchina, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-02-15T20:29:40.010Z,53.293,-160.967,10,3.2,ml,7,294.6,,,us,usp000gu1m,2019-02-13T11:13:39.571Z,"215 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-16T08:18:16.970Z,53.031,-162.488,43.3,3,ml,11,284.4,,,us,usp000gu2e,2019-02-13T11:14:01.847Z,"211 km SSE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-16T19:49:37.092Z,61.7362,-150.7891,66.3,3.5,ml,,,,0.61,ak,ak009261v4nh,2019-03-19T20:20:05.400Z,"25 km NW of Susitna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-02-16T21:03:10.839Z,55.8631,-157.6377,47,4.2,mb,,,,0.74,ak,ak009262s2wb,2019-02-13T11:13:57.121Z,"67 km SE of Chignik, Alaska",earthquake,,10.9,,,reviewed,ak,ak
+2009-02-17T08:55:50.320Z,57.303,-142.779,13.5,3,ml,33,232.1,,,us,usp000gu3n,2019-02-13T11:14:14.661Z,"Gulf of Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-17T21:35:49.672Z,67.2241,-161.3153,19.5,3,ml,,,,0.68,ak,ak00927qidav,2019-02-13T11:14:29.426Z,"44 km NNW of Noorvik, Alaska",earthquake,,67.5,,,reviewed,ak,ak
+2009-02-18T06:57:45.730Z,56.009,-162.503,165.8,4.9,mb,238,32.2,,0.94,us,usp000gu57,2019-02-13T11:14:33.102Z,"80 km W of Nelson Lagoon, Alaska",earthquake,,1.7,,97,reviewed,us,us
+2009-02-19T02:49:41.841Z,65.1611,-145.2488,20,3.5,ml,,,,0.71,ak,ak0092aqct7s,2019-02-13T11:14:52.855Z,"50 km SSW of Central, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-02-19T07:31:59.366Z,60.1048,-152.7034,86.1,3.1,ml,,,,0.58,ak,ak0092at85pc,2019-02-13T11:14:55.256Z,"56 km WNW of Happy Valley, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2009-02-19T13:39:46.801Z,69.8994,-145.9218,9.2,3,ml,,,,1.8,ak,ak0092awug3c,2019-02-13T11:15:00.008Z,"91 km WSW of Kaktovik, Alaska",earthquake,,133.9,,,reviewed,ak,ak
+2009-02-20T03:13:37.240Z,53.405,-163.574,6.8,3,ml,16,222.7,,,us,usp000gu72,2019-02-13T11:15:13.328Z,"161 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-20T21:06:08.293Z,62.9726,-151.0178,123,3.5,ml,,,,0.49,ak,ak0092coy3tp,2019-02-13T11:15:21.599Z,"54 km NNW of Petersville, Alaska",earthquake,,2,,,reviewed,ak,ak
+2009-02-20T23:32:36.881Z,59.4373,-152.6565,64.6,3.4,ml,,,,0.61,ak,ak0092cqaluw,2019-02-13T11:15:23.480Z,"42 km WNW of Nanwalek, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2009-02-21T02:59:16.815Z,67.9899,-146.3734,24.8,3.5,ml,,,,1.03,ak,ak0092e1hlfl,2019-02-13T11:15:34.141Z,"38 km WSW of Arctic Village, Alaska",earthquake,,8.8,,,reviewed,ak,ak
+2009-02-22T02:58:14.892Z,66.4176,-157.6631,10,3,ml,,,,0.83,ak,ak0092fp0q29,2019-02-13T11:15:48.237Z,"57 km SSW of Shungnak, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-02-23T00:04:27.175Z,58.9158,-153.6262,87.8,4.9,mw,,,,0.87,ak,ak0092hb1nml,2019-02-13T11:16:10.790Z,"86 km SE of Pope-Vannoy Landing, Alaska",earthquake,,2.2,,,reviewed,ak,ak
+2009-02-23T04:51:14.755Z,55.0049,-156.5069,61.2,3.4,ml,,,,0.52,ak,ak0092hdpfqr,2019-02-13T11:16:14.758Z,"186 km SE of Chignik, Alaska",earthquake,,105.3,,,reviewed,ak,ak
+2009-02-23T17:05:14.320Z,53.207,-165.669,41.3,4.2,mb,49,133.6,,,us,usp000guau,2019-02-13T11:16:21.006Z,"93 km SE of Unalaska, Alaska",earthquake,,,,3,reviewed,aeic,us
+2009-02-24T02:35:02.990Z,52.821,-168.253,33.1,3,ml,16,241.7,,,us,usp000gub2,2019-02-13T11:16:35.625Z,"43 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-24T08:13:30.817Z,55.5269,-159.5326,13.2,3.1,ml,,,,0.62,ak,ak0092j3eeop,2019-02-13T11:16:38.422Z,"41 km S of Ivanof Bay, Alaska",earthquake,,58.8,,,reviewed,ak,ak
+2009-02-24T09:21:29.610Z,53.519,-164.71,24.3,3.2,ml,17,215.2,,,us,usp000gubp,2019-02-13T11:16:40.450Z,"98 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-24T11:18:59.808Z,58.2571,-154.1523,76.1,3.2,ml,,,,0.79,ak,ak0092j57ubg,2019-02-13T11:16:43.018Z,"76 km WNW of Aleneva, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2009-02-24T14:30:29.122Z,62.8971,-143.7369,11.1,3,ml,,,,1.18,ak,ak0092j72ncw,2019-02-13T11:16:45.979Z,"3 km SSE of Mentasta Lake, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-02-24T16:20:23.625Z,62.8751,-143.7989,5.9,4.1,mw,,,,1.21,ak,ak0092j87cze,2019-02-13T11:16:47.632Z,"5 km SSW of Mentasta Lake, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-02-24T22:39:07.130Z,53.304,-165.6,11.3,3.5,ml,20,221.7,,,us,usp000guce,2019-02-13T11:16:51.025Z,"88 km SE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-25T05:14:11.892Z,63.3266,-145.1297,0.4,3,ml,,,,0.85,ak,ak0092kp5mmd,2019-02-13T11:17:07.764Z,"35 km NE of Paxson, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2009-02-25T18:02:52.438Z,54.6355,-156.7555,42.1,3.3,ml,,,,0.66,ak,ak0092kwts0r,2019-02-13T11:17:29.443Z,"207 km SE of Perryville, Alaska",earthquake,,46.9,,,reviewed,ak,ak
+2009-02-27T02:30:20.270Z,56.014,-161.421,197.3,3.5,m,23,164.5,,,us,usp000gue6,2019-02-13T11:17:52.609Z,"13 km W of Nelson Lagoon, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-02-28T14:51:43.787Z,58.827,-142.788,7.8,3,ml,,,,0.42,ak,ak0092ptcki2,2019-02-13T11:20:25.814Z,"192 km WSW of Yakutat, Alaska",earthquake,,16.2,,,reviewed,ak,ak
+2009-03-01T10:13:03.700Z,66.629,-135.74,15,4,mwr,61,56.6,,,us,usp000guh4,2019-02-13T11:20:34.462Z,"97 km SSW of Fort McPherson, Canada",earthquake,,,,,reviewed,pgc,pgc
+2009-03-01T16:03:16.581Z,59.808,-152.7648,84.8,4.3,mb,,,,0.6,ak,ak0092rhsfqi,2019-02-13T11:20:36.477Z,"52 km W of Anchor Point, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-04T02:07:07.439Z,61.9648,-147.8174,29.3,3.6,ml,,,,0.62,ak,ak0092w838wn,2019-02-13T11:21:36.122Z,"19 km NNW of Glacier View, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-04T23:24:33.864Z,63.6732,-149.8932,137.5,3,ml,,,,0.43,ak,ak0092wkp1tm,2019-02-13T11:21:54.753Z,"48 km W of McKinley Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-05T17:37:44.454Z,62.9788,-150.4171,93.6,3.3,ml,,,,0.63,ak,ak0092y4qlt9,2019-02-13T11:22:19.646Z,"56 km NNE of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-07T05:06:20.100Z,53.037,-166.92,25.1,3.4,ml,12,224.7,,,us,usp000guqe,2019-02-13T11:22:48.270Z,"96 km SSW of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-07T05:21:30.760Z,53.198,-167.092,48,4.4,mb,55,137.9,,0.68,us,usp000guqf,2019-02-13T11:22:48.700Z,"83 km SSW of Unalaska, Alaska",earthquake,,3.3,,7,reviewed,us,us
+2009-03-07T06:03:16.169Z,61.8891,-147.1821,39.8,3.2,ml,,,,0.47,ak,ak00931926m8,2019-02-13T11:22:49.577Z,"Southern Alaska",earthquake,,2.8,,,reviewed,ak,ak
+2009-03-07T11:09:39.647Z,57.7014,-156.2403,116.2,3,ml,,,,0.7,ak,ak00931c2or0,2019-02-13T11:22:51.327Z,"72 km ENE of Ugashik, Alaska",earthquake,,33.8,,,reviewed,ak,ak
+2009-03-09T05:21:23.740Z,59.364,-136.638,11.4,3.1,ml,16,120.7,,,us,usp000guse,2019-02-13T11:32:29.677Z,"35 km W of Covenant Life, Alaska",earthquake,,,,,reviewed,aeic,pgc
+2009-03-09T07:54:48.650Z,53.786,-164.05,25.9,3.3,ml,19,210.4,,,us,usp000gusk,2019-02-13T11:23:33.343Z,"119 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-09T15:25:30.401Z,66.3042,-135.8253,24.3,3.5,ml,,,,0.82,ak,ak00934pmiwg,2019-02-13T11:23:36.332Z,"133 km SSW of Fort McPherson, Canada",earthquake,,620.9,,,reviewed,ak,ak
+2009-03-10T13:13:57.349Z,57.3578,-153.8821,37.8,3.4,ml,,,,0.61,ak,ak00936bwho6,2019-02-13T11:24:05.239Z,"21 km SSE of Larsen Bay, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2009-03-10T14:35:35.959Z,55.9719,-154.0519,16.8,3,ml,,,,0.8,ak,ak00936cmldn,2019-02-13T11:24:17.723Z,"108 km S of Akhiok, Alaska",earthquake,,91.2,,,reviewed,ak,ak
+2009-03-10T23:40:06.910Z,66.7353,-135.9815,3.2,3,ml,,,,0.49,ak,ak00936i0i5v,2019-02-13T11:24:20.112Z,"91 km SSW of Fort McPherson, Canada",earthquake,,53.8,,,reviewed,ak,ak
+2009-03-11T22:43:10.036Z,60.356,-151.9643,72.1,3,ml,,,,0.57,ak,ak009384z2fv,2019-02-13T11:24:31.357Z,"34 km WNW of Clam Gulch, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-11T22:49:38.167Z,59.5045,-152.8621,84.2,3,ml,,,,0.45,ak,ak0093850ewo,2019-02-13T11:24:31.836Z,"55 km WNW of Nanwalek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-12T05:37:04.242Z,65.539,-144.2817,8.5,3.1,ml,,,,0.8,ak,ak00939icqwo,2019-02-13T11:24:46.644Z,"24 km E of Central, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-03-12T11:25:20.289Z,60.3014,-153.5612,191.7,4.4,mb,,,,0.9,ak,ak00939lut6k,2019-02-13T11:24:48.479Z,"43 km ENE of Port Alsworth, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-03-12T17:13:53.931Z,63.2638,-150.5334,129,3.4,ml,,,,0.58,ak,ak00939pcwtd,2019-02-13T11:24:53.523Z,"67 km ESE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-13T08:29:48.600Z,52.733,-168.44,30.6,4,ml,32,138.6,,,us,usp000guyb,2019-02-13T11:25:15.404Z,"36 km SE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-13T14:36:05.967Z,63.1318,-151.5426,11.2,3.5,ml,,,,0.69,ak,ak0093bb8s9g,2019-02-13T11:25:17.719Z,"46 km S of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-14T00:16:23.136Z,62.1428,-149.4967,43.6,3,ml,,,,0.62,ak,ak0093cqbtah,2019-02-13T11:25:32.041Z,"18 km E of Susitna North, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2009-03-14T01:11:52.173Z,58.875,-136.4631,0.9,3.1,ml,,,,0.83,ak,ak0093cqw8k1,2019-02-13T11:32:32.584Z,"65 km SSW of Covenant Life, Alaska",earthquake,,7.7,,,reviewed,ak,ak
+2009-03-14T03:04:12.637Z,63.1246,-150.8366,121.1,3.9,ml,,,,0.78,ak,ak0093cs1ipb,2019-02-13T11:25:34.390Z,"64 km SE of Denali National Park, Alaska",earthquake,,2.7,,,reviewed,ak,ak
+2009-03-14T16:16:51.180Z,54.026,-164.799,67.3,3.2,ml,19,192.4,,,us,usp000guzx,2019-02-13T11:25:41.518Z,"65 km E of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-15T09:12:22.620Z,54.087,-162.531,12.9,3,ml,13,222.9,,,us,usp000gv0d,2019-02-13T11:25:56.884Z,"102 km SSE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-15T12:04:47.000Z,52.044,-169.451,18.9,3,ml,9,337.7,,,us,usp000gv0f,2019-02-13T11:25:59.535Z,"107 km SSW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-15T14:31:26.060Z,52.27,-168.037,3.9,3,ml,10,242.7,,,us,usp000gv0m,2019-02-13T11:26:01.201Z,"93 km SE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-16T06:40:22.737Z,60.3894,-152.3578,92,3.2,ml,,,,0.55,ak,ak0093g54929,2019-02-13T11:26:16.788Z,"53 km NW of Ninilchik, Alaska",earthquake,,2.3,,,reviewed,ak,ak
+2009-03-16T07:17:17.270Z,54.956,-153.609,18.5,3.2,ml,9,257.2,,,us,usp000gv1b,2019-02-13T11:26:24.635Z,"224 km S of Akhiok, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-16T08:33:18.146Z,61.9373,-147.8499,35.1,3,ml,,,,0.64,ak,ak0093g69lwm,2019-02-13T11:26:17.606Z,"17 km NW of Glacier View, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-03-17T01:13:33.066Z,60.2371,-152.1522,90.1,4.3,mw,,,,0.61,ak,ak0093hpinzu,2019-06-28T18:48:29.655Z,"34 km NW of Ninilchik, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-17T04:18:44.395Z,60.4314,-153.0123,143.8,3,ml,,,,0.63,ak,ak0093hrc29j,2019-02-13T11:26:31.455Z,"76 km ENE of Port Alsworth, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-03-17T07:33:03.571Z,65.594,-149.9197,13.9,3.9,mw,,,,0.78,ak,ak0093ht7ho5,2019-03-19T20:20:06.069Z,"15 km NE of Rampart, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-18T05:51:20.250Z,55.096,-163.401,196.4,3.1,m,13,181,,,us,usp000gv3u,2019-02-13T11:26:54.119Z,"Unimak Island region, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-18T09:15:59.770Z,52.862,-167.362,22.3,3.6,ml,17,219.2,,,us,usp000gv3z,2019-02-13T11:26:55.853Z,"101 km E of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-18T11:09:54.790Z,53.076,-166.945,26.4,3.4,ml,16,209.2,,,us,usp000gv43,2019-02-13T11:26:56.952Z,"92 km SSW of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-19T07:25:48.520Z,53.717,-157.485,39.8,3.6,ml,28,223.1,,,us,usp000gv4z,2019-02-13T11:27:26.974Z,"265 km SE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-19T14:43:37.820Z,54.9102,-158.5427,25.7,3.6,ml,,,,0.77,ak,ak0093l8ifp2,2019-02-13T11:27:21.367Z,"117 km SSE of Perryville, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2009-03-19T21:21:44.509Z,61.9042,-144.8336,63.9,3,ml,,,,0.45,ak,ak0093lcjroy,2019-02-13T11:32:36.556Z,"21 km NNE of Kenny Lake, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-03-20T02:40:27.462Z,61.7836,-152.0026,110.7,3.4,ml,,,,0.53,ak,ak0093movwze,2019-02-13T11:27:36.292Z,"39 km SW of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-20T07:02:01.816Z,62.9947,-151.0105,119.6,3.5,ml,,,,0.63,ak,ak0093mrmvth,2019-02-13T11:27:39.071Z,"56 km NNW of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-20T08:05:32.100Z,52.812,-162.334,23.6,3,ml,7,258.6,,,us,usp000gv70,2019-02-13T11:27:50.291Z,"238 km SSE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-22T15:02:22.510Z,58.5262,-156.0176,174.2,3.1,ml,,,,0.98,ak,ak0093q7h38r,2019-02-13T11:28:24.898Z,"41 km ESE of King Salmon, Alaska",earthquake,,1,,,reviewed,ak,ak
+2009-03-23T01:22:59.480Z,53.839,-166.791,82.3,3.3,m,24,100.6,,,us,usp000gvav,2019-02-13T11:28:41.726Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-23T18:11:43.789Z,66.4247,-157.8794,10,3,ml,,,,0.97,ak,ak0093rwupmy,2019-02-13T11:28:48.488Z,"61 km SSW of Shungnak, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-24T14:54:41.930Z,54.837,-160.655,18.8,3.2,ml,16,218.6,,,us,usp000gvck,2019-02-13T11:29:09.150Z,"56 km S of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-26T22:10:54.454Z,60.562,-147.8949,3.9,3,ml,,,,0.61,ak,ak0093wxuan9,2019-02-13T11:29:42.343Z,"49 km ESE of Whittier, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-03-27T02:58:38.980Z,61.012,-138.414,1,5,mwc,349,41.5,,,us,usp000gvf4,2022-05-02T21:17:01.860Z,"56 km WNW of Haines Junction, Canada",earthquake,,,,,reviewed,pgc,gcmt
+2009-03-27T04:54:56.500Z,53.441,-163.669,11.2,4.8,mb,151,137.2,,,us,usp000gvf9,2019-02-13T11:29:58.526Z,"158 km S of False Pass, Alaska",earthquake,,,,51,reviewed,aeic,us
+2009-03-27T15:49:00.523Z,66.3136,-157.4555,6.9,3.2,ml,,,,0.49,ak,ak0093yhfuo4,2019-02-13T11:30:18.396Z,"65 km SSW of Shungnak, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2009-03-27T16:55:51.710Z,54.518,-161.458,14.4,3,ml,10,236,,,us,usp000gvfx,2019-02-13T11:30:19.567Z,"81 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-28T00:49:14.270Z,52.266,-165.923,10,3.3,ml,39,139.1,,,us,usp000gvg8,2019-02-13T11:30:38.832Z,"183 km SSE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-28T06:31:18.500Z,55.039,-161.19,55.8,3.1,ml,18,194.5,,,us,usp000gvge,2019-02-13T11:30:41.079Z,"55 km SW of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-03-28T14:11:21.730Z,61.051,-138.479,5,4.1,mwr,91,36.9,,0.89,us,usp000gvgy,2019-02-13T11:32:42.554Z,"62 km WNW of Haines Junction, Canada",earthquake,,,,,reviewed,us,us
+2009-03-28T18:20:16.077Z,62.5441,-151.212,91.3,3.3,ml,,,,0.66,ak,ak009406lbev,2019-02-13T11:30:47.138Z,"23 km WNW of Petersville, Alaska",earthquake,,4.6,,,reviewed,ak,ak
+2009-03-29T00:49:59.616Z,66.3824,-157.5437,14,3.5,ml,,,,1.09,ak,ak00941jl655,2019-02-13T11:31:01.934Z,"59 km SSW of Shungnak, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2009-03-30T02:09:40.113Z,61.2961,-149.7076,35,3.1,ml,,,,0.66,ak,ak0094382rp7,2019-03-19T20:20:06.709Z,"5 km NW of Elmendorf Air Force Base, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-30T03:42:46.950Z,56.2872,-152.4774,20.4,5.2,mw,,,,0.97,ak,ak009438vagn,2025-12-22T15:36:03.937Z,"113 km SSE of Old Harbor, Alaska",earthquake,,2.4,,,reviewed,ak,ak
+2009-03-30T03:47:42.639Z,56.1766,-152.2063,20,3.4,ml,,,,0.9,ak,ak009438wcpj,2019-02-13T11:31:30.363Z,"132 km SSE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-30T04:28:32.287Z,56.3051,-152.5404,24,3.7,ml,,,,1.16,ak,ak009439dows,2019-02-13T11:31:17.690Z,"110 km SSE of Old Harbor, Alaska",earthquake,,10.4,,,reviewed,ak,ak
+2009-03-30T07:13:03.259Z,56.2165,-152.3473,13,5.9,mw,,,,1.67,ak,ak00943b2pqt,2022-05-02T21:10:34.256Z,"124 km SSE of Old Harbor, Alaska",earthquake,,3.2,,,reviewed,ak,ak
+2009-03-30T07:34:40.402Z,56.2278,-152.3737,20.5,3.5,ml,,,,1.29,ak,ak00943b7anc,2019-02-13T11:31:18.585Z,"122 km SSE of Old Harbor, Alaska",earthquake,,5.7,,,reviewed,ak,ak
+2009-03-30T07:40:30.581Z,56.2499,-152.3988,19.7,3.5,ml,,,,1.45,ak,ak00943b8k6q,2019-02-13T11:31:19.016Z,"119 km SSE of Old Harbor, Alaska",earthquake,,13.4,,,reviewed,ak,ak
+2009-03-30T09:34:24.972Z,56.1876,-152.4118,21.1,3.3,ml,,,,1.39,ak,ak00943ce4o1,2019-02-13T11:31:20.259Z,"125 km SSE of Old Harbor, Alaska",earthquake,,40.5,,,reviewed,ak,ak
+2009-03-30T10:02:47.598Z,56.3187,-152.8802,20,3.1,ml,,,,1.78,ak,ak00943csr3r,2019-02-13T11:31:31.378Z,"101 km SSE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-30T11:04:18.812Z,56.0329,-152.2227,20,4.2,mb,,,,1.03,ak,ak00943dejx5,2019-02-13T11:31:31.728Z,"146 km SSE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-30T11:29:48.409Z,56.2464,-152.3711,13.7,4.8,mb,,,,0.93,ak,ak00943djz3s,2019-02-13T11:31:20.973Z,"120 km SSE of Old Harbor, Alaska",earthquake,,2.8,,,reviewed,ak,ak
+2009-03-30T12:09:07.485Z,56.2332,-152.591,24.1,4.1,mb,,,,1.06,ak,ak00943e118c,2019-02-13T11:31:22.431Z,"116 km SSE of Old Harbor, Alaska",earthquake,,3.1,,,reviewed,ak,ak
+2009-03-30T12:31:25.483Z,56.3375,-152.804,26.9,3,ml,,,,1.39,ak,ak00943e5sdg,2019-02-13T11:31:32.078Z,"101 km SSE of Old Harbor, Alaska",earthquake,,35.7,,,reviewed,ak,ak
+2009-03-30T13:12:41.445Z,56.2574,-152.6835,20,3.1,ml,,,,1.4,ak,ak00943en6ls,2019-02-13T11:31:32.776Z,"111 km SSE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-03-30T17:38:13.529Z,56.3028,-152.6549,22.9,5,mw,,,,1.05,ak,ak00943h6fhk,2025-12-22T15:36:05.118Z,"107 km SSE of Old Harbor, Alaska",earthquake,,2.3,,,reviewed,ak,ak
+2009-03-31T03:27:34.592Z,56.2497,-152.5735,19.8,4.2,mb,,,,1.24,ak,ak00944wbe9f,2019-02-13T11:31:52.334Z,"115 km SSE of Old Harbor, Alaska",earthquake,,3.2,,,reviewed,ak,ak
+2009-03-31T09:56:22.940Z,56.2095,-152.6285,19.8,3.5,ml,,,,1.23,ak,ak00945026ra,2019-02-13T11:31:54.430Z,"118 km SSE of Old Harbor, Alaska",earthquake,,5.1,,,reviewed,ak,ak
+2009-03-31T14:41:32.070Z,52.228,-169.674,14.5,3.5,ml,12,221.9,,,us,usp000gvm5,2019-02-13T11:31:57.672Z,"96 km SW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-01T06:46:54.690Z,53.77,-165.839,62.5,3,ml,25,186.4,,,us,usp000gvn4,2019-02-13T11:34:15.956Z,"40 km S of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-01T12:33:53.133Z,61.6555,-150.8879,73.2,3.7,ml,,,,0.83,ak,ak00946p8yxd,2019-03-19T20:20:08.093Z,"23 km WNW of Susitna, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-01T17:37:27.357Z,53.1789,-146.3079,12,3.8,ml,,,,0.52,ak,ak00946s8xtr,2019-02-13T11:34:38.631Z,"south of Alaska",earthquake,,9117.6,,,reviewed,ak,ak
+2009-04-01T19:10:11.710Z,56.0679,-157.9076,60.8,3,ml,,,,0.65,ak,ak00946t9zhv,2019-02-13T11:34:23.813Z,"39 km SE of Chignik, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-04-02T06:20:16.952Z,62.1059,-149.1816,28.5,3.2,ml,,,,0.64,ak,ak0094894uov,2019-02-13T11:34:47.054Z,"35 km E of Susitna North, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-02T06:53:11.959Z,61.3332,-146.5829,20.9,3.2,ml,,,,0.56,ak,ak009489bwxn,2019-02-13T11:34:47.595Z,"25 km NNW of Valdez, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-04T08:11:24.760Z,54.418,-161.611,16.3,3.1,ml,11,230.3,,,us,usp000gvr8,2019-02-13T11:35:40.739Z,"84 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-04T17:44:36.898Z,62.2377,-141.5375,1.6,3.1,ml,,,,0.8,ak,ak0094bqwi21,2019-02-13T11:35:49.005Z,"53 km SSW of Alcan Border, Alaska",earthquake,,9.2,,,reviewed,ak,ak
+2009-04-04T18:45:22.250Z,53.444,-163.63,18.7,4.4,mb,56,173.5,,,us,usp000gvru,2019-02-13T11:35:49.435Z,"157 km S of False Pass, Alaska",earthquake,,,,13,reviewed,aeic,us
+2009-04-04T23:54:54.700Z,53.281,-167.338,13.7,3.8,ml,19,192,,,us,usp000gvs6,2019-02-13T11:35:50.232Z,"84 km SW of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-05T00:38:09.100Z,53.369,-167.938,196.4,3,m,18,172.1,,,us,usp000gvs8,2019-02-13T11:36:14.172Z,"78 km NE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-05T09:44:23.280Z,63.3284,-145.175,9.6,3.2,ml,,,,0.85,ak,ak0094d9ocns,2019-02-13T11:36:06.985Z,"34 km NE of Paxson, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-05T16:02:57.439Z,64.0312,-166.0977,10,3.2,ml,,,,1.42,ak,ak0094ddlggf,2019-02-13T11:36:23.344Z,"62 km SSW of Nome, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-06T05:59:14.460Z,53.36,-163.522,22.6,3.2,ml,21,220.8,,,us,usp000gvu4,2019-02-13T11:36:32.444Z,"166 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-06T20:31:20.514Z,60.316,-152.6495,109.7,3.8,ml,,,,0.66,ak,ak0094f3ooab,2019-02-13T11:36:39.470Z,"61 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2009-04-07T09:25:35.600Z,54.751,-160.995,0.7,3.5,ml,36,195.2,,,us,usp000gvve,2019-02-13T11:36:59.342Z,"72 km SSW of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-07T20:02:02.160Z,53.886,-160.647,19.9,3,ml,20,261.4,,,us,usp000gvw1,2019-02-13T11:37:04.441Z,"161 km S of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-07T20:12:55.351Z,61.4542,-149.7428,33,4.6,mw,,,,0.73,ak,ak0094gr40v3,2019-03-19T20:20:08.785Z,"0 km WSW of Knik, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-08T23:45:45.926Z,54.6258,-137.1954,9.9,3,ml,,,,1.15,ak,ak0094igmq2o,2019-02-13T11:37:56.254Z,"242 km SW of Port Alexander, Alaska",earthquake,,44.5,,,reviewed,ak,ak
+2009-04-09T00:23:08.010Z,52.244,-169.02,8.8,3,ml,8,341,,,us,usp000gvxx,2019-02-13T11:37:56.909Z,"78 km S of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-09T01:22:47.158Z,60.5046,-152.6732,7.3,3.3,ml,,,,0.64,ak,ak0094jqxlvv,2019-02-13T11:37:57.269Z,"75 km NW of Ninilchik, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-10T01:23:30.800Z,53.48,-163.55,11.6,3.1,ml,23,238.3,,,us,usp000gvzf,2019-02-13T11:38:23.214Z,"153 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-10T05:50:10.253Z,63.4948,-151.7374,14.4,4.5,mw,,,,0.76,ak,ak0094lh0m01,2019-03-19T20:20:10.008Z,"5 km S of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-04-10T22:14:43.910Z,52.639,-169.91,157.6,3.2,m,20,202.9,,,us,usp000gw0k,2019-02-13T11:38:46.954Z,"78 km WSW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-11T14:59:21.253Z,61.9011,-152.2945,3.9,3.1,ml,,,,0.69,ak,ak0094n9yt8d,2019-02-13T11:38:54.381Z,"48 km WSW of Skwentna, Alaska",earthquake,,3.9,,,reviewed,ak,ak
+2009-04-11T15:02:29.834Z,59.966,-152.8017,97.8,3,ml,,,,0.57,ak,ak0094na81on,2019-02-13T11:38:54.824Z,"58 km WNW of Anchor Point, Alaska",earthquake,,2,,,reviewed,ak,ak
+2009-04-12T01:37:38.802Z,61.8682,-142.7932,16.2,4,mw,,,,1.08,ak,ak0094opmugo,2019-02-13T11:46:13.861Z,"48 km N of McCarthy, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-04-12T07:00:03.861Z,56.5663,-152.105,27.4,3,ml,,,,0.53,ak,ak0094oszfwi,2019-02-13T11:39:11.800Z,"101 km SE of Old Harbor, Alaska",earthquake,,6.1,,,reviewed,ak,ak
+2009-04-14T14:29:07.310Z,54.423,-161.613,15.8,3.2,ml,14,225.8,,,us,usp000gw4q,2019-02-13T11:40:04.498Z,"84 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-14T17:14:27.415Z,60.1578,-153.0567,117.8,4.3,mw,,,,0.76,ak,ak0094sa3is5,2019-02-13T11:40:07.685Z,"70 km E of Port Alsworth, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-04-14T19:24:06.864Z,63.109,-150.2833,106.3,3,ml,,,,0.75,ak,ak0094sbchke,2019-02-13T11:40:09.280Z,"72 km NNE of Petersville, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-15T09:20:55.570Z,53.76,-165.787,61.2,3.4,ml,25,191.6,,,us,usp000gw5w,2019-02-13T11:40:22.035Z,"41 km S of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-15T23:28:54.287Z,63.5451,-147.3676,6.6,3.2,ml,,,,0.76,ak,ak0094u1aj04,2019-02-13T11:40:26.199Z,"79 km ESE of McKinley Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-16T05:06:00.677Z,58.7127,-137.641,14.9,4.5,mw,,,,0.82,ak,ak0094vdz8pv,2022-07-15T08:02:37.597Z,"95 km NW of Elfin Cove, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-04-16T05:10:12.750Z,58.8065,-137.6155,11.7,3.5,ml,,,,0.72,ak,ak0094ve04ij,2019-02-13T11:46:19.176Z,"100 km NW of Elfin Cove, Alaska",earthquake,,1.5,,,reviewed,ak,ak
+2009-04-17T10:11:35.211Z,62.9931,-151.0236,118.6,3.2,ml,,,,0.57,ak,ak0094x4iwhd,2019-02-13T11:41:04.272Z,"56 km NNW of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-04-17T18:47:06.849Z,63.0028,-149.7175,82.9,3,ml,,,,0.68,ak,ak0094x9i0ws,2019-02-13T11:41:06.292Z,"58 km SW of Cantwell, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-04-17T20:21:14.082Z,55.4998,-158.1894,20,3.2,ml,,,,0.51,ak,ak0094xajc28,2019-02-13T11:41:07.667Z,"75 km SE of Perryville, Alaska",earthquake,,1,,,reviewed,ak,ak
+2009-04-17T22:13:26.750Z,54.509,-161.49,2.2,3.7,ml,43,123.9,,,us,usp000gwa4,2019-02-13T11:41:08.842Z,"81 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-18T07:50:20.560Z,59.683,-137.953,1,3.5,ml,29,166,,,us,usp000gwap,2019-02-13T11:47:12.562Z,"101 km E of Yakutat, Alaska",earthquake,,,,,reviewed,pgc,pgc
+2009-04-19T00:54:16.628Z,56.209,-152.391,20,3.3,ml,,,,0.69,ak,ak009509wfry,2019-02-13T11:41:53.986Z,"124 km SSE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-20T05:08:57.708Z,61.8164,-151.6997,104.2,3.2,ml,,,,0.73,ak,ak00952056iy,2019-02-13T11:42:08.836Z,"25 km SW of Skwentna, Alaska",earthquake,,1,,,reviewed,ak,ak
+2009-04-20T06:36:29.820Z,54.218,-162.492,7.6,3.2,ml,26,207.8,,,us,usp000gwd0,2019-02-13T11:42:10.353Z,"Alaska Peninsula",earthquake,,,,,reviewed,aeic,aeic
+2009-04-21T14:28:55.370Z,53.074,-166.811,25.4,3.4,ml,24,210.2,,,us,usp000gwf1,2019-02-13T11:42:41.238Z,"90 km SSW of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-21T22:48:05.050Z,53.48,-168.163,222.5,3,m,8,180,,,us,usp000gwfg,2019-02-13T11:42:53.376Z,"76 km NE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-22T02:55:27.757Z,60.2683,-153.6916,193.2,3,ml,,,,0.93,ak,ak009559pl1j,2019-02-13T11:42:55.116Z,"35 km ENE of Port Alsworth, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-04-22T05:53:30.570Z,52.538,-169.514,19,4.5,mb,102,91.8,,,us,usp000gwft,2019-02-13T11:42:58.424Z,"62 km SW of Nikolski, Alaska",earthquake,,,,36,reviewed,aeic,us
+2009-04-22T08:50:10.390Z,52.805,-167.846,29.1,3.2,ml,15,243.8,,,us,usp000gwfy,2019-02-13T11:43:00.311Z,"69 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-22T17:42:39.566Z,61.5162,-160.2667,3.1,3.4,ml,,,,0.52,ak,ak00955ikbpw,2019-02-13T11:43:15.645Z,"3 km SE of Kalskag, Alaska",earthquake,,31.5,,,reviewed,ak,ak
+2009-04-24T04:06:48.009Z,59.6078,-154.6252,197.9,3.1,ml,,,,0.88,ak,ak00958loops,2019-02-13T11:43:46.087Z,"9 km NW of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-04-24T05:46:59.980Z,61.3637,-151.7662,82.6,3,ml,,,,0.68,ak,ak00958mipvy,2019-02-13T11:43:46.858Z,"44 km NW of Beluga, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-04-24T05:47:59.980Z,61.364,-151.766,82.6,3,m,59,46.2,,,us,usp000gwhp,2014-11-07T01:38:49.595Z,"44 km NW of Beluga, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-24T13:37:00.780Z,54.47,-161.665,4.5,3.1,ml,11,227.3,,,us,usp000gwhy,2019-02-13T11:43:49.515Z,"78 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-26T00:38:28.190Z,52.457,-165.401,35,4.9,mb,250,119.5,,0.98,us,usp000gwkc,2019-02-13T11:44:26.541Z,"174 km SSE of Unalaska, Alaska",earthquake,,,,107,reviewed,us,us
+2009-04-26T13:36:05.440Z,52.154,-168.561,25.7,3.1,ml,10,311.6,,,us,usp000gwks,2019-02-13T11:44:30.523Z,"89 km SSE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-26T13:50:50.292Z,61.181,-149.145,22.7,3.9,mb,,,,0.58,ak,ak0095c2dptx,2019-03-19T20:20:10.737Z,"26 km N of Girdwood, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-26T22:04:34.597Z,61.9166,-146.7932,23.5,3.3,ml,,,,0.6,ak,ak0095c7gq4j,2019-02-13T11:44:34.837Z,"8 km S of Nelchina, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-04-27T07:27:50.990Z,53.496,-163.495,10,3.1,ml,23,220.6,,,us,usp000gwmc,2019-02-13T11:44:47.317Z,"151 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-04-28T05:30:35.979Z,61.4352,-149.8101,27.4,3,ml,,,,0.65,ak,ak0095f8kmjx,2019-03-19T20:20:11.477Z,"5 km WSW of Knik, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-28T19:21:55.731Z,61.2555,-151.0475,56.4,3.2,ml,,,,0.76,ak,ak0095fgut3p,2019-02-13T11:45:16.045Z,"12 km N of Beluga, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-04-29T19:13:41.600Z,53.04,-167.033,21.8,4.4,mb,87,138.1,,,us,usp000gwpc,2019-02-13T11:45:32.109Z,"98 km SSW of Unalaska, Alaska",earthquake,,,,18,reviewed,aeic,us
+2009-04-30T04:54:57.938Z,58.9929,-151.3109,52.7,5,mw,,,,0.84,ak,ak0095ij72td,2022-05-02T19:49:38.595Z,"49 km SE of Port Graham, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-05-01T03:05:36.790Z,54.111,-164.044,23.6,3,ml,22,195.3,,,us,usp000gwqb,2019-02-13T11:47:43.911Z,"92 km SSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-02T02:19:12.470Z,54.531,-161.52,9.4,5.6,mwc,462,22.7,,,us,usp000gwrk,2022-05-02T21:11:45.232Z,"78 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,gcmt
+2009-05-02T02:23:03.841Z,54.4094,-161.4893,12.4,3.3,ml,,,,0.39,ak,ak0095lsw580,2019-02-13T11:48:37.438Z,"90 km SE of King Cove, Alaska",earthquake,,13.8,,,reviewed,ak,ak
+2009-05-02T02:28:35.780Z,54.527,-161.507,4.1,3.6,ml,26,205.8,,,us,usp000gwrm,2019-02-13T11:48:01.190Z,"79 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-02T03:50:34.580Z,54.406,-161.499,13.4,3.3,ml,11,246,,,us,usp000gwrr,2019-02-13T11:48:03.352Z,"90 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-02T16:28:35.830Z,54.472,-161.571,13.8,3,ml,9,255.3,,,us,usp000gwsa,2019-02-13T11:48:18.171Z,"81 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-02T18:43:51.590Z,59.304,-137.239,10,3.2,ml,18,134.3,,,us,usp000gwsc,2019-02-13T11:59:29.644Z,"69 km WSW of Mosquito Lake, Alaska",earthquake,,,,,reviewed,aeic,pgc
+2009-05-02T21:50:46.404Z,56.648,-153.6496,2.9,3.6,ml,,,,0.69,ak,ak0095m4d9c0,2019-02-13T11:48:21.809Z,"45 km SE of Akhiok, Alaska",earthquake,,2.9,,,reviewed,ak,ak
+2009-05-03T05:09:51.834Z,56.3053,-152.1101,15,3.5,ml,,,,0.8,ak,ak0095ni4w7j,2019-02-13T11:48:46.297Z,"123 km SE of Old Harbor, Alaska",earthquake,,8.3,,,reviewed,ak,ak
+2009-05-03T10:53:08.200Z,53.396,-163.549,12.6,3.3,ml,17,242.3,,,us,usp000gwsw,2019-02-13T11:48:50.287Z,"162 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-04T01:39:15.255Z,55.3905,-159.3233,53.5,3.2,ml,,,,0.78,ak,ak0095p3guxx,2019-02-13T11:49:10.006Z,"57 km S of Ivanof Bay, Alaska",earthquake,,19.3,,,reviewed,ak,ak
+2009-05-04T05:39:58.340Z,53.152,-169.68,32.3,3.7,ml,13,340.4,,,us,usp000gwts,2019-02-13T11:49:12.653Z,"59 km WNW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-04T11:46:42.576Z,59.7775,-152.7315,84.2,4.7,mb,,,,0.72,ak,ak0095p9gr41,2019-02-13T11:49:15.944Z,"50 km W of Anchor Point, Alaska",earthquake,,1,,,reviewed,ak,ak
+2009-05-05T21:31:18.526Z,62.2325,-149.3521,43.6,3.8,ml,,,,0.86,ak,ak0095r2v624,2019-03-19T20:20:12.964Z,"27 km ENE of Susitna North, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-06T16:30:02.530Z,53.499,-163.178,37.3,3.1,ml,18,228.1,,,us,usp000gww3,2019-02-13T11:50:16.624Z,"151 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-06T22:15:04.114Z,61.803,-152.0103,112.5,3,ml,,,,0.62,ak,ak0095sqwhl7,2019-02-13T11:50:08.529Z,"38 km WSW of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-05-07T19:13:56.820Z,54.512,-153.514,10,3.9,ml,69,176.2,,,us,usp000gwx1,2019-02-13T11:50:29.805Z,"274 km S of Akhiok, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-07T20:50:13.825Z,57.8927,-156.1157,131.2,3.2,ml,,,,0.76,ak,ak0095udghom,2019-02-13T11:50:30.954Z,"82 km ESE of Egegik, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-05-08T02:03:17.590Z,52.254,-169.389,2.6,3.4,ml,15,223.2,,,us,usp000gwxh,2019-02-13T11:50:44.009Z,"84 km SSW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-08T10:27:36.900Z,52.589,-164.99,19.7,4,mb,55,142.5,,,us,usp000gwxs,2019-02-13T11:50:48.134Z,"176 km SE of Unalaska, Alaska",earthquake,,,,5,reviewed,aeic,us
+2009-05-09T16:07:21.650Z,54.452,-161.501,13.3,3.1,ml,14,205.3,,,us,usp000gwyt,2019-02-13T11:51:14.026Z,"85 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-11T00:13:19.900Z,53.878,-163.799,25.7,3.3,ml,31,174.3,,,us,usp000gx08,2019-02-13T11:51:48.654Z,"111 km SSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-12T07:30:52.385Z,57.2697,-154.8822,37.3,3.6,ml,,,,0.64,ak,ak00962fadxy,2019-02-13T11:52:10.719Z,"42 km SW of Karluk, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-05-12T13:29:30.210Z,52.779,-166.776,1.5,3,ml,13,274.6,,,us,usp000gx29,2019-02-13T11:52:25.578Z,"122 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-13T04:34:14.840Z,53.53,-165.073,12.8,3.6,ml,23,209.1,,,us,usp000gx2q,2019-02-13T11:52:30.752Z,"81 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-14T20:22:57.570Z,53.042,-169.499,23.4,3.4,ml,15,182.2,,,us,usp000gx47,2019-02-28T21:42:02.857Z,"44 km WNW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-14T23:26:10.072Z,62.9511,-150.5018,95.2,3.9,mb,,,,0.83,ak,ak00965zv2hb,2019-02-13T11:53:00.873Z,"52 km NNE of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-05-15T02:12:40.580Z,53.439,-163.563,15.2,3,ml,15,240.3,,,us,usp000gx4g,2019-02-13T11:53:11.055Z,"Unimak Island region, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-15T17:38:14.882Z,56.268,-152.0409,9.6,4.9,mw,,,,0.84,ak,ak00967jweb4,2019-02-13T11:53:15.548Z,"129 km SE of Old Harbor, Alaska",earthquake,,5,,,reviewed,ak,ak
+2009-05-15T18:24:13.451Z,56.2635,-151.9842,10,5.2,mw,,,,0.84,ak,ak00967kets1,2025-12-22T15:27:00.502Z,"132 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T18:27:20.524Z,56.538,-152.3282,10,3.3,ml,,,,0.74,ak,ak00967kfhh0,2019-02-13T11:53:30.893Z,"95 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T18:38:20.591Z,56.5404,-152.0968,10,4,mb,,,,0.84,ak,ak00967khucr,2019-02-13T11:53:17.757Z,"104 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T18:41:46.589Z,56.2845,-152.0274,10,4.5,mb,,,,0.92,ak,ak00967kijia,2019-02-13T11:53:18.135Z,"128 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T18:44:09.700Z,56.276,-152.037,10,4.2,mb,,,,0.87,ak,ak00967kj3t6,2019-02-13T11:53:32.595Z,"129 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T19:23:13.867Z,56.2939,-151.9714,10,5.2,mw,,,,0.84,ak,ak00967l01p6,2025-12-22T15:25:15.500Z,"130 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T19:59:41.743Z,56.2897,-152.0553,10,4.7,mb,,,,0.95,ak,ak00967l7tmm,2019-02-13T11:53:19.720Z,"127 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T20:03:52.325Z,56.3236,-152.1072,10,3.2,ml,,,,0.87,ak,ak00967lh9y8,2019-02-13T11:53:20.170Z,"122 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T20:47:25.550Z,56.6351,-152.19,10,4.2,mb,,,,0.77,ak,ak00967lqne3,2019-02-13T11:53:20.907Z,"92 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-15T22:56:01.196Z,56.4127,-152.1623,10,3.2,ml,,,,0.79,ak,ak00967mze5z,2019-02-13T11:53:22.303Z,"112 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T01:35:20.430Z,56.3391,-151.9992,10.4,4.3,mb,,,,1.32,ak,ak00968xw6ej,2019-02-13T11:53:34.251Z,"125 km SE of Old Harbor, Alaska",earthquake,,8.1,,,reviewed,ak,ak
+2009-05-16T03:00:25.035Z,56.4164,-152.079,10,3.2,ml,,,,0.82,ak,ak00968yvjwn,2019-02-13T11:53:35.452Z,"115 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T04:03:24.672Z,62.6635,-151.1253,91.1,3.2,ml,,,,0.77,ak,ak00968zhmmr,2019-02-13T11:53:35.846Z,"26 km NW of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-05-16T05:54:29.070Z,56.3754,-152.1966,8.5,3.2,ml,,,,0.9,ak,ak009690e03f,2019-02-13T11:53:36.667Z,"114 km SE of Old Harbor, Alaska",earthquake,,12,,,reviewed,ak,ak
+2009-05-16T10:01:09.647Z,56.2136,-152.1108,10,4.2,mb,,,,1.43,ak,ak0096931ro4,2019-02-13T11:53:38.149Z,"132 km SSE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T13:29:55.879Z,56.4904,-152.3042,10,3.3,ml,,,,0.65,ak,ak009695063n,2019-02-13T11:53:40.229Z,"100 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T18:21:18.542Z,56.1982,-152.0666,10,4.7,mb,,,,1.19,ak,ak009697xjim,2022-05-02T21:12:04.470Z,"135 km SSE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T18:22:29.910Z,56.2256,-151.972,10,5.9,mw,,,,1.61,ak,ak009697xs3z,2022-05-02T22:37:23.233Z,"136 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T18:37:40.401Z,56.2529,-152.2202,21.2,5.3,mw,,,,1.14,ak,ak00969810ns,2025-12-22T15:27:01.661Z,"124 km SSE of Old Harbor, Alaska",earthquake,,3.1,,,reviewed,ak,ak
+2009-05-16T18:44:58.342Z,56.2453,-152.2146,5.7,3.8,mb,,,,0.8,ak,ak0096982k22,2019-02-13T11:53:44.301Z,"125 km SSE of Old Harbor, Alaska",earthquake,,47.1,,,reviewed,ak,ak
+2009-05-16T18:45:58.973Z,56.5537,-151.8768,8.1,3,ml,,,,0.39,ak,ak0096982rtl,2019-02-13T11:53:50.315Z,"113 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T18:55:29.955Z,56.6361,-152.1412,4.2,3,ml,,,,0.7,ak,ak0096984uqr,2019-02-13T11:53:44.694Z,"94 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T19:17:03.848Z,56.2403,-152.1849,20,4.1,mb,,,,1.22,ak,ak009698i34g,2019-02-13T11:53:46.191Z,"127 km SSE of Old Harbor, Alaska",earthquake,,7.2,,,reviewed,ak,ak
+2009-05-16T19:20:01.183Z,56.2645,-152.2999,3.2,4.5,mb,,,,1.68,ak,ak009698iq2e,2019-02-13T11:53:46.609Z,"121 km SSE of Old Harbor, Alaska",earthquake,,5.7,,,reviewed,ak,ak
+2009-05-16T19:56:56.613Z,56.5059,-152.3501,10,3.1,ml,,,,0.55,ak,ak009698qk4d,2019-02-13T11:53:47.037Z,"97 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-16T21:29:26.726Z,56.395,-152.1742,10,4.6,mb,,,,0.88,ak,ak009699rkow,2019-02-13T11:53:48.520Z,"113 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-17T00:30:22.440Z,56.312,-152.0681,10,4.6,mb,,,,1.87,ak,ak0096akt0v8,2019-02-13T11:54:04.948Z,"124 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-17T07:57:09.245Z,55.0158,-158.1355,25,3.1,ml,,,,0.75,ak,ak0096ap4tf0,2019-02-13T11:54:08.632Z,"118 km SSE of Perryville, Alaska",earthquake,,42.9,,,reviewed,ak,ak
+2009-05-17T09:58:37.684Z,56.2277,-151.5659,12.1,4.3,mb,,,,2.03,ak,ak0096aqbyjc,2019-02-13T11:54:09.356Z,"152 km SE of Old Harbor, Alaska",earthquake,,1275.3,,,reviewed,ak,ak
+2009-05-17T18:04:47.864Z,60.2325,-152.8178,114.4,3.5,ml,,,,0.71,ak,ak0096avdb3m,2019-02-13T11:54:16.779Z,"67 km WNW of Ninilchik, Alaska",earthquake,,2.8,,,reviewed,ak,ak
+2009-05-18T07:43:10.732Z,56.4562,-152.0772,10,3.2,ml,,,,0.82,ak,ak0096ccl601,2019-02-13T11:54:31.188Z,"112 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-18T10:34:53.118Z,57.7046,-153.1291,41.6,3.6,ml,,,,0.72,ak,ak0096cebmn3,2019-03-19T20:20:13.629Z,"Kodiak Island region, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-05-18T11:57:36.407Z,56.3573,-151.9084,10,4.1,mb,,,,0.99,ak,ak0096cf1yfc,2019-02-13T11:54:33.643Z,"127 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-18T16:51:45.700Z,53.803,-163.936,12.9,3,ml,17,222.3,,,us,usp000gx9g,2019-02-13T11:54:35.237Z,"121 km SSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-19T00:17:27.851Z,56.4009,-152.2321,20.2,3.6,ml,,,,1.46,ak,ak0096dvsxyp,2019-02-13T11:54:46.085Z,"110 km SE of Old Harbor, Alaska",earthquake,,204.2,,,reviewed,ak,ak
+2009-05-19T05:41:19.747Z,60.8331,-151.7273,75.3,3.6,ml,,,,0.69,ak,ak0096dyx8jq,2019-02-13T11:54:49.540Z,"28 km WNW of Nikiski, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2009-05-19T09:06:50.484Z,62.8703,-149.7042,76.3,3.4,ml,,,,0.7,ak,ak0096e13ja0,2019-02-13T11:54:51.343Z,"51 km NNE of Chase, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2009-05-19T11:19:19.990Z,54.499,-161.54,17.2,3.1,ml,13,216,,,us,usp000gxac,2019-02-13T11:54:53.702Z,"80 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-19T16:44:13.539Z,62.3157,-150.9683,72.8,4.2,mb,,,,0.69,ak,ak0096e5hmvd,2019-02-13T11:54:56.475Z,"22 km SSW of Petersville, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2009-05-19T21:09:05.109Z,56.964,-155.6637,41.8,3.1,ml,,,,0.61,ak,ak0096e89a6m,2019-02-13T11:55:00.806Z,"90 km W of Akhiok, Alaska",earthquake,,30.8,,,reviewed,ak,ak
+2009-05-20T11:52:14.184Z,59.0079,-136.8641,11.6,3,ml,,,,0.73,ak,ak0096fq3j4a,2019-02-13T11:59:47.344Z,"66 km SW of Covenant Life, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-05-21T11:44:52.385Z,58.3156,-154.8928,103.6,3,ml,,,,0.59,ak,ak0096hdl8ty,2019-02-13T11:55:37.993Z,"87 km NNW of Karluk, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-05-23T03:30:56.830Z,53.477,-165.283,27.5,3.3,ml,21,206,,,us,usp000gxdy,2019-02-13T11:56:13.449Z,"79 km SSE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-23T13:30:57.473Z,64.7954,-147.9997,13,3.8,mw,,,,0.91,ak,ak0096kprteb,2019-03-19T20:20:14.426Z,"5 km S of Ester, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-05-24T07:51:16.550Z,54.495,-161.534,10.5,3.4,ml,18,206.5,,,us,usp000gxfj,2019-02-13T11:56:46.546Z,"80 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-24T09:40:04.552Z,59.7754,-153.2489,125.5,4.6,mw,,,,0.84,ak,ak0096mazgjr,2019-03-19T20:20:14.959Z,"48 km E of Pedro Bay, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-24T10:26:09.910Z,53.227,-168.806,120.5,3.2,m,35,142,,,us,usp000gxfs,2019-02-13T11:56:47.890Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-24T14:44:38.086Z,63.4426,-151.1803,10.6,3.9,mw,,,,0.79,ak,ak0096mdzk0w,2019-02-13T11:56:50.309Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-25T19:55:38.154Z,58.8878,-134.7968,5.5,3.6,ml,,,,0.48,ak,ak0096o4kffb,2022-07-15T10:43:27.164Z,"44 km SE of Mud Bay, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2009-05-26T03:49:34.140Z,54.049,-163.022,37.6,4.2,mb,43,166.5,,1.1,us,usp000gxhh,2019-02-13T11:57:24.468Z,"93 km SSE of False Pass, Alaska",earthquake,,7.1,,2,reviewed,us,us
+2009-05-26T05:04:46.810Z,54.04,-162.94,4.8,3.1,ml,14,218.7,,,us,usp000gxhj,2019-02-13T11:57:24.859Z,"95 km SSE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-27T19:05:20.750Z,56.495,-148.901,12.7,3,ml,17,243.1,,,us,usp000gxk8,2019-02-13T11:57:44.232Z,"Gulf of Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-28T11:10:00.792Z,58.5759,-155.0496,139.3,3.7,ml,,,,0.91,ak,ak0096sy59yn,2019-02-13T11:58:00.111Z,"94 km E of King Salmon, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-05-28T12:30:16.621Z,66.4465,-157.8249,10,3,ml,,,,0.62,ak,ak0096syv13y,2019-02-13T11:58:00.996Z,"57 km SSW of Shungnak, Alaska",earthquake,,8.4,,,reviewed,ak,ak
+2009-05-28T12:39:49.210Z,54.014,-164.487,55.8,3.5,ml,26,196.1,,,us,usp000gxkw,2019-02-13T11:58:01.342Z,"85 km E of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-28T13:57:32.000Z,66.3,-135.11,20,4,mb,65,55.6,,,us,usp000gxkz,2019-02-13T11:58:02.145Z,"127 km S of Fort McPherson, Canada",earthquake,,,,16,reviewed,pgc,us
+2009-05-28T18:11:19.100Z,54.442,-161.467,9.8,3.2,ml,16,221.5,,,us,usp000gxm3,2019-02-13T11:58:03.799Z,"88 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-05-29T01:26:37.270Z,52.222,-167.127,18.7,4.2,mb,106,136.6,,,us,usp000gxmh,2019-02-13T11:58:10.842Z,"142 km SE of Nikolski, Alaska",earthquake,,,,34,reviewed,aeic,us
+2009-05-29T07:20:40.491Z,62.3701,-149.5071,54.9,3.5,ml,,,,0.63,ak,ak0096ujd49d,2019-02-13T11:58:14.089Z,"29 km NE of Susitna North, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-05-30T04:53:43.452Z,64.7798,-148.0169,16.6,3.5,ml,,,,0.84,ak,ak0096w5b8sp,2019-03-19T20:20:16.865Z,"7 km S of Ester, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2009-05-30T04:53:57.116Z,64.7949,-148.0248,14.9,3.1,ml,,,,0.36,ak,ak0096w5b9un,2019-02-13T11:58:54.970Z,"5 km S of Ester, Alaska",earthquake,,5,,,reviewed,ak,ak
+2009-05-30T14:16:20.132Z,64.7877,-148.0428,14,3.2,ml,,,,0.75,ak,ak0096wb1ljx,2019-03-19T20:20:17.612Z,"6 km SSW of Ester, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-05-31T02:54:25.043Z,60.8072,-150.8965,51.6,3.5,ml,,,,0.83,ak,ak0096xrnwdk,2019-02-13T11:59:09.745Z,"17 km SW of Point Possession, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-05-31T09:03:24.100Z,53.751,-164.123,19.9,3.5,ml,20,208.8,,,us,usp000gxqs,2019-02-28T21:42:18.533Z,"116 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-01T01:43:02.450Z,53.25,-166.303,45.5,3.2,ml,18,214.9,,,us,usp000gxr8,2019-02-13T12:00:47.339Z,"71 km SSE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-01T05:35:37.239Z,64.786,-148.025,14.9,3.9,mw,,,,0.81,ak,ak0096zgvi0r,2019-06-28T18:48:30.725Z,"6 km S of Ester, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-06-02T08:53:03.981Z,66.4416,-157.6069,22.6,3.3,ml,,,,0.51,ak,ak009716axni,2019-02-13T12:01:15.791Z,"53 km SSW of Shungnak, Alaska",earthquake,,3,,,reviewed,ak,ak
+2009-06-04T02:44:38.088Z,66.3985,-157.5673,28.6,4.4,mw,,,,0.8,ak,ak00974dr674,2019-02-13T12:01:46.118Z,"57 km SSW of Shungnak, Alaska",earthquake,,2.9,,,reviewed,ak,ak
+2009-06-04T07:08:18.368Z,66.476,-157.7866,16.7,3.1,ml,,,,0.6,ak,ak00974gikx8,2019-02-13T12:01:47.711Z,"54 km SSW of Shungnak, Alaska",earthquake,,3.6,,,reviewed,ak,ak
+2009-06-04T07:54:58.529Z,64.799,-148.0509,13.5,3,ml,,,,0.8,ak,ak00974gsiyk,2019-03-19T20:20:19.015Z,"5 km SSW of Ester, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-04T13:23:10.170Z,52.568,-169.688,11.6,3.3,ml,12,209.3,,,us,usp000gxv1,2019-02-13T12:01:51.822Z,"69 km SW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-05T08:01:07.540Z,53.838,-163.855,10.5,3.8,ml,41,158.1,,,us,usp000gxvz,2019-02-13T12:02:07.724Z,"116 km SSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-05T19:00:30.880Z,52.016,-169.707,8.9,3.1,ml,11,223.6,,,us,usp000gxwd,2019-02-13T12:02:12.384Z,"117 km SSW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-06T12:21:41.770Z,54.306,-162.631,42.6,5.3,mwc,308,64.8,,0.92,us,usp000gxxf,2022-05-02T20:38:08.755Z,"79 km SE of False Pass, Alaska",earthquake,,,,,reviewed,us,gcmt
+2009-06-06T12:45:00.380Z,54.149,-162.538,9.7,4.2,mb,74,155.8,,,us,usp000gxxg,2019-02-13T12:02:26.012Z,"96 km SE of False Pass, Alaska",earthquake,,,,3,reviewed,aeic,us
+2009-06-06T13:27:00.580Z,54.197,-162.502,14.5,3.1,ml,19,213.7,,,us,usp000gxxj,2019-02-13T12:02:26.717Z,"93 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-06T14:12:46.200Z,54.177,-162.511,30.5,3,ml,18,219.1,,,us,usp000gxxk,2019-02-13T12:02:27.393Z,"95 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-06T15:17:39.430Z,54.154,-162.556,15.6,3.8,ml,44,155.6,,,us,usp000gxxn,2019-02-13T12:02:28.682Z,"95 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-06T15:32:30.580Z,54.217,-162.534,14.7,3.2,ml,16,212.3,,,us,usp000gxxq,2019-02-13T12:02:29.043Z,"90 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-06T16:06:01.780Z,54.217,-162.525,16.8,3.4,ml,22,215.7,,,us,usp000gxxs,2019-02-13T12:02:29.378Z,"91 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-06T16:22:22.380Z,54.174,-162.524,13.8,3.9,ml,67,157.8,,,us,usp000gxxt,2019-02-13T12:02:29.717Z,"95 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-06T18:07:52.580Z,54.217,-162.642,13.6,4.2,mb,83,156.8,,,us,usp000gxxz,2019-02-13T12:02:32.261Z,"86 km SE of False Pass, Alaska",earthquake,,,,9,reviewed,aeic,us
+2009-06-07T07:25:07.296Z,63.0266,-150.6214,110.1,3,ml,,,,0.45,ak,ak00979f88q1,2019-02-13T12:02:43.842Z,"59 km N of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-07T11:29:22.990Z,53.566,-163.118,42.5,3.6,ml,52,165.4,,,us,usp000gxys,2019-02-13T12:02:46.187Z,"144 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-07T23:24:35.327Z,58.7695,-136.6582,4.7,5,mw,,,,0.79,ak,ak00979or0uk,2022-07-15T11:37:25.280Z,"66 km NNW of Elfin Cove, Alaska",earthquake,,2.7,,,reviewed,ak,ak
+2009-06-09T11:28:58.837Z,60.336,-152.1938,82.6,3.8,ml,,,,0.75,ak,ak0097cspf97,2019-02-13T12:03:18.725Z,"43 km NW of Ninilchik, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-09T16:41:11.812Z,63.1613,-150.4759,116.2,3.1,ml,,,,0.51,ak,ak0097cvr9yl,2019-02-13T12:03:20.814Z,"75 km SE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-09T18:39:14.005Z,59.0164,-154.1572,132.3,4.2,mb,,,,0.89,ak,ak0097cwxpwo,2019-03-19T20:20:20.118Z,"58 km SE of Kokhanok, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-06-10T12:07:29.646Z,63.389,-166.5219,10,3,ml,,,,2.35,ak,ak0097egpn2c,2019-02-13T12:03:43.271Z,"121 km WNW of Emmonak, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-11T18:50:30.670Z,54.489,-162.267,25,4.1,ml,72,135.5,,,us,usp000gy3j,2019-03-19T20:20:21.641Z,"63 km S of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-14T12:45:48.132Z,56.1253,-157.1677,28.9,4.2,mb,,,,0.58,ak,ak0097l337od,2019-02-13T12:04:48.454Z,"78 km ESE of Chignik, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-06-14T19:22:03.047Z,62.25,-147.4173,54.6,3.4,ml,,,,0.48,ak,ak0097l747yo,2019-02-13T12:04:50.678Z,"37 km NNW of Eureka Roadhouse, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-15T01:44:43.008Z,63.1259,-150.5114,114.2,3,ml,,,,0.62,ak,ak0097mk2kek,2019-02-13T12:04:58.280Z,"71 km N of Petersville, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2009-06-15T03:29:49.468Z,63.5534,-151.0655,5.1,3,ml,,,,0.82,ak,ak0097ml68de,2019-02-13T12:04:59.340Z,"32 km E of Denali National Park, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-06-15T03:50:48.344Z,65.5559,-143.0229,13,3,ml,,,,0.82,ak,ak0097mlaqbm,2019-02-13T12:04:59.692Z,"56 km ESE of Circle, Alaska",earthquake,,106.3,,,reviewed,ak,ak
+2009-06-15T04:38:57.171Z,61.2526,-149.2591,31.5,3,ml,,,,0.64,ak,ak0097mltm0l,2019-02-13T12:05:00.023Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-06-15T11:19:02.990Z,53.298,-160.341,25.7,3.2,ml,15,260.6,,,us,usp000gy7z,2019-02-13T12:05:08.015Z,"227 km S of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-15T17:03:08.332Z,66.363,-157.3858,16.8,3.2,ml,,,,0.58,ak,ak0097mtcn1t,2019-02-13T12:05:02.400Z,"59 km S of Shungnak, Alaska",earthquake,,253.8,,,reviewed,ak,ak
+2009-06-15T20:37:04.727Z,59.338,-153.0592,81.7,4.3,mb,,,,0.84,ak,ak0097mvc7xk,2019-03-19T20:20:22.107Z,"64 km W of Nanwalek, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2009-06-17T03:48:49.717Z,62.0941,-152.7397,6.2,3.6,ml,,,,0.86,ak,ak0097pwczzf,2019-02-13T12:05:23.331Z,"71 km W of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-17T14:18:09.240Z,54.734,-160.194,51.1,4.4,mb,61,134.7,,1.05,us,usp000gya6,2019-02-13T12:05:29.051Z,"69 km SSE of Sand Point, Alaska",earthquake,,4.9,,2,reviewed,us,us
+2009-06-17T15:18:09.240Z,54.687,-160.251,6.8,3,ml,12,252.3,,,us,usp000gya8,2019-02-13T12:05:30.155Z,"74 km SSE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-17T18:33:09.910Z,54.638,-160.258,3.4,3,ml,9,257.1,,,us,usp000gyae,2019-02-13T12:05:30.815Z,"79 km S of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-18T00:41:31.645Z,61.5496,-149.9406,46.1,3.3,ml,,,,0.5,ak,ak0097ri2i98,2019-02-13T12:05:45.894Z,"3 km NNE of Big Lake, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-18T03:20:59.010Z,53.761,-164.169,20.1,3.3,ml,22,204.2,,,us,usp000gyav,2019-02-13T12:05:49.636Z,"113 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-18T07:03:49.963Z,59.8379,-150.4387,44.9,3.2,ml,,,,0.89,ak,ak0097rm0fp0,2019-03-19T20:20:22.584Z,"29 km E of Fox River, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-19T08:49:11.420Z,61.7329,-150.835,60,3.1,ml,,,,0.61,ak,ak0097taezra,2019-02-13T12:06:09.312Z,"27 km NW of Susitna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-20T11:15:45.831Z,63.3069,-166.8358,10,4.3,ml,,,,1.16,ak,ak0097uzjfdj,2019-02-13T12:06:24.915Z,"131 km WNW of Emmonak, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-21T02:37:21.890Z,52.214,-168.648,8.7,4.5,mb,140,137.7,,,us,usp000gye6,2019-02-13T12:06:34.446Z,"81 km S of Nikolski, Alaska",earthquake,,,,41,reviewed,aeic,us
+2009-06-21T05:58:17.299Z,62.1482,-151.4664,82.4,3.3,ml,,,,0.61,ak,ak0097wjrbtt,2019-02-13T12:06:35.414Z,"17 km NNW of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-21T15:50:44.095Z,59.9657,-153.4505,145.1,3.3,ml,,,,0.76,ak,ak0097wpo07t,2019-02-13T12:06:38.794Z,"41 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-06-22T19:28:05.162Z,61.9391,-150.704,64.6,5.4,mw,,,,1.01,ak,ak0097yfgadg,2022-05-02T22:00:08.391Z,"36 km E of Skwentna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-06-22T19:29:59.050Z,61.926,-150.7098,60.6,3.8,ml,,,,0.22,ak,ak0097yfgm8x,2019-02-13T12:07:06.793Z,"36 km ESE of Skwentna, Alaska",earthquake,,10.6,,,reviewed,ak,ak
+2009-06-22T19:35:45.690Z,61.9171,-150.6796,59.4,3.1,ml,,,,0.4,ak,ak0097yfhvih,2019-02-13T12:06:53.946Z,"38 km ESE of Skwentna, Alaska",earthquake,,3.8,,,reviewed,ak,ak
+2009-06-22T19:46:54.609Z,61.9327,-150.6717,59.1,3,ml,,,,0.6,ak,ak0097yfk92s,2019-02-13T12:06:54.701Z,"38 km E of Skwentna, Alaska",earthquake,,3.1,,,reviewed,ak,ak
+2009-06-22T19:56:45.288Z,61.927,-150.6933,60.6,4,ml,,,,0.65,ak,ak0097yfmdio,2019-02-13T12:06:56.198Z,"37 km E of Skwentna, Alaska",earthquake,,18.8,,,reviewed,ak,ak
+2009-06-22T23:57:43.943Z,63.137,-150.4508,124.9,3,ml,,,,0.76,ak,ak0097yi0bju,2019-02-13T12:06:59.742Z,"73 km NNE of Petersville, Alaska",earthquake,,2.7,,,reviewed,ak,ak
+2009-06-23T00:33:35.083Z,61.9169,-150.6551,57.9,3.2,ml,,,,0.59,ak,ak0097zrpj9g,2019-02-13T12:07:15.874Z,"37 km WNW of Willow, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-23T14:27:56.633Z,61.9313,-150.6634,58.3,4.1,ml,,,,0.62,ak,ak0098000d3j,2019-03-19T20:20:25.144Z,"38 km WNW of Willow, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-24T06:15:32.040Z,53.668,-164.424,30.5,4.2,mb,65,160.1,,1.06,us,usp000gyj3,2019-02-13T12:07:35.903Z,"102 km ESE of Akutan, Alaska",earthquake,,11.4,,6,reviewed,us,us
+2009-06-24T06:23:56.340Z,53.583,-164.337,15.9,3.2,ml,25,208.8,,0.37,us,usp000gyj4,2019-02-13T12:07:36.253Z,"112 km ESE of Akutan, Alaska",earthquake,,17.5,,,reviewed,us,aeic
+2009-06-25T21:20:36.015Z,61.9264,-150.6704,55.1,3.1,ml,,,,0.56,ak,ak00983f7jpt,2019-03-19T20:20:25.605Z,"38 km E of Skwentna, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-26T02:07:50.417Z,61.7449,-152.0418,106.5,3.4,ml,,,,0.67,ak,ak00984rcwip,2019-02-13T12:08:15.950Z,"43 km SW of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-26T02:51:33.504Z,53.0747,-146.2331,10,3.4,ml,,,,0.6,ak,ak00984rmapy,2019-02-13T12:08:27.166Z,"south of Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-26T16:48:20.729Z,61.9058,-150.6379,59.5,4.3,mw,,,,0.74,ak,ak00984zxp20,2019-06-28T18:48:31.451Z,"36 km WNW of Willow, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-27T05:04:51.510Z,52.796,-168.381,47.2,3.5,ml,25,205.7,,,us,usp000gynj,2019-02-13T12:08:39.290Z,"36 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-27T06:03:46.613Z,66.3765,-157.5662,20,3.1,ml,,,,0.8,ak,ak00986h949x,2019-02-13T12:08:39.641Z,"60 km SSW of Shungnak, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-27T17:24:15.370Z,54.514,-161.484,17.7,3.4,ml,20,216.2,,,us,usp000gyp5,2019-02-13T12:08:44.792Z,"81 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-27T23:37:52.246Z,61.5484,-149.9512,46.2,3.4,ml,,,,0.45,ak,ak00986rksc8,2019-02-13T12:08:47.963Z,"3 km N of Big Lake, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-06-28T18:12:00.419Z,60.6737,-151.9229,80.5,3.2,ml,,,,0.68,ak,ak00988bzhwp,2019-02-13T12:09:04.061Z,"33 km W of Salamatof, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-28T21:42:18.270Z,52.818,-167.354,21.9,3.3,ml,19,223.1,,,us,usp000gyqf,2019-02-13T12:09:06.498Z,"102 km E of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-06-30T02:14:22.012Z,60.5132,-152.6648,7.3,3.1,ml,,,,0.75,ak,ak0098bdjqbd,2019-02-13T12:09:34.008Z,"74 km W of Salamatof, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-06-30T02:41:29.866Z,54.7066,-156.8523,23.8,3.2,ml,,,,0.84,ak,ak0098bdpj96,2019-02-13T12:09:34.378Z,"197 km SE of Perryville, Alaska",earthquake,,3.4,,,reviewed,ak,ak
+2009-06-30T17:50:44.719Z,61.9171,-150.6519,56.1,3,ml,,,,0.51,ak,ak0098bmozx3,2019-02-13T12:09:41.049Z,"37 km WNW of Willow, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-06-30T18:52:10.170Z,66.0043,-151.8061,15.1,3.9,mw,,,,0.71,ak,ak0098bnasah,2019-02-13T12:09:42.451Z,"70 km SSE of New Allakaket, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-01T14:39:14.402Z,58.0123,-151.7491,25.6,3,ml,,,,0.5,ak,ak0098d8dmds,2019-02-13T12:10:47.645Z,"45 km ENE of Ouzinkie, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2009-07-02T22:37:11.711Z,56.9254,-154.8671,51.7,3.3,ml,,,,0.56,ak,ak0098f0o02r,2019-02-13T12:11:10.055Z,"42 km W of Akhiok, Alaska",earthquake,,23,,,reviewed,ak,ak
+2009-07-03T03:06:41.600Z,53.797,-131.4,7.4,4,ml,38,62.2,,,us,usp000gyw3,2014-11-07T01:39:16.173Z,"91 km SW of Prince Rupert, Canada",earthquake,,,,,reviewed,pgc,pgc
+2009-07-03T04:35:49.229Z,62.2904,-151.1255,74.1,3.3,ml,,,,0.57,ak,ak0098gdh756,2019-02-13T12:11:17.263Z,"29 km SW of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-03T21:37:57.192Z,63.5417,-151.2453,8.3,3.8,ml,,,,0.75,ak,ak0098gnm0h3,2019-02-13T12:11:23.798Z,"Central Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-04T15:54:31.750Z,53.321,-162.291,10,3,ml,23,240.7,,,us,usp000gyxx,2019-02-13T12:11:39.776Z,"185 km SSE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-05T01:44:45.995Z,62.8741,-143.694,7.6,3.1,ml,,,,0.92,ak,ak0098jmtiif,2019-02-13T12:11:51.740Z,"6 km SE of Mentasta Lake, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-07-05T01:55:48.830Z,52.811,-167.555,25.6,3.8,ml,54,140.8,,,us,usp000gyye,2019-02-13T12:11:52.094Z,"89 km E of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-06T22:41:59.555Z,65.5207,-147.972,7.8,3,ml,,,,0.81,ak,ak0098lmuclv,2019-02-13T12:12:14.565Z,"26 km E of Livengood, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2009-07-07T18:55:18.205Z,58.1305,-151.4282,45,3.5,ml,,,,0.86,ak,ak0098n82vik,2019-02-13T12:12:27.039Z,"67 km ENE of Ouzinkie, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-07-08T02:30:30.040Z,52.273,-168.135,8.3,3.4,ml,42,176.6,,,us,usp000gz13,2019-02-13T12:12:33.900Z,"88 km SSE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-09T02:49:08.610Z,54.155,-162.494,27,3.3,ml,26,203.2,,,us,usp000gz27,2019-02-13T12:12:51.965Z,"97 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-09T06:03:18.861Z,62.2223,-151.3276,83.6,3,ml,,,,0.6,ak,ak0098qbp826,2019-02-13T12:12:52.851Z,"26 km N of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-10T09:16:03.187Z,63.3266,-151.1252,10.8,3.2,ml,,,,0.56,ak,ak0098s13mgu,2019-02-13T12:13:07.761Z,"38 km SE of Denali National Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-07-11T15:11:55.340Z,52.62,-163.155,29.9,3,ml,19,248.6,,,us,usp000gz4s,2019-02-13T12:13:25.662Z,"242 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-11T17:48:13.456Z,54.4937,-157.0026,29.7,4.3,mb,,,,0.86,ak,ak0098ttlbi9,2019-02-13T12:13:25.988Z,"208 km SE of Perryville, Alaska",earthquake,,26.8,,,reviewed,ak,ak
+2009-07-13T15:43:53.528Z,61.9013,-150.6082,62.9,3.5,ml,,,,0.64,ak,ak0098x3g5so,2019-02-13T12:13:56.510Z,"34 km WNW of Willow, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2009-07-13T16:50:31.910Z,54.373,-161.462,7.4,3.2,ml,11,260,,,us,usp000gz7a,2019-02-13T12:13:56.977Z,"94 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-15T00:29:36.362Z,63.1984,-149.8551,98.2,3.3,ml,,,,0.55,ak,ak009905ibd0,2019-02-13T12:14:16.392Z,"50 km WSW of Cantwell, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-15T09:36:33.390Z,53.758,-164.07,7.9,3.8,ml,19,205.3,,,us,usp000gz8k,2019-02-13T12:14:21.466Z,"119 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-15T09:37:15.740Z,53.687,-164.076,11.5,4,ml,24,208.2,,,us,usp000gz8m,2019-02-13T12:14:21.790Z,"122 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-15T17:35:32.907Z,61.6561,-151.5586,91.4,4.6,mb,,,,0.69,ak,ak00990fnyoa,2019-02-13T12:14:25.263Z,"38 km SSW of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-16T01:53:37.308Z,60.9403,-150.3965,43.7,3.5,ml,,,,0.72,ak,ak00991ts8pu,2019-02-13T12:14:33.455Z,"15 km E of Point Possession, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-07-16T10:56:28.910Z,54.706,-163.001,72,3,m,22,184.3,,,us,usp000gzaw,2019-02-13T12:14:36.647Z,"31 km ESE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-16T15:05:19.763Z,63.5553,-147.3461,5.4,3,ml,,,,0.86,ak,ak009921tzgo,2019-02-13T12:14:37.907Z,"80 km ESE of McKinley Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-07-16T18:57:44.802Z,66.2648,-142.2949,2.3,3.6,ml,,,,0.51,ak,ak009923xhg0,2019-02-13T12:14:39.851Z,"77 km SE of Chalkyitsik, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-07-18T12:22:44.440Z,54.997,-159.186,25.5,3,ml,15,246.2,,,us,usp000gzds,2019-02-13T12:15:04.484Z,"91 km ESE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-19T16:20:11.060Z,54.782,-161.865,76,3,m,23,196.6,,,us,usp000gzex,2019-02-13T12:15:21.076Z,"42 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-19T23:09:37.870Z,55.518,-160.602,89,3.4,m,44,92.8,,,us,usp000gzf1,2019-02-13T12:15:23.638Z,"21 km NNW of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-20T17:40:48.834Z,59.7296,-152.8618,94.5,3,ml,,,,0.52,ak,ak00998pdsyb,2019-02-13T12:15:36.134Z,"58 km W of Anchor Point, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-07-21T01:13:47.020Z,56.8418,-155.1314,46.7,3.1,ml,,,,0.36,ak,ak0099a38fam,2019-02-13T12:15:43.634Z,"59 km WSW of Akhiok, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2009-07-22T04:46:56.586Z,57.8277,-156.1047,125.9,3.2,ml,,,,0.62,ak,ak0099bsr5yy,2019-02-13T12:15:53.083Z,"84 km ENE of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-07-23T10:19:57.790Z,63.2089,-151.4345,11.7,3.1,ml,,,,0.63,ak,ak0099djpbur,2019-02-13T12:16:04.561Z,"39 km SSE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-23T21:40:14.340Z,59.3736,-153.2773,106.5,3.1,ml,,,,0.48,ak,ak0099dqdi6y,2019-02-13T12:16:07.728Z,"65 km SE of Pedro Bay, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-24T05:55:13.810Z,53.363,-159.317,11.9,3.5,ml,23,240.1,,,us,usp000gzjv,2019-02-13T12:16:14.668Z,"232 km SSE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-24T08:28:26.033Z,56.3942,-155.5344,21.5,3.2,ml,,,,0.58,ak,ak0099f63o4r,2019-02-13T12:16:15.942Z,"103 km SW of Akhiok, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-07-25T01:43:40.782Z,59.2961,-143.6646,10.2,5.6,mw,,,,0.57,ak,ak0099gpk89q,2022-05-02T21:24:56.083Z,"181 km SE of Cordova, Alaska",earthquake,,2.3,,,reviewed,ak,ak
+2009-07-25T07:46:07.806Z,61.3577,-147.419,23,4.3,mb,,,,0.65,ak,ak0099gt5ei4,2019-03-19T20:20:26.132Z,"51 km SSE of Glacier View, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-07-25T22:19:01.840Z,53.211,-164.564,25,3,ml,30,219.9,,,us,usp000gzmm,2019-02-13T12:16:36.137Z,"130 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-26T06:11:54.741Z,63.1517,-150.5876,120.4,3.1,ml,,,,0.63,ak,ak0099ifvwya,2019-02-13T12:16:43.945Z,"71 km SE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-27T10:58:44.770Z,53.748,-164.541,21,3.4,ml,34,158,,,us,usp000gzq5,2019-02-13T12:16:52.938Z,"91 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-28T09:59:15.048Z,63.2894,-151.1085,8.6,3.2,ml,,,,0.65,ak,ak0099lt1428,2019-02-13T12:17:10.688Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-28T11:46:15.930Z,63.294,-151.1095,9.9,3,ml,,,,0.69,ak,ak0099lu5715,2019-02-13T12:17:12.379Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-28T12:13:15.710Z,64.6132,-149.4882,22.7,3.7,ml,,,,0.84,ak,ak0099lujjzn,2019-02-13T12:17:13.029Z,"17 km W of Four Mile Road, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-07-29T09:18:03.990Z,55.043,-160.04,23.6,3.5,ml,15,221.4,,,us,usp000gzse,2019-02-13T12:17:27.601Z,"Alaska Peninsula",earthquake,,,,,reviewed,aeic,aeic
+2009-07-30T06:51:15.716Z,61.7308,-149.9647,37.8,3.8,mb,,,,0.66,ak,ak0099p29sk3,2019-06-28T18:48:31.857Z,"4 km ESE of Willow, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-07-30T22:39:10.267Z,59.9297,-151.0913,44.1,4.4,mw,,,,0.91,ak,ak0099pbq582,2019-03-19T20:20:26.735Z,"10 km NW of Fox River, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-07-30T22:48:03.243Z,59.9422,-151.1083,44.4,3.2,ml,,,,0.79,ak,ak0099pbs24k,2019-02-13T12:17:50.274Z,"12 km NW of Fox River, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-07-31T05:58:02.640Z,53.528,-164.828,30,3.2,ml,25,206.1,,,us,usp000gzur,2019-02-13T12:18:01.815Z,"91 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-07-31T07:46:02.658Z,62.7114,-159.1133,27.3,3,ml,,,,0.63,ak,ak0099qqdh2h,2019-02-13T12:18:11.247Z,"23 km E of Shageluk, Alaska",earthquake,,8.7,,,reviewed,ak,ak
+2009-07-31T16:50:09.350Z,53.329,-160.789,21.3,3.2,ml,25,264,,,us,usp000gzva,2019-02-13T12:18:06.744Z,"217 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-02T03:44:03.359Z,64.613,-149.4755,23,3,ml,,,,0.74,ak,ak0099tz209b,2019-02-13T12:19:16.928Z,"17 km W of Four Mile Road, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-02T13:24:49.555Z,64.8233,-150.5504,20,3.2,ml,,,,0.74,ak,ak0099u4w5jv,2019-02-13T12:19:25.470Z,"20 km S of Manley Hot Springs, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-02T22:30:56.258Z,61.6905,-149.5936,33,3.8,ml,,,,0.72,ak,ak0099uaact5,2019-03-19T20:20:27.273Z,"7 km N of Meadow Lakes, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-04T14:29:40.110Z,52.904,-168.402,51.6,4,mb,64,138.4,,0.95,us,usp000gzz8,2019-02-13T12:20:04.942Z,"31 km E of Nikolski, Alaska",earthquake,,3.6,,6,reviewed,us,us
+2009-08-05T09:37:30.931Z,60.1769,-153.1621,143.3,3.6,ml,,,,0.72,ak,ak0099z177hh,2019-02-13T12:20:19.745Z,"64 km E of Port Alsworth, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-08-06T09:17:31.030Z,52.81,-166.779,0.3,4,mb,73,125.1,,,us,usp000h01a,2019-02-13T12:20:35.168Z,"119 km S of Unalaska, Alaska",earthquake,,,,7,reviewed,aeic,us
+2009-08-06T11:10:35.600Z,52.656,-168.423,50.5,3.1,ml,14,274.9,,,us,usp000h01b,2019-02-13T12:20:36.226Z,"43 km SE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-06T14:41:59.421Z,62.0511,-150.9262,64.3,3.8,ml,,,,0.67,ak,ak009a0rqn2e,2019-03-19T20:20:27.866Z,"25 km ENE of Skwentna, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-07T14:42:11.420Z,53.237,-165.586,26.8,3.8,ml,29,211,,,us,usp000h02c,2019-02-13T12:21:01.696Z,"94 km SE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-07T19:55:39.048Z,63.1313,-150.8975,131.9,4.2,mb,,,,0.7,ak,ak009a2ic41c,2019-02-13T12:21:04.921Z,"61 km SE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-08-08T01:01:28.184Z,60.1347,-153.3062,149.8,3.6,ml,,,,0.73,ak,ak009a3uu24y,2019-02-13T12:21:11.684Z,"56 km E of Port Alsworth, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2009-08-08T16:36:14.613Z,55.3843,-159.1129,33,3.3,ml,,,,0.47,ak,ak009a43z185,2019-02-13T12:21:23.129Z,"58 km S of Perryville, Alaska",earthquake,,45.7,,,reviewed,ak,ak
+2009-08-09T10:40:58.157Z,56.3371,-152.3542,10,3.1,ml,,,,0.97,ak,ak009a5nyqbb,2019-02-13T12:21:40.447Z,"112 km SSE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-09T16:36:10.649Z,56.3111,-152.2688,21.2,3.1,ml,,,,0.97,ak,ak009a5ridew,2019-02-13T12:21:43.307Z,"117 km SSE of Old Harbor, Alaska",earthquake,,2.5,,,reviewed,ak,ak
+2009-08-09T19:41:30.109Z,61.5621,-146.2374,33.1,3.4,ml,,,,0.51,ak,ak009a5tbsb6,2019-02-13T12:21:45.966Z,"48 km N of Valdez, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-11T15:31:54.896Z,62.2409,-151.1231,67.8,3.9,mb,,,,0.62,ak,ak009a91ynmp,2019-03-19T20:20:28.481Z,"31 km NNE of Skwentna, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-11T23:21:32.151Z,59.4373,-151.857,49.6,3.4,ml,,,,0.67,ak,ak009a96nxjz,2019-02-13T12:22:25.473Z,"8 km W of Seldovia, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-08-12T21:08:15.040Z,53.031,-165.316,12.2,3.2,ml,24,221,,,us,usp000h08y,2019-02-13T12:22:43.412Z,"123 km SE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-14T03:40:42.779Z,56.7392,-158.5622,5.8,3,ml,,,,0.47,ak,ak009adthed1,2019-02-13T12:23:10.723Z,"23 km S of Port Heiden, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2009-08-14T03:56:01.497Z,56.8657,-150.8723,15.1,4.3,mb,,,,0.95,ak,ak009adtkqmt,2019-02-13T12:23:11.053Z,"118 km SE of Chiniak, Alaska",earthquake,,2.4,,,reviewed,ak,ak
+2009-08-15T05:15:00.418Z,62.83,-150.7376,94.7,3.3,ml,,,,0.66,ak,ak009afi25w9,2019-02-13T12:23:27.657Z,"37 km N of Petersville, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2009-08-15T14:16:36.370Z,54.471,-161.571,15.1,3.5,ml,28,196.2,,,us,usp000h0dt,2019-02-13T12:23:30.611Z,"81 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-15T14:21:51.630Z,54.867,-160.426,19.4,3.1,ml,15,230.4,,,us,usp000h0dv,2019-02-13T12:23:30.911Z,"52 km S of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-15T16:29:40.320Z,63.5665,-151.0405,8.8,3,ml,,,,0.88,ak,ak009afop0nk,2019-02-13T12:23:32.093Z,"34 km E of Denali National Park, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2009-08-16T08:21:59.500Z,53.756,-167.189,92.4,3.9,m,34,153.4,,,us,usp000h0f0,2019-02-13T12:23:45.127Z,"45 km WSW of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-16T15:20:29.020Z,53.877,-165.256,59.5,3.2,ml,28,188.5,,,us,usp000h0fs,2019-02-13T12:23:47.936Z,"44 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-16T17:23:34.835Z,62.9346,-150.6447,109.3,3.3,ml,,,,0.78,ak,ak009ahcsi17,2019-02-13T12:23:49.304Z,"49 km N of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-08-18T04:55:59.698Z,61.6438,-147.9037,23.1,3.7,ml,,,,0.52,ak,ak009akgbgzl,2019-02-13T12:24:13.480Z,"22 km SW of Glacier View, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-18T14:54:08.306Z,59.0822,-151.3084,39.7,3.3,ml,,,,0.58,ak,ak009akm9hcu,2019-02-13T12:24:18.356Z,"42 km SE of Port Graham, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-08-19T01:12:36.420Z,53.445,-163.151,11.7,3.2,ml,25,222.6,,,us,usp000h0mm,2019-02-13T12:24:27.509Z,"157 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-19T12:21:12.756Z,63.0439,-147.5733,4.5,3.1,ml,,,,0.77,ak,ak009am8ewcr,2019-02-13T12:24:33.815Z,"79 km ESE of Cantwell, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-19T18:19:27.628Z,61.2279,-150.8579,66.4,5.1,mw,,,,0.76,ak,ak009ambz3p6,2025-12-22T15:38:55.067Z,"15 km NE of Beluga, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-19T19:25:10.008Z,66.2105,-149.9095,9.2,3,ml,,,,0.84,ak,ak009amcls8o,2019-02-13T12:24:37.245Z,"43 km WNW of Stevens Village, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-20T19:38:38.820Z,53.745,-166.22,83.2,3.3,m,22,187.2,,,us,usp000h0pk,2019-02-13T12:24:57.023Z,"25 km SE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-20T21:56:21.430Z,52.758,-163.75,25.6,3.4,ml,26,233.1,,,us,usp000h0pq,2019-02-13T12:24:58.261Z,"203 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-21T18:22:44.070Z,53.523,-163.465,29,3.7,ml,62,167.9,,,us,usp000h0qr,2019-02-13T12:25:16.815Z,"148 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-22T05:14:36.920Z,53.535,-163.52,43.4,3.1,ml,21,219,,,us,usp000h0rb,2019-02-13T12:25:29.289Z,"147 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-22T05:46:14.256Z,62.8814,-148.1588,78.9,3.6,ml,,,,0.77,ak,ak009ar309m9,2019-02-13T12:25:29.633Z,"69 km SE of Cantwell, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-08-22T22:07:46.472Z,63.1967,-150.6275,133.7,4.6,mb,,,,0.72,ak,ak009arcwcgn,2019-02-13T12:25:42.004Z,"66 km SE of Denali National Park, Alaska",earthquake,,2.6,,,reviewed,ak,ak
+2009-08-24T00:35:46.150Z,54.521,-161.603,19.3,3.1,ml,13,226.1,,,us,usp000h0t6,2019-02-13T12:26:08.584Z,"75 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-25T02:46:25.140Z,63.6588,-149.5148,119.1,3,ml,,,,0.59,ak,ak009avzu14i,2019-02-13T12:26:24.223Z,"30 km WSW of McKinley Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-08-25T07:41:37.103Z,66.2202,-135.5188,23.8,3.5,ml,,,,0.68,ak,ak009aw2s5hq,2019-02-13T12:26:28.226Z,"138 km SSW of Fort McPherson, Canada",earthquake,,5.1,,,reviewed,ak,ak
+2009-08-25T10:08:34.418Z,59.597,-152.8469,102.2,3.4,ml,,,,0.66,ak,ak009aw4ddgx,2019-02-13T12:26:29.515Z,"58 km WNW of Nanwalek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-08-27T02:55:33.950Z,54.222,-159.034,9.9,3.3,ml,31,204.4,,,us,usp000h0x0,2019-02-13T12:27:08.133Z,"155 km SE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-27T19:21:31.450Z,54.035,-163.349,15,3.5,ml,21,217.5,,,us,usp000h0xy,2019-02-13T12:27:15.936Z,"91 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-28T08:54:50.310Z,52.859,-167.117,41.9,4.8,mb,220,121.2,,0.92,us,usp000h0z2,2019-02-13T12:27:25.328Z,"117 km E of Nikolski, Alaska",earthquake,,3.1,,106,reviewed,us,us
+2009-08-28T21:42:19.993Z,63.4685,-148.3246,11.7,4,mw,,,,0.74,ak,ak009b19qfu7,2019-02-13T12:27:31.234Z,"32 km ENE of Cantwell, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-29T02:20:10.180Z,54.529,-161.577,14.9,3.8,ml,30,179,,,us,usp000h0zp,2019-02-13T12:27:40.210Z,"76 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-29T10:51:59.369Z,56.6112,-155.1802,60.5,3.3,ml,,,,0.58,ak,ak009b2qs15s,2019-02-13T12:27:47.046Z,"Alaska Peninsula",earthquake,,38.8,,,reviewed,ak,ak
+2009-08-29T15:40:39.690Z,53.521,-167.176,81.4,3.4,m,19,183.1,,,us,usp000h10n,2019-02-13T12:27:50.702Z,"57 km SW of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-08-30T11:10:26.685Z,63.477,-148.2719,9.7,3.1,ml,,,,0.78,ak,ak009b4enydo,2019-02-13T12:28:08.907Z,"35 km ENE of Cantwell, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-08-30T16:52:43.122Z,63.2402,-150.353,107.9,3.3,ml,,,,0.55,ak,ak009b4hw5qw,2019-02-13T12:28:15.253Z,"72 km WSW of Cantwell, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-01T06:01:41.740Z,60.3204,-152.9894,130,3.9,mb,,,,0.69,ak,ak009b7mpl26,2019-02-13T12:29:18.771Z,"74 km E of Port Alsworth, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-01T17:13:23.216Z,63.5645,-147.3092,5.7,3.1,ml,,,,0.83,ak,ak009b7tbvvl,2019-02-13T12:29:28.368Z,"81 km ESE of McKinley Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-04T04:04:06.125Z,59.0079,-137.3597,12.5,3.6,ml,,,,0.61,ak,ak009bck5bqc,2019-02-13T12:40:34.130Z,"88 km WSW of Covenant Life, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-09-04T09:00:49.649Z,63.0999,-151.4624,14.5,3.1,ml,,,,0.73,ak,ak009bcn3q90,2019-02-13T12:30:25.698Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-04T09:30:34.413Z,56.0405,-153.3343,4.5,4.7,mb,,,,0.87,ak,ak009bcna4k1,2019-02-13T12:30:26.500Z,"113 km SSE of Akhiok, Alaska",earthquake,,3.1,,,reviewed,ak,ak
+2009-09-04T09:34:46.489Z,55.9747,-153.2924,29.9,3,ml,,,,0.53,ak,ak009bcnb0co,2019-02-13T12:30:39.789Z,"120 km SSE of Akhiok, Alaska",earthquake,,23,,,reviewed,ak,ak
+2009-09-04T19:48:26.220Z,52.36,-168.732,45.3,4.2,mb,59,139.1,,1,us,usp000h17z,2019-02-13T12:30:34.731Z,"65 km S of Nikolski, Alaska",earthquake,,5.5,,9,reviewed,us,us
+2009-09-07T00:41:44.846Z,55.6844,-158.3798,23.2,3.4,ml,,,,0.81,ak,ak009bhgln9w,2019-02-13T12:31:35.072Z,"54 km ESE of Perryville, Alaska",earthquake,,6.5,,,reviewed,ak,ak
+2009-09-07T06:21:41.320Z,53.129,-164.775,24.8,3.9,ml,69,168.7,,,us,usp000h1a1,2019-02-13T12:31:39.238Z,"129 km SSE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-07T17:56:25.714Z,60.4175,-152.6199,124.5,3.1,ml,,,,0.82,ak,ak009bhqt6tn,2019-02-13T12:31:47.087Z,"66 km NW of Ninilchik, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2009-09-10T00:10:03.213Z,57.38,-151.1959,33,3.1,ml,,,,0.91,ak,ak009bmf0ych,2019-02-13T12:32:46.950Z,"70 km ESE of Chiniak, Alaska",earthquake,,2.3,,,reviewed,ak,ak
+2009-09-10T21:52:35.760Z,55.664,-161.554,190.6,3.3,m,18,170.8,,,us,usp000h1dg,2019-02-13T12:32:59.577Z,"43 km SSW of Nelson Lagoon, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-11T01:31:22.068Z,62.1655,-149.6424,45.8,3,ml,,,,0.56,ak,ak009bo3a9xq,2019-02-13T12:33:09.189Z,"10 km E of Susitna North, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-11T05:45:19.180Z,63.3263,-151.0407,12.3,3.2,ml,,,,0.71,ak,ak009bo5r05q,2019-02-13T12:33:10.893Z,"41 km SE of Denali National Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-12T08:40:17.188Z,55.9438,-154.6312,0.1,3.7,ml,,,,0.9,ak,ak009bpv1kqe,2019-02-13T12:33:37.905Z,"115 km SSW of Akhiok, Alaska",earthquake,,69.2,,,reviewed,ak,ak
+2009-09-12T14:35:52.862Z,58.9781,-151.0427,33.4,3.5,ml,,,,0.9,ak,ak009bpyl6ja,2019-02-13T12:33:43.508Z,"61 km SE of Port Graham, Alaska",earthquake,,4.2,,,reviewed,ak,ak
+2009-09-12T16:33:09.626Z,56.1046,-157.2795,65.5,3,ml,,,,0.66,ak,ak009bpzriz6,2019-02-13T12:33:44.644Z,"72 km ESE of Chignik, Alaska",earthquake,,58.8,,,reviewed,ak,ak
+2009-09-13T01:27:52.561Z,58.2928,-153.2212,48.3,3.4,ml,,,,0.5,ak,ak009brec6ew,2019-02-13T12:33:55.578Z,"31 km NW of Aleneva, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-09-13T01:36:31.076Z,63.3521,-145.4874,5.2,3.2,ml,,,,0.79,ak,ak009bree277,2019-02-13T12:33:56.067Z,"29 km NNE of Paxson, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-14T23:28:58.240Z,53.605,-164.245,29,3.5,ml,22,209,,,us,usp000h1hj,2019-02-13T12:34:33.928Z,"116 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-15T02:35:29.858Z,61.8014,-151.9405,112.9,3,ml,,,,0.6,ak,ak009buq1yzd,2019-02-13T12:34:49.733Z,"35 km SW of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-15T16:28:39.121Z,63.574,-150.9276,12.6,3.4,ml,,,,0.79,ak,ak009buyck5k,2019-02-13T12:34:59.567Z,"39 km E of Denali National Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-15T19:04:25.850Z,56.779,-142.896,20.6,3.3,ml,43,241.2,,,us,usp000h1jc,2019-02-13T12:35:08.979Z,"Gulf of Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-16T14:31:16.805Z,62.1554,-151.3004,83.7,3.2,ml,,,,0.58,ak,ak009bwkpmv4,2019-02-13T12:35:17.901Z,"19 km NNE of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-16T20:50:17.010Z,52.239,-169.332,35,5.1,mwc,309,80.4,,0.93,us,usp000h1jy,2025-12-22T15:39:55.399Z,"84 km SSW of Nikolski, Alaska",earthquake,,,,,reviewed,us,gcmt
+2009-09-16T21:01:31.620Z,52.584,-169.653,1.8,3.2,ml,26,174.7,,,us,usp000h1jz,2019-02-13T12:35:22.356Z,"66 km SW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-17T02:34:15.410Z,52.214,-169.345,5.4,3.3,ml,12,216.6,,,us,usp000h1kb,2019-02-13T12:35:29.494Z,"87 km SSW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-17T09:21:06.750Z,64.754,-140.726,5,3.3,ml,25,103.7,,,us,usp000h1kn,2019-02-13T12:35:32.595Z,"18 km E of Eagle Village, Alaska",earthquake,,,,,reviewed,pgc,pgc
+2009-09-17T13:40:13.630Z,64.696,-140.689,0.6,3,ml,11,102.8,,,us,usp000h1ks,2019-02-13T12:35:33.826Z,"22 km ESE of Eagle Village, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-18T14:04:38.620Z,55.845,-161.331,170.7,3.6,m,63,123.9,,,us,usp000h1mv,2019-02-13T12:35:47.002Z,"18 km SSW of Nelson Lagoon, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-18T16:37:22.837Z,61.1984,-150.3289,51.4,3,ml,,,,0.56,ak,ak009bzx0htn,2019-02-13T12:35:48.321Z,"23 km W of Anchorage, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-18T23:43:02.180Z,54.73,-159.709,15.7,4.6,mb,78,131.1,,,us,usp000h1n9,2019-02-13T12:35:50.704Z,"84 km SE of Sand Point, Alaska",earthquake,,,,1,reviewed,aeic,us
+2009-09-19T09:49:42.720Z,57.067,-145.784,10.2,3.3,ml,55,222.4,,,us,usp000h1nq,2019-02-13T12:36:02.082Z,"Gulf of Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-19T22:24:28.917Z,59.0979,-135.3923,3.6,3.1,ml,,,,0.94,ak,ak009c1o1o3v,2019-02-13T12:36:12.077Z,"6 km S of Mud Bay, Alaska",earthquake,,11.5,,,reviewed,ak,ak
+2009-09-20T01:14:42.433Z,61.0489,-149.7344,50.9,3.6,mb,,,,0.59,ak,ak009c2z0ss3,2019-03-19T20:20:31.170Z,"15 km NNW of Hope, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-20T11:57:39.522Z,63.653,-149.8968,144.1,4.1,ml,,,,0.76,ak,ak009c358ce8,2019-02-13T12:36:27.435Z,"49 km W of McKinley Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-21T07:04:15.940Z,54.612,-164.248,108,3,m,30,151.5,,,us,usp000h1qy,2019-02-13T12:36:42.662Z,"60 km WSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-21T10:41:26.380Z,60.8933,-147.1158,20.6,4.4,mw,,,,0.65,ak,ak009c4s2sta,2019-03-19T20:20:31.747Z,"24 km W of Tatitlek, AK",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-22T05:19:14.040Z,53.178,-165.696,26.6,3.3,ml,24,212.6,,,us,usp000h1rv,2019-02-13T12:36:58.525Z,"95 km SE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-22T10:29:43.400Z,54.455,-161.468,7.8,3,ml,12,248.8,,,us,usp000h1s5,2019-02-13T12:37:01.465Z,"86 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-22T23:33:31.480Z,57.9021,-153.1191,42.1,3,ml,,,,0.7,ak,ak009c6nb2u4,2019-02-13T12:37:07.691Z,"14 km WNW of Port Lions, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-23T15:46:00.825Z,60.0121,-153.4237,144.4,3.5,ml,,,,0.81,ak,ak009c865ofm,2019-02-13T12:37:21.518Z,"45 km ENE of Pedro Bay, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-23T20:30:31.411Z,61.8022,-149.555,4.5,3,ml,,,,0.83,ak,ak009c891hd1,2019-03-19T20:20:32.698Z,"18 km WNW of Fishhook, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-24T21:54:31.340Z,53.841,-163.933,25,3,ml,20,218.4,,,us,usp000h1uf,2019-02-13T12:37:50.142Z,"117 km SSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-25T07:56:47.733Z,55.3362,-157.4886,26.7,3.6,ml,,,,0.91,ak,ak009cbcj5d1,2019-02-13T12:38:05.604Z,"121 km SSE of Chignik, Alaska",earthquake,,19,,,reviewed,ak,ak
+2009-09-25T09:45:31.469Z,67.0308,-169.8944,11.5,5.1,mw,,,,0.43,ak,ak009cbdnmfu,2022-05-02T19:49:43.995Z,"148 km NNW of Diomede, Alaska",earthquake,,182,,,reviewed,ak,ak
+2009-09-25T10:16:03.568Z,67.0324,-169.6245,15.8,4.7,mb,,,,0.48,ak,ak009cbe2s4k,2019-02-13T12:38:06.847Z,"145 km NNW of Diomede, Alaska",earthquake,,1172.4,,,reviewed,ak,ak
+2009-09-25T10:39:41.275Z,66.8768,-169.4716,15.2,3.6,ml,,,,0.63,ak,ak009cbe7si7,2019-02-13T12:38:06.557Z,"126 km N of Diomede, Alaska",earthquake,,679.1,,,reviewed,ak,ak
+2009-09-25T12:04:40.170Z,55.243,-162.545,127.4,3.1,m,16,177.7,,,us,usp000h1uy,2019-02-13T12:37:58.215Z,"12 km ENE of Cold Bay, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-25T22:24:29.450Z,66.737,-130.881,1,4.2,mwr,123,23.3,,,us,usp000h1v6,2014-11-07T01:39:44.871Z,"190 km ESE of Fort McPherson, Canada",earthquake,,,,,reviewed,pgc,pgc
+2009-09-25T23:01:33.670Z,66.641,-130.912,1,4.1,mwr,156,23.5,,,us,usp000h1v8,2014-11-07T01:39:44.882Z,"194 km ESE of Fort McPherson, Canada",earthquake,,,,,reviewed,pgc,pgc
+2009-09-26T02:55:36.983Z,67.0161,-169.8005,10.1,3.2,ml,,,,1.82,ak,ak009ccx33aa,2019-02-13T12:38:26.010Z,"145 km NNW of Diomede, Alaska",earthquake,,3868.4,,,reviewed,ak,ak
+2009-09-26T03:07:36.450Z,55.031,-160.916,74.8,3.8,m,68,151.3,,,us,usp000h1ve,2019-02-13T12:38:11.897Z,"43 km SW of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-26T15:53:46.670Z,54.42,-164.629,109.5,3.4,m,28,175.9,,,us,usp000h1vz,2019-02-13T12:38:17.519Z,"81 km ENE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-26T16:45:02.265Z,59.77,-153.4027,124.3,3.8,ml,,,,0.79,ak,ak009cd5cxwy,2019-02-13T12:38:18.445Z,"39 km E of Pedro Bay, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-09-26T18:12:02.011Z,64.2702,-148.1055,10.4,3.1,ml,,,,0.78,ak,ak009cd6cqh5,2019-02-13T12:38:20.189Z,"52 km E of Clear, Alaska, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-26T19:47:49.930Z,55.236,-159.757,15,4.5,mb,55,153.8,,,us,usp000h1w6,2019-02-13T12:38:21.185Z,"48 km ESE of Sand Point, Alaska",earthquake,,,,5,reviewed,aeic,us
+2009-09-26T19:48:46.370Z,55.111,-159.492,12.3,3.1,ml,10,239.3,,,us,usp000h1w7,2019-02-13T12:38:33.650Z,"68 km ESE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-26T19:57:23.770Z,55.106,-159.597,27.9,3,ml,15,205.1,,,us,usp000h1w8,2019-02-13T12:38:21.513Z,"62 km ESE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-27T03:04:24.000Z,55.606,-161.01,210.7,3.1,m,6,173.1,,,us,usp000h1wj,2019-02-13T12:38:54.427Z,"44 km NW of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-27T08:36:36.330Z,54.471,-161.689,8.1,3.1,ml,17,221.5,,,us,usp000h1wq,2019-02-13T12:38:41.594Z,"77 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-27T12:03:16.996Z,58.6073,-153.3298,60.1,4.4,mw,,,,0.81,ak,ak009ceq9l1v,2019-02-13T12:38:45.007Z,"65 km NNW of Aleneva, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-09-27T19:44:30.532Z,59.9562,-141.3969,16.3,3,ml,,,,0.52,ak,ak009ceuofot,2019-02-13T12:40:47.359Z,"104 km WNW of Yakutat, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-09-28T17:19:15.493Z,63.6228,-146.2891,11.5,3,ml,,,,1.07,ak,ak009cggviwt,2019-02-13T12:39:14.653Z,"50 km SW of Fort Greely, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-09-28T20:43:02.998Z,63.7673,-169.1736,7.3,4.2,ml,,,,0.57,ak,ak009cgisxy3,2019-02-13T12:39:17.967Z,"64 km E of Savoonga, Alaska",earthquake,,7.6,,,reviewed,ak,ak
+2009-09-29T09:56:24.820Z,52.414,-169.058,0.6,3,ml,11,326.5,,,us,usp000h1ya,2019-02-13T12:39:32.729Z,"59 km SSW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-29T09:58:09.930Z,54.681,-159.874,27.9,3.3,ml,27,207.8,,,us,usp000h1yb,2019-02-13T12:39:32.297Z,"83 km SSE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-29T21:26:02.783Z,55.466,-159.183,53.4,3.3,ml,,,,0.56,ak,ak009ci6u2uu,2019-02-13T12:39:40.520Z,"49 km S of Perryville, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-09-30T11:22:06.680Z,54.978,-159.2,19.7,3.2,ml,14,215.5,,,us,usp000h23a,2019-02-13T12:40:10.899Z,"91 km ESE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-09-30T19:21:07.920Z,53.298,-166.401,17.4,4.1,ml,31,201.6,,,us,usp000h240,2019-02-13T12:40:15.867Z,"64 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-01T13:01:16.108Z,54.7529,-156.0461,28.3,3.9,mb,,,,1.39,ak,ak009clczz4q,2019-02-13T12:41:30.739Z,"227 km SE of Chignik, Alaska",earthquake,,5,,,reviewed,ak,ak
+2009-10-01T22:40:58.735Z,60.4413,-144.5523,19.7,3,ml,,,,0.55,ak,ak009clilbsh,2019-02-13T12:57:58.170Z,"67 km E of Cordova, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-10-02T19:41:36.330Z,52.222,-168.532,8.2,3,ml,10,308.7,,,us,usp000h28y,2019-02-13T12:42:01.253Z,"82 km SSE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-02T19:55:31.050Z,52.698,-164.083,9.6,3.1,ml,15,240.1,,,us,usp000h28z,2019-02-13T12:42:01.612Z,"195 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-03T05:45:54.581Z,56.5985,-155.9773,35.5,3.3,ml,,,,0.46,ak,ak009cojkpr6,2019-02-13T12:42:14.152Z,"117 km WSW of Akhiok, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-10-03T12:30:26.240Z,53.683,-164.22,29.4,3.1,ml,20,224.8,,,us,usp000h2am,2019-02-13T12:42:17.260Z,"113 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-03T15:27:57.980Z,65.532,-136.449,20,3.6,ml,17,149.8,,,us,usp000h2au,2019-02-13T12:42:19.818Z,"216 km NE of Dawson City, Canada",earthquake,,,,,reviewed,pgc,pgc
+2009-10-04T10:04:36.150Z,53.431,-163.732,11.8,3,ml,27,220.2,,,us,usp000h2bz,2019-02-13T12:42:41.850Z,"155 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-04T11:22:44.605Z,61.9111,-151.5641,101.5,4.1,ml,,,,0.66,ak,ak009cqajpn0,2019-02-13T12:42:42.653Z,"12 km SW of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-10-05T06:36:19.071Z,58.107,-151.6445,46.6,3,ml,,,,0.77,ak,ak009crv6u5v,2019-02-13T12:43:01.344Z,"54 km ENE of Ouzinkie, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-10-05T08:34:48.870Z,56.9304,-154.7689,4.6,3,ml,,,,0.75,ak,ak009crwdc8n,2019-02-13T12:43:02.808Z,"36 km W of Akhiok, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-10-05T10:31:28.950Z,55.6059,-158.3446,32.7,3.8,ml,,,,0.7,ak,ak009crxjirj,2019-02-13T12:43:04.051Z,"60 km SE of Perryville, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-10-05T14:09:21.728Z,58.2772,-152.7179,54.1,3,ml,,,,0.55,ak,ak009crzsivg,2019-02-13T12:43:09.008Z,"26 km NNE of Aleneva, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-10-07T01:06:25.550Z,54.7,-159.921,4.8,3.2,ml,9,301.8,,,us,usp000h2fa,2019-02-13T12:43:55.203Z,"79 km SSE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-07T03:29:17.240Z,62.228,-148.5785,9.3,3,ml,,,,0.61,ak,ak009cv4fq6k,2019-02-13T12:43:58.341Z,"48 km N of Chickaloon, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-10-07T15:24:42.380Z,53.516,-165.089,21.1,3.2,ml,20,204.1,,,us,usp000h2fy,2019-02-13T12:44:04.610Z,"82 km SSE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-08T17:47:57.193Z,58.9068,-154.3209,119.2,3.4,ml,,,,0.8,ak,ak009cx0f347,2019-02-13T12:44:19.056Z,"64 km SSE of Kokhanok, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-10-08T20:23:16.322Z,59.7337,-142.7092,25.5,3.3,ml,,,,0.56,ak,ak009cx225lc,2019-02-13T12:44:20.736Z,"169 km W of Yakutat, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-10-11T07:33:29.060Z,52.252,-169.442,14.4,3.2,ml,11,339.4,,,us,usp000h2r8,2019-02-13T12:45:08.328Z,"85 km SSW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-11T19:41:02.269Z,66.5256,-160.1286,22.9,3.1,ml,,,,0.55,ak,ak009d206l9u,2019-02-13T12:45:16.365Z,"10 km SSW of Selawik, Alaska",earthquake,,34,,,reviewed,ak,ak
+2009-10-13T05:37:23.690Z,52.754,-166.997,24,6.5,mwc,485,47.1,,0.92,us,usp000h2u7,2022-05-02T21:31:19.524Z,"127 km E of Nikolski, Alaska",earthquake,,,,,reviewed,us,us
+2009-10-13T05:42:37.320Z,52.592,-166.925,2.9,3.5,ml,11,270,,,us,usp000h2u8,2019-02-13T12:47:02.885Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T05:44:26.910Z,52.592,-166.925,14.3,3.2,ml,14,265.2,,,us,usp000h2u9,2019-02-13T12:47:03.312Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T05:45:07.630Z,52.592,-166.925,2.8,3.3,ml,8,283.8,,,us,usp000h2ua,2019-02-13T12:47:03.746Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T05:47:01.080Z,52.592,-166.925,15.2,3.1,ml,19,249.7,,,us,usp000h2ub,2019-02-13T12:46:10.520Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T05:49:38.190Z,52.592,-166.925,7.7,3,ml,11,270.7,,,us,usp000h2uc,2019-02-13T12:46:10.920Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T05:50:08.730Z,52.592,-166.925,16.6,3,ml,11,270.7,,,us,usp000h2ud,2019-02-13T12:47:04.169Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T05:54:11.840Z,52.592,-166.925,13.9,3.9,ml,50,173.3,,,us,usp000h2uf,2019-02-13T12:47:04.901Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T05:56:24.160Z,52.592,-166.925,9.5,4.7,mb,129,133.3,,,us,usp000h2ug,2019-02-13T12:46:11.548Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,43,reviewed,aeic,us
+2009-10-13T06:01:53.220Z,52.592,-166.925,22.6,3.4,ml,30,174.1,,,us,usp000h2uj,2019-02-13T12:47:05.349Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T06:03:04.700Z,52.592,-166.925,7.7,3.7,ml,36,174.1,,,us,usp000h2uk,2019-02-13T12:46:12.554Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T06:46:11.810Z,52.436,-166.861,33.6,3.3,ml,6,286.2,,,us,usp000h2uq,2019-02-13T12:47:35.582Z,"146 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T06:46:42.530Z,52.353,-166.835,25.6,3.5,ml,45,176,,,us,usp000h2ur,2019-02-13T12:46:15.494Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T06:57:57.570Z,52.592,-166.925,3.9,3.3,ml,43,174.1,,,us,usp000h2ut,2019-02-13T12:46:15.960Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T07:28:32.920Z,52.592,-166.925,14.3,3.5,ml,48,171.3,,,us,usp000h2uv,2019-02-13T12:46:18.412Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T07:40:23.140Z,52.441,-166.978,29.9,4.2,mb,14,199.1,,,us,usp000h2uy,2019-02-13T12:46:19.150Z,"138 km ESE of Nikolski, Alaska",earthquake,,,,1,reviewed,aeic,us
+2009-10-13T07:41:12.130Z,52.719,-167.166,39.1,5.3,mwc,274,81.4,,1.02,us,usp000h2uz,2025-12-22T15:42:19.540Z,"116 km ESE of Nikolski, Alaska",earthquake,,3,,,reviewed,us,gcmt
+2009-10-13T07:46:25.310Z,52.663,-167.183,38,5,mb,234,120.1,,0.93,us,usp000h2v0,2019-02-13T12:47:12.959Z,"117 km ESE of Nikolski, Alaska",earthquake,,2.6,,98,reviewed,us,us
+2009-10-13T07:56:43.900Z,52.353,-166.835,24.8,3.2,ml,11,283.4,,,us,usp000h2v1,2019-02-13T12:46:20.015Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T08:09:34.990Z,52.353,-166.835,11.9,3.1,ml,10,290.1,,,us,usp000h2v4,2019-02-13T12:46:21.228Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T08:10:04.310Z,52.353,-166.835,25.8,3,ml,5,290.1,,,us,usp000h2v5,2019-02-13T12:47:15.493Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T08:26:00.330Z,52.77,-167.062,38.3,4.7,mb,173,120,,0.97,us,usp000h2v8,2019-02-13T12:46:22.426Z,"122 km E of Nikolski, Alaska",earthquake,,2.8,,51,reviewed,us,us
+2009-10-13T08:34:21.480Z,52.683,-167.016,40.9,4,mb,45,175.1,,0.83,us,usp000h2va,2019-02-13T12:46:23.331Z,"127 km ESE of Nikolski, Alaska",earthquake,,5.6,,3,reviewed,us,us
+2009-10-13T08:40:03.930Z,52.37,-166.848,4.9,3,ml,10,282.6,,,us,usp000h2vc,2019-02-13T12:47:17.865Z,"150 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T09:49:53.980Z,52.353,-166.835,26.7,3.2,ml,26,185.5,,,us,usp000h2vm,2019-02-13T12:46:54.183Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T09:54:29.780Z,52.594,-166.957,27.8,4.5,mb,83,136.1,,,us,usp000h2vp,2019-02-13T12:46:27.321Z,"134 km ESE of Nikolski, Alaska",earthquake,,,,11,reviewed,aeic,us
+2009-10-13T11:09:24.290Z,53.767,-165.177,49.8,3,ml,23,193.6,,,us,usp000h2vv,2019-02-13T12:46:30.759Z,"56 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T11:25:02.990Z,52.353,-166.836,19.6,3.3,ml,28,187.4,,,us,usp000h2vx,2019-02-13T12:46:31.979Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T11:31:25.090Z,52.353,-166.835,18.9,3.1,ml,12,216.8,,,us,usp000h2vy,2019-02-13T12:46:32.412Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T11:45:38.710Z,52.353,-166.835,12.9,3.5,ml,29,178.1,,,us,usp000h2w1,2019-02-13T12:46:33.639Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T13:03:32.431Z,63.3445,-145.1554,5.9,3.6,ml,,,,0.8,ak,ak009d57glqz,2019-02-13T12:46:36.859Z,"36 km NE of Paxson, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-10-13T14:45:39.180Z,52.353,-166.835,13.7,3.6,ml,40,178.1,,,us,usp000h2w9,2019-02-13T12:46:42.882Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T17:16:10.590Z,52.594,-166.957,23.8,3.9,ml,66,138.7,,,us,usp000h2wd,2019-02-13T12:46:48.069Z,"134 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T18:30:28.360Z,52.353,-166.835,23.8,3.1,ml,13,278.3,,,us,usp000h2wh,2019-02-13T12:46:50.952Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T19:02:07.210Z,52.353,-166.835,25.6,3.5,ml,39,178.1,,,us,usp000h2wm,2019-02-13T12:46:52.162Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T19:11:38.560Z,52.355,-166.914,13,3,ml,15,282.1,,,us,usp000h2wn,2019-02-13T12:46:52.596Z,"146 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T20:21:53.200Z,52.604,-167.118,14,6.4,mwc,445,50.3,,1.17,us,usp000h2wq,2022-05-02T22:31:31.565Z,"123 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,us,us
+2009-10-13T21:05:04.850Z,52.353,-166.835,20.9,3.1,ml,26,189.5,,,us,usp000h2ws,2019-02-13T12:46:55.253Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-13T23:48:56.258Z,52.3603,-166.7683,37.8,4.2,ml,,,,0.66,ak,ak009d5domux,2019-02-13T12:47:02.007Z,"155 km ESE of Nikolski, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2009-10-13T23:49:19.700Z,52.63,-166.799,8.4,4.2,mb,94,127.4,,0.9,us,usp000h2x0,2019-02-13T12:47:43.771Z,"139 km S of Unalaska, Alaska",earthquake,,6.6,,6,reviewed,us,us
+2009-10-14T01:18:07.280Z,52.353,-166.835,25.3,3.6,ml,25,218.9,,,us,usp000h2x8,2019-02-13T12:47:47.407Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-14T01:26:52.380Z,52.353,-166.835,14.1,3.1,ml,14,278.3,,,us,usp000h2x9,2019-02-13T12:47:47.860Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-14T01:45:53.400Z,52.369,-166.489,24.4,3.1,ml,15,280.3,,,us,usp000h2xa,2019-02-13T12:48:08.114Z,"167 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-14T05:57:11.330Z,52.442,-166.841,12,3.1,ml,14,262.9,,,us,usp000h2xr,2019-02-13T12:47:53.653Z,"147 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-14T09:00:33.560Z,52.184,-166.779,25.8,3.1,ml,16,282.5,,,us,usp000h2xz,2019-02-13T12:47:56.797Z,"164 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-14T09:06:14.070Z,52.349,-166.739,24,3.5,ml,36,176,,,us,usp000h2y0,2019-02-13T12:47:57.193Z,"157 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-14T14:56:26.130Z,52.332,-166.634,26.5,3.3,ml,14,253.6,,,us,usp000h2y6,2019-02-13T12:48:03.779Z,"165 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-14T16:08:33.290Z,52.55,-166.906,21.4,3,ml,13,267.8,,,us,usp000h2y7,2019-02-13T12:48:05.295Z,"138 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-14T18:33:01.692Z,67.5004,-142.3206,11.6,3.6,ml,,,,0.78,ak,ak009d6y5hdl,2019-02-13T12:48:06.834Z,"112 km NNE of Chalkyitsik, Alaska",earthquake,,5.3,,,reviewed,ak,ak
+2009-10-15T00:13:33.080Z,52.853,-166.75,20,5.5,mwc,310,89.5,,1,us,usp000h2yn,2022-05-02T21:23:25.867Z,"114 km S of Unalaska, Alaska",earthquake,,,,,reviewed,us,gcmt
+2009-10-15T00:37:01.120Z,52.698,-166.732,2,3.5,ml,20,231.6,,,us,usp000h2yr,2019-02-13T12:48:35.325Z,"131 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T00:37:39.300Z,52.698,-166.732,15.9,3.2,ml,5,308.4,,,us,usp000h2ys,2019-02-13T12:49:12.552Z,"131 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T02:00:03.740Z,52.349,-166.653,26.6,3,ml,10,279.7,,,us,usp000h2z3,2019-02-13T12:48:39.062Z,"163 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T02:18:52.910Z,52.571,-166.738,25.2,3.6,ml,31,174.1,,,us,usp000h2z4,2019-02-13T12:48:39.425Z,"145 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T02:20:05.618Z,52.7307,-166.6977,11.2,3.4,ml,,,,0.37,ak,ak009d8c346p,2019-02-13T12:49:16.210Z,"127 km S of Unalaska, Alaska",earthquake,,3.2,,,reviewed,ak,ak
+2009-10-15T02:23:11.584Z,59.1847,-153.6177,107.7,3.1,ml,,,,0.72,ak,ak009d8c3rsm,2019-02-13T12:48:39.753Z,"64 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-10-15T03:31:06.190Z,52.487,-166.554,24.2,3.4,ml,16,274.6,,,us,usp000h2z8,2019-02-13T12:48:42.343Z,"154 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T03:34:59.380Z,52.742,-166.778,19,3.7,ml,18,228.9,,,us,usp000h2zb,2019-02-13T12:48:42.770Z,"127 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T03:35:25.780Z,52.734,-166.683,10,4.9,mb,119,125,,1.03,us,usp000h2zc,2019-02-13T12:49:17.693Z,"127 km S of Unalaska, Alaska",earthquake,,,,31,reviewed,us,us
+2009-10-15T03:57:52.310Z,52.577,-166.595,27,3.5,ml,19,217.6,,,us,usp000h2ze,2019-02-13T12:48:43.504Z,"144 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T06:13:01.850Z,52.561,-166.57,25.7,3,ml,12,276.9,,,us,usp000h2zq,2019-02-13T12:48:46.270Z,"146 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T07:28:24.060Z,52.802,-166.799,5.3,3.1,ml,17,254.4,,,us,usp000h2zw,2019-02-13T12:48:48.635Z,"120 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T07:57:50.740Z,52.556,-166.576,25.5,3,ml,14,274.8,,,us,usp000h2zy,2019-02-13T12:48:49.411Z,"146 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T11:05:50.680Z,52.333,-166.853,24.3,3.3,ml,27,193.2,,,us,usp000h309,2019-02-13T12:48:51.700Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T11:16:16.250Z,52.605,-166.548,25.4,3,ml,11,275.2,,,us,usp000h30a,2019-02-13T12:48:52.493Z,"141 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T14:25:36.110Z,52.216,-166.788,25.6,3.8,ml,26,233.5,,,us,usp000h30h,2019-02-13T12:48:58.426Z,"161 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T16:14:59.150Z,52.699,-166.776,14.7,3.1,ml,16,260.8,,,us,usp000h30n,2019-02-13T12:49:00.985Z,"131 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T18:08:33.420Z,52.386,-166.864,25.9,3,ml,12,281.7,,,us,usp000h30r,2019-02-13T12:49:03.360Z,"148 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T18:12:43.880Z,52.433,-166.477,25.7,3,ml,17,281.4,,,us,usp000h30s,2019-02-13T12:49:03.752Z,"160 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T18:27:43.990Z,52.489,-166.556,25.5,3.1,ml,15,278.1,,,us,usp000h30t,2019-02-13T12:49:04.154Z,"154 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T18:45:17.463Z,63.2385,-150.4404,122.5,3.2,ml,,,,0.78,ak,ak009d8lrfoi,2019-02-13T12:49:04.477Z,"72 km ESE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-10-15T20:35:23.900Z,52.361,-166.576,32.2,3,ml,14,283.3,,,us,usp000h310,2019-02-13T12:49:06.412Z,"167 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T21:46:00.563Z,56.3151,-157.7122,64.8,3.1,ml,,,,0.89,ak,ak009d8njwwo,2019-02-13T12:49:06.791Z,"42 km E of Chignik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2009-10-15T21:55:08.420Z,52.589,-166.522,25.6,3,ml,13,276.3,,,us,usp000h314,2019-02-13T12:49:07.574Z,"143 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-15T23:02:21.740Z,52.603,-166.591,25.7,3.2,ml,16,268.6,,,us,usp000h319,2019-02-13T12:49:09.789Z,"141 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-16T05:00:50.380Z,52.792,-167.043,34.9,4.7,mb,99,124.5,,0.81,us,usp000h31k,2019-02-13T12:49:44.025Z,"123 km E of Nikolski, Alaska",earthquake,,6.9,,26,reviewed,us,us
+2009-10-17T04:25:21.850Z,57.5404,-156.1605,108.4,3.5,ml,,,,0.64,ak,ak009dbods7t,2019-02-13T12:50:27.326Z,"74 km E of Ugashik, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2009-10-17T06:33:09.940Z,52.539,-166.946,1.9,3.1,ml,24,200.4,,,us,usp000h339,2019-02-13T12:50:31.982Z,"136 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-17T06:44:58.790Z,52.59,-166.979,8.9,3.1,ml,14,268,,,us,usp000h33a,2019-02-13T12:50:32.409Z,"132 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-17T23:08:55.580Z,52.606,-166.56,15,3,ml,15,268.9,,,us,usp000h341,2019-02-13T12:50:54.608Z,"141 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-18T07:05:12.360Z,63.6162,-149.8502,142,3.5,ml,,,,0.82,ak,ak009dddl4h0,2019-02-13T12:51:18.678Z,"48 km WSW of McKinley Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-10-18T08:18:49.040Z,52.579,-166.944,2.2,3.1,ml,33,194.6,,,us,usp000h34e,2019-02-13T12:51:21.320Z,"135 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-18T08:29:08.376Z,71.9038,-137.623,25,3.3,ml,,,,1.52,ak,ak009ddeboyd,2019-02-13T12:51:45.352Z,"294 km NE of Kaktovik, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-10-18T14:18:03.970Z,52.345,-166.789,8.6,3.1,ml,20,222.5,,,us,usp000h34y,2019-02-13T12:51:27.390Z,"155 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-19T12:30:49.818Z,59.6257,-153.8475,136.9,3.1,ml,,,,0.73,ak,ak009df492s5,2019-02-13T12:52:09.446Z,"23 km SE of Pedro Bay, Alaska",earthquake,,3.1,,,reviewed,ak,ak
+2009-10-19T12:59:46.650Z,52.324,-166.725,14.9,3.3,ml,34,176.8,,,us,usp000h360,2019-02-13T12:52:10.335Z,"160 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-20T16:55:16.551Z,56.4919,-153.7143,12,3,ml,,,,0.68,ak,ak009dgubg13,2019-02-13T12:52:47.283Z,"57 km SSE of Akhiok, Alaska",earthquake,,183.4,,,reviewed,ak,ak
+2009-10-20T18:01:36.833Z,56.3166,-153.5672,24.1,3.3,ml,,,,0.81,ak,ak009dgv6s4z,2019-02-13T12:52:48.877Z,"79 km SSE of Akhiok, Alaska",earthquake,,18.6,,,reviewed,ak,ak
+2009-10-20T19:28:11.110Z,60.2771,-153.5548,174.9,3,ml,,,,0.83,ak,ak009dgvxy3b,2019-02-13T12:52:50.035Z,"42 km E of Port Alsworth, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-10-21T02:48:22.961Z,56.4664,-153.8236,5,3,ml,,,,0.55,ak,ak009di9h8jc,2019-02-13T12:53:24.324Z,"57 km SSE of Akhiok, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-10-21T03:13:41.520Z,52.645,-166.695,12.2,3.2,ml,18,265,,,us,usp000h37m,2019-02-13T12:53:09.485Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-21T23:46:07.610Z,53.449,-167.532,79.3,3.3,m,25,177.2,,,us,usp000h38e,2019-02-13T12:53:23.524Z,"81 km SW of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-22T03:25:11.100Z,53.706,-164.13,21.5,3.1,ml,22,212.9,,,us,usp000h38m,2019-02-13T12:53:34.624Z,"118 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-22T03:39:21.660Z,54.945,-160.891,27.6,3,ml,11,227.1,,,us,usp000h38q,2019-02-13T12:53:35.057Z,"50 km SSW of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-22T22:57:24.340Z,52.762,-166.607,26,3.1,ml,14,264.2,,,us,usp000h39f,2019-02-13T12:53:43.667Z,"123 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-23T02:09:46.756Z,57.8987,-155.0048,80.9,3.1,ml,,,,0.85,ak,ak009dlkbmfn,2019-02-13T12:53:54.487Z,"49 km NW of Karluk, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-10-23T08:35:40.380Z,52.299,-166.903,26.4,3.3,ml,25,191.8,,,us,usp000h3ad,2019-02-13T12:53:57.062Z,"150 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-23T18:07:21.150Z,52.493,-166.881,10.4,3,ml,13,271.6,,,us,usp000h3aw,2019-02-13T12:54:00.750Z,"142 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-24T07:46:45.648Z,59.9985,-151.1728,44.6,3.1,ml,,,,0.8,ak,ak009dnb22d0,2019-02-13T12:54:12.392Z,"19 km NW of Fox River, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2009-10-24T13:32:52.670Z,53.285,-168.056,140.8,3.6,m,24,175.3,,,us,usp000h3c3,2019-02-13T12:54:14.478Z,"66 km NE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-25T07:51:24.060Z,52.731,-168.023,25.6,3.6,ml,28,212.1,,,us,usp000h3cu,2019-02-13T12:54:29.430Z,"61 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-26T08:55:07.092Z,60.0377,-152.1048,61.6,3.4,ml,,,,0.77,ak,ak009dqms1f9,2019-02-13T12:54:57.112Z,"23 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2009-10-27T00:33:32.050Z,53.772,-164.471,44.4,4.3,mb,115,136.9,,0.78,us,usp000h3eu,2019-02-13T12:55:18.210Z,"94 km ESE of Akutan, Alaska",earthquake,,2.5,,12,reviewed,us,us
+2009-10-27T01:12:35.719Z,61.2349,-152.0879,10.9,3.1,ml,,,,0.7,ak,ak009ds5w73n,2019-02-13T12:55:19.007Z,"54 km WNW of Tyonek, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-10-27T09:00:08.070Z,54.251,-164.272,67.7,3,ml,26,184.9,,,us,usp000h3ff,2019-02-13T12:55:27.167Z,"87 km SW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-27T10:50:33.310Z,53.149,-166.64,20.7,3.8,ml,31,206.2,,,us,usp000h3fj,2019-02-13T12:55:28.006Z,"81 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-27T10:52:55.800Z,53.105,-166.591,25.7,3.1,ml,21,219.8,,,us,usp000h3fk,2019-02-13T12:55:28.449Z,"85 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-27T13:23:20.090Z,53.121,-166.624,18.9,3.2,ml,25,206.8,,,us,usp000h3fr,2019-02-13T12:55:32.501Z,"84 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-28T17:26:26.500Z,52.383,-166.895,7.6,3,ml,12,276.4,,,us,usp000h3gy,2019-02-13T12:56:03.453Z,"146 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-28T17:41:52.570Z,52.398,-166.902,17.1,3,ml,13,280.9,,,us,usp000h3h0,2019-02-13T12:56:03.840Z,"145 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-29T01:14:53.620Z,52.227,-166.985,27.9,3.5,ml,61,177.8,,,us,usp000h3hb,2019-02-13T12:56:22.613Z,"149 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-29T01:16:55.740Z,52.215,-167.003,17.8,3.5,ml,69,139.2,,,us,usp000h3hc,2019-02-13T12:56:22.252Z,"149 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-30T11:18:27.320Z,53.439,-164.322,10.4,3.1,ml,28,219.1,,,us,usp000h3js,2019-02-13T12:56:48.050Z,"123 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-30T12:45:55.510Z,54.154,-162.509,6.4,3.1,ml,24,216.3,,,us,usp000h3jx,2019-02-13T12:56:50.343Z,"97 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-30T18:44:41.420Z,52.542,-166.875,2,3.4,ml,37,186.3,,,us,usp000h3k9,2019-02-13T12:56:53.263Z,"141 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-10-30T23:52:29.047Z,61.4984,-146.4691,24.2,3.1,ml,,,,0.54,ak,ak009dxhuc0o,2019-02-13T12:56:55.832Z,"Southern Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-10-31T00:01:31.391Z,60.317,-153.2897,152.1,3.1,ml,,,,0.79,ak,ak009dyrds9f,2019-02-13T12:57:01.881Z,"58 km ENE of Port Alsworth, Alaska",earthquake,,2.2,,,reviewed,ak,ak
+2009-10-31T12:48:42.212Z,67.3789,-165.3334,7.8,3.1,ml,,,,2.23,ak,ak009dyyt30d,2019-02-13T12:57:23.975Z,"51 km SW of Kivalina, Alaska",earthquake,,907,,,reviewed,ak,ak
+2009-10-31T15:10:53.940Z,53.431,-163.152,18.4,3.3,ml,34,213.9,,,us,usp000h3m5,2019-02-13T12:57:14.605Z,"159 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-01T01:06:41.630Z,52.451,-166.89,18.8,3.1,ml,28,193.7,,,us,usp000h3mh,2019-02-13T12:59:00.422Z,"143 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-01T17:32:18.076Z,55.8659,-153.5384,24.9,3,ml,,,,0.56,ak,ak009e0p847j,2019-02-13T12:59:08.966Z,"126 km SSE of Akhiok, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2009-11-02T01:02:18.590Z,53.458,-165.008,16.7,3.6,ml,35,203.8,,,us,usp000h3nd,2019-02-13T12:59:17.967Z,"90 km SSE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-03T02:50:50.510Z,52.491,-169.678,16.3,3.5,ml,20,206.2,,,us,usp000h3ph,2019-02-13T12:59:40.258Z,"74 km SW of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-03T09:56:49.540Z,54.565,-161.728,23.8,3.1,ml,14,225.9,,,us,usp000h3pv,2019-02-13T12:59:43.863Z,"66 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-03T16:01:20.976Z,63.1533,-150.4564,113.2,3.1,ml,,,,0.84,ak,ak009e3ziqm9,2019-02-13T12:59:47.001Z,"74 km NNE of Petersville, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-04T12:13:31.162Z,55.9573,-157.3614,12.2,3.7,ml,,,,0.56,ak,ak009e5kqy2k,2019-02-13T13:00:03.195Z,"74 km ESE of Chignik, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2009-11-05T08:54:19.362Z,63.3096,-151.1396,14.4,3.7,ml,,,,0.7,ak,ak009e765blc,2019-02-13T13:00:13.877Z,"38 km SE of Denali National Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-06T10:19:51.380Z,57.494,-140.732,10,4.3,mwr,115,134.1,,0.91,us,usp000h3t8,2019-02-13T13:00:31.576Z,"236 km SSW of Yakutat, Alaska",earthquake,,,,,reviewed,us,pgc
+2009-11-06T21:36:16.680Z,54.854,-161.513,79.5,3.1,m,11,219.6,,,us,usp000h3tn,2019-02-13T13:00:38.553Z,"56 km ESE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-07T12:03:21.528Z,60.158,-153.3611,193.3,3,ml,,,,1.34,ak,ak009eajatnc,2019-02-13T13:00:51.654Z,"53 km E of Port Alsworth, Alaska",earthquake,,3.1,,,reviewed,ak,ak
+2009-11-07T14:07:45.520Z,66.849,-135.676,10,4.2,mb,38,77.2,,0.88,us,usp000h3u8,2019-02-13T13:00:53.020Z,"74 km SSW of Fort McPherson, Canada",earthquake,,,,1,reviewed,us,us
+2009-11-08T10:03:14.402Z,57.6693,-138.3896,5.7,4.4,mw,,,,0.77,ak,ak009ec5nads,2022-07-15T20:44:19.494Z,"132 km WSW of Pelican, Alaska",earthquake,,1.4,,,reviewed,ak,ak
+2009-11-08T20:18:31.910Z,54.91,-132.651,10,3.2,ml,10,136,,0.75,us,usp000h3vd,2014-11-07T01:40:05.352Z,"34 km SSE of Hydaburg, Alaska",earthquake,,,,,reviewed,us,pgc
+2009-11-08T20:54:42.747Z,54.9452,-132.7886,14.9,3.9,ml,,,,1.15,ak,ak009ecbwm4y,2019-02-13T13:01:29.845Z,"29 km S of Hydaburg, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2009-11-08T23:05:19.320Z,52.307,-168.454,33.7,5.3,mb,375,121.3,,1.01,us,usp000h3vw,2022-05-02T21:25:55.649Z,"75 km SSE of Nikolski, Alaska",earthquake,,3.4,,211,reviewed,us,us
+2009-11-08T23:08:33.980Z,52.167,-168.345,25.6,3.8,ml,71,98.6,,,us,usp000h3vx,2019-02-13T13:01:29.471Z,"92 km SSE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-09T01:14:00.130Z,52.3,-168.493,31.1,5.1,mwc,294,122,,1.24,us,usp000h3w2,2025-12-22T15:41:37.052Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,3.8,,,reviewed,us,gcmt
+2009-11-09T04:07:06.940Z,57.699,-132.497,1,3.5,ml,10,99.1,,,us,usp000h3w5,2019-02-13T13:01:34.634Z,"57 km ENE of Hobart Bay, Alaska",earthquake,,,,,reviewed,pgc,pgc
+2009-11-09T13:07:48.911Z,61.9507,-147.9089,35,3,ml,,,,0.75,ak,ak009eduzv7v,2019-02-13T13:01:41.037Z,"20 km NW of Glacier View, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-09T18:26:20.642Z,65.0535,-133.6209,26.9,3.5,ml,,,,0.81,ak,ak009edy31o0,2019-02-13T13:01:43.922Z,"271 km SSE of Fort McPherson, Canada",earthquake,,24.9,,,reviewed,ak,ak
+2009-11-09T19:41:17.600Z,52.4,-166.797,33.4,3.4,ml,26,253.8,,,us,usp000h3x4,2019-02-13T13:01:44.306Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-10T00:29:42.360Z,52.39,-168.604,32.1,5,mb,232,122,,0.88,us,usp000h3xb,2019-02-13T13:01:57.612Z,"63 km SSE of Nikolski, Alaska",earthquake,,4.7,,128,reviewed,us,us
+2009-11-10T06:43:28.265Z,56.4011,-153.782,5,3,ml,,,,0.46,ak,ak009efekunu,2019-02-13T13:02:12.780Z,"65 km SSE of Akhiok, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-10T07:24:07.264Z,67.9664,-166.6886,16,3.1,ml,,,,0.96,ak,ak009eff261i,2019-02-13T13:02:13.134Z,"42 km S of Point Hope, Alaska",earthquake,,390.1,,,reviewed,ak,ak
+2009-11-11T11:21:53.676Z,60.1441,-153.3572,156.5,3.9,ml,,,,0.85,ak,ak009eh4ypdz,2019-02-13T13:02:24.388Z,"53 km E of Port Alsworth, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-11-12T02:55:42.421Z,63.3203,-145.2409,6.1,3.1,ml,,,,0.71,ak,ak009eincewy,2019-02-13T13:02:34.780Z,"31 km NE of Paxson, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-12T06:42:58.376Z,61.1406,-152.3639,146.5,3.1,ml,,,,0.83,ak,ak009eipne99,2019-02-13T13:02:35.524Z,"66 km W of Tyonek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-12T10:34:20.060Z,53.577,-165.033,13.5,3.1,ml,20,208.5,,,us,usp000h3zf,2019-02-13T13:02:36.439Z,"78 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-12T10:49:31.550Z,54.465,-161.042,7.2,3.2,ml,11,250.4,,,us,usp000h3zg,2019-02-13T13:02:36.844Z,"103 km SSW of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-12T19:03:19.443Z,61.2801,-146.8796,21.8,3.5,ml,,,,0.42,ak,ak009eix5l6w,2019-02-13T13:02:39.979Z,"33 km WNW of Valdez, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-13T03:30:26.068Z,60.4554,-152.2207,79.9,3.9,ml,,,,0.75,ak,ak009ekbbsum,2019-02-13T13:02:46.749Z,"51 km W of Cohoe, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-13T13:26:38.290Z,54.983,-159.243,13.8,3.2,ml,13,229.4,,,us,usp000h40g,2019-02-13T13:02:51.099Z,"89 km ESE of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-13T21:01:48.430Z,52.458,-168.366,39.8,5.2,mb,153,126.6,,0.93,us,usp000h40t,2019-02-13T13:02:54.474Z,"63 km SSE of Nikolski, Alaska",earthquake,,3,,51,reviewed,us,us
+2009-11-13T22:32:54.893Z,66.8083,-136.1861,4.4,3.4,ml,,,,0.51,ak,ak009ekmnj01,2019-02-13T13:03:01.731Z,"90 km SW of Fort McPherson, Canada",earthquake,,1.6,,,reviewed,ak,ak
+2009-11-15T12:16:35.480Z,54.143,-162.52,9.7,3.2,ml,21,215.6,,,us,usp000h42k,2019-02-13T13:03:28.153Z,"97 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-15T13:19:13.916Z,59.9164,-152.8592,94.6,3.2,ml,,,,0.63,ak,ak009ensag2n,2019-02-13T13:03:28.525Z,"59 km WNW of Anchor Point, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-15T20:32:04.440Z,52.173,-168.277,14.2,3.3,ml,19,232.5,,,us,usp000h430,2019-02-13T13:03:30.952Z,"94 km SSE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-15T21:05:24.660Z,53.082,-169.358,79.4,4.7,mb,186,109.8,,0.92,us,usp000h431,2019-02-13T13:03:31.946Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,2,,62,reviewed,us,us
+2009-11-15T22:33:28.960Z,52.303,-168.262,8.4,3.2,ml,26,139.1,,,us,usp000h433,2019-02-13T13:03:33.019Z,"81 km SSE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-15T23:50:41.690Z,52.281,-168.326,6.8,3.4,ml,18,214.7,,,us,usp000h438,2019-02-13T13:03:34.173Z,"81 km SSE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-16T06:45:20.860Z,52.274,-168.171,23.8,3.1,ml,13,237.3,,,us,usp000h43g,2019-02-13T13:03:43.859Z,"87 km SSE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-17T12:31:06.630Z,52.368,-166.764,26.9,3.4,ml,32,193.1,,,us,usp000h44p,2019-02-13T13:04:07.723Z,"155 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-17T15:30:47.440Z,52.123,-131.395,17,6.6,mwc,388,26.6,,1.16,us,usp000h44s,2022-07-15T21:14:14.447Z,"254 km SSW of Prince Rupert, Canada",earthquake,,,,,reviewed,us,us
+2009-11-17T15:37:42.290Z,52.102,-131.572,10,5.8,mwc,226,68,,0.86,us,usp000h44t,2022-07-15T21:15:57.959Z,"260 km SSW of Prince Rupert, Canada",earthquake,,,,,reviewed,us,gcmt
+2009-11-17T19:04:14.980Z,52.166,-131.385,10,4.7,mwr,133,135.5,,1.3,us,usp000h44y,2022-07-15T21:17:31.055Z,"249 km SSW of Prince Rupert, Canada",earthquake,,,,,reviewed,us,pgc
+2009-11-17T20:48:28.768Z,59.4655,-153.2356,101.8,4.4,mb,,,,0.71,ak,ak009er7pf7g,2019-02-13T13:04:11.788Z,"60 km SE of Pedro Bay, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-18T01:32:15.130Z,52.334,-166.857,23.7,3.8,ml,85,132,,,us,usp000h45d,2019-02-13T13:04:18.309Z,"151 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-18T03:16:39.710Z,52.264,-131.298,10,4.6,mwr,51,169.2,,1.49,us,usp000h45m,2014-11-07T01:40:07.385Z,"237 km SSW of Prince Rupert, Canada",earthquake,,,,,reviewed,us,pgc
+2009-11-18T06:20:22.229Z,59.6332,-153.1004,103.3,3,ml,,,,0.66,ak,ak009esmqooe,2019-02-13T13:04:22.636Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-18T08:06:07.700Z,52.222,-131.662,10,4.6,mwr,70,172.8,,1.14,us,usp000h45w,2014-11-07T01:40:07.423Z,"249 km SSW of Prince Rupert, Canada",earthquake,,,,,reviewed,us,pgc
+2009-11-18T21:58:23.702Z,56.3257,-156.5153,38.6,3,ml,,,,0.86,ak,ak009esvwc2q,2019-02-13T13:04:30.689Z,"116 km E of Chignik, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-19T13:41:21.400Z,52.432,-167.045,10,3.2,ml,27,195.1,,0.8,us,usp000h46p,2019-02-13T13:04:47.760Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,us,aeic
+2009-11-19T13:53:14.400Z,52.23,-166.729,27.8,4.5,mb,57,223.1,,,us,usp000h46q,2019-02-13T13:04:48.109Z,"164 km ESE of Nikolski, Alaska",earthquake,,,,13,reviewed,aeic,us
+2009-11-19T14:08:39.320Z,52.167,-168.537,5.1,4.7,mb,99,126.8,,,us,usp000h46r,2019-02-13T13:04:48.428Z,"88 km SSE of Nikolski, Alaska",earthquake,,,,30,reviewed,aeic,us
+2009-11-19T14:36:27.300Z,52.531,-166.875,4.5,3.5,ml,33,176.2,,,us,usp000h46s,2019-02-13T13:04:49.147Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-20T05:05:40.610Z,55.092,-160.626,4.8,3.1,ml,11,223.1,,,us,usp000h47c,2019-02-13T13:05:02.583Z,"28 km SSW of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-21T08:10:31.920Z,56.139,-161.268,211.5,3.3,m,24,126.8,,,us,usp000h49d,2019-02-13T13:05:24.735Z,"15 km NNW of Nelson Lagoon, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-21T12:09:39.813Z,62.3668,-150.9747,76.4,3.2,ml,,,,0.64,ak,ak009exov09p,2019-02-13T13:05:27.459Z,"18 km SW of Petersville, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-21T13:00:02.070Z,52.362,-166.93,21.4,3.3,ml,33,185.5,,,us,usp000h49k,2019-02-13T13:05:29.590Z,"145 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-21T15:49:11.671Z,55.7685,-159.6621,109.5,3.1,ml,,,,0.47,ak,ak009exqvtjz,2019-02-13T13:05:30.716Z,"18 km SW of Ivanof Bay, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-22T04:11:36.600Z,53.865,-163.954,21.6,3.4,ml,23,208.4,,,us,usp000h4a6,2019-02-13T13:05:43.281Z,"115 km SSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-22T09:55:53.800Z,52.805,-166.766,6.6,3.6,ml,35,184.7,,,us,usp000h4ae,2019-02-13T13:05:46.381Z,"119 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-22T11:23:01.225Z,63.3556,-147.0424,2.3,3.4,ml,,,,0.79,ak,ak009ezbvu7e,2019-02-13T13:05:46.750Z,"77 km WNW of Paxson, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-22T23:40:25.150Z,60.2728,-153.4672,181.7,3.1,ml,,,,0.73,ak,ak009ezj4qhf,2019-02-13T13:05:52.132Z,"47 km E of Port Alsworth, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-23T21:36:25.183Z,63.203,-143.4895,5.1,3.4,ml,,,,0.93,ak,ak009f15gcwm,2019-02-13T13:06:10.130Z,"21 km SSW of Tanacross, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-24T04:32:48.052Z,55.8051,-158.2292,41.7,3.7,ml,,,,0.76,ak,ak009f2iuj0l,2019-02-13T13:06:22.569Z,"55 km S of Chignik, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-24T15:00:47.760Z,52.951,-163.784,19.2,3,ml,18,234.8,,,us,usp000h4cx,2019-02-13T13:06:30.013Z,"186 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-24T15:56:24.064Z,61.9349,-150.3846,46.4,3,ml,,,,0.58,ak,ak009f2pje06,2019-02-13T13:06:30.398Z,"27 km NW of Willow, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-25T10:48:04.480Z,53.093,-166.907,25.6,3.9,ml,47,140.6,,,us,usp000h4dn,2019-02-13T13:06:47.596Z,"90 km SSW of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-26T06:03:56.899Z,61.3029,-152.1961,1.1,3,ml,,,,0.69,ak,ak009f5uxw4p,2019-02-13T13:07:02.976Z,"62 km WNW of Beluga, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-26T07:53:27.790Z,54.464,-161.465,17.2,3.2,ml,17,207.7,,,us,usp000h4ek,2019-02-13T13:07:04.456Z,"86 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-26T09:00:53.611Z,59.7567,-153.4508,122.4,3.2,ml,,,,0.72,ak,ak009f5wpjjl,2019-02-13T13:07:05.617Z,"36 km E of Pedro Bay, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-11-27T13:33:19.352Z,55.9518,-157.8719,69.8,3.1,ml,,,,0.58,ak,ak009f7mtmfz,2019-02-13T13:07:30.465Z,"50 km SE of Chignik, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-11-27T19:31:36.803Z,58.4566,-137.2062,0.9,3,ml,,,,1.02,ak,ak009f7qdtzk,2019-02-13T13:09:18.783Z,"58 km WNW of Elfin Cove, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2009-11-27T23:18:20.628Z,68.0196,-136.5552,18.8,3.3,ml,,,,0.37,ak,ak009f7soqum,2019-02-13T13:07:47.545Z,"95 km NW of Fort McPherson, Canada",earthquake,,2.7,,,reviewed,ak,ak
+2009-11-28T21:27:54.810Z,53.942,-163.048,14.2,3.1,ml,13,222.4,,,us,usp000h4ht,2019-02-13T13:07:59.187Z,"104 km SSE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-29T03:10:46.340Z,52.38,-166.842,2.8,3.2,ml,17,264.8,,,us,usp000h4j4,2019-02-13T13:08:22.432Z,"150 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-29T04:23:41.500Z,54.198,-162.483,10.1,3,ml,18,218.8,,,us,usp000h4j9,2019-02-13T13:08:23.105Z,"94 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-29T07:52:18.520Z,52.517,-161.354,20.8,3.3,ml,23,235.5,,,us,usp000h4jg,2019-02-13T13:08:37.617Z,"290 km SSE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-29T10:45:25.252Z,67.7033,-169.1797,7.2,3.6,ml,,,,0.61,ak,ak009faw6lnx,2019-02-13T13:08:38.036Z,"124 km SW of Point Hope, Alaska",earthquake,,42.1,,,reviewed,ak,ak
+2009-11-30T00:48:09.680Z,54.184,-161.02,37.1,3.3,ml,13,251.1,,,us,usp000h4kf,2019-02-13T13:08:43.515Z,"128 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-11-30T13:02:30.050Z,59.9463,-152.8837,100.6,3.5,ml,,,,0.69,ak,ak009fcl91jx,2019-02-13T13:08:51.282Z,"61 km WNW of Anchor Point, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-02T06:11:51.800Z,52.301,-166.899,26,3.2,ml,12,250.1,,,us,usp000h4nr,2019-02-13T13:10:29.835Z,"150 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-02T21:04:15.860Z,54.222,-166.514,230.1,4.4,mb,74,66.7,,0.8,us,usp000h4pa,2019-02-13T13:10:36.160Z,"37 km N of Dutch Harbor, Alaska",earthquake,,4.5,,5,reviewed,us,us
+2009-12-02T23:35:54.320Z,53.346,-163.531,26.5,3.3,ml,23,225,,,us,usp000h4pj,2019-02-13T13:10:37.001Z,"168 km S of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-03T01:56:36.250Z,53.693,-165.518,63,5.3,mwc,355,61,,1.1,us,usp000h4pm,2022-07-15T22:02:00.631Z,"51 km SSE of Akutan, Alaska",earthquake,,4.5,,,reviewed,us,gcmt
+2009-12-03T05:41:37.930Z,52.419,-166.9,20.9,3.1,ml,19,192.9,,,us,usp000h4ps,2019-02-13T13:10:52.877Z,"144 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-03T10:41:27.240Z,53.495,-165.281,3.3,3.4,ml,39,161.8,,,us,usp000h4q3,2019-02-13T13:10:55.881Z,"78 km SSE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-03T10:45:30.430Z,53.481,-165.287,6.3,3,ml,23,209.3,,,us,usp000h4q4,2019-02-13T13:10:56.253Z,"79 km SSE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-03T11:18:47.950Z,53.467,-165.275,14.9,3.5,ml,27,204.3,,,us,usp000h4q6,2019-02-13T13:10:57.901Z,"81 km SSE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-04T17:25:04.069Z,63.6129,-147.4372,5.9,3,ml,,,,0.89,ak,ak009fj9x1eu,2019-02-13T13:11:25.168Z,"74 km E of McKinley Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-05T09:14:55.250Z,66.8191,-142.4722,12.1,4.5,mw,,,,1.14,ak,ak009fksmo51,2019-02-13T13:11:46.212Z,"58 km ENE of Chalkyitsik, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2009-12-05T10:50:25.365Z,57.9299,-156.0121,128,3,ml,,,,0.78,ak,ak009fktfr7s,2019-02-13T13:11:47.346Z,"86 km ESE of Egegik, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-05T11:45:50.957Z,60.3847,-152.3327,101.2,3.8,ml,,,,0.67,ak,ak009fku067r,2019-02-13T13:11:49.368Z,"52 km NW of Ninilchik, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-05T18:01:05.540Z,52.206,-169.529,42.1,3.5,ml,31,141.3,,0.9,us,usp000h4s3,2019-02-13T13:11:56.032Z,"93 km SSW of Nikolski, Alaska",earthquake,,6.8,,,reviewed,us,aeic
+2009-12-05T19:34:30.790Z,53.805,-164.248,18.5,3.7,ml,18,207.9,,,us,usp000h4s8,2019-02-13T13:11:51.156Z,"106 km ESE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-05T23:27:03.307Z,65.7641,-168.2289,17.3,3.9,ml,,,,1.15,ak,ak009fl11ewq,2019-02-13T13:11:58.150Z,"18 km NNW of Wales, Alaska",earthquake,,6.1,,,reviewed,ak,ak
+2009-12-06T04:19:15.291Z,58.2454,-155.8583,137.7,4.3,mb,,,,0.87,ak,ak009fmd7u3t,2019-02-13T13:12:03.133Z,"68 km SE of King Salmon, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-12-08T16:19:17.061Z,65.9348,-150.4024,20.4,3.1,ml,,,,0.67,ak,ak009fpvfqhm,2019-02-13T13:12:48.382Z,"49 km NNW of Rampart, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-08T20:35:14.780Z,54.139,-162.515,4.8,3.5,ml,41,203.6,,,us,usp000h4vx,2019-02-13T13:12:49.475Z,"98 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-09T00:59:34.150Z,53.612,-164.721,16.6,3.7,ml,25,200.8,,,us,usp000h4w5,2019-02-13T13:13:04.448Z,"90 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-09T07:21:17.550Z,53.632,-164.74,10.7,3,ml,18,210.5,,,us,usp000h4wd,2019-02-13T13:13:09.454Z,"88 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-09T10:26:51.295Z,62.3506,-151.1505,78.8,3.2,ml,,,,0.57,ak,ak009frfg209,2019-02-13T13:13:10.816Z,"25 km SW of Petersville, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-09T19:02:09.609Z,55.3671,-159.1625,40.8,3.4,ml,,,,0.56,ak,ak009frknq1s,2019-02-13T13:13:17.743Z,"Alaska Peninsula",earthquake,,0,,,reviewed,ak,ak
+2009-12-10T12:40:56.610Z,54.806,-160.557,5.3,3,ml,10,244.3,,,us,usp000h4xj,2019-02-13T13:13:38.991Z,"59 km S of Sand Point, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-11T01:35:55.630Z,53.819,-166.079,85.1,3.1,m,18,188.9,,,us,usp000h4y3,2019-02-13T13:13:56.566Z,"30 km ESE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-11T03:04:53.622Z,60.4635,-152.8029,126.2,3.7,ml,,,,0.72,ak,ak009fum806q,2019-02-13T13:13:57.784Z,"77 km NW of Ninilchik, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-12T02:11:48.562Z,55.5615,-156.1362,42,3,ml,,,,0.79,ak,ak009fw97ep4,2019-02-13T13:14:25.247Z,"163 km ESE of Chignik, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-12T02:23:30.490Z,52.494,-169.897,63,4.2,mb,75,138.2,,0.95,us,usp000h4z5,2019-02-13T13:14:25.577Z,"85 km SW of Nikolski, Alaska",earthquake,,3.6,,16,reviewed,us,us
+2009-12-12T09:44:39.370Z,52.715,-166.704,5.2,3.6,ml,39,188.4,,,us,usp000h4zd,2019-02-13T13:14:32.054Z,"129 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-13T11:06:17.064Z,56.1219,-156.8861,2.3,3.1,ml,,,,0.67,ak,ak009fy22imi,2019-02-13T13:14:57.084Z,"96 km ESE of Chignik, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-12-13T18:19:50.090Z,52.656,-166.683,4.9,4.7,mb,110,140.9,,,us,usp000h50n,2019-02-13T13:15:15.455Z,"135 km S of Unalaska, Alaska",earthquake,,,,21,reviewed,aeic,us
+2009-12-13T18:21:21.200Z,52.729,-166.672,10.4,3.1,ml,7,305.5,,,us,usp000h50p,2019-02-13T13:15:15.101Z,"127 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-13T18:59:17.060Z,52.778,-166.743,4.8,3.3,ml,21,237.4,,,us,usp000h50q,2019-02-13T13:15:03.896Z,"122 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-13T21:52:30.820Z,53.528,-166.463,61.7,3.2,ml,24,191.8,,,us,usp000h50w,2019-02-13T13:15:06.774Z,"38 km S of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-14T01:55:42.200Z,56.12,-149.943,12.2,3.1,ml,37,212.9,,,us,usp000h513,2019-02-13T13:15:18.212Z,"218 km SE of Chiniak, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-15T05:55:42.290Z,53.665,-166.067,69.6,3.5,ml,20,189.8,,,us,usp000h528,2019-02-13T13:15:55.685Z,"38 km SE of Unalaska, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-15T12:55:51.275Z,60.2194,-152.8817,117.5,4.3,mb,,,,0.69,ak,ak009g1e17xz,2019-02-13T13:16:00.566Z,"70 km WNW of Ninilchik, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-15T15:25:08.170Z,54.56,-162.665,68.3,3.2,ml,17,196.9,,,us,usp000h52j,2019-02-13T13:16:02.665Z,"58 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-16T05:21:20.043Z,61.557,-149.8643,53.9,3,ml,,,,0.5,ak,ak009g2x76g4,2019-03-19T20:20:33.633Z,"6 km NE of Big Lake, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-16T20:46:55.300Z,54.493,-161.546,6.1,3.1,ml,15,222.3,,,us,usp000h53u,2019-02-13T13:16:30.851Z,"80 km SE of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-18T03:33:14.196Z,59.0436,-153.4015,80.7,5.1,mw,,,,1.02,ak,ak009g675kd7,2025-12-29T21:02:16.715Z,"83 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-18T08:49:15.198Z,66.494,-147.9387,18.4,3.4,ml,,,,0.75,ak,ak009g6a85xb,2019-02-13T13:17:07.179Z,"28 km WNW of Beaver, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-18T21:05:04.330Z,62.5976,-152.1353,6.3,3.1,ml,,,,0.78,ak,ak009g6hpcg1,2019-02-13T13:17:12.745Z,"71 km W of Petersville, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-20T20:34:28.756Z,62.0879,-150.3345,58.2,3.4,ml,,,,0.53,ak,ak009g9scvh7,2019-02-13T13:17:50.073Z,"26 km SSW of Trapper Creek, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-21T00:48:15.156Z,67.719,-166.9337,24.7,3.3,ml,,,,1.34,ak,ak009gb42iuj,2019-02-13T13:18:20.212Z,"Bering Strait",earthquake,,90.7,,,reviewed,ak,ak
+2009-12-21T17:26:48.990Z,54.249,-162.483,25.4,3.3,ml,14,216.1,,,us,usp000h58e,2019-02-13T13:18:07.571Z,"90 km SE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-22T16:13:45.520Z,53.297,-164.216,14.5,3.1,ml,16,219.9,,,us,usp000h593,2019-02-13T13:18:26.973Z,"138 km SE of Akutan, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-23T11:47:43.320Z,52.746,-162.203,27.1,3.4,ml,28,227.1,,,us,usp000h59p,2019-02-13T13:18:46.031Z,"247 km SSE of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-24T13:50:23.963Z,60.2103,-153.1766,143.8,3,ml,,,,0.62,ak,ak009ggafnb0,2019-02-13T13:19:10.749Z,"63 km E of Port Alsworth, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2009-12-24T14:09:03.264Z,56.7143,-156.9449,73.3,3.2,ml,,,,0.68,ak,ak009ggas8ye,2019-02-13T13:19:11.231Z,"93 km SSE of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2009-12-25T11:56:25.536Z,58.7948,-152.75,62.6,3.1,ml,,,,0.67,ak,ak009ghwtf09,2019-02-13T13:19:37.456Z,"78 km SW of Nanwalek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-25T14:06:40.050Z,54.052,-163.503,25.2,3.1,ml,23,205.6,,,us,usp000h5bu,2019-02-13T13:19:39.900Z,"Unimak Island region, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-25T19:53:04.977Z,63.47,-151.2304,12,3.4,ml,,,,0.85,ak,ak009gi1k741,2019-02-13T13:19:42.374Z,"25 km ESE of Denali National Park, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-25T23:44:17.130Z,54.341,-162.198,1.7,3.2,ml,15,216.8,,,us,usp000h5c8,2019-02-13T13:19:45.152Z,"80 km S of King Cove, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-27T03:12:42.630Z,56.3334,-152.6155,3.8,5.3,mw,,,,0.67,ak,ak009gl2v8yv,2025-12-22T15:42:43.471Z,"105 km SSE of Old Harbor, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2009-12-28T15:14:08.827Z,56.4675,-152.5662,29.4,4.4,mb,,,,0.8,ak,ak009gmxk5jm,2019-02-13T13:20:35.129Z,"93 km SSE of Old Harbor, Alaska",earthquake,,8.4,,,reviewed,ak,ak
+2009-12-28T17:12:42.410Z,52.585,-167.086,5.3,3.2,ml,27,138.7,,,us,usp000h5en,2019-02-13T13:20:35.867Z,"126 km ESE of Nikolski, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-29T12:29:35.186Z,66.5385,-157.9064,22.6,3.3,ml,,,,0.54,ak,ak009gojegzy,2019-02-13T13:20:57.190Z,"51 km SW of Shungnak, Alaska",earthquake,,3.3,,,reviewed,ak,ak
+2009-12-29T23:49:45.885Z,53.4677,-158.5587,21.9,3.2,ml,,,,0.53,ak,ak009goq2jss,2019-02-13T13:21:06.863Z,"243 km SSE of Sand Point, Alaska",earthquake,,4.8,,,reviewed,ak,ak
+2009-12-30T00:38:41.990Z,62.066,-149.5084,31.6,3,ml,,,,0.5,ak,ak009gpzuk7b,2019-02-13T13:21:07.915Z,"20 km ESE of Susitna North, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2009-12-30T05:33:51.620Z,55.194,-159.748,44.5,4.8,mb,182,65.1,,0.88,us,usp000h5g5,2019-02-13T13:21:09.015Z,"50 km ESE of Sand Point, Alaska",earthquake,,2.4,,61,reviewed,us,us
+2009-12-30T14:51:25.279Z,69.5724,-144.1855,2.8,3.5,ml,,,,0.72,ak,ak009gq89dov,2019-02-13T13:21:15.187Z,"66 km SSW of Kaktovik, Alaska",earthquake,,6.3,,,reviewed,ak,ak
+2009-12-30T16:31:12.106Z,55.938,-160.4868,189.5,3.3,ml,,,,0.73,ak,ak009gq9bxka,2019-02-13T13:21:16.268Z,"45 km E of Nelson Lagoon, Alaska",earthquake,,1.5,,,reviewed,ak,ak
+2009-12-31T01:45:54.652Z,63.1135,-150.8449,129,3.3,ml,,,,0.8,ak,ak009gro0vah,2019-02-13T13:21:36.928Z,"64 km SE of Denali National Park, Alaska",earthquake,,0,,,reviewed,ak,ak
+2009-12-31T12:22:00.570Z,54.627,-163.518,0.8,3,ml,21,180.8,,,us,usp000h5j8,2019-02-13T13:21:42.638Z,"26 km SSW of False Pass, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2009-12-31T19:28:05.030Z,62.023,-148.4606,13.9,3.2,ml,,,,0.51,ak,ak009grymx6f,2019-02-13T13:21:50.839Z,"25 km N of Chickaloon, Alaska",earthquake,,0,,,reviewed,ak,ak

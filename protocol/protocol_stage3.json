@@ -1,0 +1,16 @@
+{
+  "created_utc": "2026-10-09T18:12:19.622871+00:00",
+  "rationale": "Two feature stages did not establish transferable added skill: neighboring forecast errors and duration/spread descriptors. Preserve both. Test direct shrinkage of recent issued-forecast calibration error.",
+  "development_regions": [
+    "italy",
+    "greece",
+    "alaska",
+    "chile"
+  ],
+  "new_audit": "Japan-area USGS preferred catalog2000-2025;28-46N128-146E,depth0-60km,Mc4.5,reported magnitude offset1.5,2degreecellsanchored28N128E,pre2010eligibility30M4.5and5M5.0. PrimaryM5-10,secondary5-6and6-10.",
+  "baselines": "Annual recalibration of ETAS,adaptiveblend,multiscale ratebank;expanding versus fiveyear history. Best baseline selected by2015-2019 validation.",
+  "correction": "Penalized logistic intercept score from last3,6,12,24 completed windows. Spatial weights own,Gaussian100/200km,entireregion;penalty1,4,16,64. First forecast has zero correction. Corrected probability applies current intercept to current baseline log odds.",
+  "selection": "Best baseline then best correction by development2015-2019 proper log loss. Test2020-2025 never used for hyperparameters. Japan baseline model config historicallyselected using2010-2014fit2015-2019validation. Freeze fullcode/grid before Japan audit.",
+  "primary_test": "Japan selected correction versus locally selected strongest baseline. One primarytarget M>=5 and secondarytwo magnitude ranges. 20000 synchronizedblocks3,6,12origins; Holmthree targets. Allfourdevelopmentcohorts exploratory because their outcomes are previouslyknown.",
+  "limit": "No fourth feature search using these external test scores. A negative result remains a negative result; calibration correction is not a physical precursor."
+}

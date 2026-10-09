@@ -1,0 +1,144 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2009-01-02T07:42:53.080Z,32.655,138.038,333.4,5.1,mwr,213,23.2,,0.79,us,usp000gs06,2014-11-07T01:38:07.792Z,"216 km S of ?yama, Japan",earthquake,,,,,reviewed,us,nied
+2009-01-03T04:46:48.400Z,34.709,141.608,38.3,4.6,mwr,69,50.5,,0.65,us,usp000gs1m,2014-11-07T01:38:08.831Z,"126 km ESE of ?hara, Japan",earthquake,,,,,reviewed,us,nied
+2009-01-03T07:13:05.100Z,37.127,141.056,57.6,4.6,mwr,79,95,,0.94,us,usp000gs1q,2014-11-07T01:38:08.865Z,"17 km ENE of Iwaki, Japan",earthquake,,6.4,,,reviewed,us,nied
+2009-01-05T01:36:29.130Z,36.884,141.88,38.7,4.5,mwr,69,69.7,,1.09,us,usp000gs6t,2014-11-07T01:38:10.238Z,"90 km ESE of Iwaki, Japan",earthquake,,7.1,,,reviewed,us,nied
+2009-01-05T13:07:27.060Z,33.649,141.216,37.6,4.5,mwr,40,117.3,,1.08,us,usp000gs7k,2014-11-07T01:38:10.349Z,"185 km SSE of Katsuura, Japan",earthquake,,8.6,,,reviewed,us,nied
+2009-01-05T21:19:28.340Z,34.083,141.437,8.8,4.5,mb,29,110.9,,0.93,us,usp000gs84,2014-11-07T01:38:10.429Z,"156 km SE of Katsuura, Japan",earthquake,,21.1,,3,reviewed,us,us
+2009-01-05T23:52:56.020Z,37.643,142.844,28.5,4.9,mwc,75,120.6,,0.9,us,usp000gs8a,2016-11-10T02:06:20.098Z,"160 km ESE of Ishinomaki, Japan",earthquake,,,,,reviewed,us,gcmt
+2009-01-11T05:57:11.780Z,42.673,143.419,71,4.6,mwr,109,124.6,,0.8,us,usp000gsfm,2014-11-07T01:38:11.443Z,"32 km SSE of Obihiro, Japan",earthquake,,,,,reviewed,us,nied
+2009-01-11T12:53:37.250Z,42.893,143.127,88.1,4.6,mwr,151,120.7,,,us,usp000gsfy,2014-11-07T01:38:11.480Z,"6 km WSW of Obihiro, Japan",earthquake,,,,,reviewed,jma,nied
+2009-01-15T09:34:38.670Z,31.411,141.714,10,4.7,mwr,107,73.1,,0.8,us,usp000gsmd,2014-11-07T01:38:12.099Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,nied
+2009-01-15T10:03:54.380Z,31.428,141.709,10,4.8,mb,44,106.5,,0.89,us,usp000gsmf,2014-11-07T01:38:12.110Z,"Izu Islands, Japan region",earthquake,,,,13,reviewed,us,us
+2009-01-19T11:13:59.740Z,34.613,141.634,40.4,5.1,mwc,116,49.9,,0.71,us,usp000gsuf,2025-12-22T15:35:28.005Z,"133 km ESE of ?hara, Japan",earthquake,,5.8,,,reviewed,us,gcmt
+2009-01-22T00:09:34.400Z,40.926,139.88,162.4,4.7,mwr,240,76.5,,0.68,us,usp000gsyj,2014-11-07T01:38:14.146Z,"43 km WNW of Shimokizukuri, Japan",earthquake,,3.3,,,reviewed,us,nied
+2009-01-22T12:20:59.550Z,34.197,139.241,124,4.8,mwr,164,53.3,,0.82,us,usp000gsza,2022-07-15T03:13:56.225Z,"59 km SSE of Shimoda, Japan",earthquake,,4.9,,,reviewed,us,nied
+2009-01-22T15:24:36.060Z,30.125,131.146,25.7,4.5,mwr,59,128.6,,0.99,us,usp000gszj,2014-11-07T01:38:14.401Z,"55 km ESE of Koseda, Japan",earthquake,,14.1,,,reviewed,us,nied
+2009-01-24T17:33:38.640Z,33.524,131.686,81.7,4.7,mwr,106,104.4,,0.76,us,usp000gt25,2022-07-15T03:05:47.435Z,"13 km NNE of Kitsuki, Japan",earthquake,,,,,reviewed,us,nied
+2009-01-28T23:56:05.720Z,35.485,140.539,42.8,4.7,mwr,76,108.9,,0.72,us,usp000gt7e,2022-07-15T02:56:46.374Z,"16 km SE of Narut?, Japan",earthquake,,5.7,,,reviewed,us,nied
+2009-01-31T21:51:52.180Z,36.719,141.148,34,5.7,mwb,352,31.6,,0.78,us,usp000gtaz,2022-07-15T02:51:33.462Z,"36 km ESE of Kitaibaraki, Japan",earthquake,,,,,reviewed,us,us
+2009-02-01T09:32:48.680Z,37.884,142.403,37.9,5.1,mwc,264,64.5,,0.71,us,usp000gtbp,2025-12-22T15:18:50.184Z,"113 km ESE of Ishinomaki, Japan",earthquake,,3.9,,,reviewed,us,gcmt
+2009-02-02T20:07:10.930Z,32.142,137.675,378,4.6,mwr,93,114.2,,0.7,us,usp000gtda,2014-11-07T01:38:19.576Z,"237 km SE of Shing?, Japan",earthquake,,5.1,,,reviewed,us,nied
+2009-02-15T09:24:31.700Z,40.239,142.236,33,5.7,mwc,430,34,,0.71,us,usp000gu0x,2022-07-15T02:21:02.929Z,"68 km ESE of Hachinohe, Japan",earthquake,,,,,reviewed,us,us
+2009-02-16T19:54:25.900Z,35.141,140.003,17.6,4.5,mwr,96,94.9,,0.65,us,usp000gu2v,2014-11-07T01:38:24.655Z,"10 km WNW of Kamogawa, Japan",earthquake,,12,,,reviewed,us,nied
+2009-02-17T00:12:57.780Z,37.525,141.248,53.7,4.9,mwc,177,67.1,,0.67,us,usp000gu36,2022-07-15T01:50:52.318Z,"22 km ENE of Namie, Japan",earthquake,,3.4,,,reviewed,us,gcmt
+2009-02-17T21:47:09.250Z,35.604,136.265,18.2,4.9,mwc,112,116.4,,0.85,us,usp000gu47,2022-07-15T04:28:36.780Z,"19 km ESE of Tsuruga, Japan",earthquake,,11.6,,,reviewed,us,gcmt
+2009-02-19T19:00:42.540Z,40.421,143.718,9.8,4.8,mwr,96,79.9,,0.64,us,usp000gu6m,2014-11-07T01:38:25.336Z,"174 km ENE of Miyako, Japan",earthquake,,9.8,,,reviewed,us,nied
+2009-02-21T00:12:56.040Z,28.875,130.864,24.1,5.5,mwc,277,25.4,,0.72,us,usp000gu7z,2022-05-02T21:29:54.624Z,"146 km ENE of Naze, Japan",earthquake,,6.3,,,reviewed,us,us
+2009-02-22T14:24:11.660Z,41.749,144.02,33.4,5.4,mwb,246,98.8,,0.75,us,usp000gu9v,2025-12-22T15:17:32.160Z,"139 km SSW of Kushiro, Japan",earthquake,,8.7,,,reviewed,us,us
+2009-02-28T00:35:56.700Z,42.61,142.104,105,5.5,mwb,392,33.8,,0.69,us,usp000gufa,2025-12-22T15:35:50.808Z,"37 km NW of Shizunai-furukawach?, Japan",earthquake,,,,,reviewed,us,us
+2009-03-04T10:04:31.300Z,35.811,140.9,35,4.5,mwr,67,119.8,,0.85,us,usp000gum2,2014-11-07T01:38:32.048Z,"10 km NE of Hasaki, Japan",earthquake,,,,,reviewed,us,nied
+2009-03-07T14:33:04.910Z,41.796,143.693,32.7,5.3,mwb,203,57.9,,0.71,us,usp000guqy,2022-05-02T22:29:47.004Z,"124 km ESE of Shizunai-furukawach?, Japan",earthquake,,,,,reviewed,us,us
+2009-03-13T09:07:02.340Z,43.266,134.048,428.8,5.2,mwc,285,51,,0.64,us,usp000guyc,2025-12-22T15:13:34.194Z,"17 km SE of Lazo, Russia",earthquake,,,,,reviewed,us,gcmt
+2009-03-20T06:52:16.840Z,42.643,144.382,65,5,mwr,300,95.8,,0.63,us,usp000gv6v,2014-11-07T01:38:36.452Z,"36 km S of Kushiro, Japan",earthquake,,3.5,,,reviewed,us,nied
+2009-03-25T13:13:52.440Z,30.076,139.055,391.4,4.7,mwr,87,54.7,,0.83,us,usp000gvdj,2014-11-07T01:38:37.769Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,nied
+2009-03-28T14:01:34.830Z,29.212,130.372,55.1,4.5,mwr,32,178.9,,1.12,us,usp000gvgx,2014-11-07T01:38:38.402Z,"113 km S of Yudomari, Japan",earthquake,,8.6,,,reviewed,us,nied
+2009-03-30T08:34:36.510Z,29.255,130.381,30.8,4.7,mwr,42,84.8,,0.89,us,usp000gvjd,2014-11-07T01:38:38.722Z,"109 km S of Yudomari, Japan",earthquake,,,,,reviewed,us,nied
+2009-04-05T08:00:26.100Z,42.365,142.843,65.1,4.9,mwc,153,88.6,,0.71,us,usp000gvsk,2016-11-10T02:10:27.656Z,"39 km E of Shizunai-furukawach?, Japan",earthquake,,3.6,,,reviewed,us,gcmt
+2009-04-05T09:36:26.240Z,32.007,131.417,26,5.8,mwc,266,34.9,,0.94,us,usp000gvsp,2022-07-15T07:06:02.647Z,"10 km N of Miyazaki, Japan",earthquake,,,,,reviewed,us,us
+2009-04-05T23:49:56.020Z,29.722,140.246,17.3,4.5,mwr,39,77.4,,0.65,us,usp000gvtn,2014-11-07T01:38:44.431Z,"Izu Islands, Japan region",earthquake,,14.2,,,reviewed,us,nied
+2009-04-06T02:31:19.930Z,39.194,142.388,33.4,4.5,mb,6,221.1,,,us,usp000gvtx,2014-11-07T01:38:44.513Z,"45 km ESE of Kamaishi, Japan",earthquake,,,,2,reviewed,jma,us
+2009-04-06T05:09:34.140Z,42.934,131.669,522,4.5,mb,67,47.3,,0.79,us,usp000gvu3,2014-11-07T01:38:44.563Z,"5 km WSW of Popova, Russia",earthquake,,7.3,,43,reviewed,us,us
+2009-04-18T03:56:31.300Z,42.842,130.481,564.2,4.9,mb,337,43.6,,0.72,us,usp000gwag,2014-11-07T01:38:47.957Z,"10 km ESE of Hunchun, China",earthquake,,,,212,reviewed,us,us
+2009-04-20T22:54:27.360Z,35.796,140.658,63.2,4.7,mwr,109,118.8,,0.69,us,usp000gwdv,2014-11-07T01:38:48.760Z,"7 km SSE of Omigawa, Japan",earthquake,,6.3,,,reviewed,us,nied
+2009-04-21T09:57:50.540Z,37.365,141.399,43.2,5.3,mwc,274,55.5,,0.68,us,usp000gwet,2022-07-15T08:25:56.784Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,gcmt
+2009-04-22T11:24:12.120Z,30.12,131.001,26.8,4.9,mwr,101,121.1,,0.74,us,usp000gwg4,2014-11-07T01:38:49.345Z,"Kyushu, Japan",earthquake,,,,,reviewed,us,nied
+2009-04-25T13:54:31.590Z,40.244,142.245,56,4.8,mwr,180,131.9,,1.03,us,usp000gwju,2022-07-15T08:47:29.667Z,"69 km ESE of Hachinohe, Japan",earthquake,,,,,reviewed,us,nied
+2009-04-27T15:09:26.920Z,37.573,142.93,29.5,4.5,mwr,37,128.7,,0.79,us,usp000gwmm,2014-11-07T01:38:50.136Z,"170 km E of Namie, Japan",earthquake,,,,,reviewed,us,nied
+2009-04-27T21:37:36.880Z,36.364,140.954,52.8,5.2,mwc,192,115.2,,0.62,us,usp000gwmt,2022-07-15T09:01:46.594Z,"33 km E of ?arai, Japan",earthquake,,3.5,,,reviewed,us,gcmt
+2009-04-28T11:21:18.770Z,42.653,144.95,14.7,5.2,mwb,421,63.5,,0.65,us,usp000gwn9,2022-07-15T09:03:24.610Z,"59 km SE of Kushiro, Japan",earthquake,,5,,,reviewed,us,us
+2009-05-09T19:34:33.220Z,36.542,142.635,26.6,5.1,mwc,266,66.9,,0.91,us,usp000gwyy,2025-12-22T15:36:27.814Z,"166 km ESE of Iwaki, Japan",earthquake,,4.6,,,reviewed,us,gcmt
+2009-05-10T02:30:08.680Z,42.477,142.329,91,4.5,mb,134,71.7,,0.6,us,usp000gwz8,2014-11-07T01:38:56.432Z,"16 km N of Shizunai-furukawach?, Japan",earthquake,,3.6,,58,reviewed,us,us
+2009-05-12T10:40:18.860Z,36.976,138.36,24.3,4.6,mwr,60,128.8,,0.93,us,usp000gx23,2021-10-20T17:52:43.089Z,"12 km ESE of Arai, Japan",earthquake,,7.3,,,reviewed,us,nied
+2009-05-25T01:06:14.710Z,29.512,130.609,36.6,4.5,mb,40,128.1,,1.05,us,usp000gxgd,2014-11-07T01:39:00.919Z,"80 km S of Koshima, Japan",earthquake,,8.2,,8,reviewed,us,us
+2009-05-26T10:31:21.420Z,42.023,142.213,66.4,4.9,mwc,177,98,,0.71,us,usp000gxhz,2022-07-15T10:45:02.542Z,"36 km SSW of Shizunai-furukawach?, Japan",earthquake,,4.1,,,reviewed,us,gcmt
+2009-05-26T12:04:08.270Z,43.736,135.554,343.5,4.5,mb,168,58.8,,0.76,us,usp000gxj3,2014-11-07T01:39:01.227Z,"21 km E of Ol’ga, Russia",earthquake,,4.2,,90,reviewed,us,us
+2009-05-31T15:33:04.250Z,37.819,141.547,61.3,5,mb,129,116.5,,0.71,us,usp000gxr1,2014-11-07T01:39:02.409Z,"60 km NE of Namie, Japan",earthquake,,,,78,reviewed,us,us
+2009-06-05T03:30:33.060Z,41.824,143.445,29,6.4,mwc,424,32.7,,0.71,us,usp000gxvt,2022-07-15T11:20:43.925Z,"105 km ESE of Shizunai-furukawach?, Japan",earthquake,,,,,reviewed,us,us
+2009-06-05T03:36:53.750Z,43.629,140.988,211.9,4.5,mb,24,131,,0.52,us,usp000gxvu,2014-11-07T01:39:06.920Z,"48 km N of Otaru, Japan",earthquake,,7.6,,5,reviewed,us,us
+2009-06-06T05:52:43.300Z,35.483,140.914,34,5.8,mwc,345,15.4,,0.73,us,usp000gxx2,2022-07-15T11:26:17.342Z,"28 km SSE of Hasaki, Japan",earthquake,,,,,reviewed,us,gcmt
+2009-06-09T02:07:38.040Z,40.138,142.512,60,4.6,mwr,97,86.6,,0.74,us,usp000gy0b,2014-11-07T01:39:08.108Z,"73 km NE of Miyako, Japan",earthquake,,4.8,,,reviewed,us,nied
+2009-06-10T04:07:02.580Z,34.456,136.626,351.5,5.1,mwr,68,91.8,,0.84,us,usp000gy1k,2014-11-07T01:39:08.337Z,"7 km WSW of Ise, Japan",earthquake,,3.5,,,reviewed,us,nied
+2009-06-18T06:21:06.040Z,31.3,141.752,38.8,5.1,mwc,199,36.3,,0.8,us,usp000gyb1,2025-12-22T15:27:16.931Z,"Izu Islands, Japan region",earthquake,,3.4,,,reviewed,us,gcmt
+2009-06-19T23:50:56.090Z,39.103,143.49,28.5,4.5,mb,14,156.5,,1.12,us,usp000gyd3,2014-11-07T01:39:10.618Z,"138 km ESE of Yamada, Japan",earthquake,,29.1,,2,reviewed,us,us
+2009-06-19T23:52:07.580Z,39.084,143.273,35,4.6,mwr,76,139.8,,0.61,us,usp000gyd4,2014-11-07T01:39:10.620Z,"121 km ESE of Yamada, Japan",earthquake,,9.1,,,reviewed,us,nied
+2009-06-20T02:52:57.430Z,39.087,143.199,21.6,5.3,mwc,229,94.2,,0.84,us,usp000gyda,2025-12-22T15:28:12.402Z,"off the east coast of Honshu, Japan",earthquake,,9.8,,,reviewed,us,gcmt
+2009-06-23T07:24:13.380Z,39.203,143.463,28,5.1,mwc,178,120.7,,0.96,us,usp000gyhf,2025-12-22T15:36:42.284Z,"133 km ESE of Yamada, Japan",earthquake,,10.3,,,reviewed,us,gcmt
+2009-06-23T07:37:17.570Z,38.85,142.389,37,5.6,mwb,346,48.4,,0.67,us,usp000gyhg,2022-07-15T12:17:16.719Z,"63 km ESE of ?funato, Japan",earthquake,,,,,reviewed,us,us
+2009-06-25T14:03:56.270Z,33.276,130.754,14.4,4.5,mwr,61,86.1,,0.97,us,usp000gykg,2021-10-20T17:53:07.187Z,"10 km SE of Tanushimarumachi-toyoki, Japan",earthquake,,6.5,,,reviewed,us,nied
+2009-07-10T15:01:36.420Z,42.609,141.295,127.7,4.9,mwc,141,74.8,,1.1,us,usp000gz3p,2022-07-15T13:39:26.658Z,"7 km NW of Shiraoi, Japan",earthquake,,5.8,,,reviewed,us,gcmt
+2009-07-16T06:29:04.760Z,42.371,132.998,477.3,5.3,mwc,320,51,,0.71,us,usp000gzae,2025-12-22T15:38:49.051Z,"40 km S of Vrangel’, Russia",earthquake,,,,,reviewed,us,gcmt
+2009-07-19T06:02:32.380Z,33.044,141.312,35,4.7,mwr,156,68.7,,0.76,us,usp000gzed,2014-11-07T01:39:20.419Z,"250 km SSE of Katsuura, Japan",earthquake,,,,,reviewed,us,nied
+2009-07-22T14:51:02.260Z,33.025,134.303,19.9,4.5,mwr,33,130.8,,0.53,us,usp000gzhq,2022-07-15T14:32:06.269Z,"31 km SSE of Muroto-misakicho, Japan",earthquake,,14.5,,,reviewed,us,nied
+2009-07-27T19:16:17.380Z,43.903,145.3,145.6,4.7,mwr,109,82.6,,0.87,us,usp000gzqq,2014-11-07T01:39:22.593Z,"30 km NNE of Shibetsu, Japan",earthquake,,,,,reviewed,us,nied
+2009-08-01T09:45:50.760Z,37.576,141.789,47.4,5,mwc,211,67,,0.75,us,usp000gzvv,2025-12-22T15:38:22.729Z,"70 km E of Namie, Japan",earthquake,,4.8,,,reviewed,us,gcmt
+2009-08-01T15:57:04.130Z,38.277,138.631,37.8,4.7,mwr,140,112.6,,0.89,us,usp000gzw2,2014-11-07T01:39:25.698Z,"27 km NE of Ry?tsu-minato, Japan",earthquake,,5.8,,,reviewed,us,nied
+2009-08-05T03:51:15.620Z,32.538,131.856,45.6,5,mwc,170,43.1,,0.84,us,usp000gzzu,2022-07-15T15:13:06.421Z,"18 km ESE of Nobeoka, Japan",earthquake,,3.9,,,reviewed,us,gcmt
+2009-08-06T05:39:47.800Z,37.182,142.107,31.7,4.5,mwr,55,120.2,,0.75,us,usp000h012,2014-11-07T01:39:28.210Z,"103 km ESE of Namie, Japan",earthquake,,12.7,,,reviewed,us,nied
+2009-08-08T13:31:52.390Z,28.813,141.394,57.1,4.9,mb,16,78.1,,0.9,us,usp000h03r,2014-11-07T01:39:29.061Z,"Bonin Islands, Japan region",earthquake,,19.2,,10,reviewed,us,us
+2009-08-09T10:55:55.110Z,33.167,137.944,292,7.1,mwc,447,14.2,,0.91,us,usp000h04j,2022-07-15T15:30:17.690Z,"161 km S of ?yama, Japan",earthquake,,,,,reviewed,us,us
+2009-08-09T16:01:26.840Z,33.001,138.093,305.7,4.8,mwr,115,105.6,,0.66,us,usp000h04u,2014-11-07T01:39:29.337Z,"178 km S of ?yama, Japan",earthquake,,,,,reviewed,us,nied
+2009-08-10T12:42:53.330Z,43.497,130.574,572.9,4.8,mb,237,38.5,,0.76,us,usp000h05m,2014-11-07T01:39:29.470Z,"68 km ENE of Wangqing, China",earthquake,,,,130,reviewed,us,us
+2009-08-10T20:07:09.110Z,34.743,138.264,40.4,6.2,mwr,163,30.6,,0.94,us,usp000h05y,2022-07-15T15:35:58.368Z,"8 km NE of Sagara, Japan",earthquake,,6,,,reviewed,us,nied
+2009-08-12T22:48:51.420Z,32.821,140.395,53,6.6,mwc,336,14.1,,0.78,us,usp000h093,2022-07-15T15:45:06.729Z,"244 km SSE of Tateyama, Japan",earthquake,,,,,reviewed,us,us
+2009-08-13T01:53:10.030Z,32.743,140.501,77.2,4.7,mb,96,97,,0.67,us,usp000h099,2022-07-15T15:46:40.721Z,"255 km SSE of Tateyama, Japan",earthquake,,6.8,,45,reviewed,us,us
+2009-08-14T03:57:00.800Z,30.956,137.981,446.1,4.5,mwr,172,71.7,,0.66,us,usp000h0bc,2014-11-07T01:39:30.473Z,"Izu Islands, Japan region",earthquake,,4.4,,,reviewed,us,nied
+2009-08-15T10:45:49.200Z,43.182,145.763,51.5,4.5,mwr,134,78.6,,0.7,us,usp000h0dm,2014-11-07T01:39:30.751Z,"21 km SE of Nemuro, Japan",earthquake,,5.1,,,reviewed,us,nied
+2009-08-22T14:06:05.810Z,31.64,142.509,30.7,4.8,mb,28,121.2,,0.7,us,usp000h0rs,2014-11-07T01:39:33.116Z,"Izu Islands, Japan region",earthquake,,21.6,,2,reviewed,us,us
+2009-08-24T05:26:17.100Z,41.016,140.065,175.8,5.3,mwc,285,27.8,,0.76,us,usp000h0tg,2025-12-22T15:39:45.800Z,"34 km NW of Shimokizukuri, Japan",earthquake,,,,,reviewed,us,gcmt
+2009-08-24T17:22:50.750Z,42.135,142.752,49.7,4.5,mwr,57,121.2,,0.82,us,usp000h0tx,2014-11-07T01:39:33.504Z,"38 km SE of Shizunai-furukawach?, Japan",earthquake,,6.7,,,reviewed,us,nied
+2009-08-28T05:47:53.880Z,29.918,130.528,64.8,5.2,mwr,123,100.4,,0.88,us,usp000h0yv,2014-11-07T01:39:34.340Z,"35 km S of Koshima, Japan",earthquake,,5.2,,,reviewed,us,nied
+2009-08-28T11:00:13.480Z,29.922,130.593,54.1,4.5,mwr,34,122.2,,0.81,us,usp000h0z9,2014-11-07T01:39:34.406Z,"35 km S of Koshima, Japan",earthquake,,7.3,,,reviewed,us,nied
+2009-08-30T13:09:44.890Z,28.743,130.047,38.2,4.7,mwr,49,127.7,,0.81,us,usp000h11w,2014-11-07T01:39:35.265Z,"69 km NE of Naze, Japan",earthquake,,7.4,,,reviewed,us,nied
+2009-08-30T15:45:54.580Z,37.055,141.509,40.8,4.6,mwr,82,116.9,,0.78,us,usp000h123,2022-07-15T16:54:09.000Z,"55 km E of Iwaki, Japan",earthquake,,,,,reviewed,us,nied
+2009-09-01T12:02:17.890Z,35.508,140.938,10,4.7,mwr,199,111.4,,0.74,us,usp000h143,2022-07-15T17:01:17.599Z,"26 km SSE of Hasaki, Japan",earthquake,,,,,reviewed,us,nied
+2009-09-01T15:26:06.880Z,29.835,130.207,46.2,4.5,mwr,40,94.7,,0.97,us,usp000h146,2014-11-07T01:39:37.790Z,"51 km SSW of Yudomari, Japan",earthquake,,7.8,,,reviewed,us,nied
+2009-09-03T13:26:17.950Z,31.14,130.014,163,6.2,mwc,460,20.7,,1,us,usp000h16f,2022-07-15T17:06:58.587Z,"32 km WSW of Makurazaki, Japan",earthquake,,,,,reviewed,us,us
+2009-09-04T02:23:59.780Z,31.429,140.054,51.5,4.9,mb,37,90.1,,0.99,us,usp000h16x,2014-11-07T01:39:40.031Z,"Izu Islands, Japan region",earthquake,,8.9,,12,reviewed,us,us
+2009-09-04T02:30:30.390Z,35.655,139.978,49.1,4.8,mwc,87,96.5,,0.78,us,usp000h16y,2022-07-15T17:08:37.270Z,"5 km S of Honch?, Japan",earthquake,,5.6,,,reviewed,us,gcmt
+2009-09-07T16:24:26.400Z,42.196,142.863,59.3,4.8,mwr,79,116,,0.73,us,usp000h1ag,2022-07-15T17:23:30.468Z,"43 km ESE of Shizunai-furukawach?, Japan",earthquake,,5.7,,,reviewed,us,nied
+2009-09-12T23:56:00.250Z,29.132,130.081,48.1,4.6,mwr,53,77,,0.92,us,usp000h1fw,2014-11-07T01:39:42.130Z,"102 km NE of Naze, Japan",earthquake,,7.2,,,reviewed,us,nied
+2009-09-14T09:49:44.340Z,29.481,130.627,49,4.5,mwr,26,129.3,,0.9,us,usp000h1h1,2014-11-07T01:39:42.302Z,"84 km S of Koshima, Japan",earthquake,,8.3,,,reviewed,us,nied
+2009-09-18T06:36:29.060Z,41.649,142.123,76.2,4.6,mb,37,124,,1.08,us,usp000h1mj,2014-11-07T01:39:42.898Z,"78 km SSW of Shizunai-furukawach?, Japan",earthquake,,7,,7,reviewed,us,us
+2009-09-22T11:40:43.560Z,37.559,141.683,67.2,4.5,mwr,109,95.1,,0.87,us,usp000h1s9,2022-07-15T18:03:19.222Z,"60 km E of Namie, Japan",earthquake,,6.1,,,reviewed,us,nied
+2009-09-24T01:14:00.000Z,33.55,141.002,25.2,4.6,mwr,64,106.8,,1.04,us,usp000h1tp,2014-11-07T01:39:44.512Z,"188 km SSE of Katsuura, Japan",earthquake,,15.6,,,reviewed,us,nied
+2009-09-29T17:21:44.230Z,41.544,142.05,62.9,4.5,mwr,85,128.2,,0.59,us,usp000h1yr,2014-11-07T01:39:45.492Z,"75 km ENE of Mutsu, Japan",earthquake,,,,,reviewed,us,nied
+2009-10-01T15:21:26.450Z,29.708,131.93,35,4.6,mb,9,229.8,,0.87,us,usp000h267,2014-11-07T01:39:49.832Z,"southeast of the Ryukyu Islands, Japan",earthquake,,,,2,reviewed,us,us
+2009-10-02T01:43:58.680Z,41.763,143.648,40.5,4.8,mwr,145,118.9,,0.63,us,usp000h275,2014-11-07T01:39:50.804Z,"123 km ESE of Shizunai-furukawach?, Japan",earthquake,,3.9,,,reviewed,us,nied
+2009-10-05T00:35:12.680Z,42.491,141.599,22.8,4.6,mwr,136,68.2,,0.83,us,usp000h2cy,2022-07-15T18:40:57.708Z,"16 km S of Tomakomai, Japan",earthquake,,4.6,,,reviewed,us,nied
+2009-10-05T06:06:10.670Z,29.543,140.602,111.1,4.6,mwr,66,80.2,,0.86,us,usp000h2d5,2014-11-07T01:39:52.530Z,"Izu Islands, Japan region",earthquake,,4.7,,,reviewed,us,nied
+2009-10-05T14:12:01.760Z,33.7,137.117,353.8,4.6,mwr,59,98.5,,0.97,us,usp000h2dt,2014-11-07T01:39:52.637Z,"90 km SSE of Toba, Japan",earthquake,,,,,reviewed,us,nied
+2009-10-10T08:42:51.030Z,41.808,142.084,99.8,5.1,mwc,329,72.7,,0.68,us,usp000h2pp,2025-12-22T15:40:59.076Z,"62 km SSW of Shizunai-furukawach?, Japan",earthquake,,4.5,,,reviewed,us,gcmt
+2009-10-12T09:42:20.320Z,37.467,139.695,10,4.7,mwr,74,117.9,,1.06,us,usp000h2t7,2021-10-20T17:53:34.451Z,"25 km SW of Kitakata, Japan",earthquake,,,,,reviewed,us,nied
+2009-10-12T22:49:41.900Z,28.417,140.185,389.8,4.5,mwr,37,118.9,,0.93,us,usp000h2tu,2014-11-07T01:39:55.242Z,"Bonin Islands, Japan region",earthquake,,12.3,,,reviewed,us,nied
+2009-10-13T00:17:07.860Z,31.516,143.047,24.1,4.7,mb,25,78.1,,0.75,us,usp000h2tz,2014-11-07T01:39:55.255Z,"Izu Islands, Japan region",earthquake,,5.2,,8,reviewed,us,us
+2009-10-18T02:01:24.830Z,28.724,139.41,420.5,5.1,mwr,214,27.2,,0.67,us,usp000h344,2014-11-07T01:39:56.775Z,"Bonin Islands, Japan region",earthquake,,4.3,,,reviewed,us,nied
+2009-10-23T01:28:29.330Z,36.578,141.065,55.1,4.9,mwc,236,68.6,,0.72,us,usp000h39n,2022-07-15T19:36:15.402Z,"34 km ESE of Takahagi, Japan",earthquake,,4.6,,,reviewed,us,gcmt
+2009-10-25T06:17:02.050Z,29.166,130.052,59.5,5.1,mwc,136,126.4,,0.83,us,usp000h3cr,2025-12-22T15:41:15.153Z,"104 km NNE of Naze, Japan",earthquake,,4.5,,,reviewed,us,gcmt
+2009-10-28T17:37:09.940Z,32.332,131.907,42.6,4.8,mwr,49,113.9,,0.99,us,usp000h3gz,2014-11-07T01:39:58.981Z,"35 km SE of Nobeoka, Japan",earthquake,,7.5,,,reviewed,us,nied
+2009-10-30T07:03:39.120Z,29.218,129.782,34,6.8,mwc,424,21.4,,1.02,us,usp000h3jp,2022-05-02T22:31:37.260Z,"98 km NNE of Naze, Japan",earthquake,,,,,reviewed,us,us
+2009-10-30T17:42:11.600Z,41.184,142.697,44,4.5,mwr,125,116.2,,0.7,us,usp000h3k6,2014-11-07T01:39:59.872Z,"123 km ENE of Misawa, Japan",earthquake,,4.7,,,reviewed,us,nied
+2009-11-09T18:01:52.320Z,41.961,142.244,66.4,4.6,mwr,96,103.2,,0.62,us,usp000h3x2,2014-11-07T01:40:05.703Z,"42 km SSW of Shizunai-furukawach?, Japan",earthquake,,3.7,,,reviewed,us,nied
+2009-11-15T20:31:34.540Z,44.372,136.971,298.2,4.9,mb,154,37.4,,0.79,us,usp000h42z,2014-11-07T01:40:06.773Z,"Primor'ye, Russia",earthquake,,,,88,reviewed,us,us
+2009-11-21T04:16:22.790Z,45.679,142.387,304.9,5,mwr,296,66.3,,0.68,us,usp000h496,2014-11-07T01:40:07.879Z,"55 km NE of Makubetsu, Japan",earthquake,,3.3,,,reviewed,us,nied
+2009-11-24T20:59:48.850Z,32.156,141.859,11.5,4.5,mwr,32,124,,0.81,us,usp000h4d4,2014-11-07T01:40:08.696Z,"Izu Islands, Japan region",earthquake,,18.8,,,reviewed,us,nied
+2009-11-28T10:45:48.530Z,31.368,130.41,166.8,4.7,mwr,103,56.9,,0.72,us,usp000h4hb,2014-11-07T01:40:09.415Z,"10 km ESE of Kaseda-shirakame, Japan",earthquake,,3.8,,,reviewed,us,nied
+2009-12-02T06:14:29.590Z,37.223,141.362,59.7,5.1,mwc,135,120.5,,0.71,us,usp000h4ns,2022-07-15T21:58:39.886Z,"43 km SE of Namie, Japan",earthquake,,4.4,,,reviewed,us,gcmt
+2009-12-09T16:06:00.180Z,32.979,137.918,309.6,4.9,mwr,165,59.6,,0.71,us,usp000h4wr,2014-11-07T01:40:15.400Z,"182 km S of ?yama, Japan",earthquake,,3.4,,,reviewed,us,nied
+2009-12-10T21:22:20.650Z,37.252,142.971,11.6,4.7,mwr,101,118.6,,0.89,us,usp000h4xu,2014-11-07T01:40:15.670Z,"176 km E of Namie, Japan",earthquake,,13,,,reviewed,us,nied
+2009-12-12T13:50:31.830Z,28.186,129.472,10,4.6,mwr,77,110.1,,0.9,us,usp000h4zj,2014-11-07T01:40:16.050Z,"20 km S of Naze, Japan",earthquake,,,,,reviewed,us,nied
+2009-12-14T06:30:05.650Z,30.73,137.778,469.9,4.6,mwr,57,133.4,,0.6,us,usp000h51a,2014-11-07T01:40:16.573Z,"Izu Islands, Japan region",earthquake,,4.6,,,reviewed,us,nied
+2009-12-17T14:45:24.880Z,34.934,139.179,13.6,4.9,mwc,61,92.4,,1.25,us,usp000h54e,2022-07-15T22:46:01.039Z,"9 km ESE of It?, Japan",earthquake,,20.3,,,reviewed,us,gcmt
+2009-12-17T20:41:30.700Z,36.37,139.481,91.7,5.1,mwc,248,56.4,,0.74,us,usp000h54n,2025-12-22T15:42:28.237Z,"4 km NE of Ashikaga, Japan",earthquake,,3.8,,,reviewed,us,gcmt
+2009-12-17T23:45:36.410Z,34.921,139.261,6.8,5,mwc,64,101.6,,0.91,us,usp000h54s,2022-07-15T22:48:27.086Z,"17 km ESE of It?, Japan",earthquake,,4.5,,,reviewed,us,gcmt
+2009-12-18T11:48:32.720Z,33.568,141.083,26.4,5.2,mwc,220,54.2,,0.85,us,usp000h55d,2025-12-22T15:56:07.681Z,"188 km SSE of Katsuura, Japan",earthquake,,10,,,reviewed,us,gcmt
+2009-12-18T19:30:51.000Z,38.036,141.83,37.4,4.5,mwr,96,119.5,,0.87,us,usp000h55k,2014-11-07T01:40:17.380Z,"62 km SE of Ishinomaki, Japan",earthquake,,5.7,,,reviewed,us,nied
+2009-12-20T14:30:28.150Z,41.08,143.056,40.7,4.6,mwr,91,126.4,,0.65,us,usp000h57k,2014-11-07T01:40:17.736Z,"146 km ENE of Hachinohe, Japan",earthquake,,4.6,,,reviewed,us,nied
+2009-12-24T00:23:31.700Z,42.245,134.719,392,6.3,mwc,487,18.4,,0.88,us,usp000h5a9,2022-05-02T21:31:01.582Z,"98 km SE of Preobrazheniye, Russia",earthquake,,,,,reviewed,us,us
+2009-12-24T00:23:31.770Z,42.126,135.008,395,5.67,mw,,,,,iscgem,iscgem17576175,2022-05-02T22:37:16.924Z,"125 km SE of Preobrazheniye, Russia",earthquake,,25,0.7,,reviewed,iscgem,iscgem
+2009-12-26T02:24:44.850Z,30.987,139.446,44,4.5,mwr,61,96.6,,1.05,us,usp000h5ce,2014-11-07T01:40:18.665Z,"Izu Islands, Japan region",earthquake,,8.5,,,reviewed,us,nied
+2009-12-27T13:05:13.100Z,30.971,141.434,22.2,4.9,mwr,56,101.9,,0.87,us,usp000h5dj,2014-11-07T01:40:18.911Z,"Izu Islands, Japan region",earthquake,,12.6,,,reviewed,us,nied
+2009-12-27T13:26:44.560Z,30.912,141.301,18.4,4.5,mwr,46,100,,1.1,us,usp000h5dn,2014-11-07T01:40:18.939Z,"Izu Islands, Japan region",earthquake,,19,,,reviewed,us,nied
+2009-12-28T00:12:48.430Z,43.265,144.526,71.7,5,mwc,323,107.7,,0.69,us,usp000h5dy,2025-12-22T15:42:44.738Z,"34 km NNE of Kushiro, Japan",earthquake,,4.3,,,reviewed,us,gcmt
+2009-12-28T04:13:28.170Z,28,128.424,91.5,4.6,mwr,130,81.5,,0.9,us,usp000h5e3,2014-11-07T01:40:19.040Z,"111 km WSW of Naze, Japan",earthquake,,4.3,,,reviewed,us,nied
+2009-12-29T19:23:05.410Z,41.93,142.075,72.5,4.9,mwc,242,95.1,,0.82,us,usp000h5ft,2022-07-15T23:28:18.373Z,"50 km SSW of Shizunai-furukawach?, Japan",earthquake,,,,,reviewed,us,gcmt

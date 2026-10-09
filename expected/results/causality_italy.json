@@ -1,0 +1,47 @@
+[
+  {
+    "target": "ge35",
+    "origin": "2010-01-31",
+    "absolute_error": 1.1102230246251565e-16
+  },
+  {
+    "target": "ge35",
+    "origin": "2013-04-15",
+    "absolute_error": 0.0
+  },
+  {
+    "target": "ge35",
+    "origin": "2025-11-08",
+    "absolute_error": 2.220446049250313e-16
+  },
+  {
+    "target": "band35_45",
+    "origin": "2010-01-31",
+    "absolute_error": 5.551115123125783e-17
+  },
+  {
+    "target": "band35_45",
+    "origin": "2013-04-15",
+    "absolute_error": 1.1102230246251565e-16
+  },
+  {
+    "target": "band35_45",
+    "origin": "2025-11-08",
+    "absolute_error": 1.1102230246251565e-16
+  },
+  {
+    "target": "ge45",
+    "origin": "2010-01-31",
+    "absolute_error": 1.734723475976807e-18
+  },
+  {
+    "target": "ge45",
+    "origin": "2013-04-15",
+    "absolute_error": 2.7755575615628914e-17
+  },
+  {
+    "target": "ge45",
+    "origin": "2025-11-08",
+    "absolute_error": 2.7755575615628914e-17
+  }
+]

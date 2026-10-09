@@ -1,0 +1,152 @@
+[
+  {
+    "country": "italy",
+    "target": "ge35",
+    "base": "ratebank_fiveyear",
+    "radius": 100,
+    "memory": 6,
+    "tau": 4,
+    "validation_loss": 0.25399170146248123,
+    "reference_loss": 0.25478976239457496
+  },
+  {
+    "country": "italy",
+    "target": "band35_45",
+    "base": "ratebank_fiveyear",
+    "radius": 100,
+    "memory": 6,
+    "tau": 4,
+    "validation_loss": 0.2432457144330198,
+    "reference_loss": 0.24400733146886291
+  },
+  {
+    "country": "italy",
+    "target": "ge45",
+    "base": "blend_expanding",
+    "radius": 100,
+    "memory": 3,
+    "tau": 1,
+    "validation_loss": 0.048816881204219835,
+    "reference_loss": 0.050204727872300244
+  },
+  {
+    "country": "greece",
+    "target": "ge35",
+    "base": "blend_expanding",
+    "radius": 100,
+    "memory": 6,
+    "tau": 64,
+    "validation_loss": 0.4387518273894677,
+    "reference_loss": 0.43884638684011107
+  },
+  {
+    "country": "greece",
+    "target": "band35_45",
+    "base": "blend_expanding",
+    "radius": "own",
+    "memory": 6,
+    "tau": 16,
+    "validation_loss": 0.43139940843357477,
+    "reference_loss": 0.43161263663515886
+  },
+  {
+    "country": "greece",
+    "target": "ge45",
+    "base": "blend_expanding",
+    "radius": 100,
+    "memory": 6,
+    "tau": 4,
+    "validation_loss": 0.10907793368485426,
+    "reference_loss": 0.10948707821377086
+  },
+  {
+    "country": "alaska",
+    "target": "ge35",
+    "base": "ratebank_expanding",
+    "radius": 200,
+    "memory": 12,
+    "tau": 4,
+    "validation_loss": 0.46702678830014815,
+    "reference_loss": 0.4716098428354405
+  },
+  {
+    "country": "alaska",
+    "target": "band35_45",
+    "base": "ratebank_expanding",
+    "radius": 200,
+    "memory": 12,
+    "tau": 4,
+    "validation_loss": 0.46150790118165863,
+    "reference_loss": 0.465990791253476
+  },
+  {
+    "country": "alaska",
+    "target": "ge45",
+    "base": "etas_cal_expanding",
+    "radius": 200,
+    "memory": 24,
+    "tau": 1,
+    "validation_loss": 0.20215455077164896,
+    "reference_loss": 0.20358765965907072
+  },
+  {
+    "country": "chile",
+    "target": "ge35",
+    "base": "etas_cal_fiveyear",
+    "radius": "own",
+    "memory": 6,
+    "tau": 1,
+    "validation_loss": 0.3263262479277679,
+    "reference_loss": 0.33450231136564523
+  },
+  {
+    "country": "chile",
+    "target": "band35_45",
+    "base": "ratebank_fiveyear",
+    "radius": "own",
+    "memory": 24,
+    "tau": 4,
+    "validation_loss": 0.3202173851081749,
+    "reference_loss": 0.32436330225516924
+  },
+  {
+    "country": "chile",
+    "target": "ge45",
+    "base": "ratebank_expanding",
+    "radius": "own",
+    "memory": 6,
+    "tau": 1,
+    "validation_loss": 0.06786377971149767,
+    "reference_loss": 0.06944516795144853
+  },
+  {
+    "country": "japan",
+    "target": "ge35",
+    "base": "ratebank_fiveyear",
+    "radius": "own",
+    "memory": 24,
+    "tau": 16,
+    "validation_loss": 0.3301417465521628,
+    "reference_loss": 0.3312456620835131
+  },
+  {
+    "country": "japan",
+    "target": "band35_45",
+    "base": "ratebank_fiveyear",
+    "radius": 100,
+    "memory": 24,
+    "tau": 4,
+    "validation_loss": 0.32343030582976534,
+    "reference_loss": 0.3254443715562883
+  },
+  {
+    "country": "japan",
+    "target": "ge45",
+    "base": "ratebank_expanding",
+    "radius": "region",
+    "memory": 24,
+    "tau": 16,
+    "validation_loss": 0.05942591190891282,
+    "reference_loss": 0.059686583467149924
+  }
+]

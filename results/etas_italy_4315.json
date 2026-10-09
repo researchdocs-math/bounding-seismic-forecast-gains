@@ -1,0 +1,402 @@
+{
+  "2010": {
+    "params": [
+      0.003515340518731278,
+      0.19816281001035496,
+      1.1892199088281745,
+      0.003949018026789039,
+      1.01,
+      0.380512351356825,
+      2.479338842975207
+    ],
+    "z": [
+      -5.6506188825279535,
+      0.380512351356825,
+      0.47965202989403033,
+      -5.5342883317883125,
+      1.01
+    ],
+    "nll": 71.9344865706435,
+    "success": true,
+    "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+    "events": 15,
+    "start": 5479.0,
+    "end": 7305.0,
+    "iterations": 21
+  },
+  "2011": {
+    "params": [
+      0.0021775926503545067,
+      0.0832339288893462,
+      2.1923076923076885,
+      3.0000000000000004,
+      1.01,
+      0.7821693654220604,
+      2.307692307692304
+    ],
+    "z": [
+      -6.129535301185504,
+      0.7821693654220604,
+      0.95,
+      1.0986122886681098,
+      1.01
+    ],
+    "nll": 40.00896641515182,
+    "success": true,
+    "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+    "events": 6,
+    "start": 5844.0,
+    "end": 7670.0,
+    "iterations": 25
+  },
+  "2012": {
+    "params": [
+      0.0020272262559862995,
+      0.09979012306263624,
+      2.1923076923076885,
+      3.0000000000000004,
+      1.01,
+      0.9377519272826507,
+      2.307692307692304
+    ],
+    "z": [
+      -6.201086796633257,
+      0.9377519272826507,
+      0.95,
+      1.0986122886681098,
+      1.01
+    ],
+    "nll": 39.89172013420486,
+    "success": true,
+    "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+    "events": 6,
+    "start": 6209.0,
+    "end": 8035.0,
+    "iterations": 27
+  },
+  "2013": {
+    "params": [
+      1.6420361247947457e-06,
+      0.22776672392488137,
+      3.0559748154087263,
+      3.0000000000000004,
+      1.01,
+      0.9597215035144183,
+      4.0
+    ],
+    "z": [
+      -13.319573546692034,
+      0.9597215035144183,
+      0.7639937038521816,
+      1.0986122886681098,
+      1.01
+    ],
+    "nll": 19.4890680590811,
+    "success": true,
+    "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+    "events": 3,
+    "start": 6574.0,
+    "end": 8401.0,
+    "iterations": 26
+  },
+  "2014": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.5002817301834456,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 6940.0,
+    "end": 8766.0,
+    "iterations": 0
+  },
+  "2015": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.49999999999999967,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 7305.0,
+    "end": 9131.0,
+    "iterations": 0
+  },
+  "2016": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.49999999999999967,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 7670.0,
+    "end": 9496.0,
+    "iterations": 0
+  },
+  "2017": {
+    "params": [
+      0.00027367268746579103,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.203577736937952,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.5000000000000002,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 8035.0,
+    "end": 9862.0,
+    "iterations": 0
+  },
+  "2018": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.49999999999999967,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 8401.0,
+    "end": 10227.0,
+    "iterations": 0
+  },
+  "2019": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.49999999999999967,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 8766.0,
+    "end": 10592.0,
+    "iterations": 0
+  },
+  "2020": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.49999999999999967,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 9131.0,
+    "end": 10957.0,
+    "iterations": 0
+  },
+  "2021": {
+    "params": [
+      0.00027367268746579103,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.203577736937952,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.5000000000000002,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 9496.0,
+    "end": 11323.0,
+    "iterations": 0
+  },
+  "2022": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.49999999999999967,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 9862.0,
+    "end": 11688.0,
+    "iterations": 0
+  },
+  "2023": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.49999999999999967,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 10227.0,
+    "end": 12053.0,
+    "iterations": 0
+  },
+  "2024": {
+    "params": [
+      0.0002738225629791893,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.20303024171486,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.49999999999999967,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 10592.0,
+    "end": 12418.0,
+    "iterations": 0
+  },
+  "2025": {
+    "params": [
+      0.00027367268746579103,
+      0.0017525687223993104,
+      2.203389830508472,
+      0.029999999999999995,
+      1.2,
+      0.005,
+      3.389830508474572
+    ],
+    "z": [
+      -8.203577736937952,
+      0.005,
+      0.65,
+      -3.506557897319982,
+      1.2
+    ],
+    "nll": 0.5000000000000002,
+    "success": true,
+    "message": "Zero-event fallback: Jeffreys half-event background; minimum branching; historical magnitude prior",
+    "events": 0,
+    "start": 10957.0,
+    "end": 12784.0,
+    "iterations": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "created_utc": "2026-10-09T18:06:17.922983+00:00",
+  "rationale": "First-stage spatial forecast-error borrowing did not transfer to Alaska. Those outcomes are retained. Second stage examines persistence and spatial breadth conditional on richer multiscale magnitude-specific rates.",
+  "status": "Italy, Greece and Alaska are now development regions. The new Chile audit has not been downloaded or scored.",
+  "feature_blocks": {
+    "ratebank": "33 trailing counts for three relative magnitude thresholds and 11 windows",
+    "duration": "active days and weeks, dominant day share, average age, older-half share, count dispersion, daily entropy",
+    "spread": "4x4 occupied subcells, spatial entropy/dominance, depth spread, spatial covariance",
+    "marks": "smoothed tail fractions and mean/SD of relative magnitude",
+    "windows_days": [
+      7,
+      30,
+      90,
+      365
+    ]
+  },
+  "families": [
+    "etas_cal",
+    "blend",
+    "original",
+    "ratebank",
+    "duration",
+    "spread",
+    "marks",
+    "persistence",
+    "joint"
+  ],
+  "selection": "14 fixed learner configurations, 2010-2014 fit and 2015-2019 validation. Choose ONE additional-feature family among duration/spread/marks/persistence/joint by mean validation log-loss gain over ratebank across Italy/Greece/Alaska for primary target, before Chile scoring. Chile hyperparameters chosen on same historical split only.",
+  "chile": "USGS 2000-2025, 46S-17S and 78W-66W, depth0-60km, minimum reported M4.5; 2deg cells anchored46S78W, pre2010 eligibility30 M4.5 and5 M5.0; primary5<=M<10 (reported magnitude upper10.0, equivalent normalized upper8.5), band5-6 andM>=6. Internally subtract1.5 from reported magnitude to use common ETAS Mc3.0; catalog keeps original magnitudes.",
+  "evaluation": "Primary fixed2019 calibration and annual update sensitivity. 2020-2025 audit only once family/code frozen. Baselines calibratedETAS, adaptiveblend, multiscale ratebank, selected best no-extra-feature, and matched ratebank. Holm across3Chile targets. Further new feature searches would require another external cohort and be disclosed.",
+  "interpretation": "Observational forecasting skill conditional on regional temporal ETAS; no physical precursor or prospective claim.",
+  "pre_acquisition_correction": "Corrected the upper-magnitude wording to match normalized ETAS support; retain the 2010 M8.8 mainshock."
+}

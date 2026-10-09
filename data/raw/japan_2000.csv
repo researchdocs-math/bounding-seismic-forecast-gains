@@ -1,0 +1,552 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2000-01-03T18:01:26.370Z,41.01,143.17,33,4.7,mb,,,,0.71,us,usp0009kq9,2014-11-07T01:09:16.899Z,"151 km ENE of Hachinohe, Japan",earthquake,,,,8,reviewed,us,us
+2000-01-06T08:33:43.810Z,42.944,145.447,33,4.5,mb,,,,1.16,us,usp0009ktk,2014-11-07T01:09:17.820Z,"43 km SSW of Nemuro, Japan",earthquake,,,,8,reviewed,us,us
+2000-01-09T04:02:23.680Z,37.28,141.515,56,5.4,mwc,,,,0.71,us,usp0009kxw,2025-12-19T22:47:25.149Z,"50 km ESE of Namie, Japan",earthquake,,6,,,reviewed,us,hrv
+2000-01-12T02:09:47.070Z,36.389,140.626,68.6,4.9,mb,,,,0.82,us,usp0009m1m,2014-11-07T01:09:19.170Z,"8 km E of Hitachi-Naka, Japan",earthquake,,13.8,,6,reviewed,us,us
+2000-01-12T07:01:51.570Z,29.21,130.233,50.5,4.6,mb,,,,1.35,us,usp0009m1v,2014-11-07T01:09:19.195Z,"116 km SSW of Yudomari, Japan",earthquake,,,,1,reviewed,us,us
+2000-01-14T14:26:13.480Z,40.72,143.745,33,4.8,mb,,,,0.92,us,usp0009m4c,2014-11-07T01:09:19.502Z,"191 km E of Hachinohe, Japan",earthquake,,,,35,reviewed,us,us
+2000-01-15T07:29:58.420Z,37.891,142.542,30.5,4.8,mb,,,,0.98,us,usp0009m5h,2014-11-07T01:09:19.678Z,"123 km ESE of Ishinomaki, Japan",earthquake,,,,31,reviewed,us,us
+2000-01-15T23:50:34.170Z,40.713,143.84,33,4.6,mb,,,,1.13,us,usp0009m6t,2014-11-07T01:09:19.837Z,"199 km E of Hachinohe, Japan",earthquake,,,,6,reviewed,us,us
+2000-01-18T15:00:12.170Z,31.919,140.98,33,4.8,mb,,,,1.08,us,usp0009mau,2014-11-07T01:09:20.441Z,"Izu Islands, Japan region",earthquake,,,,1,reviewed,us,us
+2000-01-20T16:01:48.670Z,39.447,144.422,33,4.6,mb,,,,0.85,us,usp0009me1,2014-11-07T01:09:21.061Z,"212 km E of Yamada, Japan",earthquake,,,,16,reviewed,us,us
+2000-01-21T21:47:52.240Z,34.83,140.59,88.6,4.6,mb,,,,0.67,us,usp0009mfx,2014-11-07T01:09:21.255Z,"43 km SE of Katsuura, Japan",earthquake,,15.4,,4,reviewed,us,us
+2000-01-23T07:40:04.900Z,30.239,130.768,42.9,5.5,mwc,,,,1.08,us,usp0009mjg,2022-04-29T18:29:46.577Z,"20 km SE of Koseda, Japan",earthquake,,8.4,,,reviewed,us,hrv
+2000-01-24T12:46:22.940Z,30.295,130.758,33,4.6,mb,,,,1.03,us,usp0009mm4,2014-11-07T01:09:21.816Z,"14 km SE of Koseda, Japan",earthquake,,,,17,reviewed,us,us
+2000-01-24T12:50:29.500Z,37.258,141.338,33,4.7,mb,,,,0.87,us,usp0009mm5,2014-11-07T01:09:21.820Z,"39 km SE of Namie, Japan",earthquake,,,,10,reviewed,us,us
+2000-01-24T13:38:26.070Z,39.574,143.216,33,4.7,mb,,,,1.01,us,usp0009mm6,2014-11-07T01:09:21.825Z,"109 km E of Yamada, Japan",earthquake,,,,26,reviewed,us,us
+2000-01-25T09:02:18.850Z,43.564,145.745,69,4.5,mb,,,,0.69,us,usp0009mms,2014-11-07T01:09:21.868Z,"30 km NNE of Nemuro, Japan",earthquake,,,,25,reviewed,us,us
+2000-01-27T10:10:57.250Z,31.678,141.686,33,5.3,mwc,,,,0.99,us,usp0009mqx,2025-12-19T22:41:34.075Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,hrv
+2000-01-28T01:19:43.650Z,31.295,133.529,33,4.6,mb,,,,1.28,us,usp0009mrn,2014-11-07T01:09:22.326Z,"195 km SSE of Nakamura, Japan",earthquake,,,,13,reviewed,us,us
+2000-01-28T11:28:32.020Z,36.652,140.902,44.4,4.8,mb,,,,0.85,us,usp0009ms8,2014-11-07T01:09:22.376Z,"18 km ESE of Takahagi, Japan",earthquake,,,,37,reviewed,us,us
+2000-01-29T13:16:56.280Z,28.913,143.124,33,4.5,mb,,,,1.1,us,usp0009mtn,2014-11-07T01:09:22.676Z,"Bonin Islands, Japan region",earthquake,,,,2,reviewed,us,us
+2000-02-07T16:41:04.580Z,31.037,141.694,33,5.4,mwc,,,,0.87,us,usp0009n5x,2026-02-04T20:16:23.165Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,hrv
+2000-02-09T20:34:23.680Z,36.672,142.65,33,4.6,mb,,,,1.06,us,usp0009n8z,2014-11-07T01:09:29.134Z,"163 km ESE of Iwaki, Japan",earthquake,,,,16,reviewed,us,us
+2000-02-11T07:08:38.870Z,39.047,140.781,33,5.1,mb,,,,0.81,us,usp0009naz,2014-11-07T01:09:30.164Z,"eastern Honshu, Japan",earthquake,,,,68,reviewed,us,us
+2000-02-13T02:57:08.720Z,42.853,131.572,513.6,6,mwc,,,,0.8,us,usp0009nd9,2022-04-29T18:31:46.650Z,"15 km E of Slavyanka, Russia",earthquake,,,,,reviewed,us,hrv
+2000-02-13T04:33:12.830Z,39.978,143.107,33,4.9,mb,,,,1.08,us,usp0009ndb,2014-11-07T01:09:30.645Z,"106 km ENE of Miyako, Japan",earthquake,,,,23,reviewed,us,us
+2000-02-14T20:22:23.660Z,31.04,141.622,33,5.3,mwc,,,,1.01,us,usp0009nfq,2025-12-19T22:41:56.441Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,hrv
+2000-02-16T11:52:13.390Z,37.269,145.178,33,5.4,mwc,,,,0.81,us,usp0009nhz,2025-12-19T22:41:59.855Z,"off the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2000-02-19T13:33:10.150Z,42.359,142.967,62.1,4.7,mb,,,,1.05,us,usp0009np8,2014-11-07T01:09:31.671Z,"49 km E of Shizunai-furukawach?, Japan",earthquake,,6.1,,39,reviewed,us,us
+2000-02-20T13:58:44.860Z,42.716,143.953,56.6,4.8,mb,,,,0.96,us,usp0009nr3,2014-11-07T01:09:31.921Z,"44 km SW of Kushiro, Japan",earthquake,,6.8,,61,reviewed,us,us
+2000-02-20T15:09:51.820Z,31.169,141.818,33,4.6,mb,,,,1.12,us,usp0009nr6,2014-11-07T01:09:31.935Z,"Izu Islands, Japan region",earthquake,,,,23,reviewed,us,us
+2000-02-22T23:54:55.320Z,31.397,140.723,104.3,4.7,mb,,,,0.89,us,usp0009nut,2014-11-07T01:09:32.973Z,"Izu Islands, Japan region",earthquake,,16.9,,3,reviewed,us,us
+2000-03-11T20:27:52.410Z,28.574,130.643,33,4.6,mb,,,,0.99,us,usp0009pk3,2014-11-07T01:09:40.805Z,"115 km E of Naze, Japan",earthquake,,,,15,reviewed,us,us
+2000-03-17T06:27:12.790Z,30.869,138.224,404.6,4.6,mb,,,,0.77,us,usp0009pta,2014-11-07T01:09:42.594Z,"Izu Islands, Japan region",earthquake,,5.7,,39,reviewed,us,us
+2000-03-19T04:04:01.370Z,29.578,128.139,21.3,4.5,mb,,,,1.05,us,usp0009pwb,2014-11-07T01:09:43.069Z,"187 km NW of Naze, Japan",earthquake,,8.3,,6,reviewed,us,us
+2000-03-19T13:48:29.650Z,43.53,135.731,344.9,4.5,mb,,,,0.9,us,usp0009px5,2014-11-07T01:09:43.401Z,"42 km SE of Ol’ga, Russia",earthquake,,4.5,,51,reviewed,us,us
+2000-03-19T21:26:02.380Z,37.989,141.336,80.1,5.3,mwc,,,,0.76,us,usp0009pxs,2025-12-19T22:42:37.315Z,"42 km E of Watari, Japan",earthquake,,,,,reviewed,us,hrv
+2000-03-21T04:32:34.400Z,31.871,142.54,33,5.4,mwc,,,,0.69,us,usp0009pzk,2025-12-19T22:42:39.611Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,hrv
+2000-03-25T13:29:51.700Z,31.673,142.406,33,4.6,mb,,,,0.94,us,usp0009q5c,2014-11-07T01:09:44.743Z,"Izu Islands, Japan region",earthquake,,,,7,reviewed,us,us
+2000-03-29T17:54:18.670Z,42.595,140.605,10,4.5,mb,,,,1.21,us,usp0009qex,2014-11-07T01:09:45.996Z,"21 km SSW of Niseko Town, Japan",earthquake,,,,18,reviewed,us,us
+2000-03-29T18:20:19.020Z,42.694,140.705,10,4.5,mb,,,,0.93,us,usp0009qey,2014-11-07T01:09:46.000Z,"9 km SSE of Niseko Town, Japan",earthquake,,,,14,reviewed,us,us
+2000-03-29T20:21:31.970Z,42.687,140.594,10,4.5,mb,,,,1.1,us,usp0009qf5,2014-11-07T01:09:46.011Z,"Hokkaido, Japan region",earthquake,,,,14,reviewed,us,us
+2000-03-29T23:34:48.640Z,42.805,140.777,10,4.8,mb,,,,0.77,us,usp0009qfh,2014-11-07T01:09:46.050Z,"Hokkaido, Japan region",earthquake,,,,4,reviewed,us,us
+2000-03-30T00:12:45.750Z,42.576,140.718,10,4.9,mb,,,,0.84,us,usp0009qfm,2014-11-07T01:09:46.054Z,"17 km NW of Date, Japan",earthquake,,,,67,reviewed,us,us
+2000-03-30T08:13:28.320Z,42.621,140.749,10,4.8,mb,,,,1.34,us,usp0009qge,2014-11-07T01:09:46.259Z,"18 km SSE of Niseko Town, Japan",earthquake,,,,38,reviewed,us,us
+2000-03-31T18:12:24.890Z,42.569,140.785,33,5,mb,,,,0.87,us,usp0009qjw,2014-11-07T01:09:46.540Z,"13 km NNW of Date, Japan",earthquake,,,,90,reviewed,us,us
+2000-04-02T12:25:31.530Z,32.477,130.956,151.9,4.8,mb,,,,0.83,us,usp0009qpy,2014-11-07T01:09:50.403Z,"33 km SE of Matsubase, Japan",earthquake,,,,76,reviewed,us,us
+2000-04-07T11:02:55.440Z,30.547,138.482,392.2,4.5,mb,,,,0.9,us,usp0009qyb,2014-11-07T01:09:52.168Z,"Izu Islands, Japan region",earthquake,,,,44,reviewed,us,us
+2000-04-09T21:08:52.750Z,34.699,140.457,58.5,4.6,mb,,,,0.88,us,usp0009r2k,2014-11-07T01:09:52.682Z,"51 km SSE of Katsuura, Japan",earthquake,,10.4,,27,reviewed,us,us
+2000-04-09T21:30:40.180Z,36.184,139.86,79.6,4.9,mb,,,,0.84,us,usp0009r2n,2014-11-07T01:09:52.690Z,"10 km NNE of Sakai, Japan",earthquake,,5.9,,81,reviewed,us,us
+2000-04-11T02:31:50.930Z,33.89,134.926,33,4.5,mb,,,,0.46,us,usp0009r4a,2014-11-07T01:09:52.861Z,"22 km W of Gob?, Japan",earthquake,,,,1,reviewed,us,us
+2000-04-11T18:05:13.660Z,35.598,140.346,88.3,4.5,mb,,,,1.27,us,usp0009r5j,2014-11-07T01:09:53.023Z,"5 km NNW of T?gane, Japan",earthquake,,11,,28,reviewed,us,us
+2000-04-12T21:51:31.110Z,40.131,142.291,33,5.1,mwc,,,,0.84,us,usp0009r77,2022-04-29T18:36:49.892Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2000-04-14T17:41:10.110Z,33.656,135.308,35.3,5.1,mwc,,,,1,us,usp0009r9w,2022-04-29T18:36:53.403Z,"10 km SSW of Tanabe, Japan",earthquake,,,,,reviewed,us,hrv
+2000-04-14T21:39:37.340Z,38.741,143.232,33,4.7,mb,,,,1.04,us,usp0009ra6,2014-11-07T01:09:53.990Z,"132 km ESE of Kamaishi, Japan",earthquake,,,,38,reviewed,us,us
+2000-04-18T03:25:40.690Z,41.628,138.995,218.2,4.5,mb,,,,0.7,us,usp0009rfc,2014-11-07T01:09:54.663Z,"138 km W of Kamiiso, Japan",earthquake,,6.1,,10,reviewed,us,us
+2000-04-19T03:44:16.160Z,28.55,129.89,51.2,4.6,mb,,,,1.29,us,usp0009rh4,2014-11-07T01:09:54.940Z,"44 km ENE of Naze, Japan",earthquake,,10.2,,16,reviewed,us,us
+2000-04-21T11:06:16.020Z,35.667,135.486,346.5,5.5,mwc,,,,0.82,us,usp0009rn6,2022-04-29T18:37:22.818Z,"27 km NNE of Maizuru, Japan",earthquake,,,,,reviewed,us,hrv
+2000-04-23T17:42:39.880Z,36.602,141.135,52.7,4.6,ms,,,,1.18,us,usp0009rs1,2014-11-07T01:09:56.041Z,"39 km ESE of Takahagi, Japan",earthquake,,11.3,,1,reviewed,us,us
+2000-04-25T15:28:11.090Z,40.319,143.242,10,5.3,mwc,,,,0.93,us,usp0009rvg,2025-12-19T22:43:11.256Z,"133 km ENE of Miyako, Japan",earthquake,,,,,reviewed,us,hrv
+2000-04-25T19:48:19.850Z,37.685,139.899,43.6,4.6,mb,,,,0.8,us,usp0009rvt,2014-11-07T01:09:56.704Z,"4 km NE of Kitakata, Japan",earthquake,,7.6,,34,reviewed,us,us
+2000-04-26T12:48:49.500Z,40.309,143.328,29.9,5.4,mwc,,,,0.98,us,usp0009rww,2025-12-19T22:43:14.655Z,"139 km ENE of Miyako, Japan",earthquake,,,,,reviewed,us,hrv
+2000-04-26T12:55:04.020Z,40.178,143.236,33,5.6,mwc,,,,0.81,us,usp0009rwx,2022-04-29T19:16:18.005Z,"125 km ENE of Miyako, Japan",earthquake,,,,,reviewed,us,hrv
+2000-04-27T05:38:27.160Z,42.345,140.826,127.6,4.7,mb,,,,0.96,us,usp0009ry3,2014-11-07T01:09:57.257Z,"13 km WNW of Muroran, Japan",earthquake,,5.5,,53,reviewed,us,us
+2000-04-30T12:39:47.040Z,40.434,143.738,10,5.4,mwc,,,,0.85,us,usp0009s42,2025-12-19T22:43:19.157Z,"176 km ENE of Miyako, Japan",earthquake,,,,,reviewed,us,hrv
+2000-04-30T13:03:40.630Z,40.54,143.659,10,4.7,mb,,,,0.96,us,usp0009s43,2014-11-07T01:09:57.976Z,"176 km ENE of Miyako, Japan",earthquake,,,,25,reviewed,us,us
+2000-05-01T20:45:12.840Z,40.274,143.245,33,5.2,mwc,,,,0.98,us,usp0009s6b,2025-12-19T22:43:21.524Z,"131 km ENE of Miyako, Japan",earthquake,,,,,reviewed,us,hrv
+2000-05-01T21:05:38.350Z,40.244,143.288,33,5,mb,,,,0.91,us,usp0009s6c,2014-11-07T01:10:00.808Z,"132 km ENE of Miyako, Japan",earthquake,,,,64,reviewed,us,us
+2000-05-02T05:25:04.690Z,40.276,143.269,33,5,mb,,,,1.08,us,usp0009s70,2014-11-07T01:10:01.004Z,"133 km ENE of Miyako, Japan",earthquake,,,,57,reviewed,us,us
+2000-05-07T21:09:52.820Z,40.252,142.45,33,4.5,mb,,,,1.26,us,usp0009sk6,2014-11-07T01:10:05.483Z,"80 km NNE of Miyako, Japan",earthquake,,,,4,reviewed,us,us
+2000-05-08T04:33:51.810Z,45.95,142.373,333.5,4.7,mb,,,,0.85,us,usp0009skv,2014-11-07T01:10:05.547Z,"66 km SE of Shebunino, Russia",earthquake,,,,85,reviewed,us,us
+2000-05-08T09:45:44.810Z,36.306,140.985,43.8,4.7,mb,,,,0.92,us,usp0009sm9,2014-11-07T01:10:05.616Z,"36 km E of ?arai, Japan",earthquake,,,,37,reviewed,us,us
+2000-05-08T14:47:10.100Z,30.455,138.392,440.3,4.5,mb,,,,0.86,us,usp0009sn0,2014-11-07T01:10:05.804Z,"Izu Islands, Japan region",earthquake,,,,35,reviewed,us,us
+2000-05-08T18:26:46.200Z,40.299,143.235,33,4.5,mb,,,,1.26,us,usp0009sna,2014-11-07T01:10:05.834Z,"132 km ENE of Miyako, Japan",earthquake,,,,26,reviewed,us,us
+2000-05-15T09:43:36.460Z,45.68,142.16,33,4.8,mb,,,,0.77,us,usp0009t07,2014-11-07T01:10:08.474Z,"43 km NE of Makubetsu, Japan",earthquake,,,,33,reviewed,us,us
+2000-05-15T19:09:27.800Z,35.128,135.396,33,4.5,mb,,,,1.11,us,usp0009t0z,2014-11-07T01:10:08.563Z,"17 km ENE of Sasayama, Japan",earthquake,,,,16,reviewed,us,us
+2000-05-16T10:40:25.240Z,36.427,140.605,63.4,4.8,mb,,,,0.94,us,usp0009t1y,2014-11-07T01:10:08.657Z,"5 km SE of Funaishikawa, Japan",earthquake,,7,,76,reviewed,us,us
+2000-05-18T19:56:41.670Z,33.672,141.165,54.2,4.5,mb,,,,0.88,us,usp0009t57,2014-11-07T01:10:10.160Z,"181 km SSE of Katsuura, Japan",earthquake,,11.4,,11,reviewed,us,us
+2000-05-21T01:42:35.880Z,35.045,135.738,33,4.5,mb,,,,1.07,us,usp0009t8c,2014-11-07T01:10:10.646Z,"2 km NW of Kamigy?-ku, Japan",earthquake,,,,4,reviewed,us,us
+2000-05-21T17:17:52.460Z,29.473,141.212,33,4.7,mb,,,,1,us,usp0009t9e,2014-11-07T01:10:10.757Z,"Izu Islands, Japan region",earthquake,,,,3,reviewed,us,us
+2000-05-24T10:23:58.430Z,41.519,142.429,33,4.7,mb,,,,0.92,us,usp0009tdu,2014-11-07T01:10:11.410Z,"90 km S of Shizunai-furukawach?, Japan",earthquake,,,,41,reviewed,us,us
+2000-05-26T21:53:05.460Z,29.127,130.482,42.2,4.6,mb,,,,0.97,us,usp0009th0,2014-11-07T01:10:11.892Z,"122 km S of Yudomari, Japan",earthquake,,11.7,,3,reviewed,us,us
+2000-05-29T06:48:03.800Z,33.401,142.468,33,4.7,mb,,,,1.21,us,usp0009tm1,2014-11-07T01:10:12.186Z,"277 km SE of Katsuura, Japan",earthquake,,,,2,reviewed,us,us
+2000-05-29T17:21:30.080Z,29.195,139.33,428.1,4.6,mb,,,,0.85,us,usp0009tmg,2014-11-07T01:10:12.212Z,"Izu Islands, Japan region",earthquake,,13.1,,1,reviewed,us,us
+2000-05-30T14:27:47.580Z,37.083,141.198,49.3,4.5,mb,,,,0.97,us,usp0009tnw,2014-11-07T01:10:12.575Z,"28 km E of Iwaki, Japan",earthquake,,,,6,reviewed,us,us
+2000-06-01T05:51:52.560Z,28.097,129.595,56.8,4.5,mb,14,,,0.93,us,usp0009trd,2014-11-07T01:10:15.437Z,"31 km SSE of Naze, Japan",earthquake,,12.1,,3,reviewed,us,us
+2000-06-02T06:05:53.720Z,33.985,135.46,57.8,4.7,mb,18,,,0.7,us,usp0009ttf,2014-11-07T01:10:16.690Z,"29 km ENE of Gob?, Japan",earthquake,,,,2,reviewed,us,us
+2000-06-03T08:54:49.200Z,35.552,140.464,62.3,6.2,mwc,412,,,0.89,us,usp0009tvj,2022-04-29T18:39:21.764Z,"6 km SE of Narut?, Japan",earthquake,,5.4,,,reviewed,us,hrv
+2000-06-04T11:39:59.970Z,37.992,141.696,64.6,4.8,mb,126,,,0.88,us,usp0009txe,2014-11-07T01:10:18.185Z,"58 km SE of Ishinomaki, Japan",earthquake,,,,66,reviewed,us,us
+2000-06-06T14:57:02.220Z,29.424,131.421,33,6.4,mwc,389,,,0.97,us,usp0009u4g,2022-04-29T18:40:07.351Z,"124 km SE of Koshima, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-06T21:16:42.400Z,36.829,135.464,10,5.9,mwc,394,,,0.87,us,usp0009u50,2022-04-29T18:40:13.355Z,"Sea of Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-08T00:32:46.500Z,32.679,130.682,21.5,5,mb,75,,,0.84,us,usp0009u73,2014-11-07T01:10:20.101Z,"1 km ESE of Uto, Japan",earthquake,,6.7,,35,reviewed,us,us
+2000-06-08T15:30:54.490Z,30.23,132.899,33,4.6,mb,8,,,0.87,us,usp0009u8j,2014-11-07T01:10:20.357Z,"190 km ESE of Nishinoomote, Japan",earthquake,,,,2,reviewed,us,us
+2000-06-09T20:39:21.890Z,32.786,131.086,33,4.5,mb,16,,,1.3,us,usp0009ub2,2014-11-07T01:10:20.818Z,"16 km S of Aso, Japan",earthquake,,,,2,reviewed,us,us
+2000-06-09T22:35:13.780Z,30.472,137.682,472.6,5.8,mwc,400,,,0.86,us,usp0009ub5,2022-04-29T18:40:31.103Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,hrv
+2000-06-09T23:31:45.290Z,30.491,137.73,485.3,6.3,mwb,473,,,0.89,us,usp0009ub9,2022-04-29T18:40:32.435Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,us
+2000-06-12T16:54:13.050Z,42.947,144.616,50.9,4.9,mb,126,,,0.75,us,usp0009ug0,2014-11-07T01:10:22.052Z,"19 km E of Kushiro, Japan",earthquake,,,,71,reviewed,us,us
+2000-06-15T11:10:46.210Z,29.368,132.082,10,6.1,mwc,382,,,0.8,us,usp0009un5,2022-04-29T18:41:28.504Z,"177 km ESE of Koshima, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-15T11:53:22.070Z,28.574,130.373,42,4.7,mb,16,,,1.03,us,usp0009un6,2014-11-07T01:10:22.745Z,"90 km ENE of Naze, Japan",earthquake,,11.3,,3,reviewed,us,us
+2000-06-16T02:32:22.700Z,29.818,138.739,453.9,4.6,mb,76,,,0.78,us,usp0009upa,2014-11-07T01:10:22.871Z,"Izu Islands, Japan region",earthquake,,8.5,,37,reviewed,us,us
+2000-06-16T07:35:44.130Z,41.482,140.853,143.5,4.5,mb,60,,,0.69,us,usp0009upj,2014-11-07T01:10:22.898Z,"34 km SSE of Hakodate, Japan",earthquake,,7.4,,30,reviewed,us,us
+2000-06-20T15:26:27.780Z,30.693,141.45,33,4.7,mb,62,,,1.16,us,usp0009uwg,2014-11-07T01:10:23.829Z,"Izu Islands, Japan region",earthquake,,,,29,reviewed,us,us
+2000-06-22T11:36:29.410Z,36.75,135.48,26.8,4.7,mb,61,,,1.11,us,usp0009uz3,2014-11-07T01:10:24.113Z,"84 km NW of Mikuni, Japan",earthquake,,7.3,,27,reviewed,us,us
+2000-06-24T21:11:28.570Z,41.345,141.747,84.1,4.9,mb,14,,,1.13,us,usp0009v2r,2014-11-07T01:10:24.483Z,"44 km E of Mutsu, Japan",earthquake,,11.4,,2,reviewed,us,us
+2000-06-25T06:34:42.880Z,31.183,131.206,10,6,mwc,282,,,1,us,usp0009v37,2022-04-29T18:42:46.030Z,"33 km S of Kushima, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-25T07:24:10.360Z,31.175,131.273,10,4.9,mb,24,,,1.36,us,usp0009v39,2014-11-07T01:10:24.722Z,"34 km S of Kushima, Japan",earthquake,,,,5,reviewed,us,us
+2000-06-25T18:08:28.220Z,30.409,141.834,10,4.6,mb,15,,,0.83,us,usp0009v3t,2014-11-07T01:10:24.934Z,"Izu Islands, Japan region",earthquake,,,,2,reviewed,us,us
+2000-06-26T03:03:57.710Z,29.334,142.096,33,4.6,mb,39,,,1.06,us,usp0009v4f,2014-11-07T01:10:25.005Z,"Izu Islands, Japan region",earthquake,,,,10,reviewed,us,us
+2000-06-26T07:56:03.090Z,41.488,142.662,33,4.5,mb,9,,,1.34,us,usp0009v50,2014-11-07T01:10:25.056Z,"97 km SSE of Shizunai-furukawach?, Japan",earthquake,,,,1,reviewed,us,us
+2000-06-27T05:25:13.620Z,34.097,139.368,10,4.5,ms,43,,,1.41,us,usp0009v63,2014-11-07T01:10:25.165Z,"75 km SSE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-06-27T06:11:00.460Z,33.994,139.564,10,4.8,mb,59,,,1.24,us,usp0009v67,2014-11-07T01:10:25.179Z,"94 km SE of Shimoda, Japan",earthquake,,,,31,reviewed,us,us
+2000-06-27T06:38:58.340Z,34.075,139.425,10,4.6,mb,13,,,0.86,us,usp0009v68,2014-11-07T01:10:25.186Z,"80 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-06-27T08:09:12.870Z,33.986,139.222,10,4.5,mb,46,,,1.3,us,usp0009v6e,2014-11-07T01:10:25.219Z,"80 km SSE of Shimoda, Japan",earthquake,,,,23,reviewed,us,us
+2000-06-27T08:31:37.230Z,34.137,139.44,10,4.6,mb,18,,,1.1,us,usp0009v6f,2014-11-07T01:10:25.224Z,"75 km SE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-06-27T09:21:11.140Z,33.864,139.42,10,4.5,mb,18,,,1.43,us,usp0009v6q,2014-11-07T01:10:25.238Z,"100 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-06-27T09:59:44.650Z,33.905,139.386,10,4.7,mb,17,,,1.26,us,usp0009v6t,2014-11-07T01:10:25.244Z,"94 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-06-27T10:03:34.530Z,33.997,139.286,10,4.6,mb,23,,,0.93,us,usp0009v6u,2014-11-07T01:10:25.246Z,"81 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-06-27T11:24:33.790Z,34.016,139.301,10,4.5,mb,25,,,1.06,us,usp0009v72,2014-11-07T01:10:25.260Z,"80 km SSE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-06-27T12:34:16.860Z,34.176,139.337,10,4.7,mb,16,,,1.49,us,usp0009v79,2014-11-07T01:10:25.308Z,"66 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-06-27T15:22:55.320Z,34.008,139.37,10,4.5,mb,42,,,1.29,us,usp0009v7d,2014-11-07T01:10:25.316Z,"83 km SSE of Shimoda, Japan",earthquake,,,,17,reviewed,us,us
+2000-06-28T03:14:45.000Z,34.072,139.265,10,4.9,mb,130,,,0.87,us,usp0009v8v,2014-11-07T01:10:25.447Z,"73 km SSE of Shimoda, Japan",earthquake,,,,57,reviewed,us,us
+2000-06-28T03:40:06.250Z,34.037,139.398,10,4.5,mb,34,,,1.24,us,usp0009v8y,2014-11-07T01:10:25.461Z,"82 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-06-28T05:20:38.300Z,33.918,139.186,10,4.6,mb,47,,,1.36,us,usp0009v99,2014-11-07T01:10:25.510Z,"87 km SSE of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-06-28T06:16:01.520Z,34.047,139.641,10,4.6,mb,12,,,1.39,us,usp0009v9d,2014-11-07T01:10:25.519Z,"94 km SE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-06-28T06:38:14.190Z,34.034,139.279,10,4.5,ms,69,,,1.14,us,usp0009v9f,2014-11-07T01:10:25.524Z,"77 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-06-28T09:25:47.890Z,34.217,139.506,10,5.3,mwc,103,,,1.34,us,usp0009v9u,2022-04-29T18:42:53.475Z,"72 km SE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-28T09:37:17.470Z,34.096,139.37,10,4.5,mb,42,,,0.96,us,usp0009v9w,2014-11-07T01:10:25.568Z,"75 km SSE of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-06-28T13:20:38.850Z,34.077,138.886,10,4.5,mb,29,,,1.48,us,usp0009va7,2014-11-07T01:10:25.604Z,"66 km S of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-06-28T14:20:09.970Z,34.236,139.392,10,4.6,mb,33,,,1.19,us,usp0009vad,2014-11-07T01:10:25.616Z,"63 km SE of Shimoda, Japan",earthquake,,,,16,reviewed,us,us
+2000-06-28T16:15:17.960Z,34.014,139.319,10,5.2,mwc,84,,,1.13,us,usp0009van,2022-04-29T18:42:55.053Z,"81 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-28T16:21:23.300Z,34.238,139.293,10,4.7,mb,61,,,0.92,us,usp0009vap,2014-11-07T01:10:25.649Z,"58 km SSE of Shimoda, Japan",earthquake,,,,30,reviewed,us,us
+2000-06-28T16:30:58.340Z,34.025,139.415,10,4.6,ms,32,,,1.19,us,usp0009vaq,2014-11-07T01:10:25.655Z,"84 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-06-28T17:02:22.280Z,33.964,139.4,10,4.6,mb,37,,,1.3,us,usp0009vas,2014-11-07T01:10:25.660Z,"89 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-06-28T20:19:53.370Z,33.993,139.607,10,4.7,mb,23,,,1.31,us,usp0009vb6,2014-11-07T01:10:25.720Z,"97 km SE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-06-28T22:40:24.450Z,33.952,139.147,10,4.5,mb,29,,,1.34,us,usp0009vbe,2014-11-07T01:10:25.739Z,"82 km SSE of Shimoda, Japan",earthquake,,,,8,reviewed,us,us
+2000-06-28T23:50:44.500Z,34.183,139.497,10,4.6,mb,43,,,1.13,us,usp0009vbj,2014-11-07T01:10:25.753Z,"74 km SE of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-06-29T01:04:03.170Z,34.011,139.48,10,4.5,mb,14,,,1.22,us,usp0009vbr,2014-11-07T01:10:25.770Z,"88 km SSE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-06-29T01:16:12.570Z,34.025,139.304,10,4.6,mb,48,,,1.19,us,usp0009vbu,2014-11-07T01:10:25.779Z,"79 km SSE of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-06-29T02:55:13.600Z,34.163,139.193,10,4.9,mb,77,,,0.87,us,usp0009vc7,2014-11-07T01:10:25.812Z,"61 km SSE of Shimoda, Japan",earthquake,,,,26,reviewed,us,us
+2000-06-29T02:56:20.960Z,34.19,139.136,10,5.3,mwc,146,,,0.81,us,usp0009vc9,2022-04-29T18:42:56.761Z,"56 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-29T03:11:51.430Z,34.155,139.18,10,5.3,mb,202,,,1.03,us,usp0009vcb,2014-11-07T01:10:25.836Z,"61 km SSE of Shimoda, Japan",earthquake,,,,93,reviewed,us,us
+2000-06-29T03:18:02.390Z,34.027,139.398,10,4.5,mb,54,,,1.17,us,usp0009vcc,2014-11-07T01:10:25.858Z,"83 km SSE of Shimoda, Japan",earthquake,,,,23,reviewed,us,us
+2000-06-29T03:25:22.510Z,33.994,139.614,10,4.7,mb,25,,,1.19,us,usp0009vcd,2014-11-07T01:10:25.862Z,"97 km SE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-06-29T03:34:26.260Z,34.244,139.141,10,5.1,mb,141,,,0.78,us,usp0009vce,2014-11-07T01:10:25.865Z,"51 km SSE of Shimoda, Japan",earthquake,,,,62,reviewed,us,us
+2000-06-29T03:41:55.480Z,34.074,139.344,10,4.5,mb,22,,,1.02,us,usp0009vcg,2014-11-07T01:10:25.884Z,"76 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-06-29T04:02:36.920Z,34.056,139.561,10,5.5,mwc,169,,,1.14,us,usp0009vck,2022-04-29T18:43:02.066Z,"89 km SE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-29T04:53:26.310Z,34.082,139.333,10,5.3,mwc,96,,,0.98,us,usp0009vcq,2022-04-29T18:43:02.975Z,"75 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-29T05:54:55.400Z,34.151,139.422,10,5.1,mwc,61,,,1.39,us,usp0009vcu,2022-04-29T18:43:09.104Z,"72 km SE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-29T06:30:22.090Z,34.027,139.359,10,5.6,mwc,201,,,1.31,us,usp0009vcx,2022-04-29T18:43:10.334Z,"81 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-06-29T08:59:41.040Z,33.983,139.492,10,4.5,mb,39,,,1.22,us,usp0009vd6,2014-11-07T01:10:26.033Z,"91 km SSE of Shimoda, Japan",earthquake,,,,11,reviewed,us,us
+2000-06-29T09:53:28.100Z,34.324,140.221,10,5,mb,118,,,1.05,us,usp0009vdc,2014-11-07T01:10:26.045Z,"80 km SSE of Tateyama, Japan",earthquake,,,,61,reviewed,us,us
+2000-06-29T10:50:22.620Z,31.01,131.505,10,4.5,mb,17,,,1.47,us,usp0009vdh,2014-11-07T01:10:26.062Z,"57 km ENE of Nishinoomote, Japan",earthquake,,,,4,reviewed,us,us
+2000-06-29T13:07:55.550Z,34.094,139.245,10,4.7,mb,82,,,1.47,us,usp0009vdw,2014-11-07T01:10:26.083Z,"70 km SSE of Shimoda, Japan",earthquake,,,,41,reviewed,us,us
+2000-06-29T14:18:48.960Z,34.05,139.363,10,4.6,mb,10,,,1.17,us,usp0009ve8,2014-11-07T01:10:26.111Z,"79 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-06-29T15:52:03.830Z,34.14,139.27,10,4.6,mb,46,,,1.31,us,usp0009vee,2014-11-07T01:10:26.123Z,"66 km SSE of Shimoda, Japan",earthquake,,,,20,reviewed,us,us
+2000-06-29T16:04:00.190Z,34.249,139.205,10,4.8,mb,107,,,0.93,us,usp0009vef,2014-11-07T01:10:26.130Z,"53 km SSE of Shimoda, Japan",earthquake,,,,50,reviewed,us,us
+2000-06-29T16:13:56.020Z,34.045,139.434,10,4.7,mb,46,,,1.03,us,usp0009veh,2014-11-07T01:10:26.143Z,"83 km SSE of Shimoda, Japan",earthquake,,,,14,reviewed,us,us
+2000-06-29T16:27:55.220Z,34.073,139.409,10,4.5,mb,24,,,1.31,us,usp0009vem,2014-11-07T01:10:26.152Z,"79 km SSE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-06-30T09:53:59.900Z,33.988,139.187,10,4.6,mb,53,,,1.17,us,usp0009vfy,2014-11-07T01:10:26.260Z,"79 km SSE of Shimoda, Japan",earthquake,,,,27,reviewed,us,us
+2000-06-30T11:42:49.220Z,34.23,139.316,10,4.7,mb,66,,,0.98,us,usp0009vg3,2014-11-07T01:10:26.275Z,"60 km SE of Shimoda, Japan",earthquake,,,,31,reviewed,us,us
+2000-06-30T17:41:16.960Z,34.073,139.374,10,4.8,mb,76,,,1.11,us,usp0009vgb,2014-11-07T01:10:26.295Z,"77 km SSE of Shimoda, Japan",earthquake,,,,45,reviewed,us,us
+2000-06-30T19:11:44.210Z,34.088,139.264,10,4.5,mb,33,,,1.04,us,usp0009vgf,2014-11-07T01:10:26.313Z,"71 km SSE of Shimoda, Japan",earthquake,,,,18,reviewed,us,us
+2000-06-30T20:33:42.010Z,37.399,141.503,42.1,5.4,mwc,216,,,0.9,us,usp0009vgk,2022-04-29T18:43:13.619Z,"45 km ESE of Namie, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-01T00:10:47.880Z,34.124,139.244,10,4.6,mb,44,,,1.29,us,usp0009vgr,2014-11-07T01:10:27.307Z,"67 km SSE of Shimoda, Japan",earthquake,,,,22,reviewed,us,us
+2000-07-01T07:01:55.580Z,34.221,139.131,10,6.1,mwc,355,,,1.04,us,usp0009vhb,2022-04-29T18:43:20.727Z,"53 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-01T07:11:43.060Z,34.437,139.169,10,4.8,mb,79,,,1.07,us,usp0009vhe,2014-11-07T01:10:29.080Z,"33 km SE of Shimoda, Japan",earthquake,,,,32,reviewed,us,us
+2000-07-01T09:39:38.530Z,34.134,139.131,10,4.6,mb,64,,,1.15,us,usp0009vhj,2014-11-07T01:10:29.262Z,"62 km SSE of Shimoda, Japan",earthquake,,,,27,reviewed,us,us
+2000-07-01T17:30:42.700Z,34.271,139.377,10,4.6,mb,31,,,1.62,us,usp0009vj3,2014-11-07T01:10:29.402Z,"60 km SE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-01T17:48:43.110Z,34.095,139.251,10,4.6,mb,32,,,1.37,us,usp0009vj4,2014-11-07T01:10:29.415Z,"70 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-07-01T21:53:27.730Z,34.125,139.253,10,4.6,mb,39,,,0.97,us,usp0009vjf,2014-11-07T01:10:29.558Z,"67 km SSE of Shimoda, Japan",earthquake,,,,15,reviewed,us,us
+2000-07-01T23:28:27.320Z,34.244,139.181,10,4.9,mb,87,,,1.19,us,usp0009vjv,2014-11-07T01:10:29.799Z,"52 km SSE of Shimoda, Japan",earthquake,,,,51,reviewed,us,us
+2000-07-02T01:59:32.730Z,34.11,139.316,10,4.7,mb,53,,,1.29,us,usp0009vjz,2014-11-07T01:10:29.843Z,"71 km SSE of Shimoda, Japan",earthquake,,,,32,reviewed,us,us
+2000-07-02T17:20:42.000Z,34.204,139.111,10,4.6,mb,43,,,1.27,us,usp0009vm8,2014-11-07T01:10:30.181Z,"54 km SSE of Shimoda, Japan",earthquake,,,,22,reviewed,us,us
+2000-07-02T19:42:45.990Z,34.244,139.204,10,5.3,mwc,129,,,1.03,us,usp0009vmg,2022-04-29T18:43:23.395Z,"53 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-02T20:03:34.800Z,34.076,139.226,10,5.7,mwc,273,,,0.77,us,usp0009vmj,2022-04-29T18:43:25.151Z,"71 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-02T20:08:05.370Z,34.3,139.293,10,4.5,mb,21,,,1.19,us,usp0009vmk,2014-11-07T01:10:30.503Z,"52 km SE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-07-02T20:09:11.640Z,34.152,139.264,10,4.6,mb,38,,,1.01,us,usp0009vmm,2014-11-07T01:10:30.509Z,"65 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-02T22:00:14.030Z,34.127,139.247,10,4.5,mb,16,,,1.27,us,usp0009vmx,2014-11-07T01:10:30.575Z,"67 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-07-03T00:52:56.700Z,34.079,139.302,10,5.2,mwc,138,,,0.95,us,usp0009vn2,2022-04-29T18:43:26.558Z,"73 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-03T01:04:26.370Z,33.939,139.311,10,4.6,mb,36,,,1.49,us,usp0009vn3,2014-11-07T01:10:30.646Z,"88 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-03T02:02:48.950Z,34.132,139.684,10,4.6,mb,50,,,1.13,us,usp0009vn7,2014-11-07T01:10:30.672Z,"90 km SE of Shimoda, Japan",earthquake,,,,29,reviewed,us,us
+2000-07-03T02:23:23.050Z,34.175,139.352,10,4.6,mb,41,,,1.16,us,usp0009vna,2014-11-07T01:10:30.700Z,"67 km SE of Shimoda, Japan",earthquake,,,,18,reviewed,us,us
+2000-07-03T03:15:14.160Z,34.221,139.222,10,4.9,mb,90,,,0.94,us,usp0009vnj,2014-11-07T01:10:30.798Z,"near the south coast of Honshu, Japan",earthquake,,,,37,reviewed,us,us
+2000-07-03T03:36:21.770Z,33.966,139.576,10,5,mwc,96,,,1.44,us,usp0009vnk,2016-11-09T22:53:55.089Z,"97 km SE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-03T13:24:30.900Z,31.142,131.439,33,5.4,mwc,134,,,1.05,us,usp0009vpe,2022-04-29T19:42:56.502Z,"42 km SSE of Kushima, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-03T13:24:44.920Z,31.073,131.451,33,4.6,mb,21,,,0.98,us,usp0009vpf,2014-11-07T01:10:31.243Z,"49 km SSE of Kushima, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-03T14:28:22.900Z,34.069,139.254,10,4.7,mb,52,,,1.09,us,usp0009vpk,2014-11-07T01:10:31.264Z,"73 km SSE of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-07-03T17:34:16.470Z,34.347,139.312,10,4.5,mb,20,,,1.35,us,usp0009vq8,2014-11-07T01:10:31.574Z,"49 km SE of Shimoda, Japan",earthquake,,,,6,reviewed,us,us
+2000-07-04T04:45:05.480Z,34.066,139.726,10,4.5,mb,17,,,1.1,us,usp0009vr4,2014-11-07T01:10:31.693Z,"98 km SE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-04T06:53:51.360Z,34.11,139.159,10,5.4,mwc,201,,,0.83,us,usp0009vrc,2022-04-29T18:43:27.994Z,"65 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-04T07:10:01.950Z,34.092,139.053,10,4.7,mb,53,,,1.16,us,usp0009vrd,2014-11-07T01:10:31.756Z,"65 km S of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-07-04T21:51:02.890Z,34.061,139.32,10,4.7,mb,52,,,1.38,us,usp0009vs8,2014-11-07T01:10:31.901Z,"76 km SSE of Shimoda, Japan",earthquake,,,,22,reviewed,us,us
+2000-07-05T01:16:49.060Z,34.092,139.22,10,4.6,mb,36,,,0.95,us,usp0009vsu,2014-11-07T01:10:32.108Z,"69 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-07-05T02:19:12.960Z,34.236,139.18,10,4.6,mb,15,,,1.4,us,usp0009vt0,2014-11-07T01:10:32.127Z,"53 km SSE of Shimoda, Japan",earthquake,,,,5,reviewed,us,us
+2000-07-05T02:21:10.820Z,34.233,139.165,10,5.3,mwc,119,,,1.11,us,usp0009vt1,2022-04-29T18:43:35.253Z,"53 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-05T03:42:02.670Z,34.314,139.392,10,4.8,mb,90,,,1.29,us,usp0009vt4,2014-11-07T01:10:32.151Z,"57 km SE of Shimoda, Japan",earthquake,,,,50,reviewed,us,us
+2000-07-05T03:56:09.860Z,34.103,139.307,10,4.5,mb,54,,,0.89,us,usp0009vt6,2014-11-07T01:10:32.164Z,"71 km SSE of Shimoda, Japan",earthquake,,,,17,reviewed,us,us
+2000-07-05T20:10:11.120Z,34.14,139.388,10,4.8,mb,51,,,1.01,us,usp0009vug,2014-11-07T01:10:32.306Z,"72 km SE of Shimoda, Japan",earthquake,,,,26,reviewed,us,us
+2000-07-06T02:22:29.240Z,34.132,139.302,10,4.6,mb,38,,,1.05,us,usp0009vv0,2014-11-07T01:10:32.357Z,"68 km SSE of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-07-06T04:07:09.580Z,34.302,139.728,10,4.9,mb,95,,,0.99,us,usp0009vv7,2014-11-07T01:10:32.373Z,"76 km S of Tateyama, Japan",earthquake,,,,49,reviewed,us,us
+2000-07-06T04:09:18.340Z,36.356,142.51,50.8,5.4,mwc,130,,,0.77,us,usp0009vv9,2025-12-19T22:44:15.513Z,"164 km ESE of Iwaki, Japan",earthquake,,6.8,,,reviewed,us,hrv
+2000-07-06T06:27:39.570Z,34.11,139.312,10,5.2,mwc,94,,,0.84,us,usp0009vvg,2022-04-29T18:43:36.810Z,"71 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-06T07:45:37.950Z,34.021,139.227,10,4.6,mb,13,,,1.6,us,usp0009vvr,2014-11-07T01:10:32.642Z,"77 km SSE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-07-06T13:20:02.240Z,34.038,139.211,10,4.6,mb,48,,,0.88,us,usp0009vwy,2014-11-07T01:10:32.721Z,"74 km SSE of Shimoda, Japan",earthquake,,,,16,reviewed,us,us
+2000-07-06T13:21:48.890Z,33.801,139.372,10,4.6,mb,15,,,0.96,us,usp0009vwz,2014-11-07T01:10:32.726Z,"104 km SSE of Shimoda, Japan",earthquake,,,,5,reviewed,us,us
+2000-07-06T13:23:13.480Z,34.021,139.281,10,4.5,mb,19,,,0.87,us,usp0009vx0,2014-11-07T01:10:32.728Z,"79 km SSE of Shimoda, Japan",earthquake,,,,5,reviewed,us,us
+2000-07-06T13:38:14.730Z,34.186,139.032,10,4.8,mb,43,,,1.43,us,usp0009vx2,2014-11-07T01:10:32.731Z,"55 km S of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-07-06T13:48:55.730Z,34.05,139.269,10,4.9,mb,74,,,0.95,us,usp0009vx3,2014-11-07T01:10:32.737Z,"75 km SSE of Shimoda, Japan",earthquake,,,,30,reviewed,us,us
+2000-07-06T14:16:46.600Z,34.226,139.064,10,4.6,ms,48,,,1.27,us,usp0009vx8,2014-11-07T01:10:32.752Z,"51 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-06T14:52:36.880Z,33.955,139.383,10,4.5,mb,35,,,1,us,usp0009vxe,2014-11-07T01:10:32.767Z,"89 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-06T14:59:40.080Z,34.145,139.138,10,5.3,mwc,127,,,1.07,us,usp0009vxf,2022-04-29T18:43:38.449Z,"61 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-06T15:48:48.310Z,34.194,139.135,10,4.7,ms,41,,,1.22,us,usp0009vxj,2014-11-07T01:10:32.787Z,"56 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-07-06T16:53:28.590Z,33.986,139.259,10,4.6,mb,22,,,1.26,us,usp0009vxq,2014-11-07T01:10:32.800Z,"81 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-06T17:01:05.910Z,34.148,139.34,10,4.7,mb,29,,,1.04,us,usp0009vxr,2014-11-07T01:10:32.803Z,"68 km SSE of Shimoda, Japan",earthquake,,,,8,reviewed,us,us
+2000-07-06T17:25:41.610Z,34.059,139.116,10,4.7,mb,20,,,1.3,us,usp0009vxt,2014-11-07T01:10:32.807Z,"70 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-06T18:31:54.110Z,34.043,139.197,10,4.8,mb,82,,,1.46,us,usp0009vxv,2014-11-07T01:10:32.812Z,"74 km SSE of Shimoda, Japan",earthquake,,,,42,reviewed,us,us
+2000-07-06T18:59:35.990Z,34.207,139.197,10,4.9,mb,93,,,1.16,us,usp0009vxx,2014-11-07T01:10:32.822Z,"57 km SSE of Shimoda, Japan",earthquake,,,,48,reviewed,us,us
+2000-07-06T19:15:17.610Z,34.182,139.248,10,4.8,mb,65,,,1.44,us,usp0009vxy,2014-11-07T01:10:32.832Z,"61 km SSE of Shimoda, Japan",earthquake,,,,47,reviewed,us,us
+2000-07-06T19:19:14.330Z,34.08,139.26,10,4.5,mb,34,,,1.25,us,usp0009vxz,2014-11-07T01:10:32.840Z,"72 km SSE of Shimoda, Japan",earthquake,,,,15,reviewed,us,us
+2000-07-07T00:08:19.160Z,33.941,139.352,10,4.5,mb,24,,,1.03,us,usp0009vyf,2014-11-07T01:10:32.903Z,"89 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-07T02:45:26.580Z,34.136,139.271,10,5.4,mwc,86,,,0.86,us,usp0009vyv,2022-04-29T18:43:39.960Z,"67 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-07T18:37:10.020Z,39.115,144.411,10,5.2,mwc,143,,,0.77,us,usp0009w08,2025-12-19T22:44:21.058Z,"215 km E of Yamada, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-08T06:47:20.290Z,34.269,139.366,10,4.5,mb,58,,,1.21,us,usp0009w12,2014-11-07T01:10:33.813Z,"59 km SE of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-07-08T13:34:42.420Z,34.144,139.405,10,4.8,mb,95,,,1.15,us,usp0009w1h,2014-11-07T01:10:33.866Z,"72 km SE of Shimoda, Japan",earthquake,,,,42,reviewed,us,us
+2000-07-08T15:40:06.450Z,34.297,139.379,10,4.7,mb,66,,,1.25,us,usp0009w1m,2014-11-07T01:10:33.898Z,"58 km SE of Shimoda, Japan",earthquake,,,,34,reviewed,us,us
+2000-07-08T16:49:11.640Z,34.084,139.29,10,5.4,mwc,168,,,1.38,us,usp0009w1r,2022-04-29T19:45:45.611Z,"73 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-08T16:52:24.550Z,34.223,139.264,10,4.7,mb,41,,,1.36,us,usp0009w1s,2014-11-07T01:10:33.935Z,"58 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-08T17:19:59.890Z,34.191,139.246,10,4.5,mb,32,,,1.19,us,usp0009w1v,2014-11-07T01:10:33.943Z,"60 km SSE of Shimoda, Japan",earthquake,,,,11,reviewed,us,us
+2000-07-08T17:26:24.660Z,34.223,138.863,10,4.7,mb,37,,,1.61,us,usp0009w1w,2014-11-07T01:10:33.964Z,"50 km S of Shimoda, Japan",earthquake,,,,9,reviewed,us,us
+2000-07-08T18:57:44.470Z,34.053,139.126,10,5.9,mwc,333,,,1.21,us,usp0009w27,2022-04-29T19:45:46.710Z,"71 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-08T19:09:51.030Z,34.173,139.268,10,4.8,mb,71,,,0.91,us,usp0009w29,2014-11-07T01:10:34.034Z,"63 km SSE of Shimoda, Japan",earthquake,,,,27,reviewed,us,us
+2000-07-08T20:38:47.620Z,34.215,138.988,10,4.8,mb,86,,,0.95,us,usp0009w2h,2014-11-07T01:10:34.054Z,"51 km S of Shimoda, Japan",earthquake,,,,27,reviewed,us,us
+2000-07-09T17:08:51.050Z,34.047,139.069,10,4.5,mb,20,,,1.49,us,usp0009w40,2014-11-07T01:10:34.435Z,"70 km S of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-09T19:15:24.700Z,34.286,139.056,10,4.7,mb,56,,,1.47,us,usp0009w43,2014-11-07T01:10:34.443Z,"44 km SSE of Shimoda, Japan",earthquake,,,,37,reviewed,us,us
+2000-07-10T11:15:47.650Z,34.17,139.192,10,4.8,mb,61,,,1.2,us,usp0009w58,2014-11-07T01:10:34.681Z,"60 km SSE of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-07-10T16:38:22.210Z,34.125,139.21,10,4.8,mb,69,,,0.93,us,usp0009w5s,2014-11-07T01:10:34.732Z,"65 km SSE of Shimoda, Japan",earthquake,,,,23,reviewed,us,us
+2000-07-10T17:01:23.850Z,36.148,140.807,33,4.8,mb,69,,,0.89,us,usp0009w5v,2014-11-07T01:10:34.762Z,"24 km NE of Kashima-shi, Japan",earthquake,,,,25,reviewed,us,us
+2000-07-11T04:56:58.260Z,34.354,139.195,10,4.8,mb,95,,,1,us,usp0009w6x,2014-11-07T01:10:35.148Z,"42 km SSE of Shimoda, Japan",earthquake,,,,34,reviewed,us,us
+2000-07-11T05:11:34.120Z,34.158,139.264,10,4.6,mb,54,,,0.94,us,usp0009w70,2014-11-07T01:10:35.160Z,"64 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-11T07:44:55.200Z,34.074,139.357,10,4.6,mb,13,,,1.1,us,usp0009w7d,2014-11-07T01:10:35.198Z,"76 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-11T09:44:26.570Z,34.154,139.082,10,4.7,mb,92,,,1.14,us,usp0009w7s,2014-11-07T01:10:35.229Z,"59 km SSE of Shimoda, Japan",earthquake,,,,30,reviewed,us,us
+2000-07-11T10:24:13.340Z,34.159,139.152,10,4.7,mb,82,,,0.92,us,usp0009w7z,2014-11-07T01:10:35.250Z,"60 km SSE of Shimoda, Japan",earthquake,,,,24,reviewed,us,us
+2000-07-11T11:19:55.530Z,34.34,139.13,10,4.6,mb,52,,,0.83,us,usp0009w89,2014-11-07T01:10:35.286Z,"41 km SSE of Shimoda, Japan",earthquake,,,,17,reviewed,us,us
+2000-07-11T11:42:57.580Z,34.293,139.112,10,4.7,mb,69,,,0.81,us,usp0009w8g,2014-11-07T01:10:35.302Z,"45 km SSE of Shimoda, Japan",earthquake,,,,22,reviewed,us,us
+2000-07-11T12:21:05.870Z,34.133,139.253,10,4.6,mb,51,,,1.02,us,usp0009w8j,2014-11-07T01:10:35.309Z,"66 km SSE of Shimoda, Japan",earthquake,,,,16,reviewed,us,us
+2000-07-11T12:53:52.530Z,34.41,139.13,10,4.6,mb,43,,,0.93,us,usp0009w8p,2014-11-07T01:10:35.319Z,"34 km SSE of Shimoda, Japan",earthquake,,,,14,reviewed,us,us
+2000-07-11T13:10:01.500Z,34.192,139.176,10,5.3,mwc,75,,,0.93,us,usp0009w8q,2022-04-29T18:44:16.201Z,"57 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-11T14:42:28.240Z,34.39,139.108,10,4.8,mb,34,,,0.66,us,usp0009w8x,2014-11-07T01:10:35.340Z,"35 km SSE of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-07-11T16:29:10.710Z,36.146,140.841,10,4.9,mb,37,,,0.61,us,usp0009w94,2014-11-07T01:10:35.413Z,"26 km NE of Kashima-shi, Japan",earthquake,,,,11,reviewed,us,us
+2000-07-11T18:23:51.020Z,34.219,138.951,10,5.1,mwc,94,,,1.51,us,usp0009w97,2022-04-29T18:44:17.494Z,"50 km S of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-11T19:25:43.670Z,34.24,139.032,10,5.2,mwc,87,,,1.55,us,usp0009w9d,2022-04-29T19:45:51.841Z,"49 km S of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-12T03:19:02.090Z,34.179,139.201,10,5.2,mwc,100,,,0.96,us,usp0009w9u,2022-04-29T18:44:18.639Z,"60 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-12T03:49:21.980Z,34.159,139.333,10,4.8,mb,40,,,1.07,us,usp0009w9y,2014-11-07T01:10:35.528Z,"67 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-07-12T03:50:15.490Z,34.042,139.332,10,4.5,mb,15,,,1.51,us,usp0009w9z,2014-11-07T01:10:35.532Z,"78 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-12T05:08:12.310Z,34.192,139.25,10,4.7,mb,41,,,1.18,us,usp0009wa6,2014-11-07T01:10:35.542Z,"60 km SSE of Shimoda, Japan",earthquake,,,,9,reviewed,us,us
+2000-07-12T06:10:47.720Z,34.023,139.225,10,4.7,mb,41,,,1.32,us,usp0009waf,2014-11-07T01:10:35.558Z,"76 km SSE of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-07-12T06:27:17.540Z,34.039,139.319,10,4.5,mb,35,,,1.16,us,usp0009wah,2014-11-07T01:10:35.565Z,"78 km SSE of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-07-12T06:37:15.560Z,34.113,139.268,10,5,mb,91,,,0.98,us,usp0009waj,2014-11-07T01:10:35.568Z,"69 km SSE of Shimoda, Japan",earthquake,,,,38,reviewed,us,us
+2000-07-12T07:03:41.810Z,34.094,139.305,10,4.8,mb,48,,,0.98,us,usp0009wam,2014-11-07T01:10:35.582Z,"72 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-12T11:39:03.520Z,33.974,139.3,10,4.5,mb,10,,,0.84,us,usp0009wbe,2014-11-07T01:10:35.661Z,"84 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-07-12T12:34:35.130Z,34.175,139.126,10,4.7,mb,56,,,1.42,us,usp0009wbg,2014-11-07T01:10:35.664Z,"58 km SSE of Shimoda, Japan",earthquake,,,,23,reviewed,us,us
+2000-07-12T14:07:14.170Z,34.156,139.202,10,5,mb,106,,,1.02,us,usp0009wbr,2014-11-07T01:10:35.698Z,"62 km SSE of Shimoda, Japan",earthquake,,,,45,reviewed,us,us
+2000-07-12T19:19:40.540Z,34.193,139.201,10,5,mb,47,,,1.15,us,usp0009wc3,2014-11-07T01:10:35.727Z,"58 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-12T19:25:03.510Z,34.038,139.209,10,5.3,mwc,205,,,0.95,us,usp0009wc4,2022-04-29T18:44:25.632Z,"74 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-12T20:40:42.560Z,33.971,139.03,10,4.5,mb,25,,,1.33,us,usp0009wca,2014-11-07T01:10:35.765Z,"78 km S of Shimoda, Japan",earthquake,,,,5,reviewed,us,us
+2000-07-12T21:20:27.270Z,34.19,139.187,10,4.8,mb,16,,,1.48,us,usp0009wcc,2014-11-07T01:10:35.772Z,"58 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-12T23:44:32.510Z,34.384,139.255,10,4.9,mb,12,,,1.31,us,usp0009wcs,2014-11-07T01:10:35.820Z,"43 km SE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-07-13T18:55:52.490Z,34.045,139.246,10,5.2,mwc,119,,,1.17,us,usp0009weh,2022-04-29T18:44:39.692Z,"75 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-14T10:19:28.790Z,34.147,139.1,10,5.4,mwc,142,,,1.15,us,usp0009wfy,2022-04-29T18:44:46.525Z,"60 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-14T12:38:31.410Z,28.718,142.51,33,4.8,mb,79,,,1.11,us,usp0009wg5,2014-11-07T01:10:36.400Z,"Bonin Islands, Japan region",earthquake,,,,34,reviewed,us,us
+2000-07-14T14:40:02.230Z,33.172,140.604,10,4.9,mb,109,,,0.73,us,usp0009wgb,2014-11-07T01:10:36.415Z,"212 km SSE of Tateyama, Japan",earthquake,,,,46,reviewed,us,us
+2000-07-14T18:28:23.250Z,34.124,139.223,10,5.4,mwc,175,,,1.01,us,usp0009wgj,2022-04-29T19:45:53.120Z,"66 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-14T19:23:00.900Z,34.082,139.053,10,4.8,mb,54,,,1.32,us,usp0009wgs,2014-11-07T01:10:36.490Z,"66 km S of Shimoda, Japan",earthquake,,,,23,reviewed,us,us
+2000-07-14T19:50:07.760Z,34.088,139.365,10,4.8,mb,66,,,1.52,us,usp0009wgz,2014-11-07T01:10:36.560Z,"75 km SSE of Shimoda, Japan",earthquake,,,,28,reviewed,us,us
+2000-07-14T20:28:06.110Z,34.054,139.308,10,4.5,mb,20,,,1.27,us,usp0009wh5,2014-11-07T01:10:36.572Z,"76 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-14T21:05:38.210Z,33.968,139.632,10,4.5,mb,30,,,1.53,us,usp0009wh9,2014-11-07T01:10:36.579Z,"Izu Islands, Japan region",earthquake,,,,10,reviewed,us,us
+2000-07-14T21:12:51.920Z,34.124,139.104,10,4.6,mb,37,,,1.38,us,usp0009whc,2014-11-07T01:10:36.587Z,"63 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-14T21:25:01.360Z,34.208,139.703,10,4.5,mb,15,,,1.26,us,usp0009whf,2014-11-07T01:10:36.594Z,"86 km SE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-07-14T21:27:40.490Z,34.067,139.168,10,4.7,mb,54,,,1.23,us,usp0009whg,2014-11-07T01:10:36.596Z,"70 km SSE of Shimoda, Japan",earthquake,,,,17,reviewed,us,us
+2000-07-14T23:03:13.820Z,34.272,139.436,10,4.5,mb,33,,,1.29,us,usp0009whn,2014-11-07T01:10:36.608Z,"63 km SE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-15T01:11:39.270Z,34.302,139.151,10,4.6,mb,36,,,1.35,us,usp0009whw,2014-11-07T01:10:36.626Z,"45 km SSE of Shimoda, Japan",earthquake,,,,11,reviewed,us,us
+2000-07-15T01:30:30.500Z,34.319,139.26,10,6.1,mwc,275,,,0.88,us,usp0009whz,2022-04-29T18:44:54.110Z,"near the south coast of Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-15T01:46:51.490Z,34.036,138.605,10,4.6,mb,12,,,0.73,us,usp0009wj1,2014-11-07T01:10:36.664Z,"near the south coast of Honshu, Japan",earthquake,,,,1,reviewed,us,us
+2000-07-15T02:16:18.520Z,34.077,139.294,10,4.8,mb,31,,,0.93,us,usp0009wj3,2014-11-07T01:10:36.667Z,"near the south coast of Honshu, Japan",earthquake,,,,5,reviewed,us,us
+2000-07-15T05:47:55.440Z,34.163,139.249,10,4.5,mb,46,,,0.86,us,usp0009wjc,2014-11-07T01:10:36.708Z,"near the south coast of Honshu, Japan",earthquake,,,,8,reviewed,us,us
+2000-07-15T06:49:57.360Z,34.342,139.101,10,4.5,mb,33,,,1.47,us,usp0009wjf,2014-11-07T01:10:36.721Z,"39 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-17T12:58:09.400Z,28.579,142.669,10,5.4,mwc,87,,,0.96,us,usp0009wp1,2025-12-19T22:44:28.863Z,"Bonin Islands, Japan region",earthquake,,,,,reviewed,us,hrv
+2000-07-18T12:22:10.950Z,34.055,139.193,10,4.7,mb,73,,,1.29,us,usp0009wqr,2014-11-07T01:10:37.343Z,"72 km SSE of Shimoda, Japan",earthquake,,,,29,reviewed,us,us
+2000-07-18T20:01:55.100Z,35.88,140.644,10,4.6,mb,34,,,1.25,us,usp0009wr3,2014-11-07T01:10:37.388Z,"4 km NE of Omigawa, Japan",earthquake,,,,6,reviewed,us,us
+2000-07-19T11:00:39.490Z,34.242,139.132,10,5,mb,84,,,0.67,us,usp0009ws9,2014-11-07T01:10:38.095Z,"51 km SSE of Shimoda, Japan",earthquake,,,,33,reviewed,us,us
+2000-07-19T11:06:16.650Z,34.169,139.202,10,4.8,mb,46,,,0.87,us,usp0009wsa,2014-11-07T01:10:38.102Z,"61 km SSE of Shimoda, Japan",earthquake,,,,18,reviewed,us,us
+2000-07-19T11:45:58.600Z,34.126,139.262,10,4.5,mb,27,,,0.84,us,usp0009wsg,2014-11-07T01:10:38.113Z,"67 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-19T11:48:35.650Z,34.239,139.115,10,4.7,mb,58,,,1.06,us,usp0009wsh,2014-11-07T01:10:38.116Z,"50 km SSE of Shimoda, Japan",earthquake,,,,18,reviewed,us,us
+2000-07-19T12:01:34.980Z,34.218,139.125,10,4.6,mb,33,,,0.94,us,usp0009wsj,2014-11-07T01:10:38.122Z,"53 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-19T12:20:24.050Z,34.129,139.351,10,4.6,mb,23,,,0.81,us,usp0009wsm,2014-11-07T01:10:38.127Z,"71 km SSE of Shimoda, Japan",earthquake,,,,6,reviewed,us,us
+2000-07-19T17:18:29.030Z,38.812,143.065,33,5.4,mwc,192,,,0.78,us,usp0009wsz,2025-12-19T22:44:31.044Z,"115 km ESE of Kamaishi, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-19T17:32:19.940Z,34.174,139.129,10,5.2,mb,114,,,0.93,us,usp0009wt0,2014-11-07T01:10:38.180Z,"58 km SSE of Shimoda, Japan",earthquake,,,,40,reviewed,us,us
+2000-07-19T21:18:19.720Z,34.11,139.254,10,5.4,mwc,165,,,0.88,us,usp0009wta,2022-04-29T18:45:33.869Z,"68 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-20T00:23:49.380Z,34.108,139.264,10,4.5,mb,31,,,1.17,us,usp0009wtk,2014-11-07T01:10:38.254Z,"69 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-07-20T01:48:49.410Z,34.091,139.393,10,4.5,mb,24,,,1.45,us,usp0009wts,2014-11-07T01:10:38.269Z,"76 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-20T02:19:14.280Z,33.942,139.008,10,4.7,mb,67,,,1.19,us,usp0009wtx,2014-11-07T01:10:38.358Z,"81 km S of Shimoda, Japan",earthquake,,,,35,reviewed,us,us
+2000-07-20T02:39:53.710Z,33.986,139.182,10,4.5,mb,20,,,1.08,us,usp0009wu2,2014-11-07T01:10:38.483Z,"79 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-07-20T03:07:03.510Z,34.008,138.986,10,5.1,ms,65,,,1.14,us,usp0009wua,2014-11-07T01:10:38.532Z,"74 km S of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-20T03:10:25.440Z,34.031,139.269,10,5.3,mwc,97,,,1.24,us,usp0009wub,2022-04-29T18:45:35.514Z,"77 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-20T03:29:51.980Z,34.07,139.312,10,4.7,mb,34,,,0.93,us,usp0009wue,2014-11-07T01:10:38.560Z,"75 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-07-20T03:32:53.700Z,34.153,139.154,10,4.5,mb,51,,,0.99,us,usp0009wuf,2014-11-07T01:10:38.564Z,"61 km SSE of Shimoda, Japan",earthquake,,,,21,reviewed,us,us
+2000-07-20T06:18:43.180Z,33.978,139.4,10,4.6,mb,39,,,0.94,us,usp0009wuv,2014-11-07T01:10:38.597Z,"88 km SSE of Shimoda, Japan",earthquake,,,,14,reviewed,us,us
+2000-07-20T14:23:49.460Z,34.169,139.205,10,4.8,mb,77,,,1.26,us,usp0009wve,2014-11-07T01:10:38.643Z,"61 km SSE of Shimoda, Japan",earthquake,,,,35,reviewed,us,us
+2000-07-20T18:04:58.000Z,34.021,139.159,10,4.5,mb,13,,,1.62,us,usp0009wvu,2014-11-07T01:10:38.674Z,"75 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-07-20T18:39:18.820Z,36.51,140.983,47.1,6,mwc,480,,,0.68,us,usp0009wvy,2022-04-29T18:45:36.968Z,"31 km ESE of Hitachi, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-21T02:36:52.610Z,34.038,139.248,10,4.5,mb,21,,,1.53,us,usp0009wwe,2014-11-07T01:10:38.839Z,"76 km SSE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-07-21T05:16:37.640Z,35.181,141.066,52.4,5.7,mwc,333,,,0.78,us,usp0009wwn,2022-04-29T18:45:40.054Z,"61 km E of ?hara, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-21T07:55:57.170Z,34.184,139.146,10,4.8,mb,82,,,1.21,us,usp0009wx0,2014-11-07T01:10:38.999Z,"57 km SSE of Shimoda, Japan",earthquake,,,,38,reviewed,us,us
+2000-07-21T18:44:02.560Z,34.046,139.212,10,4.5,mb,16,,,1.13,us,usp0009wxr,2014-11-07T01:10:39.059Z,"74 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-07-22T11:27:29.870Z,34.349,138.929,10,4.6,mb,15,,,1.16,us,usp0009wym,2014-11-07T01:10:39.151Z,"36 km S of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-07-23T01:33:15.720Z,34.205,139.294,10,4.6,mb,36,,,1.04,us,usp0009wzn,2014-11-07T01:10:39.301Z,"61 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-07-23T02:10:51.430Z,34.103,139.09,10,4.6,mb,45,,,1.44,us,usp0009wzr,2014-11-07T01:10:39.310Z,"65 km SSE of Shimoda, Japan",earthquake,,,,17,reviewed,us,us
+2000-07-23T03:02:00.230Z,34.172,139.319,10,4.6,mb,22,,,1.15,us,usp0009wzt,2014-11-07T01:10:39.317Z,"65 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-07-23T03:15:08.340Z,34.23,139.247,10,5.3,mwc,119,,,0.97,us,usp0009wzv,2022-04-29T18:45:45.512Z,"56 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-23T03:56:15.360Z,34.182,139.322,10,4.6,mb,44,,,0.96,us,usp0009wzx,2014-11-07T01:10:39.339Z,"64 km SSE of Shimoda, Japan",earthquake,,,,16,reviewed,us,us
+2000-07-23T03:58:00.690Z,34.188,139.259,10,4.8,mb,60,,,1.31,us,usp0009wzy,2014-11-07T01:10:39.343Z,"61 km SSE of Shimoda, Japan",earthquake,,,,25,reviewed,us,us
+2000-07-23T17:13:33.530Z,34.079,139.183,10,5.1,mwc,149,,,0.75,us,usp0009x0y,2022-04-29T18:45:46.811Z,"69 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-23T19:00:07.800Z,34.158,139.237,10,4.8,mb,100,,,1.17,us,usp0009x14,2014-11-07T01:10:39.461Z,"63 km SSE of Shimoda, Japan",earthquake,,,,43,reviewed,us,us
+2000-07-23T19:04:12.690Z,34.088,139.204,10,4.9,mb,114,,,0.98,us,usp0009x15,2014-11-07T01:10:39.470Z,"69 km SSE of Shimoda, Japan",earthquake,,,,46,reviewed,us,us
+2000-07-23T19:11:22.030Z,34.088,139.328,10,4.6,mb,33,,,1.11,us,usp0009x16,2014-11-07T01:10:39.502Z,"74 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-07-23T19:13:27.140Z,34.169,139.39,10,4.5,mb,28,,,1.13,us,usp0009x17,2014-11-07T01:10:39.546Z,"69 km SE of Shimoda, Japan",earthquake,,,,9,reviewed,us,us
+2000-07-23T20:07:12.790Z,34.403,139.087,10,4.7,mb,53,,,0.82,us,usp0009x1d,2014-11-07T01:10:39.563Z,"33 km SSE of Shimoda, Japan",earthquake,,,,22,reviewed,us,us
+2000-07-23T20:53:25.100Z,33.95,139.26,10,4.8,mb,13,,,0.84,us,usp0009x1n,2014-11-07T01:10:39.586Z,"85 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-07-23T20:53:40.170Z,34.311,139.104,10,4.6,mb,37,,,1.2,us,usp0009x1p,2014-11-07T01:10:39.588Z,"43 km SSE of Shimoda, Japan",earthquake,,,,14,reviewed,us,us
+2000-07-23T21:26:47.800Z,34.185,139.261,10,5.3,mwc,220,,,0.92,us,usp0009x1t,2022-04-29T18:45:48.216Z,"61 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-23T21:36:29.570Z,34.063,139.463,10,4.6,mb,41,,,1.07,us,usp0009x1u,2014-11-07T01:10:39.617Z,"83 km SE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-07-23T21:52:44.060Z,34.126,139.116,10,5.6,mwc,299,,,0.75,us,usp0009x1y,2022-04-29T18:45:49.586Z,"63 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-23T22:22:18.850Z,34.329,139.31,10,4.5,mb,13,,,1.35,us,usp0009x25,2014-11-07T01:10:39.667Z,"51 km SE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-07-24T08:44:14.280Z,34.237,139.145,10,4.9,mb,115,,,0.98,us,usp0009x33,2014-11-07T01:10:39.746Z,"52 km SSE of Shimoda, Japan",earthquake,,,,45,reviewed,us,us
+2000-07-24T09:03:34.270Z,34.063,138.936,10,4.6,mb,34,,,1.43,us,usp0009x34,2014-11-07T01:10:39.755Z,"68 km S of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-24T09:03:54.710Z,34.119,139.327,10,5.1,mb,108,,,1.18,us,usp0009x35,2014-11-07T01:10:39.758Z,"71 km SSE of Shimoda, Japan",earthquake,,,,57,reviewed,us,us
+2000-07-24T09:10:32.870Z,34.106,139.454,10,4.7,mb,32,,,1.45,us,usp0009x37,2014-11-07T01:10:39.769Z,"78 km SE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-07-24T20:58:52.030Z,44.657,141.213,249.4,4.5,mb,22,,,0.93,us,usp0009x47,2014-11-07T01:10:39.874Z,"55 km S of Rishiri Town, Japan",earthquake,,8.7,,3,reviewed,us,us
+2000-07-25T07:12:50.480Z,34.218,139.277,10,5.1,mwc,124,,,1.08,us,usp0009x4w,2022-04-29T18:45:54.768Z,"59 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-25T08:10:15.890Z,34.182,139.338,10,5,mb,118,,,1.11,us,usp0009x4z,2014-11-07T01:10:39.954Z,"65 km SSE of Shimoda, Japan",earthquake,,,,63,reviewed,us,us
+2000-07-25T18:36:44.680Z,34.088,139.31,10,5.2,mwc,178,,,1.31,us,usp0009x5u,2022-04-29T18:46:00.387Z,"73 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-25T18:57:05.900Z,34.05,139.344,10,4.6,mb,32,,,1.02,us,usp0009x5x,2014-11-07T01:10:40.216Z,"78 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-07-26T08:24:40.890Z,29.264,141.923,33,4.7,mb,81,,,0.95,us,usp0009x6t,2014-11-07T01:10:40.503Z,"Izu Islands, Japan region",earthquake,,,,32,reviewed,us,us
+2000-07-26T08:58:11.350Z,29.279,142.053,33,4.7,mb,65,,,0.99,us,usp0009x6w,2014-11-07T01:10:40.554Z,"Izu Islands, Japan region",earthquake,,,,29,reviewed,us,us
+2000-07-26T10:09:50.290Z,34.116,139.187,10,5.2,mwc,131,,,0.87,us,usp0009x6y,2022-04-29T18:46:01.725Z,"66 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-27T01:49:53.330Z,34.208,139.37,10,5.6,mwc,235,,,1.05,us,usp0009x8d,2022-04-29T18:46:07.195Z,"65 km SE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-27T02:12:50.080Z,34.204,139.248,10,5.5,mwc,178,,,0.93,us,usp0009x8e,2022-04-29T18:46:12.578Z,"59 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-27T02:15:16.240Z,34.184,139.318,10,4.7,mb,27,,,1.12,us,usp0009x8f,2014-11-07T01:10:40.911Z,"64 km SSE of Shimoda, Japan",earthquake,,,,5,reviewed,us,us
+2000-07-27T02:27:13.650Z,34.048,139.216,10,4.5,mb,18,,,0.85,us,usp0009x8j,2014-11-07T01:10:40.922Z,"74 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-07-27T06:07:31.890Z,34.417,139.145,10,4.8,mb,47,,,0.65,us,usp0009x8x,2014-11-07T01:10:41.020Z,"34 km SSE of Shimoda, Japan",earthquake,,,,17,reviewed,us,us
+2000-07-28T04:38:56.490Z,33.935,139.102,10,4.8,mb,88,,,1.19,us,usp0009xad,2014-11-07T01:10:41.189Z,"84 km S of Shimoda, Japan",earthquake,,,,41,reviewed,us,us
+2000-07-28T13:05:58.740Z,34.183,139.446,10,5.2,ms,98,,,1.14,us,usp0009xaw,2014-11-07T01:10:41.289Z,"71 km SE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-28T13:32:43.230Z,34.104,139.25,10,5.4,mwc,75,,,1.19,us,usp0009xax,2022-04-29T18:46:41.108Z,"69 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-28T16:48:02.140Z,34.079,139.24,10,4.6,mb,40,,,1.08,us,usp0009xb6,2014-11-07T01:10:41.323Z,"71 km SSE of Shimoda, Japan",earthquake,,,,18,reviewed,us,us
+2000-07-28T22:17:55.460Z,34.139,139.138,10,4.7,mb,49,,,1.09,us,usp0009xbz,2014-11-07T01:10:41.437Z,"near the south coast of Honshu, Japan",earthquake,,,,18,reviewed,us,us
+2000-07-29T15:16:17.770Z,34.091,139.149,10,4.9,mb,128,,,0.79,us,usp0009xd5,2014-11-07T01:10:41.555Z,"67 km SSE of Shimoda, Japan",earthquake,,,,53,reviewed,us,us
+2000-07-29T16:23:00.450Z,39.769,141.989,73.4,4.6,mb,28,,,0.92,us,usp0009xda,2014-11-07T01:10:41.607Z,"14 km NNE of Miyako, Japan",earthquake,,10.6,,4,reviewed,us,us
+2000-07-30T00:18:00.190Z,33.933,139.35,10,5.7,mwc,281,,,0.98,us,usp0009xe8,2022-04-29T18:46:44.388Z,"90 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-30T07:49:02.450Z,28.332,128.121,132,4.8,mb,74,,,1.1,us,usp0009xer,2014-11-07T01:10:42.350Z,"133 km W of Naze, Japan",earthquake,,7,,25,reviewed,us,us
+2000-07-30T12:25:45.570Z,33.901,139.376,10,6.5,mwc,428,,,0.94,us,usp0009xf4,2022-04-29T18:46:51.810Z,"94 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-07-30T12:48:55.480Z,33.954,139.27,10,5.5,mb,218,,,0.92,us,usp0009xf5,2022-04-29T18:46:57.406Z,"85 km SSE of Shimoda, Japan",earthquake,,,,81,reviewed,us,us
+2000-07-30T12:51:26.850Z,33.653,139.274,10,4.8,mb,14,,,1.24,us,usp0009xf6,2014-11-07T01:10:42.621Z,"117 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-07-30T13:14:00.060Z,34.043,139.386,10,4.7,mb,35,,,1.16,us,usp0009xf8,2014-11-07T01:10:42.625Z,"81 km SSE of Shimoda, Japan",earthquake,,,,8,reviewed,us,us
+2000-07-30T13:16:08.540Z,34.119,139.247,10,5,mb,124,,,0.8,us,usp0009xf9,2014-11-07T01:10:42.628Z,"67 km SSE of Shimoda, Japan",earthquake,,,,47,reviewed,us,us
+2000-07-30T23:53:22.420Z,34.204,139.055,10,4.5,mb,48,,,1.29,us,usp0009xga,2014-11-07T01:10:43.184Z,"53 km S of Shimoda, Japan",earthquake,,,,15,reviewed,us,us
+2000-07-31T04:37:06.650Z,39.576,143.582,33,5.4,mwc,180,,,0.9,us,usp0009xgu,2025-12-19T22:44:40.059Z,"140 km E of Yamada, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-01T21:18:28.610Z,34.472,139.156,10,4.6,mb,25,,,1.28,us,usp0009xkq,2014-11-07T01:10:46.611Z,"29 km SE of Shimoda, Japan",earthquake,,,,11,reviewed,us,us
+2000-08-02T10:23:46.280Z,34.188,139.167,10,5.3,mwc,120,,,0.89,us,usp0009xmw,2022-04-29T18:47:28.789Z,"57 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-02T10:43:55.670Z,34.266,139.061,10,4.8,mb,80,,,0.99,us,usp0009xmz,2014-11-07T01:10:47.215Z,"46 km SSE of Shimoda, Japan",earthquake,,,,38,reviewed,us,us
+2000-08-02T11:08:30.120Z,31.197,131.256,60.8,4.7,mb,32,,,1.31,us,usp0009xn1,2014-11-07T01:10:47.241Z,"32 km S of Kushima, Japan",earthquake,,10,,9,reviewed,us,us
+2000-08-02T21:14:30.750Z,34.124,139.383,10,4.8,mb,62,,,1.1,us,usp0009xnr,2014-11-07T01:10:47.566Z,"73 km SSE of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-08-02T21:42:27.790Z,34.15,139.221,10,5.3,mwc,178,,,1.07,us,usp0009xnw,2022-04-29T18:47:29.963Z,"63 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-02T22:28:30.220Z,34.224,139.225,10,4.5,mb,14,,,1.33,us,usp0009xnz,2014-11-07T01:10:47.679Z,"56 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-03T05:30:12.260Z,31.078,131.308,35,5.6,mwc,165,,,0.92,us,usp0009xpc,2022-04-29T18:47:32.315Z,"45 km S of Kushima, Japan",earthquake,,5.6,,,reviewed,us,hrv
+2000-08-03T07:21:52.530Z,34.057,139.121,10,4.5,mb,24,,,1.23,us,usp0009xpj,2014-11-07T01:10:47.878Z,"70 km SSE of Shimoda, Japan",earthquake,,,,6,reviewed,us,us
+2000-08-03T07:48:40.750Z,34.071,139.243,10,4.5,mb,28,,,1.07,us,usp0009xpr,2014-11-07T01:10:47.905Z,"72 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-08-03T07:53:48.550Z,33.992,139.31,10,4.6,mb,29,,,1.15,us,usp0009xps,2014-11-07T01:10:47.911Z,"83 km SSE of Shimoda, Japan",earthquake,,,,11,reviewed,us,us
+2000-08-03T07:55:20.370Z,34.151,139.223,10,5.3,mwc,55,,,1.08,us,usp0009xpt,2022-04-29T18:47:33.679Z,"63 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-03T07:59:16.790Z,34.007,139.467,10,4.6,mb,29,,,1.22,us,usp0009xpv,2014-11-07T01:10:47.936Z,"88 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-08-03T08:00:18.540Z,34.245,139.264,10,4.9,ms,67,,,1.07,us,usp0009xpw,2014-11-07T01:10:47.942Z,"56 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-03T08:23:57.620Z,34.111,139.231,10,4.8,mb,64,,,0.99,us,usp0009xq3,2014-11-07T01:10:48.023Z,"68 km SSE of Shimoda, Japan",earthquake,,,,32,reviewed,us,us
+2000-08-03T08:33:11.710Z,34.07,139.251,10,4.8,mb,57,,,1.13,us,usp0009xq6,2014-11-07T01:10:48.046Z,"72 km SSE of Shimoda, Japan",earthquake,,,,22,reviewed,us,us
+2000-08-03T09:04:44.680Z,34.071,139.11,10,4.9,ms,60,,,1.13,us,usp0009xqr,2014-11-07T01:10:48.135Z,"68 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-03T09:19:03.130Z,34.083,139.257,10,4.6,mb,15,,,1.33,us,usp0009xqu,2014-11-07T01:10:48.159Z,"71 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-03T09:47:36.670Z,34.118,139.154,10,4.5,mb,35,,,1.1,us,usp0009xr5,2014-11-07T01:10:48.206Z,"64 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-03T09:58:55.780Z,34.135,139.325,10,4.6,mb,46,,,0.91,us,usp0009xr8,2014-11-07T01:10:48.218Z,"69 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-08-03T10:07:46.710Z,34.189,139.141,10,4.6,mb,23,,,0.97,us,usp0009xrd,2014-11-07T01:10:48.238Z,"57 km SSE of Shimoda, Japan",earthquake,,,,4,reviewed,us,us
+2000-08-03T10:09:06.310Z,34.03,139.27,10,4.5,mb,20,,,1.36,us,usp0009xre,2014-11-07T01:10:48.243Z,"77 km SSE of Shimoda, Japan",earthquake,,,,6,reviewed,us,us
+2000-08-03T10:11:42.160Z,34.121,139.205,10,4.7,mb,41,,,1.02,us,usp0009xrg,2014-11-07T01:10:48.250Z,"66 km SSE of Shimoda, Japan",earthquake,,,,16,reviewed,us,us
+2000-08-03T10:23:53.080Z,34.274,139.22,10,4.6,mb,40,,,0.63,us,usp0009xrj,2014-11-07T01:10:48.260Z,"51 km SSE of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-08-03T10:42:20.210Z,34.019,139.287,10,4.6,mb,29,,,1,us,usp0009xru,2014-11-07T01:10:48.297Z,"79 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-08-03T10:53:10.000Z,33.98,139.207,10,4.7,mb,54,,,0.99,us,usp0009xs1,2014-11-07T01:10:48.323Z,"80 km SSE of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-08-03T11:27:04.140Z,34.1,139.152,10,5.1,mwc,142,,,1.02,us,usp0009xsk,2022-04-29T18:47:36.062Z,"66 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-03T11:32:20.320Z,34.156,139.203,10,4.5,mb,28,,,1.31,us,usp0009xsm,2014-11-07T01:10:48.430Z,"62 km SSE of Shimoda, Japan",earthquake,,,,11,reviewed,us,us
+2000-08-03T11:39:42.730Z,34.21,139.165,10,4.8,mb,53,,,0.8,us,usp0009xsp,2014-11-07T01:10:48.438Z,"55 km SSE of Shimoda, Japan",earthquake,,,,18,reviewed,us,us
+2000-08-03T11:46:04.770Z,34.149,139.365,10,4.9,mb,23,,,1.16,us,usp0009xsq,2014-11-07T01:10:48.445Z,"70 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-03T12:06:34.990Z,34.242,139.205,10,4.6,mb,33,,,1.28,us,usp0009xsu,2014-11-07T01:10:48.458Z,"53 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-03T12:07:24.490Z,34.364,139.212,10,4.6,mb,20,,,1.49,us,usp0009xsv,2014-11-07T01:10:48.462Z,"42 km SE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-08-03T12:09:55.500Z,34.045,139.281,10,4.6,mb,29,,,1.04,us,usp0009xsw,2014-11-07T01:10:48.465Z,"76 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-08-03T12:13:10.760Z,34.171,139.155,10,5.4,mwc,119,,,0.91,us,usp0009xsx,2022-04-29T18:47:37.345Z,"59 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-03T12:17:19.730Z,34.23,139.2,10,4.8,mb,72,,,0.79,us,usp0009xsy,2014-11-07T01:10:48.490Z,"54 km SSE of Shimoda, Japan",earthquake,,,,18,reviewed,us,us
+2000-08-03T12:18:24.120Z,33.938,139.42,10,4.8,mb,59,,,0.92,us,usp0009xsz,2014-11-07T01:10:48.498Z,"92 km SSE of Shimoda, Japan",earthquake,,,,24,reviewed,us,us
+2000-08-03T12:21:57.350Z,34.069,139.124,10,4.8,mb,58,,,1.09,us,usp0009xt0,2014-11-07T01:10:48.505Z,"69 km SSE of Shimoda, Japan",earthquake,,,,24,reviewed,us,us
+2000-08-03T13:18:09.000Z,34.172,139.14,10,5.3,mwc,273,,,0.78,us,usp0009xt9,2022-04-29T18:47:38.534Z,"58 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-03T14:26:26.340Z,34.167,139.276,10,4.5,mb,36,,,1.27,us,usp0009xtg,2014-11-07T01:10:48.578Z,"64 km SSE of Shimoda, Japan",earthquake,,,,10,reviewed,us,us
+2000-08-03T15:41:24.150Z,34.139,139.256,10,4.5,mb,11,,,0.93,us,usp0009xtr,2014-11-07T01:10:48.597Z,"66 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-03T15:42:01.150Z,34.306,139.12,10,4.5,mb,29,,,0.85,us,usp0009xts,2014-11-07T01:10:48.599Z,"44 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-08-03T17:19:21.030Z,34.175,139.191,10,4.6,mb,25,,,0.85,us,usp0009xu2,2014-11-07T01:10:48.643Z,"60 km SSE of Shimoda, Japan",earthquake,,,,8,reviewed,us,us
+2000-08-03T19:23:38.860Z,34.123,139.095,10,5.1,mb,72,,,1.05,us,usp0009xuk,2014-11-07T01:10:48.698Z,"62 km SSE of Shimoda, Japan",earthquake,,,,29,reviewed,us,us
+2000-08-04T07:17:56.590Z,34.308,139.143,10,4.8,mb,71,,,0.79,us,usp0009xvx,2014-11-07T01:10:48.875Z,"44 km SSE of Shimoda, Japan",earthquake,,,,30,reviewed,us,us
+2000-08-04T22:06:37.320Z,41.935,142.809,33,4.6,mb,18,,,0.98,us,usp0009xwy,2014-11-07T01:10:49.045Z,"57 km SE of Shizunai-furukawach?, Japan",earthquake,,,,3,reviewed,us,us
+2000-08-04T23:55:15.570Z,34.119,139.205,10,4.8,mb,29,,,1.07,us,usp0009xxf,2014-11-07T01:10:49.085Z,"66 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-08-05T01:08:07.930Z,28.297,142.461,33,4.8,mb,14,,,0.89,us,usp0009xxk,2014-11-07T01:10:49.097Z,"Bonin Islands, Japan region",earthquake,,,,1,reviewed,us,us
+2000-08-05T04:15:35.820Z,34.142,139.101,10,4.9,mb,64,,,1.05,us,usp0009xxz,2014-11-07T01:10:49.147Z,"61 km SSE of Shimoda, Japan",earthquake,,,,20,reviewed,us,us
+2000-08-05T06:03:32.950Z,34.325,138.927,10,4.5,mb,19,,,1.38,us,usp0009xy2,2014-11-07T01:10:49.166Z,"near the south coast of Honshu, Japan",earthquake,,,,5,reviewed,us,us
+2000-08-05T18:26:13.640Z,34.255,139.185,10,4.6,mb,41,,,1.25,us,usp0009xz0,2014-11-07T01:10:49.305Z,"near the south coast of Honshu, Japan",earthquake,,,,19,reviewed,us,us
+2000-08-06T07:27:12.900Z,28.856,139.556,394.8,7.4,mwc,588,,,0.9,us,usp0009xzy,2022-04-29T18:47:44.258Z,"Bonin Islands, Japan region",earthquake,,,,,reviewed,us,hrv
+2000-08-06T11:55:55.300Z,34.177,139.234,10,4.6,mb,33,,,1.27,us,usp0009y0b,2014-11-07T01:10:49.797Z,"61 km SSE of Shimoda, Japan",earthquake,,,,12,reviewed,us,us
+2000-08-07T05:23:40.090Z,29.025,131.207,33,5.7,mwc,238,,,1.15,us,usp0009y1v,2022-04-29T18:47:46.532Z,"149 km SSE of Koshima, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-08T05:58:08.240Z,34.031,139.245,10,4.5,mb,39,,,0.89,us,usp0009y3q,2014-11-07T01:10:50.285Z,"near the south coast of Honshu, Japan",earthquake,,,,10,reviewed,us,us
+2000-08-08T19:29:25.260Z,34.207,139.144,10,4.7,mb,83,,,0.91,us,usp0009y4m,2014-11-07T01:10:50.415Z,"55 km SSE of Shimoda, Japan",earthquake,,,,37,reviewed,us,us
+2000-08-10T04:39:55.790Z,33.868,138.852,10,4.5,mb,23,,,1.06,us,usp0009y7p,2014-11-07T01:10:50.828Z,"90 km S of Shimoda, Japan",earthquake,,,,5,reviewed,us,us
+2000-08-13T05:20:00.860Z,40.36,144.877,33,4.5,mb,45,,,1.01,us,usp0009yc1,2014-11-07T01:10:51.309Z,"262 km ENE of Miyako, Japan",earthquake,,,,22,reviewed,us,us
+2000-08-14T07:33:47.500Z,35.562,140.051,91,4.5,mb,20,,,1.04,us,usp0009ye1,2014-11-07T01:10:51.549Z,"5 km NNW of Ichihara, Japan",earthquake,,14.4,,3,reviewed,us,us
+2000-08-14T18:39:31.240Z,34.073,139.22,10,4.9,mb,123,,,0.84,us,usp0009yes,2014-11-07T01:10:51.624Z,"71 km SSE of Shimoda, Japan",earthquake,,,,39,reviewed,us,us
+2000-08-15T13:47:03.030Z,34.132,139.217,10,4.9,mb,70,,,1.04,us,usp0009yga,2014-11-07T01:10:51.845Z,"65 km SSE of Shimoda, Japan",earthquake,,,,31,reviewed,us,us
+2000-08-15T14:02:33.300Z,34.166,139.047,10,4.6,mb,51,,,1.46,us,usp0009ygb,2014-11-07T01:10:51.852Z,"57 km S of Shimoda, Japan",earthquake,,,,20,reviewed,us,us
+2000-08-15T14:08:08.400Z,33.919,139.463,10,4.5,mb,13,,,1.41,us,usp0009ygc,2014-11-07T01:10:51.857Z,"96 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-15T15:02:58.970Z,34.175,139.124,10,5.2,mwc,123,,,0.87,us,usp0009ygh,2022-04-29T19:45:54.336Z,"58 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-15T15:05:30.940Z,34.2,138.991,10,4.5,mb,8,,,1.14,us,usp0009ygj,2014-11-07T01:10:51.883Z,"53 km S of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-15T15:55:26.530Z,34.106,139.193,10,5.3,mwc,137,,,0.89,us,usp0009ygp,2022-04-29T18:49:09.067Z,"67 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-15T16:28:04.220Z,33.995,139.452,10,4.5,mb,10,,,1.51,us,usp0009ygr,2014-11-07T01:10:51.907Z,"88 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-15T16:43:39.860Z,34.032,139.356,10,4.7,mb,25,,,1.11,us,usp0009ygu,2014-11-07T01:10:51.910Z,"80 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-15T17:07:20.900Z,34.169,139.145,10,4.7,mb,72,,,0.93,us,usp0009ygx,2014-11-07T01:10:51.916Z,"59 km SSE of Shimoda, Japan",earthquake,,,,26,reviewed,us,us
+2000-08-15T17:22:28.240Z,34.199,139.167,10,5.3,mwc,190,,,0.73,us,usp0009ygy,2022-04-29T18:49:14.343Z,"56 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-15T17:26:10.790Z,34.103,139.326,10,4.9,mb,69,,,1.03,us,usp0009ygz,2014-11-07T01:10:51.949Z,"72 km SSE of Shimoda, Japan",earthquake,,,,25,reviewed,us,us
+2000-08-15T17:37:12.090Z,34.113,139.195,10,5.2,mb,167,,,0.85,us,usp0009yh1,2014-11-07T01:10:51.957Z,"66 km SSE of Shimoda, Japan",earthquake,,,,71,reviewed,us,us
+2000-08-15T18:00:03.980Z,34.069,139.379,10,4.9,mb,24,,,1.22,us,usp0009yh4,2014-11-07T01:10:51.973Z,"78 km SSE of Shimoda, Japan",earthquake,,,,6,reviewed,us,us
+2000-08-15T18:02:09.840Z,33.873,139.385,10,4.6,mb,8,,,1.34,us,usp0009yh6,2014-11-07T01:10:51.980Z,"97 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-15T18:04:01.650Z,34.168,139.403,10,4.5,mb,12,,,1.32,us,usp0009yh8,2014-11-07T01:10:51.984Z,"70 km SE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-15T18:17:54.390Z,33.975,139.244,10,4.7,mb,15,,,1.3,us,usp0009yhb,2014-11-07T01:10:51.989Z,"82 km SSE of Shimoda, Japan",earthquake,,,,1,reviewed,us,us
+2000-08-15T18:19:00.640Z,34.157,139.209,10,5.3,mwc,93,,,0.72,us,usp0009yhc,2022-04-29T18:49:15.731Z,"62 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-15T18:32:14.740Z,33.96,139.46,10,4.7,mb,67,,,1.27,us,usp0009yhe,2014-11-07T01:10:51.999Z,"92 km SSE of Shimoda, Japan",earthquake,,,,25,reviewed,us,us
+2000-08-15T18:36:43.560Z,34.055,139.203,10,4.5,mb,14,,,1.31,us,usp0009yhf,2014-11-07T01:10:52.005Z,"72 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-15T18:48:13.720Z,33.952,139.315,10,4.5,mb,17,,,1.48,us,usp0009yhj,2014-11-07T01:10:52.010Z,"87 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-08-15T19:03:33.040Z,34.126,139.194,10,4.6,mb,46,,,1.43,us,usp0009yhn,2014-11-07T01:10:52.015Z,"65 km SSE of Shimoda, Japan",earthquake,,,,17,reviewed,us,us
+2000-08-15T19:08:40.790Z,34.09,139.504,10,4.7,mb,62,,,1.23,us,usp0009yhp,2014-11-07T01:10:52.020Z,"82 km SE of Shimoda, Japan",earthquake,,,,23,reviewed,us,us
+2000-08-15T19:23:56.190Z,34.104,139.364,10,4.6,mb,32,,,0.93,us,usp0009yhr,2014-11-07T01:10:52.027Z,"74 km SSE of Shimoda, Japan",earthquake,,,,9,reviewed,us,us
+2000-08-15T19:24:44.290Z,34.422,139.07,10,4.7,mb,25,,,0.86,us,usp0009yhs,2014-11-07T01:10:52.030Z,"30 km SSE of Shimoda, Japan",earthquake,,,,8,reviewed,us,us
+2000-08-15T19:39:49.850Z,34.159,139.247,10,4.7,mb,37,,,0.83,us,usp0009yhv,2014-11-07T01:10:52.039Z,"63 km SSE of Shimoda, Japan",earthquake,,,,13,reviewed,us,us
+2000-08-15T20:25:42.900Z,34.277,139.169,10,4.9,mb,27,,,0.86,us,usp0009yj6,2014-11-07T01:10:52.089Z,"48 km SSE of Shimoda, Japan",earthquake,,,,7,reviewed,us,us
+2000-08-15T20:27:46.980Z,34.108,139.409,10,4.6,mb,21,,,1.51,us,usp0009yj7,2014-11-07T01:10:52.092Z,"76 km SE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-08-15T21:46:45.800Z,34.056,139.329,10,4.6,mb,30,,,1.46,us,usp0009yjm,2014-11-07T01:10:52.123Z,"77 km SSE of Shimoda, Japan",earthquake,,,,5,reviewed,us,us
+2000-08-15T22:00:36.530Z,34.264,139.07,10,4.9,mb,57,,,1.15,us,usp0009yjq,2014-11-07T01:10:52.131Z,"47 km SSE of Shimoda, Japan",earthquake,,,,18,reviewed,us,us
+2000-08-16T02:00:43.070Z,34.117,139.228,10,5.1,mwc,92,,,0.95,us,usp0009yk2,2022-04-29T18:49:37.044Z,"67 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-17T17:27:46.140Z,30.865,129.792,48.6,4.7,mb,23,,,0.91,us,usp0009ynw,2014-11-07T01:10:52.832Z,"67 km SW of Makurazaki, Japan",earthquake,,9,,5,reviewed,us,us
+2000-08-18T01:52:20.870Z,34.127,139.18,10,5.7,mwc,287,,,0.83,us,usp0009ypm,2022-04-29T18:49:48.142Z,"64 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-18T02:08:40.810Z,34.232,139.129,10,5,mb,105,,,0.84,us,usp0009ypq,2014-11-07T01:10:53.111Z,"52 km SSE of Shimoda, Japan",earthquake,,,,36,reviewed,us,us
+2000-08-18T03:49:11.520Z,34.231,139.155,10,4.9,mb,117,,,0.84,us,usp0009yq1,2014-11-07T01:10:53.144Z,"53 km SSE of Shimoda, Japan",earthquake,,,,41,reviewed,us,us
+2000-08-18T13:47:05.960Z,36.381,141.313,47.8,4.5,mb,45,,,1.2,us,usp0009yqp,2014-11-07T01:10:53.198Z,"64 km ESE of Hitachi, Japan",earthquake,,13.2,,13,reviewed,us,us
+2000-08-18T13:53:59.320Z,36.386,141.564,33,4.6,mb,15,,,1.04,us,usp0009yqq,2014-11-07T01:10:53.202Z,"84 km ESE of Takahagi, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-19T12:41:28.030Z,36.244,141.42,33,5.5,mwc,252,,,0.87,us,usp0009ysh,2025-12-19T22:44:59.243Z,"75 km E of ?arai, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-19T20:02:36.300Z,31.185,131.312,35.5,4.5,mb,24,,,1.16,us,usp0009yt2,2014-11-07T01:10:53.528Z,"34 km S of Kushima, Japan",earthquake,,,,7,reviewed,us,us
+2000-08-19T20:46:22.350Z,34.199,139.096,10,4.8,mb,134,,,0.81,us,usp0009yt5,2014-11-07T01:10:53.537Z,"54 km SSE of Shimoda, Japan",earthquake,,,,50,reviewed,us,us
+2000-08-20T07:24:08.410Z,34.206,139.275,10,4.8,ms,114,,,0.9,us,usp0009ytu,2014-11-07T01:10:53.597Z,"60 km SSE of Shimoda, Japan",earthquake,,,,2,reviewed,us,us
+2000-08-20T15:47:55.150Z,34.038,139.269,10,4.6,mb,56,,,0.82,us,usp0009yue,2014-11-07T01:10:53.686Z,"76 km SSE of Shimoda, Japan",earthquake,,,,11,reviewed,us,us
+2000-08-22T21:21:22.030Z,34.272,139.135,10,4.6,mb,16,,,1.39,us,usp0009yzr,2014-11-07T01:10:54.289Z,"48 km SSE of Shimoda, Japan",earthquake,,,,3,reviewed,us,us
+2000-08-23T14:57:11.630Z,34.068,139.445,10,5.4,mwc,105,,,1.29,us,usp0009z1r,2022-04-29T18:51:01.346Z,"81 km SE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-24T02:25:02.630Z,31.148,139.806,10,5,mwc,123,,,0.91,us,usp0009z2w,2016-11-09T23:19:11.601Z,"Izu Islands, Japan region",earthquake,,,,,reviewed,us,hrv
+2000-08-25T13:17:41.770Z,42.996,144.749,33,4.8,mb,65,,,0.78,us,usp0009z53,2014-11-07T01:10:54.848Z,"30 km E of Kushiro, Japan",earthquake,,,,22,reviewed,us,us
+2000-08-26T03:34:43.460Z,42.197,145.102,33,4.7,mb,19,,,1.27,us,usp0009z5w,2014-11-07T01:10:54.939Z,"105 km SE of Kushiro, Japan",earthquake,,,,4,reviewed,us,us
+2000-08-26T15:30:49.560Z,42.234,142.494,33,5,mwc,244,,,0.76,us,usp0009z6w,2022-04-29T18:51:15.031Z,"15 km SE of Shizunai-furukawach?, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-26T23:42:14.690Z,35.707,139.867,89.7,4.7,mb,57,,,0.99,us,usp0009z7b,2014-11-07T01:10:55.139Z,"4 km NNW of Urayasu, Japan",earthquake,,7.9,,21,reviewed,us,us
+2000-08-26T23:44:43.020Z,33.719,139.345,10,4.5,mb,22,,,1.06,us,usp0009z7c,2014-11-07T01:10:55.145Z,"112 km SSE of Shimoda, Japan",earthquake,,,,6,reviewed,us,us
+2000-08-27T00:45:05.950Z,33.899,139.408,10,5,mb,61,,,0.96,us,usp0009z7f,2014-11-07T01:10:55.151Z,"96 km SSE of Shimoda, Japan",earthquake,,,,31,reviewed,us,us
+2000-08-27T02:32:49.690Z,31.228,142.631,33,4.5,mb,21,,,1.14,us,usp0009z7q,2014-11-07T01:10:55.194Z,"Izu Islands, Japan region",earthquake,,,,4,reviewed,us,us
+2000-08-28T08:19:56.360Z,37.814,142.104,33,5,mb,91,,,0.87,us,usp0009z9m,2014-11-07T01:10:55.446Z,"97 km SE of Ishinomaki, Japan",earthquake,,,,42,reviewed,us,us
+2000-08-29T02:00:35.370Z,34.296,139.113,10,5.2,mwc,174,,,0.76,us,usp0009zau,2022-04-29T18:51:25.249Z,"44 km SSE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-08-29T03:08:26.670Z,34.298,139.166,10,4.8,mb,66,,,1,us,usp0009zb2,2014-11-07T01:10:56.234Z,"46 km SSE of Shimoda, Japan",earthquake,,,,23,reviewed,us,us
+2000-08-29T07:19:43.980Z,43.083,145.463,47.3,4.5,mb,46,,,0.89,us,usp0009zb8,2014-11-07T01:10:56.262Z,"28 km SSW of Nemuro, Japan",earthquake,,,,11,reviewed,us,us
+2000-08-30T01:37:49.570Z,34.051,139.348,10,4.8,mb,70,,,1.02,us,usp0009zcn,2014-11-07T01:10:56.405Z,"78 km SSE of Shimoda, Japan",earthquake,,,,31,reviewed,us,us
+2000-08-31T21:13:18.750Z,35.673,140.296,82.9,4.5,mb,49,,,1,us,usp0009zg3,2014-11-07T01:10:56.828Z,"3 km NW of Yachimata, Japan",earthquake,,9.9,,14,reviewed,us,us
+2000-09-03T12:35:00.320Z,42.086,142.383,78,4.5,mb,49,,,0.82,us,usp0009zmx,2014-11-07T01:11:02.342Z,"27 km S of Shizunai-furukawach?, Japan",earthquake,,6.5,,19,reviewed,us,us
+2000-09-05T16:58:48.780Z,43.029,144.044,148.1,4.5,mb,20,,,0.75,us,usp0009zrv,2014-11-07T01:11:02.961Z,"27 km WNW of Kushiro, Japan",earthquake,,9.7,,4,reviewed,us,us
+2000-09-08T14:18:20.900Z,41.763,130.872,582.3,4.9,mb,161,,,0.9,us,usp0009zwv,2014-11-07T01:11:03.503Z,"73 km SE of Rajin, North Korea",earthquake,,3.8,,62,reviewed,us,us
+2000-09-09T11:48:44.930Z,35.988,139.448,83.1,4.6,mb,54,,,1.2,us,usp0009zyg,2014-11-07T01:11:03.711Z,"6 km ENE of Sakado, Japan",earthquake,,,,16,reviewed,us,us
+2000-09-10T22:49:45.310Z,34.43,139.181,10,5.3,mwc,170,,,0.86,us,usp000a01j,2022-04-29T18:52:52.693Z,"34 km SE of Shimoda, Japan",earthquake,,,,,reviewed,us,hrv
+2000-09-13T07:54:16.750Z,39.826,143.497,33,4.6,mb,7,,,0.89,us,usp000a06f,2014-11-07T01:11:04.800Z,"134 km E of Miyako, Japan",earthquake,,,,1,reviewed,us,us
+2000-09-13T17:23:37.960Z,40.289,143.202,33,5.2,mwc,99,,,0.89,us,usp000a078,2025-12-19T22:45:20.072Z,"129 km ENE of Miyako, Japan",earthquake,,,,,reviewed,us,hrv
+2000-09-15T14:42:54.410Z,36.607,140.964,49.7,4.8,mb,20,,,1.17,us,usp000a0a1,2014-11-07T01:11:05.303Z,"25 km ESE of Takahagi, Japan",earthquake,,,,3,reviewed,us,us
+2000-09-15T18:44:48.220Z,29.609,141.886,48.8,4.5,mb,42,,,0.76,us,usp000a0a8,2014-11-07T01:11:05.319Z,"Izu Islands, Japan region",earthquake,,12.7,,8,reviewed,us,us
+2000-09-17T05:18:04.270Z,38.006,140.67,105.1,4.5,mb,21,,,1.3,us,usp000a0c2,2014-11-07T01:11:05.598Z,"4 km E of Shiroishi, Japan",earthquake,,12.4,,5,reviewed,us,us
+2000-09-19T19:26:33.780Z,42.754,145.975,33,4.9,mb,11,,,1.17,us,usp000a0hq,2014-11-07T01:11:06.212Z,"71 km SSE of Nemuro, Japan",earthquake,,,,4,reviewed,us,us
+2000-09-21T22:43:24.770Z,35.811,140.837,45.2,4.8,mb,44,,,0.98,us,usp000a0my,2014-11-07T01:11:06.681Z,"8 km N of Hasaki, Japan",earthquake,,,,16,reviewed,us,us
+2000-09-26T21:14:00.940Z,43.255,145.961,55.1,4.7,mb,98,,,1.06,us,usp000a0vf,2014-11-07T01:11:07.770Z,"32 km ESE of Nemuro, Japan",earthquake,,6.5,,45,reviewed,us,us
+2000-09-28T23:56:09.600Z,35.38,139.625,99.1,4.8,mb,53,,,0.97,us,usp000a0z5,2014-11-07T01:11:08.124Z,"6 km SSW of Yokohama, Japan",earthquake,,10.7,,6,reviewed,us,us
+2000-10-02T05:21:40.460Z,29.422,129.523,33,5,mb,95,,,1.17,us,usp000a14u,2014-11-07T01:11:11.974Z,"117 km N of Naze, Japan",earthquake,,,,45,reviewed,us,us
+2000-10-02T07:29:42.740Z,29.443,129.388,33,5.8,mwc,194,,,1.2,us,usp000a14x,2022-04-29T19:18:24.660Z,"119 km N of Naze, Japan",earthquake,,,,,reviewed,us,hrv
+2000-10-02T07:44:10.540Z,29.52,129.396,33,5.7,mwc,216,,,1.13,us,usp000a14y,2022-04-29T18:53:52.701Z,"128 km N of Naze, Japan",earthquake,,,,,reviewed,us,hrv
+2000-10-02T08:04:07.460Z,29.369,129.595,33,5,mb,59,,,1.52,us,usp000a150,2014-11-07T01:11:12.185Z,"111 km N of Naze, Japan",earthquake,,,,25,reviewed,us,us
+2000-10-03T02:59:01.610Z,33.945,139.385,10,4.7,mb,53,,,0.86,us,usp000a163,2014-11-07T01:11:12.482Z,"90 km SSE of Shimoda, Japan",earthquake,,,,20,reviewed,us,us
+2000-10-03T04:13:30.490Z,40.282,143.124,33,6.3,mwc,307,,,0.89,us,usp000a166,2022-04-29T19:18:30.690Z,"123 km NE of Miyako, Japan",earthquake,,,,,reviewed,us,hrv
+2000-10-06T04:30:19.150Z,35.456,133.134,10,6.7,mwc,390,,,1.02,us,usp000a1b0,2022-04-29T19:18:34.136Z,"8 km ESE of Matsue, Japan",earthquake,,,,,reviewed,us,hrv
+2000-10-06T19:59:30.230Z,35.349,133.33,10,4.7,mb,48,,,1.25,us,usp000a1c7,2014-11-07T01:11:14.694Z,"9 km S of Yonago, Japan",earthquake,,,,17,reviewed,us,us
+2000-10-06T23:19:40.120Z,42.438,142.769,46.9,4.8,mb,102,,,0.98,us,usp000a1cf,2014-11-07T01:11:14.744Z,"35 km ENE of Shizunai-furukawach?, Japan",earthquake,,,,44,reviewed,us,us
+2000-10-08T04:17:55.120Z,35.145,133.039,10,5.4,mwc,76,,,1.08,us,usp000a1em,2022-04-29T17:49:53.845Z,"32 km N of Sh?bara, Japan",earthquake,,,,,reviewed,us,hrv
+2000-10-08T11:51:17.820Z,35.363,133.311,10,5.2,mwc,70,,,1.37,us,usp000a1fa,2022-04-29T18:54:31.596Z,"8 km SSW of Yonago, Japan",earthquake,,,,,reviewed,us,hrv
+2000-10-10T12:24:12.170Z,28.315,139.604,439.4,4.5,mb,52,,,0.8,us,usp000a1jk,2014-11-07T01:11:15.823Z,"Bonin Islands, Japan region",earthquake,,8.3,,16,reviewed,us,us
+2000-10-11T08:41:39.520Z,29.902,138.518,444.4,4.8,mb,112,,,0.8,us,usp000a1m1,2014-11-07T01:11:15.952Z,"Izu Islands, Japan region",earthquake,,,,31,reviewed,us,us
+2000-10-12T01:31:27.090Z,35.455,140.95,70.2,4.7,mb,20,,,0.8,us,usp000a1n4,2014-11-07T01:11:16.070Z,"32 km SSE of Hasaki, Japan",earthquake,,15.4,,3,reviewed,us,us
+2000-10-14T11:19:39.310Z,34.006,140.434,91.5,4.9,mb,104,,,0.72,us,usp000a1rp,2014-11-07T01:11:16.447Z,"120 km SSE of Tateyama, Japan",earthquake,,,,51,reviewed,us,us
+2000-10-18T03:04:07.550Z,30.878,131.51,33,5,mb,77,,,1.06,us,usp000a20c,2014-11-07T01:11:17.156Z,"51 km ENE of Nishinoomote, Japan",earthquake,,,,32,reviewed,us,us
+2000-10-19T02:40:10.860Z,34.063,137.228,333.4,4.6,mb,73,,,0.85,us,usp000a22d,2014-11-07T01:11:17.372Z,"58 km SE of Toba, Japan",earthquake,,,,22,reviewed,us,us
+2000-10-20T10:23:30.470Z,28.586,139.4,425.9,4.7,mb,115,,,0.7,us,usp000a24a,2014-11-07T01:11:17.515Z,"Bonin Islands, Japan region",earthquake,,,,38,reviewed,us,us
+2000-10-21T12:44:19.490Z,41.065,142.006,77.7,4.5,mb,23,,,1.03,us,usp000a261,2014-11-07T01:11:18.033Z,"66 km NE of Misawa, Japan",earthquake,,9.3,,5,reviewed,us,us
+2000-10-23T11:25:05.820Z,30.63,137.802,486.1,4.6,mb,15,,,0.69,us,usp000a291,2014-11-07T01:11:18.420Z,"Izu Islands, Japan region",earthquake,,10.1,,1,reviewed,us,us
+2000-10-23T23:11:05.250Z,35.724,140.13,85.6,4.7,mb,20,,,0.71,us,usp000a29y,2014-11-07T01:11:18.507Z,"8 km NNW of Yotsukaid?, Japan",earthquake,,12.5,,3,reviewed,us,us
+2000-10-25T21:59:53.860Z,28.306,143.014,33,4.5,mb,10,,,0.86,us,usp000a2dp,2014-11-07T01:11:18.931Z,"Bonin Islands, Japan region",earthquake,,,,2,reviewed,us,us
+2000-10-27T07:54:17.790Z,29.016,142.372,38.3,4.8,mb,61,,,0.88,us,usp000a2g8,2014-11-07T01:11:19.223Z,"Izu Islands, Japan region",earthquake,,,,19,reviewed,us,us
+2000-10-27T10:27:16.970Z,31.497,140.101,61.2,4.5,mb,10,,,1.15,us,usp000a2gg,2014-11-07T01:11:19.246Z,"Izu Islands, Japan region",earthquake,,24,,1,reviewed,us,us
+2000-10-27T12:07:47.620Z,29.159,139.522,404.7,4.6,mb,53,,,0.89,us,usp000a2gj,2014-11-07T01:11:19.249Z,"Izu Islands, Japan region",earthquake,,7.6,,17,reviewed,us,us
+2000-10-29T22:55:37.400Z,31.102,130.284,179.1,4.7,mb,85,,,0.92,us,usp000a2p4,2014-11-07T01:11:19.862Z,"18 km S of Makurazaki, Japan",earthquake,,,,33,reviewed,us,us
+2000-10-30T07:35:57.710Z,41.745,143.703,33,4.6,mb,30,,,1.04,us,usp000a2q4,2014-11-07T01:11:19.958Z,"128 km ESE of Shizunai-furukawach?, Japan",earthquake,,,,6,reviewed,us,us
+2000-10-30T16:42:51.710Z,34.3,136.214,34.9,5.5,mwc,120,,,0.94,us,usp000a2qv,2022-04-29T18:56:05.435Z,"western Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2000-10-30T19:20:36.130Z,34.343,139.187,10,5,mb,61,,,1.05,us,usp000a2r0,2014-11-07T01:11:20.123Z,"43 km SSE of Shimoda, Japan",earthquake,,,,19,reviewed,us,us
+2000-11-05T01:53:26.900Z,36.275,142.256,33,5.2,mb,213,,,0.84,us,usp000a2yx,2022-04-29T18:56:43.289Z,"141 km ENE of Hasaki, Japan",earthquake,,,,92,reviewed,us,us
+2000-11-05T02:24:17.460Z,36.212,142.409,33,4.5,mb,34,,,0.91,us,usp000a2yz,2014-11-07T01:11:25.568Z,"151 km ENE of Hasaki, Japan",earthquake,,,,9,reviewed,us,us
+2000-11-09T09:44:52.480Z,44.047,138.925,15,5.3,mwc,89,,,0.88,us,usp000a39r,2025-12-19T22:45:51.755Z,"174 km NW of Iwanai, Japan",earthquake,,6.1,,,reviewed,us,hrv
+2000-11-10T04:45:57.940Z,42.04,133.429,458.2,4.5,mb,14,,,0.87,us,usp000a3b3,2014-11-07T01:11:27.196Z,"81 km SSE of Vrangel’, Russia",earthquake,,15,,1,reviewed,us,us
+2000-11-11T17:29:34.550Z,30.86,140.714,56.3,4.5,mb,28,,,1.07,us,usp000a3e6,2014-11-07T01:11:27.859Z,"Izu Islands, Japan region",earthquake,,,,11,reviewed,us,us
+2000-11-13T15:57:21.610Z,42.489,144.765,33,6,mwc,450,,,0.8,us,usp000a3j6,2022-04-29T18:57:27.003Z,"62 km SSE of Kushiro, Japan",earthquake,,,,,reviewed,us,hrv
+2000-11-14T03:52:59.150Z,42.521,144.785,33,5.6,mwc,350,,,0.74,us,usp000a3k8,2022-04-29T18:57:33.264Z,"60 km SSE of Kushiro, Japan",earthquake,,,,,reviewed,us,hrv
+2000-11-15T05:08:05.670Z,41.826,143.488,33,4.6,mb,42,,,0.76,us,usp000a3n3,2014-11-07T01:11:28.653Z,"108 km ESE of Shizunai-furukawach?, Japan",earthquake,,,,15,reviewed,us,us
+2000-11-15T14:19:28.160Z,42.763,144.507,45.8,4.9,mb,56,,,0.93,us,usp000a3p1,2014-11-07T01:11:28.765Z,"25 km SSE of Kushiro, Japan",earthquake,,,,18,reviewed,us,us
+2000-11-16T09:31:43.170Z,37.556,141.402,49.1,5.3,mb,117,,,0.88,us,usp000a3tj,2014-11-07T01:11:29.351Z,"near the east coast of Honshu, Japan",earthquake,,,,35,reviewed,us,us
+2000-11-20T21:57:08.770Z,29.07,130.235,33,4.7,ms,40,,,1.42,us,usp000a4ht,2014-11-07T01:11:32.174Z,"107 km NE of Naze, Japan",earthquake,,,,2,reviewed,us,us
+2000-11-21T14:16:51.090Z,43.961,139.742,173.1,4.7,mb,39,,,0.87,us,usp000a4k8,2014-11-07T01:11:32.286Z,"118 km NW of Yoichi, Japan",earthquake,,11.3,,14,reviewed,us,us
+2000-11-23T21:12:03.120Z,44.669,138.81,238.6,4.6,mb,109,,,0.94,us,usp000a4sg,2014-11-07T01:11:33.324Z,"179 km ESE of Terney, Russia",earthquake,,8.2,,48,reviewed,us,us
+2000-11-25T19:41:58.860Z,40.648,142.302,80.2,4.6,mb,30,,,0.76,us,usp000a4y4,2014-11-07T01:11:34.006Z,"69 km ENE of Hachinohe, Japan",earthquake,,6.2,,6,reviewed,us,us
+2000-11-27T12:53:45.630Z,35.588,140.696,67.5,4.6,mb,18,,,0.72,us,usp000a52e,2014-11-07T01:11:34.565Z,"14 km SSE of Asahi, Japan",earthquake,,12.7,,4,reviewed,us,us
+2000-11-30T18:46:41.540Z,33.619,132.111,69.7,4.5,mb,23,,,0.79,us,usp000a59k,2014-11-07T01:11:35.791Z,"38 km S of Yanai, Japan",earthquake,,7,,4,reviewed,us,us
+2000-12-04T16:47:37.550Z,35.748,140.948,59.8,5.7,mwc,208,,,0.97,us,usp000a5gk,2022-04-29T19:19:17.823Z,"10 km E of Hasaki, Japan",earthquake,,8.1,,,reviewed,us,hrv
+2000-12-06T06:12:35.080Z,42.68,143.284,96.3,4.5,mb,48,,,1.03,us,usp000a5kb,2014-11-07T01:11:40.998Z,"27 km SSE of Obihiro, Japan",earthquake,,10.3,,19,reviewed,us,us
+2000-12-06T12:02:29.280Z,42.398,142.174,60.5,4.8,mb,18,,,0.55,us,usp000a5kq,2014-11-07T01:11:41.085Z,"17 km WNW of Shizunai-furukawach?, Japan",earthquake,,17.9,,4,reviewed,us,us
+2000-12-07T18:47:55.200Z,29.382,131.419,33,5.2,mb,151,,,0.92,us,usp000a5p1,2014-11-07T01:11:41.541Z,"127 km SE of Koshima, Japan",earthquake,,,,62,reviewed,us,us
+2000-12-07T21:14:43.360Z,43.317,144.353,139.6,4.6,mb,78,,,0.68,us,usp000a5p6,2014-11-07T01:11:41.593Z,"38 km N of Kushiro, Japan",earthquake,,,,41,reviewed,us,us
+2000-12-10T06:22:46.510Z,29.486,142.158,33,4.6,mb,23,,,1.02,us,usp000a5tg,2014-11-07T01:11:42.092Z,"Izu Islands, Japan region",earthquake,,,,7,reviewed,us,us
+2000-12-13T14:27:29.240Z,28.768,130.068,37.2,5.1,mb,80,,,0.93,us,usp000a60p,2014-11-07T01:11:43.738Z,"72 km NE of Naze, Japan",earthquake,,,,40,reviewed,us,us
+2000-12-18T15:27:43.180Z,28.956,140.769,59.2,4.5,mb,10,,,1.43,us,usp000a69a,2014-11-07T01:11:44.662Z,"Bonin Islands, Japan region",earthquake,,,,1,reviewed,us,us
+2000-12-19T10:51:05.760Z,29.375,131.471,33,5,mb,58,,,0.94,us,usp000a6bb,2014-11-07T01:11:44.834Z,"131 km SE of Koshima, Japan",earthquake,,,,17,reviewed,us,us
+2000-12-22T10:06:39.510Z,30.964,141.745,33,4.5,mb,20,,,1.12,us,usp000a6hz,2014-11-07T01:11:45.754Z,"Izu Islands, Japan region",earthquake,,,,5,reviewed,us,us
+2000-12-28T05:24:53.430Z,34.2,139.108,33,4.6,mb,18,,,1.19,us,usp000a6u1,2014-11-07T01:11:46.925Z,"near the south coast of Honshu, Japan",earthquake,,,,1,reviewed,us,us

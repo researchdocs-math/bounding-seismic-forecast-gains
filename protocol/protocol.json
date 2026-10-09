@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-10-09T17:59:19.638035+00:00",
+  "question": "Do spatially borrowed, completed forecast innovations improve 30-day earthquake occurrence forecasts beyond adaptive rate and matched calibration?",
+  "novelty": "Spatial pooling of causally completed forecast errors at multiple memory scales, with cross-region development and a new Alaska geographic audit. Separates forecast-error information from raw neighboring seismic activity.",
+  "prior_exposure": "Italy and Greece 2020-2026 results were examined in earlier work. New analyses of those cohorts are retrospective development, not fresh confirmation. California and New Zealand previously evaluated in separate work.",
+  "development": [
+    "Italy and Greece origins 2010-2014 train; 2015-2019 validation; 2020-2025 retrospective assessment"
+  ],
+  "external_audit": "Alaska newly acquired USGS catalog 2000-2025, Mc=3.0, depth 0-60km, 2-degree cells in [52,72)x[-170,-130). Cells selected with >=30 M>=3 and >=5 M>=3.5 during 2000-2009. New country coefficients selected only using 2010-2019, assessment 2020-2025. No Alaska test scores inspected until architecture and selection are frozen.",
+  "targets": {
+    "primary": [
+      3.5,
+      8.5
+    ],
+    "secondary": [
+      [
+        3.5,
+        4.5
+      ],
+      [
+        4.5,
+        8.5
+      ]
+    ]
+  },
+  "features": "Original21, direct neighboring rate, spatially shared completed ETAS innovations. Gaussian cell-center spatial weights at 50,100,200 km, self excluded; histories 3,6,12,24 completed 30-day windows; shrunken error normalized by Bernoulli variance; individual-cell innovations retained as ablation.",
+  "baselines": "Raw and calibrated regional temporal ETAS; adaptive-rate blend; matching logistic/spline/boost complexity; direct-neighbor-rate predictor; annually updated calibration sensitivity. Claims restricted to regional temporal ETAS.",
+  "search": "All families and hyperparameters specified in code before external evaluation; family selected by validation log loss. No family changes based on Alaska test.",
+  "inference": "Synchronized time-block bootstrap 3,6,12 origins, 20000 replicates, Holm over 3 audit targets; pooled gain descriptive; cell-year concentration and leave-one-year-out stability.",
+  "catalog_caveat": "Retrospective preferred catalogs, not real-time versions; completeness and magnitude heterogeneity audited; no physical precursor or universal transfer claim."
+}

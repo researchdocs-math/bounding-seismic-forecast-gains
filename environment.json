@@ -1,0 +1,13 @@
+{
+  "numpy": "1.26.3",
+  "pandas": "2.2.1",
+  "scipy": "1.11.4",
+  "scikit-learn": "1.4.0",
+  "numba": "0.60.0",
+  "xgboost": "2.0.3",
+  "statsmodels": "0.14.2",
+  "torch": "2.4.1",
+  "python": "3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "system": "Darwin",
+  "machine": "arm64"
+}

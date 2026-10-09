@@ -1,0 +1,23 @@
+{
+  "time_utc": "2026-10-09T18:14:44.487393+00:00",
+  "selection_sha256": "d0c6f8c975207933fb55c9177fce10b390a00679932f38cd32d6c62babafe7a1",
+  "source_sha256": {
+    "borrowed_memory.py": "17a455c5b8d21f74254638eed0de66d1b3a11bc65e95340a540da92fca894d09",
+    "persistence_features.py": "952b3682492cdf4601ca78a95791098d0cd45ea623467a6e17ff4a81022e98fe",
+    "build_alaska.py": "53e6795f88b77f3b7b81e4f9b6d4741a147c2b4e86ce9c3ff9bf2c90235edde8",
+    "models.py": "316d11ebb29bf3559ad7e229308b828500af55369c426ed5f7743d0c48ca5e73",
+    "evaluate_persistence.py": "bed9b1768f848f01432bb8c9a5ad5ead9b697225a9fc0e8874f3ce4f02d532d8",
+    "build_japan.py": "9a97dcabcaf9f0587f4220d15e4e7a94e19640d3fabfdd37c3dc3090b6d77e87",
+    "download_japan.py": "e36c2ceb7241f1826b47214a4baad6e39a303d4450d838fe3537bb5f9060711c",
+    "features.py": "5b26ef832d06052f3cffad3487df1acc09e157b8e9911790ed8c0d2b55b7a9d1",
+    "persistence_models.py": "58581d2aec2ab8ec7834d1594863de0faa1fcc5e69b23b76d170d3ba24b3dda5",
+    "evaluate_borrowed.py": "61866927c29e7d6cb8676edc735a2d66d89c5eabfbe356781d21bf11c6834079",
+    "build_forecasts.py": "6e368c20578d6148b31f943945ffe27d5712bba686faafb55bc26b4ac2f80206",
+    "download_chile.py": "122f14d62fa00e7f1723318b824070ffd34f11e88611a41d444c791fa6fa9316",
+    "download_alaska.py": "30e0f3911afc9850e517affacd670543e81b3be3f55f52c5b64974ad86db8c9f",
+    "online_calibration.py": "c619e6e834f0439a5ea9070f44b8eeedcc514e04da49bff154ebdab5bae2cdc1",
+    "build_chile.py": "09887ab9ae4f429bf2dbba8d817d79e9e66447fa0cb877b4d8eeddd31a0504cf",
+    "evaluate_online.py": "9378d1c2d568431db6979aa9707f43c9313b13e5201cd60f12d9ac30c14d2cad",
+    "etas.py": "99691c1676f6b44b429aab0c1873c1e591896a9a3569cd659f68509cfee341a5"
+  }
+}

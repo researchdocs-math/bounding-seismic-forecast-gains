@@ -1,0 +1,504 @@
+[
+  {
+    "name": "noa_full",
+    "url": "https://www.gein.noa.gr/services/full_catalogue.php",
+    "query": {},
+    "cached": true,
+    "bytes": 27263835,
+    "sha256": "23390bfb336032fb57b2ad7b7ee899c2494d116a99cc362bf94aa05e2d9bb928"
+  },
+  {
+    "name": "ingv_2000",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2000-01-01T00:00:00",
+      "endtime": "2001-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 42885,
+    "sha256": "f726e81017bb13696e1f59a394f6993e059e937904fa80dfcfbc7c2af4effa5a"
+  },
+  {
+    "name": "ingv_2001",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2001-01-01T00:00:00",
+      "endtime": "2002-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 28928,
+    "sha256": "142532e0fc46c621448ca52fb3ff75b195338fa8e15fc68185ec40cfac8ea931"
+  },
+  {
+    "name": "ingv_2002",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2002-01-01T00:00:00",
+      "endtime": "2003-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 56138,
+    "sha256": "154ba24587139c8704fe2d45507421a7b3eaaa4e55031ae43abc8c27795f0a08"
+  },
+  {
+    "name": "ingv_2003",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2003-01-01T00:00:00",
+      "endtime": "2004-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 58976,
+    "sha256": "a92182ab1b03ceb743831cc18752c8fe1419e70e0e7f6c1d370d97bf411b2c6c"
+  },
+  {
+    "name": "ingv_2004",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2004-01-01T00:00:00",
+      "endtime": "2005-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 29118,
+    "sha256": "acba69e660bfccf4851ee7ba6dd68d5cf616ae1a71da22214a16ae59fb51ab60"
+  },
+  {
+    "name": "ingv_2005",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2005-01-01T00:00:00",
+      "endtime": "2006-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 18560,
+    "sha256": "2d5c8f2951337ea5c534ac21c2bf624dc8cfa8d331edefa9e3d7a23c457a1b49"
+  },
+  {
+    "name": "ingv_2006",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2006-01-01T00:00:00",
+      "endtime": "2007-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 22119,
+    "sha256": "a04729b76c36e7a51a4bb385a4ecbe54a15af290179048e33c2c376dc4444bd6"
+  },
+  {
+    "name": "ingv_2007",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2007-01-01T00:00:00",
+      "endtime": "2008-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 15620,
+    "sha256": "8b0aa37e3ff0dfecb43d26b01bb9b1e5e3108d3f4f0e5f9324eb7392555d55ed"
+  },
+  {
+    "name": "ingv_2008",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2008-01-01T00:00:00",
+      "endtime": "2009-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 22099,
+    "sha256": "23ec672cf2abf90b7c7a3320a0bb8ec5c20e971244940a3594d9b14735d52e3d"
+  },
+  {
+    "name": "ingv_2009",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2009-01-01T00:00:00",
+      "endtime": "2010-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 54727,
+    "sha256": "87b0938b42ed5a507338698523f32d13ebab1f34536d40ae363e75d16de5cb3b"
+  },
+  {
+    "name": "ingv_2010",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2010-01-01T00:00:00",
+      "endtime": "2011-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 20018,
+    "sha256": "c3e03b7bd6411970a6b280261e4a4b6f810866bd22ef65b9d3ffb676ddca185a"
+  },
+  {
+    "name": "ingv_2011",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2011-01-01T00:00:00",
+      "endtime": "2012-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 29934,
+    "sha256": "680782eb30cb3fc888b745d3f2385ad6f413a5df61296fe4b4b2125cf707ba4a"
+  },
+  {
+    "name": "ingv_2012",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2012-01-01T00:00:00",
+      "endtime": "2013-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 56286,
+    "sha256": "8a135e60270a05b91127a091f8b012af10f9692fb4cbcaa5ce765e364c242b28"
+  },
+  {
+    "name": "ingv_2013",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2013-01-01T00:00:00",
+      "endtime": "2014-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 33730,
+    "sha256": "6b80103fcd972b868a3b55038230ee3c7e5fbdf9868e98b92282196053a1d43c"
+  },
+  {
+    "name": "ingv_2014",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2014-01-01T00:00:00",
+      "endtime": "2015-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 26470,
+    "sha256": "62c8991bc1a38d38e9dc9e2001354a51c33be8dd3d416c6a9eaeb9d6f4a115b9"
+  },
+  {
+    "name": "ingv_2015",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2015-01-01T00:00:00",
+      "endtime": "2016-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 23912,
+    "sha256": "10bf403d5d4caf2fdcbce181463028ddb6afa15a250561737f90f908344ca262"
+  },
+  {
+    "name": "ingv_2016",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2016-01-01T00:00:00",
+      "endtime": "2017-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 128560,
+    "sha256": "fd5e995719e4634277a7aeecdab7d314bf4862913cd79f6451c712650e295f33"
+  },
+  {
+    "name": "ingv_2017",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2017-01-01T00:00:00",
+      "endtime": "2018-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 45622,
+    "sha256": "447b871070df951e837fcc5d5887e2b483f75aa7e538adf919d4da86d962e29b"
+  },
+  {
+    "name": "ingv_2018",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2018-01-01T00:00:00",
+      "endtime": "2019-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 27758,
+    "sha256": "e9f7bc133452dd3f28b95e0c8fe411d250a0e3d24da00792c613a515ed9c40ba"
+  },
+  {
+    "name": "ingv_2019",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2019-01-01T00:00:00",
+      "endtime": "2020-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 22035,
+    "sha256": "89247ed86dac299d279ee8ffb66ef6d7e96012e0ce16234eb33540d133ede46d"
+  },
+  {
+    "name": "ingv_2020",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2020-01-01T00:00:00",
+      "endtime": "2021-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 25186,
+    "sha256": "82a9480b2c7e7ef645fc882c52d5690cf3c2a963990d3fc4f140ce25370a719e"
+  },
+  {
+    "name": "ingv_2021",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2021-01-01T00:00:00",
+      "endtime": "2022-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 29376,
+    "sha256": "c917ac100266976c43088e9562d2ef9321853ab9c782e45599d4410cbc9fa5dd"
+  },
+  {
+    "name": "ingv_2022",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2022-01-01T00:00:00",
+      "endtime": "2023-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 30166,
+    "sha256": "bb627f4f3f5a271269e9ce3eb1f6b0aab297c4549e43f2e06eb475aa0392760e"
+  },
+  {
+    "name": "ingv_2023",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2023-01-01T00:00:00",
+      "endtime": "2024-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 24581,
+    "sha256": "6e81be8cdd5f4f6daa99de428df51b6ebb4831809beb9bd94b3c60cfbca5330e"
+  },
+  {
+    "name": "ingv_2024",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2024-01-01T00:00:00",
+      "endtime": "2025-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 25546,
+    "sha256": "1b8e947ed15924872ff63020bb11c10d7fd02796c50a3b9a5f2f98d1cb96f914"
+  },
+  {
+    "name": "ingv_2025",
+    "url": "https://webservices.ingv.it/fdsnws/event/1/query",
+    "query": {
+      "starttime": "2025-01-01T00:00:00",
+      "endtime": "2026-01-01T00:00:00",
+      "minmagnitude": 3,
+      "minlatitude": 36,
+      "maxlatitude": 47,
+      "minlongitude": 6,
+      "maxlongitude": 19,
+      "format": "text",
+      "orderby": "time-asc",
+      "limit": 20000
+    },
+    "cached": true,
+    "bytes": 22188,
+    "sha256": "96496df62574ce3800f92794ef26a299cd04dbcac7807b71c65cac388f206d82"
+  }
+]

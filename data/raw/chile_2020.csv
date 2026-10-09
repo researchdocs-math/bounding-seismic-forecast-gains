@@ -1,0 +1,299 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-01-01T16:51:32.285Z,-30.2857,-71.5582,40.88,5,mwr,,117,0.392,0.72,us,us70006t6h,2022-08-08T17:51:20.636Z,"42 km SSW of Coquimbo, Chile",earthquake,5,2.5,0.038,67,reviewed,us,us
+2020-01-07T17:21:20.330Z,-24.2131,-67.3193,180.42,4.5,mwr,,43,1.482,1.16,us,us70006vtv,2020-03-21T17:13:18.040Z,"101 km W of San Antonio de los Cobres, Argentina",earthquake,8.1,7,,,reviewed,us,guc
+2020-01-08T08:47:44.102Z,-20.4299,-68.7106,102.05,5.2,mww,,40,0.505,1.2,us,us70006w93,2025-12-22T18:25:49.461Z,"152 km E of Iquique, Chile",earthquake,6,4.9,0.05,38,reviewed,us,us
+2020-01-08T21:13:34.619Z,-29.7621,-72.1842,8.11,4.5,mwr,,195,0.836,0.91,us,us70006wjx,2020-04-02T21:27:53.040Z,"84 km WNW of Coquimbo, Chile",earthquake,5.6,2.6,0.037,70,reviewed,us,us
+2020-01-09T13:56:33.246Z,-21.6965,-68.4803,118.19,4.5,mwr,,47,0.715,0.78,us,us70006wx8,2020-04-02T21:27:58.040Z,"95 km NNE of Calama, Chile",earthquake,6.3,5.8,,,reviewed,us,guc
+2020-01-10T04:50:40.636Z,-28.0455,-66.757,145.18,4.6,mb,,43,2.428,0.9,us,us70006xem,2020-04-02T21:28:06.040Z,"52 km SE of Londres, Argentina",earthquake,3.8,6.8,0.109,25,reviewed,us,us
+2020-01-12T11:20:30.146Z,-20.8227,-70.0463,53.59,4.6,mwr,,81,0.099,0.61,us,us70006ypy,2020-04-02T21:28:19.040Z,"Near the coast of Tarapaca, Chile",earthquake,3.4,3.5,0.061,26,reviewed,us,us
+2020-01-12T15:19:05.472Z,-21.9291,-67.4718,189.44,4.9,mwr,,42,1.21,0.56,us,us70006yru,2020-04-02T21:28:20.040Z,"132 km NE of San Pedro de Atacama, Chile",earthquake,8,6.9,,,reviewed,us,guc
+2020-01-13T02:01:40.997Z,-40.2487,-71.2282,167.57,5.3,mww,,35,0.707,0.99,us,us70006yzw,2025-12-22T18:26:19.987Z,"14 km SE of San Martín de los Andes, Argentina",earthquake,6.3,4.1,0.063,24,reviewed,us,us
+2020-01-13T08:12:36.871Z,-26.1174,-70.9395,62.86,4.8,mb,,144,0.307,0.64,us,us70006z2q,2020-04-02T21:28:23.040Z,"90 km SSW of Taltal, Chile",earthquake,2.8,5.2,0.143,15,reviewed,us,us
+2020-01-14T01:57:28.755Z,-21.7351,-68.2737,109.13,5,mww,,31,0.902,0.96,us,us70006zgt,2025-12-22T18:26:21.618Z,"104 km NE of Calama, Chile",earthquake,6,3.6,0.05,38,reviewed,us,us
+2020-01-14T02:04:03.325Z,-34.7855,-74.0109,10,4.5,mb,,110,2.282,0.92,us,us70006zgw,2020-04-02T21:28:29.040Z,"158 km WNW of Constitución, Chile",earthquake,5.8,1.9,0.15,13,reviewed,us,us
+2020-01-15T14:39:32.618Z,-32.9458,-68.5569,39.97,4.5,mwr,,41,1.399,0.69,us,us7000708k,2022-03-10T05:00:13.036Z,"17 km NNW of San Martín, Argentina",earthquake,6.9,6,0.045,47,reviewed,us,us
+2020-01-16T13:12:55.727Z,-19.9162,-69.0994,99.76,4.5,mww,,42,0.229,1,us,us700070xb,2020-04-08T19:40:13.040Z,"114 km ENE of Iquique, Chile",earthquake,6.2,4.4,0.098,10,reviewed,us,us
+2020-01-17T03:19:27.585Z,-28.5996,-71.3603,35,4.5,mb,,146,0.467,1.35,us,us700071g0,2020-04-08T19:40:16.040Z,"58 km W of Vallenar, Chile",earthquake,3.2,1.8,0.221,6,reviewed,us,us
+2020-01-17T05:07:07.205Z,-19.0212,-69.1951,121.06,4.5,mb,,80,0.643,1.23,us,us700071hp,2020-04-08T19:40:16.040Z,"131 km ESE of Arica, Chile",earthquake,8,7.6,0.156,12,reviewed,us,us
+2020-01-18T18:01:41.214Z,-17.0713,-71.2827,92.33,4.5,mb,,122,1.573,1,us,us60007a58,2020-04-08T19:39:36.040Z,"36 km SSW of La Capilla, Peru",earthquake,3.5,6.3,0.081,45,reviewed,us,us
+2020-01-19T04:02:22.061Z,-23.4459,-66.7317,206.4,4.5,mb,,70,1.419,1.09,us,us60007afz,2020-04-08T19:39:38.040Z,"95 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.2,8.3,0.222,6,reviewed,us,us
+2020-01-19T22:27:45.685Z,-24.1831,-67.1931,172.39,4.7,mb,,46,1.523,0.73,us,us60007ay0,2020-04-08T19:39:41.040Z,"88 km W of San Antonio de los Cobres, Argentina",earthquake,5.6,7.9,0.225,6,reviewed,us,us
+2020-01-20T08:35:30.313Z,-19.3863,-69.315,113.29,4.5,mb,,88,0.303,0.75,us,us60007b8l,2020-04-08T19:39:43.040Z,"126 km NE of Iquique, Chile",earthquake,5.7,5,0.096,32,reviewed,us,us
+2020-01-23T01:40:06.143Z,-40.2441,-75.2374,10,4.5,mb,,195,1.437,0.59,us,us60007dev,2020-04-11T18:20:39.040Z,"159 km WSW of Corral, Chile",earthquake,6.9,2,0.221,6,reviewed,us,us
+2020-01-24T05:13:49.880Z,-17.3895,-71.0157,82.32,5.3,mww,,125,1.167,1.02,us,us60007efq,2025-12-22T18:26:58.712Z,"21 km SSW of San Antonio, Peru",earthquake,7.5,4.9,0.049,40,reviewed,us,us
+2020-01-24T10:06:22.771Z,-24.223,-67.1957,193.35,4.5,mb,,46,1.553,0.92,us,us60007eks,2020-04-11T18:20:43.040Z,"89 km W of San Antonio de los Cobres, Argentina",earthquake,8.8,9.4,0.191,8,reviewed,us,us
+2020-01-24T17:01:06.172Z,-18.2401,-69.6678,117.32,4.7,mb,,66,0.653,0.72,us,us60007erq,2020-04-11T18:20:44.040Z,"60 km SSE of Palca, Peru",earthquake,5.6,4.5,0.075,55,reviewed,us,us
+2020-01-25T19:22:58.874Z,-24.1386,-66.9475,171.33,4.9,mww,,39,1.634,0.97,us,us60007fva,2025-12-22T18:27:04.668Z,"64 km W of San Antonio de los Cobres, Argentina",earthquake,3.6,4.5,0.059,28,reviewed,us,us
+2020-01-26T17:54:29.067Z,-28.6372,-67.1752,131.87,4.6,mb,,64,2.494,1.04,us,us60007gkz,2020-04-11T18:20:53.040Z,"37 km W of Arauco, Argentina",earthquake,9.2,7.9,0.182,9,reviewed,us,us
+2020-01-26T21:45:59.809Z,-25.3362,-69.7035,65.75,4.7,mb,,93,0.95,0.89,us,us60007gqf,2020-04-11T18:20:53.040Z,"79 km E of Taltal, Chile",earthquake,5.3,7.2,0.246,5,reviewed,us,us
+2020-01-28T18:16:44.073Z,-30.2403,-72.3456,7.45,5.5,mww,,87,0.75,0.77,us,us60007ibj,2025-12-22T18:27:18.470Z,"102 km WSW of Coquimbo, Chile",earthquake,4.3,3.1,0.046,46,reviewed,us,us
+2020-01-29T20:53:37.893Z,-30.2537,-72.0379,12.69,4.8,mww,,120,0.544,1.21,us,us60007jgq,2020-04-18T22:09:53.040Z,"75 km WSW of Coquimbo, Chile",earthquake,4.7,2.3,0.11,8,reviewed,us,us
+2020-02-01T02:35:57.424Z,-24.4465,-66.9561,160.48,5.2,mww,,31,1.862,1.05,us,us60007lwh,2025-12-22T18:27:39.386Z,"69 km WSW of San Antonio de los Cobres, Argentina",earthquake,3.9,4,0.048,41,reviewed,us,us
+2020-02-04T20:35:40.334Z,-22.886,-68.228,129.73,4.6,mb,,51,0.079,1.17,us,us70007iiu,2020-04-18T22:10:26.040Z,"3 km NW of San Pedro de Atacama, Chile",earthquake,8.7,5.6,0.136,17,reviewed,us,us
+2020-02-08T06:17:57.956Z,-20.8279,-68.7137,108.34,5.2,mww,,40,0.754,0.84,us,us70007leh,2026-02-04T20:35:25.004Z,"64 km NW of Ollagüe, Chile",earthquake,4.8,4.3,0.078,16,reviewed,us,us
+2020-02-08T06:32:42.951Z,-23.2915,-66.8039,208.13,4.5,mb,,61,1.31,1.07,us,us70007lf4,2020-04-25T22:18:38.040Z,"113 km NNW of San Antonio de los Cobres, Argentina",earthquake,10.7,10.4,0.171,10,reviewed,us,us
+2020-02-11T13:50:02.629Z,-24.7868,-70.8845,36.16,5.3,mww,,108,0.465,0.45,us,us70007n2x,2025-12-22T18:28:49.923Z,"79 km NNW of Taltal, Chile",earthquake,4.1,5.9,0.066,22,reviewed,us,us
+2020-02-11T21:42:43.745Z,-20.9665,-70.7999,10,4.6,mwr,,112,0.914,1.2,us,us70007nev,2020-04-25T22:19:29.040Z,"107 km SW of Iquique, Chile",earthquake,4.4,1.8,0.045,47,reviewed,us,us
+2020-02-13T05:50:38.170Z,-20.9437,-70.8282,10,5,mww,,136,0.947,0.63,us,us70007p6w,2025-12-22T18:28:58.142Z,"107 km SW of Iquique, Chile",earthquake,4.5,1.8,0.073,18,reviewed,us,us
+2020-02-13T17:08:37.666Z,-29.4442,-71.7109,46.34,4.6,mb,,60,0.626,0.82,us,us70007piw,2020-05-02T22:09:45.040Z,"66 km NNW of Coquimbo, Chile",earthquake,4.9,6.3,0.056,97,reviewed,us,us
+2020-02-16T22:05:44.273Z,-21.932,-68.4679,104.1,5.2,mww,,24,0.731,0.77,us,us70007rhe,2025-12-22T18:29:25.622Z,"74 km NE of Calama, Chile",earthquake,5.1,3.9,0.055,32,reviewed,us,us
+2020-02-18T05:32:45.462Z,-35.5964,-73.2435,10,5,mww,,84,1.149,1.06,us,us70007s7z,2025-12-22T17:57:02.988Z,"80 km WSW of Constitución, Chile",earthquake,4.7,1.7,0.056,31,reviewed,us,us
+2020-02-18T21:41:39.530Z,-20.7677,-69.3199,86.09,4.5,mwr,,88,0.315,0.71,us,us70007snb,2020-05-02T22:10:21.040Z,"106 km SE of Iquique, Chile",earthquake,4.3,4.6,0.056,31,reviewed,us,us
+2020-02-23T22:47:29.174Z,-23.9592,-67.1351,238.45,4.6,mb,,50,1.387,0.57,us,us70007vfk,2020-05-09T21:41:15.040Z,"87 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.5,10.6,0.244,5,reviewed,us,us
+2020-02-25T00:49:41.426Z,-23.0505,-69.4021,75.93,4.6,mwr,,59,0.377,0.97,us,us70007w7n,2020-05-09T21:41:16.040Z,"82 km SW of Calama, Chile",earthquake,6.2,4.1,0.053,34,reviewed,us,us
+2020-02-26T20:21:32.681Z,-30.9949,-71.4659,48.08,4.8,mwr,,80,0.351,1.05,us,us600084u3,2020-05-19T22:13:59.040Z,"50 km SSW of Ovalle, Chile",earthquake,5.4,4,0.044,49,reviewed,us,us
+2020-02-27T01:37:00.810Z,-29.529,-71.1547,75.13,4.8,mwr,,58,0.395,0.75,us,us6000851q,2022-08-08T18:31:40.623Z,"42 km NNE of La Serena, Chile",earthquake,2.7,3.8,0.042,55,reviewed,us,us
+2020-02-27T03:52:12.141Z,-23.9832,-66.9384,209.08,4.5,mb,,72,1.533,0.93,us,us6000852t,2020-05-19T22:13:59.040Z,"Jujuy, Argentina",earthquake,8,8.2,0.204,7,reviewed,us,us
+2020-02-29T01:11:30.219Z,-21.9591,-68.485,101.57,4.5,mb,,33,0.721,0.74,us,us600086n3,2020-05-19T22:14:10.040Z,"71 km NE of Calama, Chile",earthquake,5,5.9,0.118,21,reviewed,us,us
+2020-02-29T02:13:11.222Z,-31.4824,-68.7771,104.04,4.5,mb,,58,0.101,1.21,us,us600086p5,2020-05-19T22:14:11.040Z,"8 km NNW of Villa Basilio Nievas, Argentina",earthquake,8,5.9,0.099,30,reviewed,us,us
+2020-03-02T23:07:50.218Z,-18.1133,-70.544,58.14,4.9,mww,,98,0.32,0.59,us,us6000888y,2020-05-19T22:14:21.040Z,"27 km S of Las Yaras, Peru",earthquake,5.3,4.1,0.08,15,reviewed,us,us
+2020-03-05T06:57:41.361Z,-28.4189,-67.4978,105.86,5.5,mww,,28,2.14,1.05,us,us600089zt,2025-12-22T18:30:30.447Z,"39 km S of Tinogasta, Argentina",earthquake,5.7,3.9,0.04,60,reviewed,us,us
+2020-03-05T18:06:08.581Z,-23.7854,-69.5944,75.56,4.6,mwr,,83,1.074,0.87,us,us60008af7,2020-05-23T22:03:05.040Z,"82 km E of Antofagasta, Chile",earthquake,4.7,1.9,0.052,35,reviewed,us,us
+2020-03-06T05:50:34.407Z,-21.3096,-69.8879,48.41,4.5,mwr,,108,0.012,0.56,us,us60008au9,2020-05-23T22:03:30.040Z,"92 km NNE of Tocopilla, Chile",earthquake,2.2,3.5,0.045,48,reviewed,us,us
+2020-03-09T19:01:50.635Z,-31.7643,-68.3286,102.45,4.5,mb,,132,0.177,0.87,us,us60008f50,2020-05-23T22:03:27.040Z,"12 km SSE of Nueve de Julio, Argentina",earthquake,8.4,4.1,0.22,6,reviewed,us,us
+2020-03-10T13:07:32.821Z,-28.5433,-68.803,130.4,4.6,mb,,79,1.324,0.55,us,us60008d4l,2020-05-23T22:03:16.040Z,"63 km WNW of Vinchina, Argentina",earthquake,8.5,8.4,0.385,2,reviewed,us,us
+2020-03-10T13:44:20.838Z,-22.1116,-67.8732,151.33,5.1,mww,,50,0.882,1.08,us,us60008d4v,2025-12-22T18:30:53.949Z,"94 km NNE of San Pedro de Atacama, Chile",earthquake,7.4,5.1,0.052,36,reviewed,us,us
+2020-03-11T13:57:35.248Z,-21.6214,-68.3999,100.89,4.6,mww,,36,0.802,0.69,us,us60008dnh,2020-05-30T22:17:02.040Z,"107 km NNE of Calama, Chile",earthquake,3.2,6.1,0.075,17,reviewed,us,us
+2020-03-11T17:04:25.499Z,-30.2967,-72.2447,6.75,4.6,mwr,,88,0.646,1.04,us,us60008drk,2020-05-30T22:17:02.040Z,"95 km WSW of Coquimbo, Chile",earthquake,2.5,3.4,0.037,72,reviewed,us,us
+2020-03-13T02:08:02.221Z,-19.9306,-69.2739,102.69,5.2,mww,,62,0.238,1.1,us,us60008eru,2025-12-22T18:31:02.466Z,"96 km ENE of Iquique, Chile",earthquake,5.6,3,0.05,39,reviewed,us,us
+2020-03-17T08:12:03.636Z,-36.1555,-73.1685,33.03,5.6,mww,,35,1.473,0.97,us,us60008gzt,2025-12-22T18:31:12.541Z,"54 km NNW of Tomé, Chile",earthquake,3.4,2.9,0.043,51,reviewed,us,us
+2020-03-23T16:33:16.862Z,-24.2746,-67.2863,152.59,4.7,mb,,36,1.55,0.89,us,us70008ekr,2020-06-06T20:54:11.040Z,"98 km W of San Antonio de los Cobres, Argentina",earthquake,8,7.1,0.042,174,reviewed,us,us
+2020-03-23T22:16:44.640Z,-18.8106,-70.0228,71.92,4.7,mb,,117,0.349,0.91,us,us70008eui,2020-06-06T20:54:12.040Z,"47 km SE of Arica, Chile",earthquake,6.5,5.2,0.123,20,reviewed,us,us
+2020-03-24T06:52:17.769Z,-30.5819,-71.8795,24.08,4.7,mwr,,84,0.863,0.99,us,us70008ez4,2025-12-22T18:31:37.586Z,"65 km W of Ovalle, Chile",earthquake,4.7,3.8,0.044,50,reviewed,us,us
+2020-03-24T13:31:03.812Z,-28.8317,-68.8227,82.7,4.5,mb,,38,1.273,0.61,us,us70008f35,2020-06-06T20:54:14.040Z,"60 km W of Vinchina, Argentina",earthquake,6.7,7.5,0.156,12,reviewed,us,us
+2020-03-24T15:35:53.697Z,-21.2566,-68.2332,143.41,4.6,mwr,,46,1.081,0.9,us,us70008f45,2020-06-06T20:54:14.040Z,"150 km NNE of Calama, Chile",earthquake,7.1,6.6,,,reviewed,us,guc
+2020-03-25T05:53:20.205Z,-35.7733,-73.375,10,4.6,mwr,,112,0.983,1.18,us,us70008fmc,2020-06-13T18:44:42.040Z,"93 km NW of Quirihue, Chile",earthquake,4.6,1.8,0.093,11,reviewed,us,us
+2020-03-25T06:52:38.920Z,-35.7473,-73.4677,10,5.1,mwr,,114,1.023,0.96,us,us70008fmr,2020-06-13T18:44:42.040Z,"102 km NW of Quirihue, Chile",earthquake,2.1,1.8,0.04,59,reviewed,us,us
+2020-03-27T01:10:00.513Z,-35.3527,-74.1158,10,4.6,mb,,147,1.822,0.89,us,us70008h2t,2020-06-13T18:44:43.040Z,"154 km W of Constitución, Chile",earthquake,7.7,1.8,0.098,31,reviewed,us,us
+2020-03-28T16:42:02.083Z,-35.694,-73.7211,10,4.6,mwr,,194,1.135,0.86,us,us70008hvt,2022-08-08T21:36:15.698Z,"123 km NNW of Tomé, Chile",earthquake,3.4,1.9,0.05,39,reviewed,us,us
+2020-03-29T11:51:25.385Z,-35.712,-73.7437,10,4.5,mb,,150,1.126,0.94,us,us70008i9j,2020-06-13T18:44:43.040Z,"122 km NW of Tomé, Chile",earthquake,7.8,1.9,0.204,7,reviewed,us,us
+2020-03-30T14:53:34.027Z,-26.9671,-71.2715,10,4.5,mwr,,149,0.401,1.13,us,us70008imv,2020-06-13T18:44:43.040Z,"103 km WNW of Copiapó, Chile",earthquake,4.5,1.8,,,reviewed,us,guc
+2020-04-01T03:55:21.570Z,-45.6569,-76.5246,10,4.6,mwr,,136,3.013,0.83,us,us70008jwt,2025-12-22T18:37:02.353Z,"290 km W of Puerto Chacabuco, Chile",earthquake,4,1.8,0.08,15,reviewed,us,us
+2020-04-01T03:59:13.405Z,-45.6544,-76.8017,10,4.7,mb,,83,3.192,0.74,us,us70008qh7,2020-06-21T00:54:28.040Z,"Off the coast of Aisen, Chile",earthquake,3.8,1.9,0.13,18,reviewed,us,us
+2020-04-01T04:09:21.850Z,-45.5913,-76.6302,10,5.2,mww,,33,3.057,0.8,us,us70008jxh,2025-12-22T18:37:03.142Z,"298 km W of Puerto Chacabuco, Chile",earthquake,7.4,1.7,0.056,31,reviewed,us,us
+2020-04-01T04:12:21.236Z,-45.5817,-76.7599,10,4.9,mww,,51,3.139,0.69,us,us70008jyw,2025-12-22T17:57:17.536Z,"Off the coast of Aisen, Chile",earthquake,8.3,1.8,0.098,10,reviewed,us,us
+2020-04-01T16:30:36.302Z,-22.8091,-70.3939,33.64,4.6,mb,,118,0.182,1,us,us70008kkl,2020-06-21T00:54:33.040Z,"81 km SSW of Tocopilla, Chile",earthquake,5.1,5.4,0.243,5,reviewed,us,us
+2020-04-02T02:30:43.686Z,-25.948,-70.7842,67.92,4.8,mww,,124,0.259,0.84,us,us70008l5u,2020-06-21T00:54:37.040Z,"67 km SSW of Taltal, Chile",earthquake,6.1,3.7,0.078,16,reviewed,us,us
+2020-04-02T07:25:05.458Z,-20.0056,-69.1367,99.62,4.6,mb,,60,0.135,0.83,us,us70008lc6,2022-08-08T21:39:14.451Z,"108 km ENE of Iquique, Chile",earthquake,4.4,4,0.111,24,reviewed,us,us
+2020-04-03T08:48:00.591Z,-29.0491,-71.6558,49.65,4.8,mwr,,97,0.837,0.69,us,us70008mgj,2020-06-21T00:54:48.040Z,"102 km WSW of Vallenar, Chile",earthquake,6.7,5.9,0.048,41,reviewed,us,us
+2020-04-04T04:54:43.487Z,-31.1792,-68.9389,101.27,4.9,mww,,26,0.425,1.29,us,us70008nd5,2020-06-21T00:54:56.040Z,"45 km NNW of Villa Basilio Nievas, Argentina",earthquake,4.8,3.8,0.052,35,reviewed,us,us
+2020-04-07T07:05:24.051Z,-23.9724,-66.7889,197.69,4.5,mb,,58,1.631,0.59,us,us70008qet,2020-06-21T00:55:15.040Z,"55 km WNW of San Antonio de los Cobres, Argentina",earthquake,6,8.7,0.205,7,reviewed,us,us
+2020-04-07T10:18:03.430Z,-31.483,-71.6549,35,4.6,mwr,,126,0.625,0.93,us,us70008qib,2022-08-08T21:46:32.396Z,"48 km WNW of Illapel, Chile",earthquake,4.3,1.9,0.033,90,reviewed,us,us
+2020-04-09T09:43:59.498Z,-24.1628,-67.0314,163.61,4.8,mwr,,44,1.6,0.99,us,us70008sag,2025-12-22T18:32:16.777Z,"72 km W of San Antonio de los Cobres, Argentina",earthquake,7.3,5,,,reviewed,us,guc
+2020-04-09T14:06:52.104Z,-18.18,-69.611,141.89,5,mww,,74,0.182,0.53,us,us70008se7,2025-12-22T18:32:18.925Z,"58 km SE of Palca, Peru",earthquake,5.7,4.5,0.069,20,reviewed,us,us
+2020-04-11T13:56:40.828Z,-31.4427,-69.4385,114.99,4.6,mb,,35,0.652,1.12,us,us70008tv2,2022-08-08T21:49:48.732Z,"12 km S of Calingasta, Argentina",earthquake,6.3,5.9,0.05,118,reviewed,us,us
+2020-04-13T18:45:31.582Z,-29.2473,-67.9992,106.75,4.8,mwr,,30,1.963,1,us,us70008vkz,2020-06-30T14:03:06.040Z,"49 km W of Chilecito, Argentina",earthquake,6.4,4.3,,,reviewed,us,guc
+2020-04-14T12:04:33.699Z,-25.7639,-69.5294,33.1,4.9,mww,,64,1.035,0.81,us,us70008vze,2020-06-30T14:03:09.040Z,"84 km NE of Diego de Almagro, Chile",earthquake,3.9,3.5,0.08,15,reviewed,us,us
+2020-04-14T16:02:10.301Z,-33.8886,-70.4776,108.38,4.9,mww,,44,0.148,0.67,us,us70008w2i,2025-12-22T17:57:20.981Z,"25 km ESE of Paine, Chile",earthquake,4.6,3.9,0.078,16,reviewed,us,us
+2020-04-15T00:19:02.070Z,-20.2065,-69.2021,95.47,4.8,mww,,56,0.079,1.04,us,us70008we3,2020-07-09T14:31:05.040Z,"99 km E of Iquique, Chile",earthquake,4.9,3.7,0.098,10,reviewed,us,us
+2020-04-15T09:18:51.078Z,-19.7141,-70.4857,64.3,4.6,mwr,,114,0.361,0.9,us,us70008wmb,2020-07-09T14:31:06.040Z,"65 km NNW of Iquique, Chile",earthquake,4.6,2.3,0.044,50,reviewed,us,us
+2020-04-16T15:13:05.664Z,-37.9731,-73.7707,11.25,5.1,mww,,41,1.307,0.9,us,us70008xkv,2025-12-22T18:32:44.648Z,"38 km WSW of Cañete, Chile",earthquake,2.8,2.9,0.062,25,reviewed,us,us
+2020-04-18T08:27:50.753Z,-27.7021,-67.8309,128.02,4.6,mb,,79,1.442,1.2,us,us70008z8a,2020-07-09T14:31:25.040Z,"21 km W of Fiambalá, Argentina",earthquake,6.4,8.4,0.136,16,reviewed,us,us
+2020-04-20T18:37:47.818Z,-28.9816,-68.3769,100.13,4.5,mb,,61,1.669,0.86,us,us700090ku,2020-07-09T14:31:36.040Z,"29 km SW of Vinchina, Argentina",earthquake,5.5,7.3,0.078,49,reviewed,us,us
+2020-04-25T05:53:56.164Z,-27.8443,-71.4861,12.87,4.9,mwr,,103,0.511,0.78,us,us60009c24,2025-12-22T18:33:03.523Z,"108 km NW of Vallenar, Chile",earthquake,4.7,4.5,,,reviewed,us,guc
+2020-04-29T05:37:16.535Z,-24.2701,-67.0461,149.27,5.4,mww,,39,1.673,1.16,us,us60009ehh,2025-12-22T18:33:09.459Z,"74 km W of San Antonio de los Cobres, Argentina",earthquake,7.9,3.8,0.046,45,reviewed,us,us
+2020-04-29T16:04:31.546Z,-23.2797,-66.6103,195.02,4.9,mww,,57,1.48,1.16,us,us60009esk,2025-12-22T18:33:11.691Z,"95 km W of El Aguilar, Argentina",earthquake,8.2,5,0.071,19,reviewed,us,us
+2020-04-30T09:23:12.537Z,-22.6597,-67.9997,108.93,5.3,mww,,29,0.334,1.37,us,us700097g8,2025-12-22T18:33:15.326Z,"34 km NE of San Pedro de Atacama, Chile",earthquake,6.5,3.7,0.058,29,reviewed,us,us
+2020-04-30T22:10:31.558Z,-24.0112,-66.93,164.35,5.4,mww,,32,1.557,0.92,us,us700097y1,2025-12-22T18:33:16.619Z,"66 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.7,4.1,0.054,33,reviewed,us,us
+2020-05-01T01:01:02.238Z,-24.0204,-66.9818,167.65,4.8,mww,,39,1.529,1.16,us,us7000980f,2020-07-18T21:57:07.040Z,"70 km WNW of San Antonio de los Cobres, Argentina",earthquake,7.6,4.8,0.06,27,reviewed,us,us
+2020-05-01T12:42:54.268Z,-24.0586,-67.0413,182.01,4.6,mb,,81,1.517,1.41,us,us70009870,2020-07-18T21:57:08.040Z,"75 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.9,3.9,0.141,17,reviewed,us,us
+2020-05-04T02:26:58.286Z,-20.5142,-69.2049,93.65,4.6,mwr,,60,0.374,0.86,us,us700099k4,2020-07-18T21:57:32.040Z,"104 km ESE of Iquique, Chile",earthquake,3.5,4.1,0.058,29,reviewed,us,us
+2020-05-05T12:40:21.646Z,-31.8036,-67.4265,121.48,4.6,mb,,76,1.102,0.72,us,us70009aea,2020-07-18T21:57:37.040Z,"82 km ESE of Caucete, Argentina",earthquake,8.1,6.3,0.046,138,reviewed,us,us
+2020-05-05T17:19:47.011Z,-34.095,-71.2928,59.35,4.6,mwr,,62,0.232,0.56,us,us70009aik,2022-08-08T22:08:57.497Z,"42 km NNW of San Vicente, Chile",earthquake,3.5,3.6,0.056,31,reviewed,us,us
+2020-05-05T20:25:20.757Z,-30.5982,-71.6626,36.46,4.6,mb,,110,0.77,0.77,us,us70009ame,2020-07-18T21:57:39.040Z,"44 km W of Ovalle, Chile",earthquake,4.4,5.2,0.092,43,reviewed,us,us
+2020-05-06T06:36:53.875Z,-29.6319,-71.3787,70.66,4.9,mww,,33,0.31,0.92,us,us70009awg,2020-07-29T22:14:09.040Z,"32 km NNW of La Serena, Chile",earthquake,4.5,3.1,0.098,10,reviewed,us,us
+2020-05-06T15:43:12.556Z,-19.3548,-70.4824,63.51,5.1,mwr,,100,0.416,0.8,us,us70009b5z,2020-07-29T22:14:11.040Z,"99 km SSW of Arica, Chile",earthquake,4.6,4.7,,,reviewed,us,guc
+2020-05-07T16:35:59.566Z,-22.8868,-68.1368,122.54,4.6,mwr,,41,0.075,0.98,us,us70009bt2,2020-07-29T22:14:15.040Z,"7 km ENE of San Pedro de Atacama, Chile",earthquake,7.2,5,,,reviewed,us,guc
+2020-05-08T22:42:07.578Z,-23.2153,-68.848,90.45,5,mww,,30,0.669,0.87,us,us70009cw2,2025-12-22T18:34:03.908Z,"74 km WSW of San Pedro de Atacama, Chile",earthquake,4.4,3.1,0.083,14,reviewed,us,us
+2020-05-09T21:42:56.426Z,-19.1562,-69.0489,120.9,4.6,mwr,,47,0.527,1.11,us,us70009di0,2020-07-29T22:14:25.040Z,"151 km ESE of Arica, Chile",earthquake,5.5,5.3,,,reviewed,us,guc
+2020-05-10T18:04:21.884Z,-22.7558,-68.0677,107.3,5.4,mww,,38,0.22,1.17,us,us70009drp,2025-12-22T18:34:08.612Z,"21 km NE of San Pedro de Atacama, Chile",earthquake,5,3.9,0.048,42,reviewed,us,us
+2020-05-11T06:15:47.751Z,-21.0933,-70.3676,43.69,4.5,mwr,,149,0.337,0.67,us,us70009dxn,2020-07-29T22:14:30.040Z,"100 km SSW of Iquique, Chile",earthquake,4.7,9,,,reviewed,us,guc
+2020-05-12T23:14:36.339Z,-20.185,-69.1472,104.11,4.7,mwr,,54,0.044,0.67,us,us70009f2d,2020-07-29T22:14:41.040Z,"104 km E of Iquique, Chile",earthquake,5.5,4.9,,,reviewed,us,guc
+2020-05-14T17:16:57.352Z,-24.1078,-67.1917,177.02,4.8,mww,,47,1.464,1.3,us,us70009g51,2020-08-02T00:32:00.040Z,"89 km W of San Antonio de los Cobres, Argentina",earthquake,7.7,2.7,0.063,24,reviewed,us,us
+2020-05-18T04:29:15.060Z,-23.9785,-67.0515,174.61,4.7,mwr,,68,1.454,0.8,us,us70009jdx,2020-08-02T00:29:02.040Z,"79 km WNW of San Antonio de los Cobres, Argentina",earthquake,9.5,6.4,,,reviewed,us,guc
+2020-05-18T11:15:39.503Z,-19.9473,-70.0688,48.69,4.8,mwr,,96,0.352,0.65,us,us70009jla,2020-08-02T00:28:52.040Z,"30 km NNE of Iquique, Chile",earthquake,4,4.1,0.056,31,reviewed,us,us
+2020-05-18T18:36:30.807Z,-24.5162,-68.6367,102.3,4.9,mwr,,53,1.612,0.73,us,us70009jyg,2020-08-02T00:28:41.040Z,"183 km SSW of San Pedro de Atacama, Chile",earthquake,6.5,4.9,,,reviewed,us,guc
+2020-05-20T10:42:08.987Z,-26.0446,-66.6988,25.18,4.9,mww,,47,2.316,0.96,us,us70009liw,2020-08-08T18:17:42.040Z,"70 km E of Antofagasta de la Sierra, Argentina",earthquake,5.1,4.8,0.063,24,reviewed,us,us
+2020-05-22T04:52:51.307Z,-31.3796,-67.3703,10,4.5,mb,,106,0.774,0.93,us,us70009n0t,2020-08-08T18:17:48.040Z,"83 km S of San Agustín de Valle Fértil, Argentina",earthquake,7.5,1.8,0.132,17,reviewed,us,us
+2020-05-22T14:43:11.276Z,-24.2118,-67.1596,157.46,4.6,mb,,44,1.564,0.56,us,us70009nfr,2020-08-08T18:17:50.040Z,"85 km W of San Antonio de los Cobres, Argentina",earthquake,8.2,6.9,0.088,39,reviewed,us,us
+2020-05-22T14:59:32.563Z,-22.9595,-69.0494,94.03,4.9,mww,,72,0.544,0.92,us,us70009ng1,2025-12-22T18:34:36.636Z,"57 km SSW of Calama, Chile",earthquake,4.6,4.3,0.098,10,reviewed,us,us
+2020-05-23T07:17:24.621Z,-24.2544,-67.134,186.38,4.6,mwr,,166,1.612,0.78,us,us70009p0x,2020-08-08T18:17:52.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,10.8,8.4,,,reviewed,us,guc
+2020-05-23T13:11:00.383Z,-33.5124,-69.8262,114.41,5.2,mww,,44,0.278,1.24,us,us70009p3k,2025-12-22T18:34:43.271Z,"70 km E of Villa Presidente Frei, Ñuñoa, Santiago, Chile, Chile",earthquake,7.3,4.1,0.051,37,reviewed,us,us
+2020-05-25T13:17:33.761Z,-24.2952,-66.9281,165.92,4.5,mb,,55,1.761,0.81,us,us70009q12,2020-08-08T18:17:58.040Z,"62 km W of San Antonio de los Cobres, Argentina",earthquake,8.2,5.8,0.057,89,reviewed,us,us
+2020-05-26T07:50:34.088Z,-22.2701,-67.3655,162.72,4.6,mwr,,28,1.012,0.98,us,us70009qgk,2020-08-08T18:18:01.040Z,"111 km NE of San Pedro de Atacama, Chile",earthquake,5.1,5.8,,,reviewed,us,guc
+2020-05-26T10:20:26.965Z,-22.6074,-66.4387,276.09,4.5,mb,,110,1.642,0.5,us,us70009qj3,2020-08-08T18:18:01.040Z,"77 km W of Abra Pampa, Argentina",earthquake,11.4,9.7,0.27,4,reviewed,us,us
+2020-05-29T00:29:50.606Z,-18.3291,-69.2638,140.78,4.6,mb,,76,0.231,0.28,us,us6000a6e2,2020-08-15T20:19:46.040Z,"95 km SE of Palca, Peru",earthquake,6,8.4,0.314,3,reviewed,us,us
+2020-05-29T10:10:32.810Z,-23.2182,-66.1858,213.81,4.8,mwr,,38,1.854,0.71,us,us6000a1m5,2020-08-15T20:19:47.040Z,"51 km W of El Aguilar, Argentina",earthquake,8.5,5.2,,,reviewed,us,guc
+2020-05-29T16:32:55.291Z,-27.6549,-69.2014,116.01,4.9,mww,,33,0.818,1.24,us,us6000a1xu,2025-12-22T18:35:07.067Z,"116 km ESE of Copiapó, Chile",earthquake,6,4.8,0.086,13,reviewed,us,us
+2020-05-29T20:24:41.185Z,-24.2338,-67.2822,194.17,4.6,mwr,,80,1.518,1.15,us,us6000a24m,2020-08-15T20:19:49.040Z,"97 km W of San Antonio de los Cobres, Argentina",earthquake,8.6,8.2,,,reviewed,us,guc
+2020-05-30T07:02:01.818Z,-29.1575,-71.2771,63.13,4.5,mwr,,144,0.525,0.57,us,us6000a2he,2020-08-15T20:19:51.040Z,"81 km SW of Vallenar, Chile",earthquake,5.1,2.6,,,reviewed,us,guc
+2020-05-30T23:44:09.412Z,-31.2337,-68.9638,106.76,4.5,mb,,44,0.392,0.92,us,us6000a2wa,2020-08-15T20:19:54.040Z,"41 km NNW of Villa Basilio Nievas, Argentina",earthquake,5.4,4.5,0.081,45,reviewed,us,us
+2020-05-31T02:19:05.376Z,-21.8538,-68.5736,136.97,4.6,mb,,36,0.623,0.97,us,us6000a2yf,2020-08-15T20:19:55.040Z,"75 km NNE of Calama, Chile",earthquake,6,6.6,0.193,9,reviewed,us,us
+2020-06-02T10:29:15.059Z,-17.3353,-69.2858,163.5,4.9,mb,,94,0.313,1.22,us,us6000a49q,2020-08-15T20:20:04.040Z,"80 km SE of Mazo Cruz, Peru",earthquake,6.2,6.1,0.03,354,reviewed,us,us
+2020-06-03T07:35:36.466Z,-23.274,-68.4677,112,6.8,mww,,21,1.164,1.13,us,us6000a4yi,2025-12-22T18:35:20.388Z,"48 km SW of San Pedro de Atacama, Chile",earthquake,6.8,1.8,0.046,45,reviewed,us,us
+2020-06-03T07:50:33.938Z,-23.3547,-68.4336,107.33,4.6,mb,,52,0.464,1.2,us,us6000a4zc,2020-08-18T17:58:45.040Z,"54 km SSW of San Pedro de Atacama, Chile",earthquake,7.3,6.5,0.141,17,reviewed,us,us
+2020-06-09T23:58:48.619Z,-21.4696,-66.7434,211.11,4.5,mb,,44,1.986,1.17,us,us6000a8zy,2020-08-18T17:59:11.040Z,"80 km SW of Atocha, Bolivia",earthquake,8.4,5.5,0.062,77,reviewed,us,us
+2020-06-10T06:00:16.769Z,-21.4709,-68.3977,118.56,4.5,mb,,36,0.849,1.09,us,us6000a953,2020-08-22T19:14:41.040Z,"121 km NNE of Calama, Chile",earthquake,6.8,6.9,0.131,22,reviewed,us,us
+2020-06-15T07:18:32.216Z,-24.1903,-67.1124,156.13,4.5,mwr,,44,1.573,0.7,us,us6000ac2l,2020-08-22T19:14:53.040Z,"80 km W of San Antonio de los Cobres, Argentina",earthquake,8.1,5.8,,,reviewed,us,guc
+2020-06-15T07:23:00.644Z,-21.9719,-67.3174,192.06,4.7,mb,,44,1.259,0.96,us,us6000ac2m,2020-08-22T19:14:53.040Z,"138 km NE of San Pedro de Atacama, Chile",earthquake,5.5,5.7,0.029,363,reviewed,us,us
+2020-06-16T17:54:40.319Z,-23.2758,-68.5679,108.9,4.5,mwr,,33,0.481,0.9,us,us6000aczw,2020-08-22T19:14:57.040Z,"55 km SW of San Pedro de Atacama, Chile",earthquake,5.6,3.9,0.053,34,reviewed,us,us
+2020-06-17T00:50:45.919Z,-36.637,-73.1553,24.17,4.8,mwr,,92,0.114,0.67,us,us6000ad70,2020-08-30T00:00:39.040Z,"10 km NNW of Talcahuano, Chile",earthquake,5.8,1.3,0.041,56,reviewed,us,us
+2020-06-23T05:08:22.886Z,-27.8334,-66.8867,159.84,4.6,mb,,43,2.228,0.82,us,us6000ah03,2020-08-30T00:01:06.040Z,"27 km ESE of Londres, Argentina",earthquake,7.5,1.9,0.032,291,reviewed,us,us
+2020-06-25T11:55:04.667Z,-32.2257,-71.6188,35,5.2,mww,,46,0.43,1.13,us,us7000ab22,2025-12-22T18:37:07.913Z,"44 km NW of La Ligua, Chile",earthquake,4.6,1.8,0.073,18,reviewed,us,us
+2020-06-27T07:52:45.277Z,-20.1899,-70.6301,18.09,4.9,mww,,132,0.758,0.88,us,us7000acyv,2025-12-22T18:37:14.478Z,"50 km W of Iquique, Chile",earthquake,5.4,4.1,0.08,15,reviewed,us,us
+2020-06-28T20:16:54.095Z,-31.7954,-69.2171,115.49,4.5,mb,,77,0.518,0.97,us,us7000aduu,2020-09-05T17:35:31.040Z,"53 km WSW of Villa Basilio Nievas, Argentina",earthquake,6.7,3.5,0.132,17,reviewed,us,us
+2020-06-30T12:10:47.031Z,-24.2981,-67.2042,174.97,4.5,mb,,43,1.61,0.83,us,us7000af0n,2020-09-05T17:35:36.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,7.6,6.7,0.124,19,reviewed,us,us
+2020-07-02T10:33:03.098Z,-30.798,-71.4945,40.37,4.5,mb,,72,0.173,1.02,us,us7000agkg,2020-09-11T22:13:52.040Z,"35 km SW of Ovalle, Chile",earthquake,6.7,4.3,0.128,18,reviewed,us,us
+2020-07-02T12:35:49.259Z,-34.1394,-72.1077,35,4.7,mwr,,75,0.762,0.95,us,us7000agmd,2025-12-22T18:37:26.123Z,"76 km SW of San Antonio, Chile",earthquake,3.7,1.9,0.032,95,reviewed,us,us
+2020-07-03T04:46:16.977Z,-40.9396,-71.671,166.22,4.5,mwr,,57,0.588,0.74,us,us7000ah3y,2020-09-11T22:13:58.040Z,"19 km S of Villa La Angostura, Argentina",earthquake,6.6,5,,,reviewed,us,guc
+2020-07-04T03:20:12.679Z,-28.4306,-70.5695,77.7,4.5,mb,,106,0.48,0.65,us,us7000ahqr,2020-09-11T22:14:08.040Z,"24 km NE of Vallenar, Chile",earthquake,4.1,5.5,0.14,17,reviewed,us,us
+2020-07-13T04:20:14.274Z,-17.4889,-70.9339,75.82,4.5,mb,,142,1.042,1.11,us,us7000arp4,2020-09-19T20:58:32.040Z,"22 km NW of Locumba, Peru",earthquake,7.9,8.4,0.107,26,reviewed,us,us
+2020-07-13T16:51:45.551Z,-24.8124,-70.4303,53.54,4.5,mwr,,137,0.187,0.74,us,us7000amta,2020-09-19T20:58:16.040Z,"66 km N of Taltal, Chile",earthquake,5.8,3.5,0.051,37,reviewed,us,us
+2020-07-15T03:22:26.681Z,-31.3566,-68.3182,103.91,4.8,mb,,74,0.365,0.97,us,us7000anrm,2020-09-26T16:58:30.040Z,"19 km ENE of San Martín, Argentina",earthquake,3.9,7.8,0.209,7,reviewed,us,us
+2020-07-17T05:40:36.300Z,-20.2355,-70.1328,73.56,5.9,mww,,30,0.635,1.18,us,us7000aq5p,2025-12-22T18:38:11.143Z,"3 km SE of Iquique, Chile",earthquake,4.3,1.5,0.08,15,reviewed,us,us
+2020-07-17T15:57:09.555Z,-23.0355,-66.6507,248.05,4.5,mb,,51,1.41,1.19,us,us7000aqdv,2020-09-26T16:58:34.040Z,"101 km WNW of El Aguilar, Argentina",earthquake,7.7,9,0.272,4,reviewed,us,us
+2020-07-19T13:00:06.729Z,-18.7786,-67.8614,192.55,4.6,mb,,33,1.539,0.56,us,us7000ar8l,2020-09-26T16:58:39.040Z,"104 km WSW of Poopó, Bolivia",earthquake,7.1,5.9,0.032,296,reviewed,us,us
+2020-07-19T16:52:51.067Z,-20.3058,-70.1446,68.1,4.5,mwr,,131,0.705,1.07,us,us7000ar9p,2021-01-14T17:51:08.564Z,"10 km S of Iquique, Chile",earthquake,5.5,5.8,0.062,25,reviewed,us,us
+2020-07-21T18:02:00.078Z,-22.1976,-68.5687,121.71,4.9,mww,,33,0.741,1.04,us,us7000asin,2020-09-26T16:58:44.040Z,"46 km NE of Calama, Chile",earthquake,4.9,4,0.098,10,reviewed,us,us
+2020-07-22T22:25:11.397Z,-27.2861,-70.0623,94.63,5,mww,,58,0.342,0.7,us,us6000b2a6,2020-10-03T17:32:15.040Z,"28 km ENE of Copiapó, Chile",earthquake,4.4,4,,,reviewed,us,guc
+2020-07-23T12:47:33.705Z,-22.3147,-67.1466,167.88,4.5,mb,,36,1.145,1.23,us,us6000b2ma,2020-10-03T17:32:17.040Z,"126 km ENE of San Pedro de Atacama, Chile",earthquake,7.8,7.2,0.144,16,reviewed,us,us
+2020-07-25T16:31:15.815Z,-17.4809,-69.8895,10,4.9,mb,,107,0.405,1.34,us,us6000b420,2025-12-22T18:38:49.496Z,"15 km E of Tarata, Peru",earthquake,3.2,1.8,0.067,71,reviewed,us,us
+2020-07-26T10:07:15.059Z,-17.5285,-69.8417,10,4.5,mwr,,111,0.35,0.89,us,us6000b4bv,2020-10-03T17:32:24.040Z,"18 km E of Estique, Peru",earthquake,3.1,1.9,0.059,28,reviewed,us,us
+2020-07-26T11:28:49.196Z,-17.5168,-69.8323,16.84,4.8,mwr,,111,0.343,0.86,us,us6000b4cp,2025-12-22T18:38:55.563Z,"19 km E of Estique, Peru",earthquake,4.6,1.7,0.058,29,reviewed,us,us
+2020-07-26T13:14:26.072Z,-17.5498,-69.8281,10,4.5,mb,,102,0.334,0.77,us,us6000b4e2,2020-10-03T17:32:25.040Z,"20 km E of Estique, Peru",earthquake,3,1.9,0.145,14,reviewed,us,us
+2020-07-26T13:56:26.642Z,-25.7516,-69.5844,35,4.6,mb,,76,0.994,1.29,us,us6000b4e3,2020-10-03T17:32:25.040Z,"82 km NE of Diego de Almagro, Chile",earthquake,5.5,1.9,0.103,28,reviewed,us,us
+2020-08-03T11:56:52.129Z,-19.5898,-69.1855,101.56,5.5,mww,,42,0.078,0.86,us,us6000b8pf,2025-12-22T18:39:28.920Z,"122 km NE of Iquique, Chile",earthquake,5.7,3.2,0.054,33,reviewed,us,us
+2020-08-03T18:26:00.207Z,-20.4841,-68.8715,98.29,4.5,mwr,,78,0.431,0.61,us,us6000b8tt,2020-10-10T17:11:11.040Z,"136 km ESE of Iquique, Chile",earthquake,4.7,4.9,,,reviewed,us,guc
+2020-08-07T23:53:53.895Z,-32.983,-70.1928,123.45,4.7,mwr,,96,0.372,0.67,us,us6000bawf,2020-10-21T22:03:56.040Z,"41 km ESE of Los Andes, Chile",earthquake,4.5,3.8,,,reviewed,us,guc
+2020-08-08T10:01:12.191Z,-24.0198,-66.6884,210.26,4.5,mb,,39,1.732,0.72,us,us6000bb21,2020-10-21T22:03:57.040Z,"43 km WNW of San Antonio de los Cobres, Argentina",earthquake,7.5,6.9,0.052,107,reviewed,us,us
+2020-08-11T05:38:02.878Z,-29.9792,-71.6585,39.15,4.5,mb,,148,0.769,0.78,us,us6000bch7,2020-10-21T22:04:09.040Z,"30 km W of Coquimbo, Chile",earthquake,5.3,6.8,0.119,21,reviewed,us,us
+2020-08-11T05:51:40.427Z,-23.8245,-66.6898,191.39,4.5,mwr,,56,1.62,0.71,us,us6000bchb,2020-10-21T22:04:09.040Z,"57 km NW of San Antonio de los Cobres, Argentina",earthquake,6,5.2,,,reviewed,us,guc
+2020-08-12T06:37:17.686Z,-34.959,-72.6923,18.45,4.6,mb,,133,0.627,0.81,us,us6000bd5j,2020-10-24T20:08:45.040Z,"48 km NNW of Constitución, Chile",earthquake,5.6,4.1,0.053,105,reviewed,us,us
+2020-08-12T20:54:35.799Z,-30.2677,-71.6197,61.78,4.6,mb,,148,0.405,0.6,us,us6000bdm3,2020-10-24T20:08:46.040Z,"44 km SW of Coquimbo, Chile",earthquake,5.4,5.8,0.272,4,reviewed,us,us
+2020-08-15T11:11:58.627Z,-33.223,-70.167,10,4.8,mww,,46,0.183,0.84,us,us6000bf5r,2020-10-24T20:08:53.040Z,"45 km E of Chicureo Abajo, Chile",earthquake,2.4,1.8,0.069,20,reviewed,us,us
+2020-08-15T12:32:54.854Z,-19.9374,-69.2033,98.87,4.5,mb,,77,0.208,0.56,us,us6000bf6a,2020-10-24T20:08:53.040Z,"103 km ENE of Iquique, Chile",earthquake,5.9,4,0.109,25,reviewed,us,us
+2020-08-16T03:18:50.046Z,-19.2414,-70.2937,60.36,5.1,mww,,44,0.388,1.1,us,us6000bff9,2025-12-22T18:40:33.473Z,"84 km S of Arica, Chile",earthquake,4.6,1.4,0.098,10,reviewed,us,us
+2020-08-16T13:27:11.703Z,-24.2565,-67.3178,180.31,4.5,mwr,,61,1.519,0.83,us,us6000bflv,2020-10-24T20:08:56.040Z,"101 km W of San Antonio de los Cobres, Argentina",earthquake,8.8,7.6,,,reviewed,us,guc
+2020-08-25T22:44:30.848Z,-26.22,-69.5268,10,4.8,mb,,42,0.709,1.18,us,us7000bczw,2020-10-31T19:06:29.040Z,"54 km ENE of Diego de Almagro, Chile",earthquake,3.5,1.5,0.079,49,reviewed,us,us
+2020-08-27T03:21:31.660Z,-31.4214,-68.8352,110.04,4.7,mb,,64,0.178,1.11,us,us7000bdiu,2020-11-07T18:48:29.040Z,"17 km NW of Villa Basilio Nievas, Argentina",earthquake,3.6,4.7,0.207,7,reviewed,us,us
+2020-08-27T20:55:34.974Z,-28.0446,-71.7069,10,4.5,mb,,152,0.581,0.93,us,us7000be0f,2020-11-07T18:48:30.040Z,"110 km WNW of Vallenar, Chile",earthquake,4.8,1.9,0.312,4,reviewed,us,us
+2020-09-01T04:09:28.470Z,-27.9686,-71.3062,21,6.8,mww,,69,0.312,0.88,us,us7000bfjr,2025-12-22T18:41:19.692Z,"86 km NW of Vallenar, Chile",earthquake,5.5,1.8,0.039,62,reviewed,us,us
+2020-09-01T04:20:46.447Z,-27.951,-71.1538,22.86,5.1,mb,,138,0.262,0.67,us,us7000bhty,2020-11-07T18:48:51.040Z,"79 km NNW of Vallenar, Chile",earthquake,4.6,5,0.216,7,reviewed,us,us
+2020-09-01T04:30:02.173Z,-28.0315,-71.2662,16.18,6.3,mww,,69,0.242,0.91,us,us7000bfjx,2025-12-22T18:41:20.788Z,"78 km NW of Vallenar, Chile",earthquake,4,3,0.058,29,reviewed,us,us
+2020-09-01T04:36:36.982Z,-27.968,-71.2008,28,5.1,mwr,,139,0.261,0.93,us,us7000bfk7,2020-11-07T18:48:42.040Z,"80 km NNW of Vallenar, Chile",earthquake,3.1,1.8,0.089,12,reviewed,us,us
+2020-09-01T04:44:10.248Z,-27.8353,-70.8896,15.39,4.8,mb,,122,0.402,0.7,us,us7000bfki,2020-11-07T18:48:42.040Z,"75 km SW of Copiapó, Chile",earthquake,3.9,4.2,0.138,18,reviewed,us,us
+2020-09-01T05:14:45.891Z,-28.0101,-71.2206,33.78,4.5,mb,,135,0.233,0.67,us,us7000bfku,2020-11-07T18:48:42.040Z,"77 km NW of Vallenar, Chile",earthquake,3.5,4.7,0.091,37,reviewed,us,us
+2020-09-01T05:19:40.347Z,-27.9364,-71.282,17.45,4.6,mb,,138,0.324,0.68,us,us7000bfky,2020-11-07T18:48:42.040Z,"87 km NW of Vallenar, Chile",earthquake,3.5,2.8,0.075,53,reviewed,us,us
+2020-09-01T05:21:09.319Z,-28.044,-71.2997,23.95,4.9,mb,,102,0.255,0.84,us,us7000bhv5,2020-11-07T18:48:53.040Z,"79 km NW of Vallenar, Chile",earthquake,4.7,4.8,0.116,23,reviewed,us,us
+2020-09-01T05:26:21.291Z,-27.8963,-71.2377,17.12,4.8,mb,,136,0.339,0.58,us,us7000bfl4,2020-11-07T18:48:42.040Z,"88 km NNW of Vallenar, Chile",earthquake,4.2,3.7,0.043,169,reviewed,us,us
+2020-09-01T05:29:39.438Z,-27.9801,-71.2842,19.22,5.4,mww,,104,0.29,0.51,us,us7000bfld,2020-11-07T18:48:42.040Z,"83 km NW of Vallenar, Chile",earthquake,3,3,0.089,12,reviewed,us,us
+2020-09-01T05:37:07.525Z,-27.9516,-71.2989,21.28,4.5,mb,,129,0.321,0.81,us,us7000bhv4,2020-11-07T18:48:53.040Z,"87 km NW of Vallenar, Chile",earthquake,3.3,5.7,0.312,3,reviewed,us,us
+2020-09-01T06:21:19.900Z,-27.9499,-70.9247,19.69,4.5,mb,,117,0.286,0.82,us,us7000bhv2,2020-11-07T18:48:53.040Z,"71 km NNW of Vallenar, Chile",earthquake,4.2,3.4,0.11,24,reviewed,us,us
+2020-09-01T06:28:23.290Z,-27.895,-71.1285,21.09,4.7,mwr,,73,0.312,0.47,us,us7000bfm3,2020-11-07T18:48:42.040Z,"83 km NNW of Vallenar, Chile",earthquake,4.2,4.8,,,reviewed,us,guc
+2020-09-01T07:01:25.574Z,-27.9964,-71.3814,18.11,5.8,mww,,86,0.341,1.04,us,us7000bfmj,2025-12-22T17:58:34.592Z,"88 km NW of Vallenar, Chile",earthquake,3.7,2.6,0.078,16,reviewed,us,us
+2020-09-01T10:31:52.471Z,-27.8691,-71.3922,22,5.7,mww,,130,0.436,0.71,us,us7000bfq3,2025-12-22T18:41:22.105Z,"99 km NW of Vallenar, Chile",earthquake,4.1,1.3,0.061,26,reviewed,us,us
+2020-09-01T11:30:55.696Z,-27.8849,-71.1091,34.72,4.6,mb,,186,0.32,0.44,us,us7000bhum,2020-11-07T18:48:52.040Z,"83 km NNW of Vallenar, Chile",earthquake,4.4,6.2,0.314,3,reviewed,us,us
+2020-09-01T17:13:22.241Z,-27.8784,-71.3901,16.25,5,mww,,86,0.428,0.89,us,us7000bfxk,2025-12-22T17:58:35.834Z,"99 km NW of Vallenar, Chile",earthquake,1.9,2.9,0.098,10,reviewed,us,us
+2020-09-01T21:09:17.852Z,-27.9162,-71.3701,16,6.5,mww,,49,0.388,0.9,us,us7000bg4v,2025-12-22T18:41:24.702Z,"94 km NW of Vallenar, Chile",earthquake,4.3,1.6,0.071,19,reviewed,us,us
+2020-09-02T03:04:27.057Z,-27.8784,-71.45,15.32,4.8,mwr,,141,0.464,0.7,us,us7000bga9,2025-12-22T18:41:28.784Z,"102 km NW of Vallenar, Chile",earthquake,4.3,3.4,0.046,45,reviewed,us,us
+2020-09-02T13:38:18.382Z,-27.9881,-71.1998,28.6,4.7,mb,,98,0.242,0.72,us,us7000bgil,2020-11-17T19:44:22.040Z,"78 km NNW of Vallenar, Chile",earthquake,4,1.5,0.097,32,reviewed,us,us
+2020-09-03T03:23:54.942Z,-27.9569,-71.5003,10.42,4.6,mwr,,98,0.45,0.77,us,us7000bh08,2020-11-17T19:44:24.040Z,"99 km NW of Vallenar, Chile",earthquake,4.7,3.4,0.05,39,reviewed,us,us
+2020-09-03T18:41:44.958Z,-27.8438,-71.5547,10,4.6,mb,,118,0.556,1.06,us,us7000bhcb,2020-11-17T19:44:29.040Z,"112 km NW of Vallenar, Chile",earthquake,4,1.8,0.243,6,reviewed,us,us
+2020-09-05T06:39:41.996Z,-27.9433,-71.5884,10.93,4.8,mwr,,145,0.523,0.72,us,us7000bic8,2025-12-22T18:41:41.888Z,"107 km NW of Vallenar, Chile",earthquake,3.4,2.9,0.056,31,reviewed,us,us
+2020-09-06T01:16:58.935Z,-30.3388,-71.4912,30,6.3,mww,,32,0.356,1.09,us,us7000biqb,2025-12-22T18:44:01.097Z,"40 km NW of Ovalle, Chile",earthquake,5,1.8,0.042,54,reviewed,us,us
+2020-09-06T11:21:00.818Z,-27.9912,-71.3805,18.65,4.7,mwr,,157,0.344,0.49,us,us7000biwi,2020-11-17T19:44:45.040Z,"88 km NW of Vallenar, Chile",earthquake,3.1,3.8,0.057,30,reviewed,us,us
+2020-09-06T11:30:34.047Z,-27.9994,-71.4183,25.63,4.5,mb,,182,0.366,0.88,us,us7000biwj,2020-11-17T19:44:45.040Z,"90 km NW of Vallenar, Chile",earthquake,4,7.5,0.242,5,reviewed,us,us
+2020-09-06T18:34:00.502Z,-31.2756,-69.0544,121.82,4.5,mb,,47,0.415,1.06,us,us7000bj0j,2020-11-17T19:44:47.040Z,"35 km E of Calingasta, Argentina",earthquake,7.7,6.1,0.192,8,reviewed,us,us
+2020-09-07T00:00:36.569Z,-20.7881,-67.4515,213.16,4.5,mb,,79,1.72,0.9,us,us7000bj3k,2020-11-17T19:44:48.040Z,"74 km WSW of Uyuni, Bolivia",earthquake,5.9,11,0.204,7,reviewed,us,us
+2020-09-10T20:39:14.431Z,-27.7489,-71.4899,10,4.6,mb,,122,0.584,1.01,us,us7000blfg,2020-11-21T20:10:35.040Z,"116 km NW of Vallenar, Chile",earthquake,4.9,1.8,0.164,11,reviewed,us,us
+2020-09-11T00:57:20.654Z,-20.8469,-69.0314,123.95,4.6,mb,,59,0.711,0.6,us,us7000bljf,2020-11-21T20:10:35.040Z,"136 km ESE of Iquique, Chile",earthquake,5.4,6.7,0.137,16,reviewed,us,us
+2020-09-11T07:35:57.187Z,-21.3968,-69.9096,51,6.2,mww,,72,0.077,0.88,us,us7000blm2,2025-12-22T18:42:01.126Z,"82 km NNE of Tocopilla, Chile",earthquake,6.3,1.9,0.071,19,reviewed,us,us
+2020-09-11T08:25:07.591Z,-21.4278,-69.9452,45.09,4.5,mwr,,72,0.116,0.65,us,us7000blpf,2020-11-21T20:10:36.040Z,"78 km NNE of Tocopilla, Chile",earthquake,4.8,6.4,,,reviewed,us,guc
+2020-09-11T10:13:44.000Z,-21.3855,-69.9127,51.83,4.5,mb,,136,0.067,0.63,us,us7000blr1,2020-11-21T20:10:36.040Z,"83 km NNE of Tocopilla, Chile",earthquake,4.2,3.7,0.191,8,reviewed,us,us
+2020-09-12T09:45:30.892Z,-28.1081,-71.4217,20.4,4.5,mb,,145,0.321,1.12,us,us7000bmdd,2020-11-21T20:10:38.040Z,"83 km NW of Vallenar, Chile",earthquake,5.6,5.8,0.192,8,reviewed,us,us
+2020-09-15T05:11:53.373Z,-27.899,-71.4485,17.7,4.5,mwr,,134,0.449,0.42,us,us7000bned,2020-11-21T20:10:43.040Z,"101 km NW of Vallenar, Chile",earthquake,4.3,2,0.068,21,reviewed,us,us
+2020-09-17T01:33:17.034Z,-30.3165,-71.5753,35,4.8,mwr,,59,0.359,0.89,us,us7000bp82,2025-12-22T18:42:14.386Z,"46 km SSW of Coquimbo, Chile",earthquake,4.5,1.9,0.037,69,reviewed,us,us
+2020-09-17T10:02:58.022Z,-17.5896,-69.2226,152.37,4.5,mb,,47,0.245,1.16,us,us7000bpbq,2020-11-28T21:31:48.040Z,"80 km ENE of Palca, Peru",earthquake,7.3,5,0.109,25,reviewed,us,us
+2020-09-19T09:26:49.610Z,-21.0136,-68.6888,123.66,4.9,mww,,34,0.934,1,us,us7000bq5p,2025-12-22T18:42:26.221Z,"161 km N of Calama, Chile",earthquake,5.9,4,0.069,20,reviewed,us,us
+2020-09-22T11:53:06.753Z,-21.8063,-68.4485,127.27,4.9,mww,,42,0.737,0.67,us,us6000bzmn,2020-11-28T21:32:04.040Z,"87 km NE of Calama, Chile",earthquake,5.6,5.4,0.098,10,reviewed,us,us
+2020-09-22T20:13:19.440Z,-30.6963,-71.6657,31.02,4.7,mb,,145,0.034,0.69,us,us6000bzsb,2020-11-28T21:32:05.040Z,"45 km WSW of Ovalle, Chile",earthquake,4.2,4.5,0.101,34,reviewed,us,us
+2020-09-28T16:49:16.778Z,-33.0043,-72.059,18.23,4.8,mb,,151,0.354,0.6,us,us6000c269,2022-08-09T00:37:33.664Z,"40 km W of Valparaíso, Chile",earthquake,3.9,3.3,0.139,20,reviewed,us,us
+2020-09-29T14:24:31.669Z,-33.6998,-70.8277,85.25,4.5,mb,,41,0.154,0.37,us,us6000c2lq,2022-08-09T00:38:49.279Z,"8 km WNW of Buin, Chile",earthquake,4.9,4.5,0.15,13,reviewed,us,us
+2020-09-30T13:29:31.457Z,-19.4704,-69.3817,106,4.5,mb,,54,0.264,0.39,us,us6000c34x,2020-12-12T22:28:24.040Z,"Tarapaca, Chile",earthquake,4.3,4.6,0.156,12,reviewed,us,us
+2020-10-01T05:30:18.730Z,-22.5454,-66.3171,250.32,4.5,mb,,45,1.765,0.56,us,us6000c3q5,2020-12-12T22:28:28.040Z,"66 km WNW of Abra Pampa, Argentina",earthquake,8.2,8.3,0.15,13,reviewed,us,us
+2020-10-01T23:13:03.402Z,-24.1633,-67.033,174.54,4.5,mwr,,40,1.599,1.23,us,us6000c4dw,2020-12-12T22:28:32.040Z,"72 km W of San Antonio de los Cobres, Argentina",earthquake,5.6,5.8,,,reviewed,us,guc
+2020-10-03T07:04:44.807Z,-29.6947,-67.1602,119.28,4.5,mb,,141,2.264,0.8,us,us6000c54h,2020-12-12T22:28:36.040Z,"43 km SW of La Rioja, Argentina",earthquake,11.8,14,0.181,9,reviewed,us,us
+2020-10-06T05:06:41.803Z,-38.3582,-75.0844,13.96,4.9,mww,,72,2.202,0.55,us,us6000c5zf,2020-12-12T22:28:41.040Z,"150 km WSW of Lebu, Chile",earthquake,5.2,3.8,0.065,23,reviewed,us,us
+2020-10-07T05:34:22.907Z,-28.9862,-71.1571,49.97,4.5,mwr,,91,0.4,0.83,us,us6000c6bs,2022-08-09T00:47:08.423Z,"59 km SW of Vallenar, Chile",earthquake,4.5,6.5,0.04,60,reviewed,us,us
+2020-10-09T08:55:51.522Z,-27.8978,-66.405,163.02,5,mb,,79,2.643,0.7,us,us6000c701,2020-12-19T17:22:41.040Z,"36 km SSW of Andalgalá, Argentina",earthquake,3.5,8.1,0.086,43,reviewed,us,us
+2020-10-10T06:48:42.137Z,-33.7317,-72.46,9.24,4.5,mwr,,175,0.986,0.32,us,us6000c79c,2022-08-09T00:49:36.207Z,"80 km W of San Antonio, Chile",earthquake,2.6,5.1,0.055,32,reviewed,us,us
+2020-10-13T17:16:15.828Z,-26.135,-71.1099,10,4.9,mwr,,99,0.459,0.99,us,us6000c826,2025-12-22T17:59:04.436Z,"102 km SW of Taltal, Chile",earthquake,2.2,1.6,0.052,36,reviewed,us,us
+2020-10-14T23:18:27.231Z,-31.7188,-68.1737,111.34,4.5,mwr,,42,0.126,1.02,us,us6000c8dv,2020-12-29T23:07:21.040Z,"12 km SE of Caucete, Argentina",earthquake,7.7,3.5,0.052,36,reviewed,us,us
+2020-10-15T02:20:10.906Z,-31.5425,-68.9639,110.26,4.9,mww,,40,0.238,1.13,us,us6000c8ev,2021-02-08T03:50:01.193Z,"21 km W of Villa Basilio Nievas, Argentina",earthquake,5.1,2.6,0.057,30,reviewed,us,us
+2020-10-18T00:57:36.705Z,-28.2804,-68.7497,111.18,4.5,mb,,41,1.45,0.85,us,us6000c92h,2022-08-09T01:01:48.787Z,"75 km NW of Vinchina, Argentina",earthquake,6.5,6.2,0.092,35,reviewed,us,us
+2020-10-18T16:54:06.197Z,-27.3036,-70.8838,31.65,4.9,mb,,118,0.174,0.84,us,us6000c980,2020-12-29T23:07:36.040Z,"55 km W of Copiapó, Chile",earthquake,3.9,1.9,0.106,28,reviewed,us,us
+2020-10-19T07:45:09.380Z,-19.4896,-67.8104,238.27,4.5,mb,,66,1.316,0.71,us,us6000c9cn,2020-12-29T23:07:38.040Z,"127 km WSW of Challapata, Bolivia",earthquake,8.4,7.3,0.102,28,reviewed,us,us
+2020-10-21T09:13:06.593Z,-25.5231,-70.9323,20,5.7,mww,,101,0.691,0.64,us,us6000caj9,2025-12-22T18:44:12.536Z,"46 km WSW of Taltal, Chile",earthquake,5.1,1.8,0.053,34,reviewed,us,us
+2020-10-23T16:29:55.557Z,-27.5866,-67.2969,123.4,5,mb,,66,2.607,0.97,us,us6000cc6p,2021-01-09T20:05:22.040Z,"21 km NW of Londres, Argentina",earthquake,5.9,5.7,0.111,26,reviewed,us,us
+2020-10-25T21:17:14.828Z,-20.0026,-70.9641,10,5.3,mww,,115,0.888,0.67,us,us6000cd2g,2025-12-22T18:44:23.237Z,"88 km WNW of Iquique, Chile",earthquake,4.4,1.8,0.063,24,reviewed,us,us
+2020-10-25T21:32:42.030Z,-23.2412,-68.5372,117.98,4.6,mwr,,42,0.437,0.78,us,us6000cd2z,2021-01-09T20:05:26.040Z,"50 km SW of San Pedro de Atacama, Chile",earthquake,6,4.1,,,reviewed,us,guc
+2020-10-28T04:52:32.177Z,-34.8887,-71.6926,57.62,5.5,mww,,24,0.229,0.77,us,us7000c6lj,2025-12-22T18:45:25.469Z,"34 km W of Rauco, Chile",earthquake,4,3.1,0.05,39,reviewed,us,us
+2020-10-28T14:53:11.368Z,-29.3186,-71.2397,50,5.8,mww,,101,0.562,0.57,us,us7000c6u9,2025-12-22T18:44:33.110Z,"64 km N of La Serena, Chile",earthquake,4.1,1.8,0.05,38,reviewed,us,us
+2020-10-29T16:08:38.894Z,-17.7108,-69.8073,150.37,4.9,mww,,95,0.334,0.88,us,us7000c7ji,2021-01-18T23:01:42.040Z,"17 km ENE of Palca, Peru",earthquake,6.5,3.6,0.089,12,reviewed,us,us
+2020-10-31T11:08:35.990Z,-21.737,-68.5078,120.4,4.5,mb,,42,0.684,0.6,us,us7000c8lp,2021-01-18T23:01:52.040Z,"90 km NNE of Calama, Chile",earthquake,6.5,7,0.163,11,reviewed,us,us
+2020-11-01T02:47:33.542Z,-18.6705,-69.9055,86.19,4.6,mb,,85,0.404,0.86,us,us7000c8un,2021-01-18T23:01:55.040Z,"46 km ESE of Arica, Chile",earthquake,3.2,5.6,0.125,20,reviewed,us,us
+2020-11-02T05:10:46.430Z,-31.8675,-67.0357,117.31,4.6,mb,,43,1.441,0.92,us,us7000c95h,2021-01-18T23:02:00.040Z,"104 km NNW of Villa General Roca, Argentina",earthquake,8.3,6.4,0.122,20,reviewed,us,us
+2020-11-03T09:35:24.406Z,-21.6173,-68.6221,139.55,4.5,mwr,,42,0.603,1.31,us,us7000c9ng,2021-01-18T23:02:08.040Z,"98 km NNE of Calama, Chile",earthquake,6,5.6,,,reviewed,us,guc
+2020-11-06T16:50:53.473Z,-21.1342,-67.9093,163.48,4.5,mb,,52,1.405,0.86,us,us7000cbeh,2021-01-23T22:25:32.040Z,"135 km WSW of Uyuni, Bolivia",earthquake,7.9,7.8,0.181,9,reviewed,us,us
+2020-11-11T00:56:17.392Z,-24.1163,-66.9328,167.47,4.5,mb,,40,1.628,1.13,us,us7000cd6g,2021-01-27T17:28:32.040Z,"63 km W of San Antonio de los Cobres, Argentina",earthquake,7.8,5.5,0.073,55,reviewed,us,us
+2020-11-13T23:26:59.873Z,-31.7563,-71.529,46.99,4.7,mb,,62,0.551,0.67,us,us7000cer3,2021-01-27T17:29:08.040Z,"36 km WSW of Illapel, Chile",earthquake,4.4,5.4,0.059,87,reviewed,us,us
+2020-11-14T14:29:19.478Z,-20.398,-69.0399,85.26,4.8,mwr,,66,0.276,0.93,us,us7000ceym,2021-01-27T17:29:31.040Z,"117 km E of Iquique, Chile",earthquake,4.3,4.7,0.046,45,reviewed,us,us
+2020-11-15T12:18:06.421Z,-23.3956,-66.7794,214.03,4.5,mb,,99,1.361,0.76,us,us7000cfa4,2021-01-27T17:29:40.040Z,"102 km NNW of San Antonio de los Cobres, Argentina",earthquake,10.3,9.1,0.22,6,reviewed,us,us
+2020-11-15T12:33:15.076Z,-24.1244,-67.5284,141.29,5.3,mww,,37,1.31,0.8,us,us7000cfa7,2025-12-22T18:45:18.134Z,"123 km W of San Antonio de los Cobres, Argentina",earthquake,8.4,6.9,0.057,30,reviewed,us,us
+2020-11-15T23:19:02.596Z,-24.3588,-67.1532,165.94,4.5,mwr,,61,1.686,0.8,us,us7000cfg3,2021-01-27T17:29:46.040Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,8.4,8.5,,,reviewed,us,guc
+2020-11-16T16:41:20.268Z,-23.9391,-66.8157,197.12,4.5,mb,,111,1.591,0.78,us,us7000cfql,2021-01-27T17:29:57.040Z,"59 km WNW of San Antonio de los Cobres, Argentina",earthquake,9.4,6.9,0.204,8,reviewed,us,us
+2020-11-16T20:18:34.172Z,-28.4294,-71.1049,43.01,4.8,mwr,,86,0.225,1.1,us,us7000cftt,2022-08-09T01:26:35.103Z,"37 km WNW of Vallenar, Chile",earthquake,4.9,3.2,0.034,83,reviewed,us,us
+2020-11-20T17:02:39.643Z,-18.1833,-69.9993,130.93,4.5,mwr,,72,0.375,1.32,us,us6000cqwe,2021-02-03T17:50:57.040Z,"32 km SE of Tacna, Peru",earthquake,6,4.1,,,reviewed,us,guc
+2020-11-21T02:11:48.221Z,-30.9181,-71.4511,51,5.5,mww,,46,0.29,1.06,us,us6000cr45,2025-12-22T18:45:41.242Z,"42 km SW of Ovalle, Chile",earthquake,5.4,1.6,0.052,35,reviewed,us,us
+2020-11-22T00:54:56.794Z,-34.5978,-73.0596,22,6.1,mww,,16,1.016,0.59,us,us6000crcq,2025-12-22T18:47:57.973Z,"100 km NW of Constitución, Chile",earthquake,4.6,1.8,0.034,83,reviewed,us,us
+2020-11-23T22:07:50.804Z,-22.6077,-66.0839,247.89,4.6,mwr,,25,1.963,0.89,us,us6000crt3,2021-02-03T17:49:42.040Z,"41 km WNW of Abra Pampa, Argentina",earthquake,7.6,6.1,,,reviewed,us,guc
+2020-11-24T01:44:43.550Z,-33.6991,-70.3339,111.26,4.6,mb,,66,0.059,0.41,us,us6000crwl,2021-02-03T17:50:21.040Z,"24 km ESE of Puente Alto, Chile",earthquake,4.6,4.4,0.183,9,reviewed,us,us
+2020-11-24T17:45:18.896Z,-31.5989,-68.774,103.99,4.5,mb,,41,0.093,1.11,us,us6000cs2n,2021-02-03T17:50:23.040Z,"6 km SW of Villa Basilio Nievas, Argentina",earthquake,5.6,3.6,0.115,25,reviewed,us,us
+2020-11-25T04:04:58.642Z,-31.2941,-68.9649,113.23,4.6,mb,,44,0.347,0.51,us,us6000csbu,2021-02-06T18:28:03.040Z,"35 km NW of Villa Basilio Nievas, Argentina",earthquake,6.1,4.9,0.053,107,reviewed,us,us
+2020-11-25T10:58:24.257Z,-35.5767,-71.7229,77.48,4.5,mwr,,106,0.309,0.75,us,us6000csfp,2021-02-06T18:28:06.040Z,"2 km NNE of San Javier, Chile",earthquake,6.5,4.4,0.037,69,reviewed,us,us
+2020-11-30T22:55:03.914Z,-24.3221,-67.0048,189,6.3,mww,,32,1.737,1.06,us,us7000clbs,2026-02-04T20:35:59.794Z,"70 km W of San Antonio de los Cobres, Argentina",earthquake,7.6,1.8,0.043,52,reviewed,us,us
+2020-11-30T23:02:39.988Z,-24.4021,-67.2808,175.9,4.7,mwr,,70,1.661,1.21,us,us7000clcm,2021-02-06T18:29:22.040Z,"99 km WSW of San Antonio de los Cobres, Argentina",earthquake,8,8.4,,,reviewed,us,guc
+2020-12-02T17:00:35.810Z,-24.2149,-69.3203,66.44,5.2,mww,,43,1.069,1.18,us,us7000cm6c,2025-12-22T18:46:25.555Z,"125 km ESE of Antofagasta, Chile",earthquake,5.2,4.2,0.073,18,reviewed,us,us
+2020-12-03T01:52:50.273Z,-21.2643,-68.9031,115.58,4.6,mb,,34,0.588,0.61,us,us7000cmc5,2021-02-12T22:38:27.040Z,"132 km N of Calama, Chile",earthquake,5.9,4.9,0.132,17,reviewed,us,us
+2020-12-03T02:37:26.432Z,-31.9253,-67.141,127.68,5.2,mww,,41,0.987,0.85,us,us7000cmcg,2025-12-22T18:46:28.174Z,"104 km NW of Villa General Roca, Argentina",earthquake,7.2,4,0.048,41,reviewed,us,us
+2020-12-03T20:58:02.760Z,-24.2635,-67.0897,157.02,4.5,mb,,63,1.643,0.84,us,us7000cmpj,2021-02-12T22:38:42.040Z,"78 km W of San Antonio de los Cobres, Argentina",earthquake,3,7.3,0.192,8,reviewed,us,us
+2020-12-04T04:06:17.720Z,-23.8622,-66.5468,193.4,5.1,mww,,27,1.751,0.95,us,us7000cmu1,2025-12-22T18:46:31.731Z,"45 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.5,4.3,0.052,36,reviewed,us,us
+2020-12-04T05:48:23.090Z,-31.3225,-68.9453,105.42,5,mb,,30,0.315,0.78,us,us7000cmus,2021-02-12T22:38:49.040Z,"32 km NW of Villa Basilio Nievas, Argentina",earthquake,5.6,4,0.082,47,reviewed,us,us
+2020-12-05T10:14:43.781Z,-24.2192,-67.1798,178.01,4.5,mb,,90,1.559,0.68,us,us7000cne9,2021-02-12T22:39:23.040Z,"87 km W of San Antonio de los Cobres, Argentina",earthquake,4.9,6.6,0.059,84,reviewed,us,us
+2020-12-06T16:47:42.643Z,-20.3947,-69.0609,105,6.1,mww,,30,0.266,1.17,us,us7000cnnz,2025-12-22T19:05:32.721Z,"115 km E of Iquique, Chile",earthquake,3.1,1.9,0.05,39,reviewed,us,us
+2020-12-08T07:07:20.597Z,-32.0622,-71.5075,44.26,5,mww,,49,0.452,0.89,us,us7000cp39,2025-12-22T18:46:42.181Z,"50 km NNW of La Ligua, Chile",earthquake,2.9,3.7,0.062,25,reviewed,us,us
+2020-12-09T10:20:52.539Z,-21.1386,-68.8913,118.72,4.6,mwr,,44,0.564,0.93,us,us7000cpez,2021-02-20T16:10:54.040Z,"145 km N of Calama, Chile",earthquake,6.2,5.3,,,reviewed,us,guc
+2020-12-09T10:46:46.756Z,-24.2637,-68.219,144.12,4.5,mwr,,58,1.306,0.72,us,us7000cpf5,2021-02-20T16:10:54.040Z,"Chile-Argentina border region",earthquake,3.6,7.7,,,reviewed,us,guc
+2020-12-10T13:05:24.793Z,-20.6089,-69.2047,113.77,4.5,mwr,,63,0.467,1.1,us,us7000cpqw,2021-02-20T16:11:05.040Z,"107 km ESE of Iquique, Chile",earthquake,6,5,,,reviewed,us,guc
+2020-12-11T11:09:56.118Z,-23.158,-66.8911,217.25,4.5,mb,,44,1.203,0.78,us,us7000cq8p,2021-02-20T16:11:18.040Z,"124 km W of El Aguilar, Argentina",earthquake,8.5,6,0.054,100,reviewed,us,us
+2020-12-12T07:13:10.427Z,-32.282,-71.7903,20.88,4.5,mwr,,75,0.731,0.61,us,us7000cqhr,2022-08-09T01:46:24.449Z,"55 km WNW of La Ligua, Chile",earthquake,3.3,4.3,0.041,57,reviewed,us,us
+2020-12-13T11:44:20.976Z,-24.3245,-67.343,182.78,4.8,mb,,46,1.566,0.62,us,us7000cqrx,2021-02-20T16:11:41.040Z,"104 km W of San Antonio de los Cobres, Argentina",earthquake,11,9.9,0.127,19,reviewed,us,us
+2020-12-14T15:20:49.542Z,-21.8063,-68.7079,114,6,mww,,34,0.496,0.71,us,us7000cqyz,2025-12-22T18:46:57.766Z,"75 km NNE of Calama, Chile",earthquake,5.6,1.8,0.045,47,reviewed,us,us
+2020-12-16T07:58:55.547Z,-32.848,-72.0041,13.64,4.5,mb,,138,0.354,0.77,us,us7000cri4,2021-02-27T23:24:53.040Z,"40 km WNW of Valparaíso, Chile",earthquake,4.3,4,0.128,18,reviewed,us,us
+2020-12-19T22:39:55.477Z,-23.9336,-66.9346,217.24,4.5,mb,,89,1.503,0.95,us,us7000csjd,2021-02-27T23:26:18.040Z,"70 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.8,8.3,0.163,11,reviewed,us,us
+2020-12-20T23:36:04.483Z,-22.7065,-68.7053,106.06,4.9,mwr,,62,0.543,0.81,us,us7000cst0,2021-02-27T23:26:43.040Z,"Antofagasta, Chile",earthquake,4.9,3.9,,,reviewed,us,guc
+2020-12-23T03:31:26.611Z,-24.2434,-66.9704,199.81,4.5,mb,,172,1.697,0.36,us,us6000d230,2021-03-06T23:17:51.040Z,"Salta, Argentina",earthquake,11.9,4.8,0.27,4,reviewed,us,us
+2020-12-24T14:15:20.333Z,-31.3578,-72.1986,21.03,4.5,mwr,,79,0.836,0.68,us,us6000d2kd,2021-03-06T23:18:20.040Z,"102 km WNW of Illapel, Chile",earthquake,5,5.3,0.045,47,reviewed,us,us
+2020-12-25T12:11:22.131Z,-32.1261,-66.7237,33.81,4.6,mb,,49,1.766,0.96,us,us6000d2xr,2021-03-06T23:18:45.040Z,"65 km NNW of Villa General Roca, Argentina",earthquake,7.1,4.5,0.123,20,reviewed,us,us
+2020-12-25T23:52:12.427Z,-17.4495,-71.2517,63.84,4.5,mb,,97,1.26,1.19,us,us6000d32h,2021-03-06T23:18:56.040Z,"19 km N of El Algarrobal, Peru",earthquake,7,5.7,0.063,74,reviewed,us,us
+2020-12-26T03:18:04.412Z,-23.169,-66.4698,217.29,4.6,mb,,48,1.588,1.08,us,us6000d33y,2021-03-06T23:18:59.040Z,"81 km W of El Aguilar, Argentina",earthquake,8.3,7.3,0.114,23,reviewed,us,us
+2020-12-26T04:37:10.035Z,-22.5617,-66.0796,235.27,4.5,mwr,,53,1.976,0.9,us,us6000d34k,2021-03-06T23:19:01.040Z,"43 km WNW of Abra Pampa, Argentina",earthquake,8.1,6.6,,,reviewed,us,guc
+2020-12-27T13:55:20.945Z,-19.079,-69.4161,110.76,5.1,mww,,102,0.622,0.58,us,us6000d3g3,2025-12-22T18:47:25.621Z,"114 km SE of Arica, Chile",earthquake,5.8,4.6,0.068,21,reviewed,us,us
+2020-12-27T21:39:14.770Z,-39.3398,-74.9849,10,6.7,mww,,19,1.319,0.63,us,us6000d3i9,2025-12-22T19:05:18.065Z,"146 km WNW of Corral, Chile",earthquake,5.8,1.7,0.048,42,reviewed,us,us
+2020-12-27T21:45:13.131Z,-39.7089,-75.0785,10,4.8,mb,,121,1.284,0.76,us,us6000d6ez,2021-03-06T23:19:37.040Z,"142 km W of Corral, Chile",earthquake,7.2,1.9,0.149,14,reviewed,us,us
+2020-12-27T21:46:59.081Z,-39.8451,-75.2256,10,5,mb,,124,1.385,0.72,us,us6000d6f8,2021-03-06T23:19:37.040Z,"153 km W of Corral, Chile",earthquake,8.3,1.9,0.133,18,reviewed,us,us
+2020-12-27T22:19:09.266Z,-39.2053,-74.9569,10,4.5,mb,,159,1.362,0.86,us,us6000d3id,2021-03-06T23:19:38.040Z,"151 km WNW of Corral, Chile",earthquake,5.4,1.9,0.18,9,reviewed,us,us
+2020-12-29T12:58:12.300Z,-39.4505,-74.9519,10,4.5,mwr,,147,1.253,0.55,us,us6000d406,2021-03-06T23:20:18.040Z,"139 km WNW of Corral, Chile",earthquake,3.9,1.9,,,reviewed,us,guc
+2020-12-29T17:31:59.201Z,-34.3785,-70.8291,92.47,4.6,mwr,,44,0.211,0.96,us,us6000d41f,2021-03-06T23:20:22.040Z,"4 km NE of Rengo, Chile",earthquake,3.5,3.8,,,reviewed,us,guc
+2020-12-29T19:29:27.598Z,-39.3139,-72.0545,107.55,4.8,mww,,52,0.389,1.1,us,us6000d42l,2021-03-06T23:20:25.040Z,"9 km WSW of Pucón, Chile",earthquake,4,3.9,0.093,11,reviewed,us,us
+2020-12-31T02:28:49.503Z,-17.0503,-74.058,30.94,4.6,mb,,183,4.973,0.83,us,us6000d4gn,2021-03-06T23:20:50.040Z,"104 km SSW of Atico, Peru",earthquake,15.2,10.5,0.146,14,reviewed,us,us

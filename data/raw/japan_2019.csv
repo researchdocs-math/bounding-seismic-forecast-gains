@@ -1,0 +1,342 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-01-02T15:11:16.070Z,39.4417,143.6408,21.01,4.5,mb,,110,2.39,0.85,us,us2000j5ui,2019-03-08T17:50:21.040Z,"145 km E of Yamada, Japan",earthquake,9.1,6.4,0.18,9,reviewed,us,us
+2019-01-03T09:10:28.440Z,33.0514,130.4705,10,4.7,mb,,97,0.348,0.6,us,us2000j00n,2020-07-10T17:21:55.993Z,"2 km NE of ?muta, Japan",earthquake,4.9,1.8,0.075,54,reviewed,us,us
+2019-01-05T06:32:18.170Z,31.2327,130.7241,115.3,4.6,mb,,83,1.891,0.59,us,us2000j0gb,2019-03-08T17:50:16.040Z,"7 km E of Ibusuki, Japan",earthquake,6.5,6.8,0.055,100,reviewed,us,us
+2019-01-06T08:34:10.220Z,38.7217,141.4426,99.75,4.7,mb,,120,0.994,0.66,us,us2000j0ry,2022-08-08T11:15:04.770Z,"33 km NE of Wakuya, Japan",earthquake,6.4,6.1,0.039,201,reviewed,us,us
+2019-01-07T06:33:44.280Z,41.4725,143.1673,34.96,4.5,mb,,125,0.542,1.02,us,us2000j10j,2019-03-08T17:50:18.040Z,"116 km SE of Shizunai-furukawach?, Japan",earthquake,5.7,7.7,0.056,93,reviewed,us,us
+2019-01-07T14:22:03.580Z,28.8211,130.7651,10,4.6,mb,,139,2.963,1.25,us,us2000j8ba,2019-03-08T17:50:23.040Z,"135 km ENE of Naze, Japan",earthquake,9.3,1.9,0.181,10,reviewed,us,us
+2019-01-07T14:24:03.710Z,28.931,130.5334,10,4.9,mb,,125,2.891,0.35,us,us2000j13l,2019-03-08T17:50:18.040Z,"120 km ENE of Naze, Japan",earthquake,7.8,1.9,0.103,30,reviewed,us,us
+2019-01-07T16:35:26.260Z,35.0039,140.0285,46.82,4.6,mb,,138,1.552,0.54,us,us2000j14f,2019-03-08T17:50:18.040Z,"12 km SSW of Kamogawa, Japan",earthquake,6.7,8.1,0.1,30,reviewed,us,us
+2019-01-08T12:39:30.950Z,30.5872,131.0441,35,6.3,mww,,26,2.534,0.83,us,us2000j1d4,2025-12-22T18:01:25.751Z,"16 km SSE of Nishinoomote, Japan",earthquake,6,1.8,0.051,37,reviewed,us,us
+2019-01-08T16:25:29.800Z,28.9962,142.448,10,4.5,mb,,149,1.907,0.31,us,us2000j8c7,2019-04-02T20:53:16.040Z,"Bonin Islands, Japan region",earthquake,10.4,1.9,0.131,17,reviewed,us,us
+2019-01-09T04:33:38.770Z,28.195,140.752,169.54,4.7,mb,,103,1.677,0.95,us,us2000j1m2,2019-04-02T20:51:33.040Z,"Bonin Islands, Japan region",earthquake,8.6,8,0.066,69,reviewed,us,us
+2019-01-13T07:33:35.770Z,30.0724,138.7955,426.24,4.5,mb,,75,3.155,0.71,us,us2000j3gg,2019-04-02T20:52:36.040Z,"Izu Islands, Japan region",earthquake,7.4,7.1,0.044,149,reviewed,us,us
+2019-01-13T10:54:02.030Z,37.3396,141.1411,42.78,4.5,mb,,121,0.597,0.68,us,us1000is3c,2019-04-02T20:51:05.040Z,"20 km SE of Namie, Japan",earthquake,6.9,7.2,0.084,42,reviewed,us,us
+2019-01-13T12:14:45.500Z,37.2822,141.3582,10,4.9,mww,,113,0.739,0.82,us,us2000j3ik,2022-08-08T11:28:46.551Z,"38 km SE of Namie, Japan",earthquake,5,1.8,0.066,22,reviewed,us,us
+2019-01-14T04:23:41.040Z,36.1902,139.8748,53.43,5,mb,,81,1.394,1.1,us,us2000j3mh,2022-08-08T11:30:26.105Z,"11 km NW of Ishige, Japan",earthquake,6,4.9,0.035,261,reviewed,us,us
+2019-01-15T11:27:08.570Z,33.7155,141.1944,35,4.5,mwr,,53,1.3,0.83,us,us2000j42r,2019-04-05T21:40:58.040Z,"178 km SSE of Katsuura, Japan",earthquake,5.9,1.3,0.093,11,reviewed,us,us
+2019-01-15T22:10:18.390Z,28.9996,141.6031,49,4.5,mb,,112,1.965,0.52,us,us2000jb8s,2019-04-05T21:41:03.040Z,"Bonin Islands, Japan region",earthquake,8.7,8.9,0.164,11,reviewed,us,us
+2019-01-17T02:23:37.060Z,42.0217,142.5733,63.72,4.8,mb,,108,0.435,0.79,us,us2000j4um,2019-04-05T21:40:59.040Z,"38 km SSE of Shizunai-furukawach?, Japan",earthquake,7.6,3.2,0.057,94,reviewed,us,us
+2019-01-18T12:46:24.200Z,35.8998,140.5698,49.97,5.1,mww,,59,1.973,0.87,us,us2000j5qm,2025-12-22T18:01:53.823Z,"4 km SSE of Itako, Japan",earthquake,5.8,1.9,0.086,13,reviewed,us,us
+2019-01-18T20:04:03.180Z,40.8238,142.3808,46.29,4.8,mww,,63,0.999,0.7,us,us2000j61y,2019-04-05T21:41:00.040Z,"82 km ENE of Hachinohe, Japan",earthquake,5.8,4.6,0.089,12,reviewed,us,us
+2019-01-21T11:30:36.090Z,29.0221,141.878,28.69,4.7,mb,,141,1.938,0.6,us,us2000j6tk,2019-04-05T21:41:02.040Z,"Izu Islands, Japan region",earthquake,8.5,5.8,0.079,49,reviewed,us,us
+2019-01-22T09:26:16.380Z,28.6395,130.1651,35,4.5,mb,,122,2.458,0.72,us,us2000je2x,2019-04-12T17:16:25.040Z,"73 km ENE of Naze, Japan",earthquake,7.4,2,0.096,32,reviewed,us,us
+2019-01-25T04:48:21.220Z,30.0438,131.1545,10,4.9,mww,,127,3.08,0.9,us,us2000j8n6,2025-12-22T18:02:08.362Z,"61 km SE of Koseda, Japan",earthquake,5.5,1.9,0.098,10,reviewed,us,us
+2019-01-25T05:41:37.480Z,32.028,129.1417,10,4.6,mb,,97,1.828,0.85,us,us2000j8np,2019-04-12T17:14:53.040Z,"79 km SSE of Fukuech?, Japan",earthquake,3.5,1.9,0.103,28,reviewed,us,us
+2019-01-25T21:22:46.690Z,30.3857,131.1241,35,4.8,mb,,109,2.739,0.53,us,us2000j8zv,2019-04-12T17:15:09.040Z,"40 km SSE of Nishinoomote, Japan",earthquake,3.6,2,0.045,149,reviewed,us,us
+2019-01-26T08:23:03.140Z,40.3332,142.2224,48.24,5.5,mww,,90,0.992,0.67,us,us2000j94y,2025-12-22T18:02:12.517Z,"64 km ESE of Hachinohe, Japan",earthquake,7.1,4.6,0.062,25,reviewed,us,us
+2019-01-26T13:46:22.580Z,29.21,130.4663,53.32,4.9,mb,,88,3.058,1.25,us,us2000j96l,2025-12-22T18:02:13.281Z,"113 km S of Yudomari, Japan",earthquake,7.4,7.7,0.056,101,reviewed,us,us
+2019-01-29T03:42:26.710Z,34.9588,141.0902,35,5.2,mww,,42,2.122,0.86,us,us2000j9y2,2025-12-22T18:19:13.696Z,"71 km ESE of ?hara, Japan",earthquake,6.5,1.9,0.062,25,reviewed,us,us
+2019-02-02T19:10:12.770Z,35.5563,141.106,32.83,5,mb,,94,2.322,0.6,us,us2000jcgs,2019-04-18T19:09:33.040Z,"31 km SE of Hasaki, Japan",earthquake,6.4,4.7,0.054,107,reviewed,us,us
+2019-02-03T01:01:15.270Z,37.1023,141.2681,56.16,4.8,mb,,139,0.854,0.6,us,us2000jckw,2019-04-18T19:09:34.040Z,"34 km E of Iwaki, Japan",earthquake,7.2,4,0.167,12,reviewed,us,us
+2019-02-05T02:20:00.230Z,33.5823,141.0803,52.83,4.8,mb,,121,1.157,0.56,us,us2000jdgi,2019-04-25T15:31:39.040Z,"187 km SSE of Katsuura, Japan",earthquake,6.9,8.2,0.121,21,reviewed,us,us
+2019-02-05T16:52:45.170Z,35.4678,141.3404,36.74,4.7,mb,,175,2.437,0.36,us,us2000jnag,2019-04-25T15:31:43.040Z,"54 km ESE of Hasaki, Japan",earthquake,2.6,9,0.184,13,reviewed,us,us
+2019-02-05T16:59:47.130Z,30.9281,131.8165,10,4.9,mb,,143,2.331,1,us,us2000jdp9,2019-04-25T15:31:43.040Z,"81 km ENE of Nishinoomote, Japan",earthquake,7.7,1.9,0.075,56,reviewed,us,us
+2019-02-07T07:57:52.519Z,41.7156,143.932,15.18,4.9,mww,,144,0.651,1.39,us,us2000jen6,2019-04-25T15:31:49.040Z,"144 km SSW of Kushiro, Japan",earthquake,4.8,5.6,0.089,12,reviewed,us,us
+2019-02-09T02:24:22.070Z,43.8606,145.5657,115.99,4.9,mb,,138,2.161,1.1,us,us2000jfk0,2019-04-25T15:31:58.040Z,"30 km SW of Yuzhno-Kurilsk, Russia",earthquake,8.5,6.1,0.028,397,reviewed,us,us
+2019-02-10T05:34:24.860Z,28.1937,129.529,36.3,4.9,mww,,79,1.753,0.74,us,us2000jfvk,2019-04-25T15:32:02.040Z,"19 km SSE of Naze, Japan",earthquake,6.5,6.3,0.089,12,reviewed,us,us
+2019-02-11T23:26:49.130Z,31.0219,142.3814,10,4.9,mb,,126,3.017,0.84,us,us2000jggn,2022-08-08T12:13:55.243Z,"Izu Islands, Japan region",earthquake,8.2,1.9,0.061,84,reviewed,us,us
+2019-02-14T01:45:45.750Z,33.8388,137.0948,359,4.5,mb,,48,1.229,0.88,us,us2000jhq5,2019-05-01T22:00:40.040Z,"75 km SSE of Toba, Japan",earthquake,8.1,4.6,0.04,181,reviewed,us,us
+2019-02-14T02:43:11.910Z,28.0632,141.9561,35,4.6,mb,,133,0.984,0.55,us,us2000jnln,2019-05-01T22:01:09.040Z,"Bonin Islands, Japan region",earthquake,5.3,1.9,0.082,44,reviewed,us,us
+2019-02-15T19:08:10.180Z,28.5693,141.6857,40.56,4.5,mb,,126,1.533,1.42,us,us2000jnzw,2019-05-01T22:01:12.040Z,"Bonin Islands, Japan region",earthquake,6.4,6.4,0.094,35,reviewed,us,us
+2019-02-17T19:21:23.441Z,36.394,141.9953,20.17,4.8,mww,,89,1.759,1.25,us,us2000jjay,2019-05-01T22:00:59.040Z,"119 km ESE of Kitaibaraki, Japan",earthquake,4.4,4.7,0.089,12,reviewed,us,us
+2019-02-18T00:03:56.990Z,30.8652,137.106,494.63,4.5,mb,,72,3.213,0.7,us,us2000jjdk,2019-05-01T22:01:00.040Z,"Izu Islands, Japan region",earthquake,8.9,6.2,0.037,213,reviewed,us,us
+2019-02-18T00:05:36.330Z,30.8487,137.1228,489.28,4.5,mb,,117,3.214,0.72,us,us2000jje0,2019-05-01T22:01:00.040Z,"Izu Islands, Japan region",earthquake,10.6,8.9,0.061,80,reviewed,us,us
+2019-02-19T08:09:55.790Z,28.149,129.732,10,4.6,mb,,111,1.841,0.8,us,us1000j8um,2019-05-11T17:40:29.040Z,"34 km SE of Naze, Japan",earthquake,6.2,1.9,0.079,48,reviewed,us,us
+2019-02-19T12:04:12.260Z,36.4612,137.7487,10,4.6,mb,,39,0.376,0.86,us,us2000jjyw,2019-05-11T17:40:40.040Z,"11 km WSW of ?machi, Japan",earthquake,3.2,1.9,0.079,48,reviewed,us,us
+2019-02-19T16:24:55.080Z,38.8347,141.6817,71.29,4.6,mb,,136,1.192,0.82,us,us2000jk1q,2019-05-11T17:40:40.040Z,"26 km S of ?funato, Japan",earthquake,8.4,7.3,0.065,70,reviewed,us,us
+2019-02-20T03:18:42.320Z,28.2852,130.2065,10,4.9,mb,,122,2.243,0.65,us,us2000jkf9,2019-05-11T17:40:41.040Z,"71 km E of Naze, Japan",earthquake,6.9,1.9,0.056,100,reviewed,us,us
+2019-02-21T02:11:38.040Z,28.5622,129.9815,10,5,mb,,63,2.291,0.82,us,us2000jky2,2019-05-11T17:40:43.040Z,"53 km ENE of Naze, Japan",earthquake,5.4,1.8,0.047,142,reviewed,us,us
+2019-02-21T12:22:40.100Z,42.76,141.9473,28,5.4,mww,,32,1.165,1.22,us,us2000jl3a,2025-12-22T17:53:52.054Z,"25 km ESE of Chitose, Japan",earthquake,3.8,1.8,0.057,30,reviewed,us,us
+2019-02-23T05:30:51.680Z,32.719,129.9579,10,4.5,mb,,229,0.872,0.97,us,us2000jlx6,2019-05-11T17:40:45.040Z,"7 km ESE of Nagasaki, Japan",earthquake,5.7,1.8,0.109,25,reviewed,us,us
+2019-02-27T00:55:52.290Z,38.2916,142.0529,35,4.9,mb,,104,1.082,0.93,us,us2000jpc3,2019-05-14T18:36:32.040Z,"67 km ESE of Ishinomaki, Japan",earthquake,6.5,1.9,0.057,96,reviewed,us,us
+2019-02-28T14:17:25.710Z,35.5184,141.0626,36.5,4.5,mb,,141,2.356,1.29,us,us1000j8pb,2019-05-14T18:36:13.040Z,"31 km SE of Hasaki, Japan",earthquake,5.6,9.8,0.132,17,reviewed,us,us
+2019-03-02T00:47:44.150Z,30.8634,142.2525,12.12,4.8,mb,,59,3.055,0.73,us,us1000j9q0,2019-05-14T18:36:16.040Z,"Izu Islands, Japan region",earthquake,6.6,3.1,0.072,60,reviewed,us,us
+2019-03-02T15:51:53.110Z,30.8682,142.0072,10,5.4,mww,,62,2.914,1.31,us,us1000j9wi,2025-12-22T18:05:10.395Z,"Izu Islands, Japan region",earthquake,6.9,1.8,0.045,48,reviewed,us,us
+2019-03-06T19:26:01.270Z,38.7072,141.6366,65.54,4.9,mb,,73,1.069,1.13,us,us1000jbd6,2022-08-08T12:45:30.335Z,"41 km S of ?funato, Japan",earthquake,6.8,5.1,0.034,271,reviewed,us,us
+2019-03-07T11:31:38.980Z,30.4405,141.411,45.34,4.8,mb,,71,2.993,1.47,us,us1000jbu4,2019-05-24T21:21:13.040Z,"Izu Islands, Japan region",earthquake,7.2,7.2,0.056,100,reviewed,us,us
+2019-03-08T16:08:03.500Z,35.3497,136.66,43.95,4.5,mb,,63,0.301,0.76,us,us1000jcd5,2022-08-08T12:52:45.184Z,"3 km E of ?gaki, Japan",earthquake,6,5.8,0.09,36,reviewed,us,us
+2019-03-09T03:07:01.760Z,30.5325,142.0933,10,4.8,mb,,126,3.242,0.9,us,us1000jcry,2019-05-24T21:21:21.040Z,"Izu Islands, Japan region",earthquake,7,1.9,0.044,162,reviewed,us,us
+2019-03-09T10:07:36.400Z,29.3259,139.496,385.73,4.5,mb,,78,3.25,0.63,us,us1000jcv7,2019-05-24T21:21:21.040Z,"Izu Islands, Japan region",earthquake,9.5,8.1,0.033,274,reviewed,us,us
+2019-03-10T17:10:52.490Z,36.8322,142.3585,13,5.7,mww,,27,1.622,0.63,us,us1000jd8k,2025-12-22T18:56:40.358Z,"133 km E of Iwaki, Japan",earthquake,5.9,1.8,0.058,29,reviewed,us,us
+2019-03-10T17:24:15.859Z,36.8352,142.3407,10,4.9,mww,,128,1.61,1.21,us,us1000jd8n,2025-12-22T18:05:50.264Z,"131 km E of Iwaki, Japan",earthquake,8.1,1.9,0.069,20,reviewed,us,us
+2019-03-10T17:39:43.940Z,36.9948,142.2776,10,4.7,mb,,206,1.471,0.63,us,us1000jd8t,2019-05-24T21:21:27.040Z,"124 km E of Iwaki, Japan",earthquake,8,1.9,0.152,13,reviewed,us,us
+2019-03-10T18:43:42.730Z,36.7315,142.4287,10,5,mww,,120,1.731,1.04,us,us1000jd9f,2025-12-22T18:05:45.464Z,"142 km ESE of Iwaki, Japan",earthquake,7.7,1.9,0.117,7,reviewed,us,us
+2019-03-11T06:37:51.858Z,33.2135,132.7262,44.21,4.9,mb,,72,1.091,0.83,us,us1000jdg8,2019-05-24T21:21:30.040Z,"6 km SE of Kihoku-ch?, Japan",earthquake,5.9,6.7,0.058,93,reviewed,us,us
+2019-03-11T08:20:50.080Z,36.8657,142.3462,10,4.6,mb,,140,1.593,0.81,us,us1000jdhm,2019-05-24T21:21:31.040Z,"131 km E of Iwaki, Japan",earthquake,8.7,1.9,0.107,26,reviewed,us,us
+2019-03-11T08:27:03.964Z,36.5144,142.4744,10,4.5,mb,,135,1.907,0.77,us,us1000jjbw,2019-05-24T21:21:43.040Z,"153 km ESE of Iwaki, Japan",earthquake,9.3,1.9,0.102,28,reviewed,us,us
+2019-03-11T08:31:42.583Z,36.8149,142.3486,10,4.5,mb,,155,1.628,0.98,us,us1000jjbv,2019-05-24T21:21:43.040Z,"133 km ESE of Iwaki, Japan",earthquake,7.4,1.9,0.124,19,reviewed,us,us
+2019-03-13T04:45:06.863Z,36.8386,142.1535,30.16,4.5,mb,,125,1.496,0.7,us,us1000jejf,2019-06-01T21:24:13.040Z,"115 km ESE of Iwaki, Japan",earthquake,8.1,4.9,0.096,32,reviewed,us,us
+2019-03-13T04:48:49.334Z,33.8114,134.8565,37.25,5.2,mww,,26,0.82,0.68,us,us1000jeji,2025-12-22T18:06:03.597Z,"22 km ESE of Anan, Japan",earthquake,2.6,4.6,0.06,27,reviewed,us,us
+2019-03-14T05:51:12.208Z,28.2884,143.0298,10,4.6,mb,,142,1.404,0.36,us,us1000jfb9,2019-06-01T21:24:14.040Z,"Bonin Islands, Japan region",earthquake,8.3,1.9,0.083,44,reviewed,us,us
+2019-03-15T04:51:14.382Z,37.2243,141.2274,35,4.5,mb,,98,0.731,1.28,us,us1000jg5w,2019-06-01T21:24:15.040Z,"35 km SE of Namie, Japan",earthquake,6.1,2,0.125,19,reviewed,us,us
+2019-03-16T05:40:01.860Z,30.828,142.0884,10,4.9,mb,,126,2.989,0.59,us,us1000jgyu,2019-06-01T21:24:17.040Z,"Izu Islands, Japan region",earthquake,5,1.8,0.075,56,reviewed,us,us
+2019-03-17T00:57:55.310Z,45.3199,144.5691,272.62,4.5,mb,,130,1.851,0.85,us,us1000jh9u,2019-06-01T21:24:21.040Z,"144 km NE of Mombetsu, Japan",earthquake,8.2,6.6,0.057,90,reviewed,us,us
+2019-03-17T14:27:20.600Z,36.5456,142.9408,10,4.7,mb,,140,2.166,0.64,us,us1000jhh2,2019-06-01T21:24:22.040Z,"191 km ESE of Iwaki, Japan",earthquake,7.7,1.9,0.074,55,reviewed,us,us
+2019-03-17T14:48:23.420Z,36.5651,142.946,10,4.7,mb,,154,2.157,0.64,us,us1000jhh9,2019-06-01T21:24:22.040Z,"191 km ESE of Iwaki, Japan",earthquake,5.4,1.9,0.084,43,reviewed,us,us
+2019-03-22T03:57:44.687Z,36.8798,143.6639,10,4.5,mb,,137,2.493,0.69,us,us2000k74t,2019-06-06T18:54:13.040Z,"245 km ESE of Namie, Japan",earthquake,8.6,1.9,0.156,12,reviewed,us,us
+2019-03-25T18:30:21.149Z,37.4211,140.3141,99.44,4.6,mb,,116,0.585,1.06,us,us1000jlf3,2019-06-06T18:54:27.040Z,"6 km WNW of K?riyama, Japan",earthquake,7,6,0.053,106,reviewed,us,us
+2019-03-26T10:09:53.579Z,31.1688,141.6895,10,4.6,mb,,180,2.509,0.51,us,us2000k9nk,2019-06-08T20:51:33.040Z,"Izu Islands, Japan region",earthquake,10.1,1.9,0.164,11,reviewed,us,us
+2019-03-27T00:11:22.461Z,32.1572,131.9791,16.55,5.2,mww,,52,1.34,0.76,us,us1000jm4k,2025-12-22T18:56:41.633Z,"45 km E of Takanabe, Japan",earthquake,6.2,3.3,0.069,20,reviewed,us,us
+2019-03-27T00:40:00.090Z,31.9941,132.1035,10,4.6,mb,,116,1.531,0.88,us,us2000ka4s,2019-06-08T20:51:34.040Z,"59 km ESE of Takanabe, Japan",earthquake,5.2,1.9,0.119,21,reviewed,us,us
+2019-03-27T06:38:03.640Z,32.1507,132.1049,19,5.3,mww,,86,1.42,1.4,us,us1000jm9y,2025-12-22T18:06:42.943Z,"57 km E of Takanabe, Japan",earthquake,6.1,1.8,0.062,25,reviewed,us,us
+2019-03-28T02:16:59.500Z,42.4238,143.6578,82.83,4.8,mb,,124,0.552,0.55,us,us2000k695,2019-06-08T20:51:18.040Z,"66 km SE of Obihiro, Japan",earthquake,8,5.8,0.029,371,reviewed,us,us
+2019-03-28T02:37:09.076Z,32.967,141.213,35,4.5,mb,,155,1.184,0.67,us,us2000kabe,2019-06-08T20:51:36.040Z,"255 km SSE of Katsuura, Japan",earthquake,3.5,2,0.144,14,reviewed,us,us
+2019-03-28T11:07:59.143Z,31.228,141.3084,35,4.7,mb,,113,2.268,1.48,us,us2000k6h0,2019-06-08T20:51:19.040Z,"Izu Islands, Japan region",earthquake,7.8,1.9,0.034,257,reviewed,us,us
+2019-03-28T14:55:29.106Z,38.5212,135.1417,378.55,4.6,mb,,35,2.498,0.73,us,us2000k6jd,2019-06-08T20:51:20.040Z,"229 km NW of Nanao, Japan",earthquake,5.9,7.1,0.028,393,reviewed,us,us
+2019-03-28T20:38:54.626Z,37.1542,142.1739,22.4,4.6,mb,,138,1.311,0.87,us,us2000k6rv,2019-06-08T20:51:20.040Z,"110 km ESE of Namie, Japan",earthquake,8.3,5.8,0.051,117,reviewed,us,us
+2019-03-28T23:04:55.870Z,29.5223,141.1124,73.93,4.6,mb,,106,2.595,0.98,us,us2000k6v2,2019-06-08T20:51:21.040Z,"Izu Islands, Japan region",earthquake,8.8,7.3,0.048,130,reviewed,us,us
+2019-03-29T03:24:19.562Z,37.1658,141.1383,35,4.5,mb,,134,0.754,0.95,us,us2000k6x3,2019-06-08T20:51:21.040Z,"26 km ENE of Iwaki, Japan",earthquake,5.6,2,0.066,68,reviewed,us,us
+2019-03-29T08:47:29.986Z,36.4251,141.0448,45.12,4.6,mb,,145,1.455,0.61,us,us2000k704,2019-06-08T20:51:22.040Z,"40 km ESE of Hitachi, Japan",earthquake,7.3,8.1,0.065,70,reviewed,us,us
+2019-03-29T20:55:42.225Z,30.6159,131.023,27.26,5.1,mww,,38,2.504,0.68,us,us2000k7dg,2025-12-22T18:06:51.774Z,"13 km S of Nishinoomote, Japan",earthquake,5.1,3.9,0.061,26,reviewed,us,us
+2019-04-02T20:29:09.427Z,41.9712,142.5667,66.8,4.5,mwr,,115,0.442,0.65,us,us2000k9bp,2019-06-18T15:50:05.040Z,"43 km SSE of Shizunai-furukawach?, Japan",earthquake,5.6,7.1,0.089,12,reviewed,us,us
+2019-04-05T08:23:14.439Z,34.728,140.3313,59.68,4.7,mb,,132,1.665,0.42,us,us2000kan9,2019-06-18T15:50:24.040Z,"46 km SSE of Kamogawa, Japan",earthquake,4.9,8.7,0.118,22,reviewed,us,us
+2019-04-05T09:56:52.723Z,30.4095,138.6839,383,5.9,mww,,11,2.859,1.01,us,us2000kans,2025-12-22T18:07:10.901Z,"Izu Islands, Japan region",earthquake,7.4,1.8,0.041,58,reviewed,us,us
+2019-04-05T19:56:22.539Z,32.5765,141.9225,16.86,4.5,mb,,91,1.854,1.02,us,us7000351h,2019-06-18T15:50:28.040Z,"Izu Islands, Japan region",earthquake,6.9,4.7,0.089,42,reviewed,us,us
+2019-04-06T00:22:09.330Z,38.7938,144.659,10,4.6,mb,,145,3.179,0.56,us,us2000kb3d,2019-06-18T15:50:29.040Z,"off the east coast of Honshu, Japan",earthquake,6.2,1.6,0.057,91,reviewed,us,us
+2019-04-08T13:22:03.558Z,41.9562,142.3146,68.23,4.6,mb,,143,1.497,0.77,us,us2000kca5,2019-06-18T15:50:54.040Z,"42 km S of Shizunai-furukawach?, Japan",earthquake,8.5,8.6,0.083,44,reviewed,us,us
+2019-04-11T08:18:21.380Z,40.4096,143.2985,18,6,mww,,50,1.607,0.66,us,us700034d3,2025-12-22T18:14:39.122Z,"143 km NE of Miyako, Japan",earthquake,5.7,1.8,0.062,25,reviewed,us,us
+2019-04-12T09:28:37.964Z,30.5797,132.0621,10,4.5,mb,,126,2.73,1.02,us,us700038k5,2019-06-20T19:03:22.040Z,"103 km E of Nishinoomote, Japan",earthquake,5.4,1.9,0.076,51,reviewed,us,us
+2019-04-14T20:28:30.721Z,42.4819,144.8206,40.41,5,mww,,133,1.32,1.05,us,us7000360n,2025-12-22T18:07:51.748Z,"65 km SSE of Kushiro, Japan",earthquake,8.2,7.2,0.075,17,reviewed,us,us
+2019-04-15T14:30:52.374Z,38.2302,140.4613,101.61,4.5,mb,,80,0.444,0.8,us,us700036dd,2019-06-20T19:03:44.040Z,"8 km E of Yamagata, Japan",earthquake,7,7.2,0.057,90,reviewed,us,us
+2019-04-19T07:05:57.564Z,42.5761,141.581,130.67,4.6,mb,,63,1.296,0.73,us,us70003933,2019-06-26T20:54:54.040Z,"7 km SSW of Tomakomai, Japan",earthquake,7.5,7.3,0.057,92,reviewed,us,us
+2019-04-20T19:09:46.320Z,29.8971,130.4252,61.08,4.6,mb,,68,3.241,0.92,us,us700039pq,2019-06-26T20:55:01.040Z,"37 km S of Yudomari, Japan",earthquake,7.6,7.5,0.073,56,reviewed,us,us
+2019-04-21T04:02:43.837Z,39.214,140.4584,139.47,4.5,mb,,116,1.367,0.89,us,us700039vl,2019-06-26T20:55:03.040Z,"6 km NW of Yuzawa, Japan",earthquake,7.6,7.8,0.037,210,reviewed,us,us
+2019-04-22T00:47:43.575Z,43.1168,133.5777,449.17,4.5,mb,,24,1.581,0.67,us,us70003a3a,2019-06-26T20:55:10.040Z,"30 km ESE of Uglekamensk, Russia",earthquake,9.3,6.9,0.029,336,reviewed,us,us
+2019-04-22T16:00:34.051Z,31.3259,141.0017,33.88,4.7,mb,,102,2.048,0.62,us,us70003aal,2019-06-26T20:55:14.040Z,"Izu Islands, Japan region",earthquake,10.1,2,0.056,95,reviewed,us,us
+2019-04-22T17:45:18.131Z,40.6623,143.6948,10,5.4,mww,,79,1.41,0.86,us,us70003abu,2025-12-22T18:54:47.171Z,"186 km E of Hachinohe, Japan",earthquake,7.7,1.8,0.059,28,reviewed,us,us
+2019-04-22T22:49:32.455Z,31.0963,131.4255,51.43,4.5,mb,,136,2.075,1.31,us,us70003ah1,2019-06-26T20:55:16.040Z,"46 km SSE of Kushima, Japan",earthquake,7.8,6.7,0.077,50,reviewed,us,us
+2019-04-25T12:00:01.820Z,38.4959,141.6725,56.3,4.5,mb,,132,0.935,1.03,us,us70003bwi,2019-07-13T18:42:38.040Z,"33 km ENE of Ishinomaki, Japan",earthquake,8.1,5.3,0.1,29,reviewed,us,us
+2019-04-27T11:32:04.676Z,37.3583,142.0878,34.25,4.5,mb,,151,1.15,0.57,us,us70003cxv,2019-07-13T18:42:43.040Z,"97 km E of Namie, Japan",earthquake,7,6.5,0.077,50,reviewed,us,us
+2019-04-27T17:24:45.654Z,42.4547,142.8191,110.52,5.4,mww,,65,0.506,1.05,us,us70003d16,2025-12-22T18:08:48.405Z,"39 km ENE of Shizunai-furukawach?, Japan",earthquake,6.1,4.5,0.059,28,reviewed,us,us
+2019-04-29T05:24:01.008Z,34.5525,137.5372,313.28,4.5,mb,,50,0.547,0.75,us,us70003ds5,2019-07-13T18:42:51.040Z,"24 km SW of Hamamatsu, Japan",earthquake,7.5,5.1,0.056,93,reviewed,us,us
+2019-04-30T15:43:46.066Z,36.5396,140.7863,55.98,4.5,mb,,203,1.326,0.8,us,us70003emf,2019-07-25T18:54:02.040Z,"13 km ESE of Hitachi, Japan",earthquake,8.8,9.9,0.092,35,reviewed,us,us
+2019-04-30T20:53:56.863Z,29.3804,140.9118,50.53,4.5,mb,,101,2.538,0.84,us,us70003iwk,2019-07-25T18:54:03.040Z,"Izu Islands, Japan region",earthquake,8.1,7,0.087,39,reviewed,us,us
+2019-05-02T03:48:53.739Z,29.3629,142.3312,10,4.5,mb,,139,2.262,0.64,us,us70003jde,2019-07-25T18:54:06.040Z,"Izu Islands, Japan region",earthquake,9,1.8,0.135,16,reviewed,us,us
+2019-05-04T00:19:03.599Z,39.0476,142.2482,50.79,4.8,mb,,129,1.641,0.77,us,us70003ghz,2019-07-25T18:54:14.040Z,"41 km SE of Kamaishi, Japan",earthquake,7.7,7.7,0.066,71,reviewed,us,us
+2019-05-04T02:41:30.894Z,38.2752,141.8705,35,4.6,mb,,71,0.944,0.91,us,us70003gj5,2019-07-25T18:54:14.040Z,"52 km ESE of Ishinomaki, Japan",earthquake,6.3,2,0.063,75,reviewed,us,us
+2019-05-04T19:51:44.208Z,38.7342,142.3235,37.24,4.6,mwr,,132,1.484,0.78,us,us70003gqx,2019-07-25T18:54:17.040Z,"64 km SE of ?funato, Japan",earthquake,6.5,5.9,0.057,30,reviewed,us,us
+2019-05-07T14:42:23.155Z,35.3217,142.6237,10,4.8,mww,,102,2.939,0.62,us,us70003hwt,2019-08-01T17:15:03.040Z,"168 km ESE of Hasaki, Japan",earthquake,8.2,1.8,0.071,19,reviewed,us,us
+2019-05-08T00:20:01.575Z,40.0432,142.0574,55.79,4.6,mb,,142,1.063,0.88,us,us70003i5b,2019-08-01T17:15:04.040Z,"45 km NNE of Miyako, Japan",earthquake,5.9,7.1,0.052,109,reviewed,us,us
+2019-05-09T22:43:23.033Z,31.8013,131.8869,22,5.6,mww,,24,1.572,0.73,us,us70003j3g,2025-12-22T18:09:22.075Z,"46 km ESE of Miyazaki, Japan",earthquake,6.1,1.8,0.057,30,reviewed,us,us
+2019-05-09T23:48:42.779Z,31.7772,131.8483,22,6.2,mww,,17,1.575,0.67,us,us70003j46,2025-12-22T18:01:02.170Z,"43 km ESE of Miyazaki, Japan",earthquake,5,1.8,0.055,32,reviewed,us,us
+2019-05-10T00:07:34.725Z,31.6869,131.7848,10,5.1,mb,,59,1.626,0.6,us,us70003j4s,2019-08-01T17:15:08.040Z,"40 km ENE of Nichinan, Japan",earthquake,6.2,1.8,0.031,339,reviewed,us,us
+2019-05-10T04:53:48.007Z,31.4099,131.6633,10,4.6,mb,,118,1.835,1.08,us,us70003j6g,2019-08-01T17:15:08.040Z,"Kyushu, Japan",earthquake,7.4,1.9,0.07,60,reviewed,us,us
+2019-05-10T11:40:32.697Z,31.7411,131.7783,10,4.9,mb,,71,1.576,0.98,us,us70003j8n,2025-12-22T18:09:24.385Z,"39 km ESE of Miyazaki, Japan",earthquake,7.1,1.9,0.038,222,reviewed,us,us
+2019-05-10T23:59:41.068Z,32.6908,132.3375,35,4.8,mww,,36,1.302,0.77,us,us70003jl5,2019-08-01T17:15:09.040Z,"45 km SW of Sukumo, Japan",earthquake,5.7,1.9,0.086,13,reviewed,us,us
+2019-05-11T00:48:52.245Z,29.9776,142.4918,10,4.5,mb,,132,2.884,0.81,us,us70003mlt,2019-08-01T17:15:22.040Z,"Izu Islands, Japan region",earthquake,9.5,1.9,0.124,19,reviewed,us,us
+2019-05-12T06:07:45.616Z,32.7081,132.3075,38.84,4.7,mb,,101,1.273,0.55,us,us70003jzi,2019-08-01T17:15:13.040Z,"46 km SE of Saiki, Japan",earthquake,7.6,8.8,0.092,36,reviewed,us,us
+2019-05-13T05:01:50.113Z,30.4352,143.1814,10,4.9,mb,,70,3.44,0.75,us,us70003k7k,2019-08-01T17:15:16.040Z,"Izu Islands, Japan region",earthquake,8.3,1.9,0.033,288,reviewed,us,us
+2019-05-13T09:59:35.733Z,37.212,141.2367,10,4.6,mb,,138,0.746,0.96,us,us70003kbd,2022-08-08T13:39:39.272Z,"36 km ENE of Iwaki, Japan",earthquake,5.8,1.9,0.046,140,reviewed,us,us
+2019-05-15T05:24:31.606Z,29.7216,130.7116,29,5.7,mww,,38,3.395,1.3,us,us70003ld5,2025-12-22T18:09:38.849Z,"59 km SSE of Koshima, Japan",earthquake,6.4,1.8,0.055,32,reviewed,us,us
+2019-05-18T01:18:03.160Z,38.9596,141.6795,75.21,4.8,mb,,133,1.293,0.83,us,usd000a26m,2019-08-07T22:04:02.040Z,"12 km SSW of ?funato, Japan",earthquake,7.6,7.3,0.052,116,reviewed,us,us
+2019-05-19T01:59:51.308Z,31.6524,131.8515,35,4.5,mb,,254,1.684,0.96,us,us60003t3s,2019-08-07T22:03:29.040Z,"46 km E of Nichinan, Japan",earthquake,2.8,2,0.204,7,reviewed,us,us
+2019-05-19T22:48:53.475Z,34.982,140.24,7.36,4.5,mb,,133,1.719,0.74,us,us60003t4q,2019-08-07T22:03:30.040Z,"18 km SE of Kamogawa, Japan",earthquake,5.6,4.8,0.115,22,reviewed,us,us
+2019-05-24T03:40:17.053Z,36.0091,139.3309,110.56,4.6,mb,,140,1.056,0.84,us,us60003rjg,2019-08-13T14:30:33.040Z,"7 km SE of Ogawa, Japan",earthquake,6.1,7,0.116,23,reviewed,us,us
+2019-05-25T06:20:46.279Z,35.3002,140.3329,30.01,4.9,mww,,83,1.871,0.95,us,us60003s0e,2025-12-22T19:02:03.438Z,"7 km NW of ?hara, Japan",earthquake,5.7,4.4,0.086,13,reviewed,us,us
+2019-05-25T23:58:51.427Z,39.8379,143.2545,24.64,4.6,mb,,119,1.925,0.57,us,us60003s84,2019-08-13T14:30:37.040Z,"114 km E of Miyako, Japan",earthquake,6.7,5.5,0.073,56,reviewed,us,us
+2019-05-26T00:26:23.134Z,29.3902,130.6729,37.09,4.7,mb,,110,3.312,0.77,us,us60003s8g,2019-08-13T14:30:37.040Z,"94 km S of Koshima, Japan",earthquake,6.8,7.3,0.061,82,reviewed,us,us
+2019-05-26T15:47:24.067Z,28.8768,130.5556,11.68,4.8,mb,,71,2.866,0.46,us,us60003sg5,2019-08-13T14:30:39.040Z,"119 km ENE of Naze, Japan",earthquake,7.1,1.7,0.059,90,reviewed,us,us
+2019-05-26T19:04:15.830Z,36.7627,140.6833,20.11,4.5,mb,,156,1.107,0.98,us,us60003sh4,2019-08-13T14:30:40.040Z,"5 km NNW of Takahagi, Japan",earthquake,5.5,6.2,0.145,14,reviewed,us,us
+2019-05-30T22:33:10.339Z,36.2337,141.9393,10,4.5,mb,,138,1.873,1.14,us,us70003tgt,2019-08-24T21:17:37.040Z,"114 km ENE of Hasaki, Japan",earthquake,3.7,1.9,0.096,32,reviewed,us,us
+2019-05-31T22:58:10.553Z,35.2909,140.3966,33.25,4.5,mwr,,112,1.917,1,us,us70003tzd,2019-08-24T21:17:42.040Z,"4 km N of ?hara, Japan",earthquake,5.5,4.6,0.066,22,reviewed,us,us
+2019-06-01T14:48:45.673Z,29.9893,143.0576,10,4.8,mb,,144,2.983,1.27,us,us70003u5b,2019-08-24T21:17:44.040Z,"Izu Islands, Japan region",earthquake,7.4,1.7,0.124,20,reviewed,us,us
+2019-06-04T04:39:16.961Z,29.0665,139.289,422,6.4,mww,,21,3.224,0.85,us,us70003v3j,2025-12-22T19:02:59.324Z,"Izu Islands, Japan region",earthquake,8.4,1.9,0.036,75,reviewed,us,us
+2019-06-06T03:14:02.126Z,39.4629,143.2764,26.27,4.6,mb,,182,2.152,0.61,us,us600040bj,2019-08-27T17:47:38.040Z,"114 km E of Yamada, Japan",earthquake,8.7,7.2,0.114,23,reviewed,us,us
+2019-06-08T21:39:07.083Z,31.9974,141.7303,10,4.8,mb,,123,1.965,0.58,us,us70003xck,2019-08-27T17:47:57.040Z,"Izu Islands, Japan region",earthquake,3.6,1.9,0.07,64,reviewed,us,us
+2019-06-10T13:12:34.494Z,38.8694,142.2109,37.16,4.5,mb,,134,1.498,1.18,us,us70003xn3,2019-08-27T17:48:07.040Z,"48 km ESE of ?funato, Japan",earthquake,8,7.1,0.086,40,reviewed,us,us
+2019-06-11T01:21:18.538Z,38.4823,141.6243,58.45,4.6,mb,,134,0.898,0.67,us,us70003xxf,2019-09-06T14:25:31.040Z,"29 km ENE of Ishinomaki, Japan",earthquake,8,7.1,0.041,180,reviewed,us,us
+2019-06-13T00:56:13.728Z,41.041,144.0896,18.93,4.8,mww,,99,1.198,0.52,us,us6000408c,2019-09-06T14:25:01.040Z,"202 km SE of Shizunai-furukawach?, Japan",earthquake,6,3.8,0.089,12,reviewed,us,us
+2019-06-15T04:47:46.394Z,39.0148,142.7391,30.29,4.8,mb,,125,1.911,0.75,us,us6000411q,2019-09-06T14:25:08.040Z,"80 km ESE of Kamaishi, Japan",earthquake,7.2,5.5,0.033,275,reviewed,us,us
+2019-06-15T08:20:23.735Z,42.9173,144.91,54.07,4.5,mb,,133,1.579,0.94,us,us6000412u,2019-09-06T14:25:09.040Z,"44 km E of Kushiro, Japan",earthquake,9.3,8.2,0.094,33,reviewed,us,us
+2019-06-16T23:00:09.949Z,36.5419,140.7375,73.81,4.9,mww,,83,1.325,0.82,us,us600041i0,2019-09-06T14:25:15.040Z,"10 km SE of Hitachi, Japan",earthquake,6.5,4.6,0.08,15,reviewed,us,us
+2019-06-18T13:22:19.010Z,38.6391,139.4769,12,6.4,mww,,33,1.288,0.87,us,us600042fx,2025-12-22T17:54:46.523Z,"31 km WSW of Tsuruoka, Japan",earthquake,5.5,1.8,0.048,42,reviewed,us,us
+2019-06-19T16:55:48.240Z,34.9906,140.2244,71.19,4.7,mb,,118,1.708,0.96,us,us6000433s,2019-09-11T15:19:14.040Z,"16 km SE of Kamogawa, Japan",earthquake,6.9,2.1,0.061,81,reviewed,us,us
+2019-06-20T20:36:33.749Z,28.4415,143.6633,10,4.5,mb,,228,1.874,0.76,us,us700046py,2019-09-11T15:19:21.040Z,"Bonin Islands, Japan region",earthquake,4.9,2,0.115,22,reviewed,us,us
+2019-06-22T14:23:00.664Z,30.0968,142.731,19.61,4.7,mb,,150,3.028,0.77,us,us700046th,2019-09-11T15:19:31.040Z,"Izu Islands, Japan region",earthquake,10,6.2,0.208,7,reviewed,us,us
+2019-06-24T00:11:45.089Z,34.9288,140.01,46.43,5.2,mww,,18,1.524,0.69,us,us600044yu,2025-12-22T18:11:59.140Z,"14 km ESE of Tateyama, Japan",earthquake,5,4,0.075,17,reviewed,us,us
+2019-06-25T03:17:39.057Z,29.9511,142.8862,10,4.5,mb,,122,2.911,0.62,us,us700049y7,2019-09-14T16:08:30.040Z,"Izu Islands, Japan region",earthquake,7.4,1.9,0.124,19,reviewed,us,us
+2019-06-27T01:09:03.188Z,29.8861,142.7119,10,4.5,mb,,121,2.818,0.51,us,us70004b7x,2019-09-14T16:08:33.040Z,"Izu Islands, Japan region",earthquake,8.9,1.7,0.112,23,reviewed,us,us
+2019-06-28T04:30:34.086Z,29.9652,142.9675,10,4.7,mb,,162,2.94,1.13,us,us700046e4,2019-09-14T16:08:15.040Z,"Izu Islands, Japan region",earthquake,10.5,1.9,0.147,14,reviewed,us,us
+2019-06-30T01:13:40.580Z,36.3216,141.0611,35,4.5,mb,,202,1.559,0.83,us,us700047jh,2019-09-14T16:08:20.040Z,"42 km E of ?arai, Japan",earthquake,3.5,2,0.157,12,reviewed,us,us
+2019-06-30T06:53:46.812Z,43.3096,142.3166,168.06,4.5,mb,,99,0.833,0.79,us,us700047ln,2019-09-14T16:08:21.040Z,"7 km SW of Shimo-furano, Japan",earthquake,7,5.9,0.035,240,reviewed,us,us
+2019-07-01T00:37:36.037Z,41.2155,142.125,44.45,5.2,mww,,39,0.908,0.83,us,us700047tx,2025-12-22T18:12:35.353Z,"76 km E of Mutsu, Japan",earthquake,5.4,4.5,0.075,17,reviewed,us,us
+2019-07-01T01:04:21.947Z,38.2508,141.7148,60.22,4.5,mb,,142,0.823,0.99,us,us700047ud,2019-09-14T16:08:25.040Z,"near the east coast of Honshu, Japan",earthquake,7.3,8.1,0.105,27,reviewed,us,us
+2019-07-03T01:21:28.346Z,28.9184,130.7577,10,4.5,mb,,75,3.023,0.75,us,us70004ixt,2019-09-26T14:31:04.040Z,"138 km ENE of Naze, Japan",earthquake,7.3,1.9,0.111,24,reviewed,us,us
+2019-07-07T22:00:47.315Z,30.5972,142.0971,10,4.5,mb,,142,3.489,0.86,us,us70004ebb,2019-09-26T14:30:55.040Z,"Izu Islands, Japan region",earthquake,7.9,1.9,0.104,27,reviewed,us,us
+2019-07-08T13:54:22.115Z,35.5278,139.0997,26.39,4.5,mb,,102,1.133,0.7,us,us70004eqe,2019-09-26T14:31:00.040Z,"9 km S of Uenohara, Japan",earthquake,5.3,5.3,0.078,48,reviewed,us,us
+2019-07-10T20:19:15.276Z,38.8489,142.0833,40.19,4.5,mb,,147,1.411,1.02,us,us70004h8c,2019-09-28T20:01:08.040Z,"40 km SE of ?funato, Japan",earthquake,6.6,6.6,0.097,33,reviewed,us,us
+2019-07-13T00:57:44.339Z,29.3533,128.1534,251,6.1,mww,,11,2.51,1.19,us,us70004jea,2025-12-22T18:13:21.668Z,"169 km NW of Naze, Japan",earthquake,6.3,1.8,0.033,86,reviewed,us,us
+2019-07-16T15:25:43.310Z,37.2129,141.527,39.67,4.6,mb,,82,0.878,0.73,us,us70004lf6,2019-10-04T16:37:03.040Z,"near the east coast of Honshu, Japan",earthquake,5.8,6.5,0.069,66,reviewed,us,us
+2019-07-16T16:26:02.467Z,30.5551,141.8413,10,4.8,mb,,127,3.081,0.74,us,us70004lhj,2019-10-04T16:37:03.040Z,"Izu Islands, Japan region",earthquake,9.6,1.9,0.084,47,reviewed,us,us
+2019-07-17T04:52:46.559Z,30.0767,140.6446,66.25,4.5,mb,,104,3.111,0.88,us,us60004vej,2019-10-04T16:37:06.040Z,"Izu Islands, Japan region",earthquake,6.6,8.1,0.102,28,reviewed,us,us
+2019-07-17T09:00:20.604Z,38.9947,141.6278,76.95,4.8,mb,,134,1.302,0.83,us,us70004m46,2022-08-08T15:07:01.237Z,"11 km SW of ?funato, Japan",earthquake,6.7,6.5,0.031,314,reviewed,us,us
+2019-07-18T04:38:54.999Z,30.005,143.014,10,4.5,mb,,153,2.989,0.89,us,us60004vve,2019-10-04T16:37:13.040Z,"Izu Islands, Japan region",earthquake,6.7,1.9,0.163,11,reviewed,us,us
+2019-07-18T20:55:55.636Z,30.097,142.7966,10,4.8,mb,,105,3.038,0.85,us,us70004ngx,2019-10-04T16:37:16.040Z,"Izu Islands, Japan region",earthquake,4.8,1.9,0.042,180,reviewed,us,us
+2019-07-21T14:01:41.971Z,42.2594,144.3681,35,4.7,mb,,156,0.933,1.3,us,us70004q27,2019-10-04T16:37:32.040Z,"79 km S of Kushiro, Japan",earthquake,3,2,0.035,246,reviewed,us,us
+2019-07-21T22:46:40.852Z,30.0734,142.9402,10,4.8,mb,,134,3.04,0.46,us,us70004q8b,2019-10-04T16:37:34.040Z,"Izu Islands, Japan region",earthquake,9.2,1.9,0.043,167,reviewed,us,us
+2019-07-23T02:32:00.134Z,29.6411,141.1541,61.84,4.6,mb,,138,3.648,0.55,us,us70004qyz,2019-10-11T20:12:21.040Z,"Izu Islands, Japan region",earthquake,15.9,8.1,0.047,132,reviewed,us,us
+2019-07-24T22:14:22.388Z,35.1339,140.6881,44.67,5,mww,,103,0.352,0.81,us,us60004v54,2025-12-22T18:13:52.042Z,"29 km ESE of ?hara, Japan",earthquake,4.1,5,0.078,16,reviewed,us,us
+2019-07-26T17:11:50.053Z,31.6807,131.8421,34.12,4.6,mb,,87,1.655,1.08,us,us60004w21,2019-10-11T20:12:36.040Z,"45 km E of Nichinan, Japan",earthquake,5.6,5.4,0.092,37,reviewed,us,us
+2019-07-27T18:31:07.540Z,33.1492,137.3029,367,6.3,mww,,14,1.691,0.79,us,us60004wjb,2025-12-22T18:13:57.663Z,"138 km ESE of Shing?, Japan",earthquake,7,1.9,0.055,32,reviewed,us,us
+2019-07-28T15:35:00.124Z,35.8323,140.9591,35,4.6,mb,,126,2.037,0.8,us,us60004wsi,2019-10-11T20:12:45.040Z,"15 km NE of Hasaki, Japan",earthquake,6.5,2,0.097,32,reviewed,us,us
+2019-07-29T13:37:29.950Z,29.6695,132.388,10,4.8,mb,,136,3.679,0.76,us,us600051fb,2019-10-11T20:12:49.040Z,"178 km SE of Nishinoomote, Japan",earthquake,8.3,1.9,0.248,14,reviewed,us,us
+2019-07-29T20:37:43.551Z,32.8383,140.569,59.14,5.8,mww,,30,0.692,0.81,us,us60004x4m,2025-12-22T18:14:00.742Z,"246 km SSE of Tateyama, Japan",earthquake,7,3.7,0.053,34,reviewed,us,us
+2019-07-30T19:51:56.995Z,29.9944,142.9717,10,4.5,mb,,96,2.97,0.89,us,us600051uz,2019-10-19T21:42:16.040Z,"Izu Islands, Japan region",earthquake,3.5,1.9,0.063,78,reviewed,us,us
+2019-08-02T02:24:52.054Z,30.211,142.6619,10,4.5,mb,,135,3.132,1.42,us,us600052un,2019-10-19T21:42:19.040Z,"Izu Islands, Japan region",earthquake,10.3,1.9,0.222,6,reviewed,us,us
+2019-08-03T18:04:18.188Z,39.6883,141.5937,73.21,4.6,mb,,84,1.172,1.32,us,us6000507x,2019-10-19T21:42:08.040Z,"30 km W of Miyako, Japan",earthquake,6.4,6.4,0.049,131,reviewed,us,us
+2019-08-04T10:23:03.726Z,37.7594,141.6031,38,6.3,mww,,32,0.653,0.78,us,us600050if,2025-12-22T18:14:29.174Z,"61 km ENE of Namie, Japan",earthquake,7.3,1.9,0.071,19,reviewed,us,us
+2019-08-07T12:10:46.819Z,37.3458,141.2468,35,4.5,mb,,146,0.636,0.98,us,us600051tc,2019-10-29T20:33:40.040Z,"26 km SE of Namie, Japan",earthquake,6.3,2,0.102,29,reviewed,us,us
+2019-08-13T22:02:50.638Z,38.8225,142.4076,38.88,4.5,mb,,94,1.588,1.17,us,us600054s0,2019-11-02T15:26:04.040Z,"65 km ESE of ?funato, Japan",earthquake,7.2,6.5,0.09,36,reviewed,us,us
+2019-08-15T05:32:53.142Z,40.8275,141.2441,86,5.4,mww,,19,0.141,0.87,us,us6000559v,2025-12-22T18:15:02.534Z,"19 km NW of Misawa, Japan",earthquake,6.6,1.7,0.057,30,reviewed,us,us
+2019-08-15T06:06:09.225Z,40.9181,141.1861,89.56,4.7,mb,,108,0.158,0.49,us,us600055a5,2019-11-02T15:26:06.040Z,"30 km NW of Misawa, Japan",earthquake,7.2,3.1,0.03,349,reviewed,us,us
+2019-08-15T09:07:37.373Z,38.5661,142.2078,38.19,4.8,mb,,135,1.316,0.81,us,us600055br,2019-11-02T15:26:06.040Z,"70 km SE of ?funato, Japan",earthquake,7.6,7.1,0.058,91,reviewed,us,us
+2019-08-15T09:15:03.765Z,42.0872,143.8594,57.3,4.8,mb,,145,0.527,1.06,us,us600055bv,2019-11-02T15:26:07.040Z,"106 km SSE of Obihiro, Japan",earthquake,9.1,8,0.034,271,reviewed,us,us
+2019-08-17T22:28:37.868Z,30.9286,142.554,10,5,mb,,99,3.189,0.56,us,us600056ia,2019-11-02T15:26:12.040Z,"Izu Islands, Japan region",earthquake,5.9,1.8,0.052,119,reviewed,us,us
+2019-08-18T10:06:41.601Z,38.5642,139.4238,11.5,4.5,mb,,68,1.28,0.88,us,us600056pa,2022-08-08T15:40:05.026Z,"37 km N of Murakami, Japan",earthquake,4.1,4.9,0.11,24,reviewed,us,us
+2019-08-21T03:35:25.077Z,42.4166,143.0999,23.59,4.5,mb,,128,0.403,0.42,us,us600057t2,2019-11-08T22:13:36.040Z,"56 km S of Obihiro, Japan",earthquake,10.2,6.6,0.078,48,reviewed,us,us
+2019-08-23T11:49:34.145Z,35.2777,140.088,10,4.5,mb,,117,0.954,0.77,us,us700057sc,2019-11-08T22:13:45.040Z,"18 km SE of Kisarazu, Japan",earthquake,4.1,1.7,0.122,20,reviewed,us,us
+2019-08-23T16:39:31.653Z,38.6461,142.6622,65.43,4.7,mb,,134,1.665,1.14,us,us700059px,2019-11-08T22:13:53.040Z,"94 km ESE of ?funato, Japan",earthquake,7.6,11.4,0.208,7,reviewed,us,us
+2019-08-23T18:05:21.976Z,38.3909,141.8513,48.36,4.5,mb,,80,0.986,0.71,us,us700057mh,2019-11-08T22:13:44.040Z,"48 km E of Ishinomaki, Japan",earthquake,4.8,5.7,0.064,78,reviewed,us,us
+2019-08-23T18:11:19.446Z,37.2163,141.8735,40.88,4.6,mb,,138,1.08,0.89,us,us700057mq,2019-11-08T22:13:44.040Z,"82 km ESE of Namie, Japan",earthquake,6.9,7.5,0.096,32,reviewed,us,us
+2019-08-24T04:52:46.518Z,37.3338,142.5014,11.6,5.1,mww,,43,3.528,0.62,us,us700057sm,2025-12-22T18:15:16.789Z,"133 km E of Namie, Japan",earthquake,7,3.7,0.083,14,reviewed,us,us
+2019-08-24T12:07:55.276Z,30.6524,132.7283,10,4.5,mb,,141,2.925,0.57,us,us700059t4,2019-11-08T22:13:54.040Z,"165 km E of Nishinoomote, Japan",earthquake,8.6,1.9,0.118,21,reviewed,us,us
+2019-08-24T18:51:03.035Z,41.4851,142.0232,57.9,4.7,mb,,121,1,0.81,us,us700057w4,2019-11-08T22:13:46.040Z,"70 km ENE of Mutsu, Japan",earthquake,5.8,6.2,0.045,149,reviewed,us,us
+2019-08-26T15:13:31.117Z,35.4875,139.0518,19.43,4.6,mb,,112,1.077,0.65,us,us7000591s,2019-11-08T22:13:51.040Z,"15 km SSW of Uenohara, Japan",earthquake,4.4,4.4,0.122,20,reviewed,us,us
+2019-08-28T16:43:36.998Z,28.6809,142.6408,10,4.6,mb,,153,1.63,0.68,us,us70005bja,2019-11-15T17:19:23.040Z,"Bonin Islands, Japan region",earthquake,11,1.9,0.192,8,reviewed,us,us
+2019-08-28T23:46:40.132Z,41.0682,142.9955,23.77,5.9,mww,,30,0.953,0.69,us,us700059ee,2025-12-22T18:20:35.494Z,"141 km ENE of Hachinohe, Japan",earthquake,5.1,2.9,0.053,34,reviewed,us,us
+2019-09-03T12:39:42.487Z,32.754,139.9826,94.91,4.6,mb,,103,2.435,0.49,us,us70005e75,2019-11-30T19:36:30.040Z,"233 km SSE of Shimoda, Japan",earthquake,10,7.8,0.071,60,reviewed,us,us
+2019-09-03T18:42:36.605Z,39.3941,143.223,23.1,4.6,mb,,136,2.164,0.8,us,us70005bkw,2019-11-30T19:37:28.040Z,"109 km E of Yamada, Japan",earthquake,6.1,5.6,0.072,60,reviewed,us,us
+2019-09-05T11:15:56.434Z,36.9034,143.3154,10,4.6,mb,,117,2.23,0.93,us,us70005c9g,2019-11-30T19:37:14.040Z,"215 km ESE of Namie, Japan",earthquake,7,1.9,0.066,68,reviewed,us,us
+2019-09-07T09:35:50.975Z,41.5937,142.0583,56.79,5.2,mww,,116,0.923,0.49,us,us70005d5v,2025-12-22T18:16:06.549Z,"78 km ENE of Mutsu, Japan",earthquake,6,4.7,0.068,21,reviewed,us,us
+2019-09-08T04:34:30.656Z,37.0419,143.3141,10,4.6,mb,,132,2.171,0.91,us,us70005dbx,2019-11-30T19:36:49.040Z,"211 km ESE of Namie, Japan",earthquake,7.7,1.9,0.091,36,reviewed,us,us
+2019-09-08T05:23:55.553Z,29.1924,142.4578,10,4.5,mb,,184,2.102,0.39,us,us70005h48,2019-11-30T19:36:14.040Z,"Izu Islands, Japan region",earthquake,6.7,1.9,0.163,11,reviewed,us,us
+2019-09-09T00:59:00.586Z,32.2335,139.9009,133.09,4.5,mb,,190,0.882,0.76,us,us70005djd,2019-11-30T19:36:40.040Z,"285 km SSE of Shimoda, Japan",earthquake,10.3,6.3,0.059,84,reviewed,us,us
+2019-09-14T02:54:38.354Z,35.5866,140.2413,55.43,4.6,mb,,119,1.902,1.07,us,us70005gsc,2019-12-05T18:31:08.040Z,"near the east coast of Honshu, Japan",earthquake,6.8,7.8,0.101,29,reviewed,us,us
+2019-09-15T03:02:40.280Z,39.3025,142.0202,47.48,4.7,mb,,134,1.656,0.67,us,us70005gk2,2019-12-05T18:31:06.040Z,"12 km SE of ?tsuchi, Japan",earthquake,7.8,7.6,0.089,38,reviewed,us,us
+2019-09-15T16:27:10.070Z,41.2468,141.9598,56.65,4.7,mb,,133,0.817,0.55,us,us70005gpu,2019-12-05T18:31:08.040Z,"62 km E of Mutsu, Japan",earthquake,7,7.3,0.057,93,reviewed,us,us
+2019-09-16T12:43:59.104Z,39.4353,142.6474,43.66,4.7,mb,,135,1.817,0.7,us,us70005h0t,2019-12-05T18:31:10.040Z,"60 km E of Yamada, Japan",earthquake,7.9,7.8,0.04,196,reviewed,us,us
+2019-09-17T13:17:34.145Z,33.1823,140.7818,51.88,4.5,mb,,155,0.814,0.73,us,us70005l48,2019-12-10T17:27:12.040Z,"216 km SSE of Tateyama, Japan",earthquake,8.5,9.3,0.163,11,reviewed,us,us
+2019-09-18T23:49:28.292Z,36.4379,140.7375,46.97,4.5,mb,,142,1.429,1.07,us,us60005kqd,2019-12-10T17:26:56.040Z,"15 km ESE of Funaishikawa, Japan",earthquake,6.6,7.3,0.121,20,reviewed,us,us
+2019-09-19T16:36:43.630Z,29.2631,130.7984,21.63,4.6,mb,,133,3.29,1.26,us,us70005mf9,2019-12-10T17:27:15.040Z,"110 km SSE of Koshima, Japan",earthquake,6.1,5.8,0.09,37,reviewed,us,us
+2019-09-21T23:52:47.990Z,31.2987,140.5468,29.27,4.7,mb,,109,1.914,0.84,us,us60005lvn,2019-12-10T17:27:02.040Z,"Izu Islands, Japan region",earthquake,7.9,5.5,0.089,39,reviewed,us,us
+2019-09-22T14:15:27.687Z,29.5329,141.2813,54.38,4.6,mb,,109,2.555,0.85,us,us60005lze,2019-12-10T17:27:03.040Z,"Izu Islands, Japan region",earthquake,10.7,7.4,0.05,120,reviewed,us,us
+2019-09-23T02:33:08.744Z,36.9496,142.0663,34.87,4.5,mb,,157,1.369,1.06,us,us70005pdz,2019-12-10T17:27:19.040Z,"105 km E of Iwaki, Japan",earthquake,8.3,7.2,0.171,10,reviewed,us,us
+2019-09-25T08:28:49.142Z,39.3072,142.0371,53.13,4.9,mb,,136,1.658,1.06,us,us70005l1w,2019-12-20T19:02:27.040Z,"13 km ESE of ?tsuchi, Japan",earthquake,7.4,7,0.067,69,reviewed,us,us
+2019-09-25T09:29:34.250Z,34.5449,141.7262,10,4.8,mb,,91,2.137,0.78,us,us70005l24,2019-12-20T19:02:28.040Z,"144 km ESE of ?hara, Japan",earthquake,7.7,1.8,0.059,88,reviewed,us,us
+2019-09-27T00:41:06.040Z,30.5305,131.1118,39.19,4.5,mb,,132,2.594,0.48,us,us70005m46,2019-12-20T19:03:05.040Z,"24 km SSE of Nishinoomote, Japan",earthquake,8.5,8.7,0.127,18,reviewed,us,us
+2019-09-27T03:32:29.139Z,42.0069,144.54,36.8,4.6,mb,,169,1.03,1.06,us,us70005m6y,2019-12-20T19:03:08.040Z,"108 km S of Kushiro, Japan",earthquake,9.8,9.1,0.122,20,reviewed,us,us
+2019-09-27T11:11:02.115Z,38.8586,142.1079,51.57,4.6,mb,,145,1.431,0.48,us,us70005mdc,2019-12-20T19:03:14.040Z,"41 km SE of ?funato, Japan",earthquake,7.9,8,0.1,30,reviewed,us,us
+2019-09-29T16:02:32.291Z,36.5322,140.6042,56.12,4.9,mb,,150,1.342,0.81,us,us70005nif,2019-12-20T19:03:47.040Z,"8 km NNE of Funaishikawa, Japan",earthquake,2.9,8,0.084,45,reviewed,us,us
+2019-09-30T17:56:08.109Z,43.4467,136.3734,314.06,5,mb,,28,4.384,0.85,us,us70005p06,2025-12-22T18:17:45.166Z,"93 km ESE of Ol’ga, Russia",earthquake,6.2,4.4,0.022,663,reviewed,us,us
+2019-10-01T06:28:54.934Z,42.2458,142.9031,71.54,4.5,mb,,152,1.885,0.7,us,us70005t22,2019-12-27T15:49:36.040Z,"45 km ESE of Shizunai-furukawach?, Japan",earthquake,9.9,9.6,0.171,10,reviewed,us,us
+2019-10-02T01:43:14.822Z,39.0662,144.4714,10,4.8,mb,,63,3.111,0.66,us,us70005pne,2019-12-27T15:49:47.040Z,"222 km ESE of Yamada, Japan",earthquake,7.9,1.8,0.044,163,reviewed,us,us
+2019-10-02T04:39:07.396Z,37.7771,141.659,35,4.5,mb,,162,0.694,0.78,us,us70005tdx,2019-12-27T15:49:48.040Z,"66 km ENE of Namie, Japan",earthquake,4.5,2,0.18,9,reviewed,us,us
+2019-10-02T14:58:49.150Z,32.1683,140.3065,78.89,4.5,mb,,152,1.031,1.24,us,us70005ptl,2019-12-27T15:49:56.040Z,"Izu Islands, Japan region",earthquake,10.8,7.8,0.128,18,reviewed,us,us
+2019-10-05T19:27:52.948Z,32.0887,140.3626,77.35,4.6,mb,,122,1.123,0.74,us,us70005r4z,2019-12-27T15:50:42.040Z,"Izu Islands, Japan region",earthquake,9.9,7,0.084,42,reviewed,us,us
+2019-10-06T01:39:44.595Z,28.7054,142.6606,10,4.5,mb,,152,8.672,0.77,us,us70005udb,2019-12-27T15:50:46.040Z,"Bonin Islands, Japan region",earthquake,7.8,1.9,0.18,12,reviewed,us,us
+2019-10-06T06:03:15.475Z,37.4099,142.0123,34.09,4.6,mb,,146,1.073,0.62,us,us70005r81,2019-12-27T15:50:48.040Z,"89 km E of Namie, Japan",earthquake,7.6,6.4,0.076,52,reviewed,us,us
+2019-10-06T23:02:31.426Z,33.8149,132.269,50.17,4.6,mb,,64,1.341,0.63,us,us70005rfp,2019-12-27T15:51:00.040Z,"21 km SE of Yanai, Japan",earthquake,5.8,6.6,0.047,136,reviewed,us,us
+2019-10-07T07:25:07.792Z,41.7617,142.2726,54.43,4.5,mb,,120,0.707,0.66,us,us70005rj0,2019-12-27T15:51:04.040Z,"64 km S of Shizunai-furukawach?, Japan",earthquake,3.4,7,0.093,34,reviewed,us,us
+2019-10-08T19:58:30.741Z,35.7128,140.1115,70.17,4.6,mb,,125,1.721,0.65,us,us70005sbf,2019-12-28T20:45:45.040Z,"8 km NW of Yotsukaid?, Japan",earthquake,6.1,5.8,0.07,63,reviewed,us,us
+2019-10-09T07:31:29.187Z,42.3848,143.8191,60.69,4.6,mb,,149,0.615,0.65,us,us70005v1q,2019-12-28T20:46:18.040Z,"77 km SE of Obihiro, Japan",earthquake,10.7,5.5,0.182,9,reviewed,us,us
+2019-10-09T08:51:24.510Z,30.0219,139.0085,408.82,4.6,mb,,48,3.157,0.8,us,us70005shn,2019-12-28T20:45:57.040Z,"Izu Islands, Japan region",earthquake,9.2,1.2,0.028,391,reviewed,us,us
+2019-10-12T09:21:53.070Z,34.7248,140.6235,48.04,5.3,mww,,93,1.74,0.76,us,us70005tn2,2025-12-22T18:18:39.207Z,"54 km SSE of Katsuura, Japan",earthquake,6.4,5,0.065,23,reviewed,us,us
+2019-10-15T15:50:38.032Z,30.5451,142.5395,10,4.6,mb,,80,3.451,0.42,us,us70005xq9,2020-01-03T16:09:17.040Z,"Izu Islands, Japan region",earthquake,9.5,1.9,0.109,25,reviewed,us,us
+2019-10-16T01:07:06.124Z,36.0861,142.1992,10,4.5,mb,,137,2.107,0.52,us,us70005uhv,2020-01-03T16:09:18.040Z,"129 km ENE of Hasaki, Japan",earthquake,3.1,1.9,0.115,22,reviewed,us,us
+2019-10-17T19:50:58.615Z,42.6578,141.7955,121.47,4.5,mb,,64,1.196,0.84,us,us70005v4x,2020-01-03T16:09:25.040Z,"15 km E of Tomakomai, Japan",earthquake,7.8,3.6,0.113,23,reviewed,us,us
+2019-10-18T19:14:10.407Z,28.1914,139.8613,426.73,4.6,mb,,34,2.332,0.68,us,us70005vnn,2020-01-03T16:09:31.040Z,"Bonin Islands, Japan region",earthquake,9.2,6,0.034,272,reviewed,us,us
+2019-10-19T09:08:46.828Z,38.6369,142.2055,40.38,4.7,mb,,155,1.352,0.55,us,us70005vwn,2020-01-03T16:09:34.040Z,"64 km SE of ?funato, Japan",earthquake,5.2,7,0.111,25,reviewed,us,us
+2019-10-19T18:19:41.785Z,31.1521,142.3083,21.82,4.5,mb,,101,2.882,0.58,us,us600062as,2020-01-03T16:09:36.040Z,"Izu Islands, Japan region",earthquake,7.1,3.4,0.091,42,reviewed,us,us
+2019-10-20T22:53:32.157Z,38.5676,142.1823,35,4.5,mb,,147,1.299,0.74,us,us70005whb,2020-01-03T16:09:40.040Z,"69 km SE of ?funato, Japan",earthquake,6.9,2,0.14,15,reviewed,us,us
+2019-10-22T08:06:03.510Z,42.3184,144.3612,35.68,4.6,mb,,112,0.945,0.92,us,us70005x30,2020-01-11T21:26:22.040Z,"72 km S of Kushiro, Japan",earthquake,7.7,6.6,0.041,178,reviewed,us,us
+2019-10-23T03:43:20.067Z,39.7661,141.7643,58.12,4.7,mb,,131,1.153,0.53,us,us70005xia,2020-01-11T21:26:26.040Z,"20 km NW of Miyako, Japan",earthquake,6.7,6.5,0.106,27,reviewed,us,us
+2019-10-23T08:26:36.390Z,38.4408,142.1777,41.97,4.5,mb,,122,1.234,1.02,us,us700061yd,2020-01-11T21:26:27.040Z,"76 km E of Ishinomaki, Japan",earthquake,5.7,6.8,0.156,12,reviewed,us,us
+2019-10-23T15:02:35.990Z,41.92,142.5511,58.99,4.5,mb,,111,0.461,0.72,us,us70005xp8,2020-01-11T21:26:29.040Z,"48 km SSE of Shizunai-furukawach?, Japan",earthquake,6.3,7.1,0.101,29,reviewed,us,us
+2019-10-25T19:23:38.209Z,30.1175,139.6596,10,4.6,mb,,91,3.74,1.08,us,us600062z9,2020-01-11T21:26:39.040Z,"Izu Islands, Japan region",earthquake,9,1.9,0.095,36,reviewed,us,us
+2019-10-26T06:15:24.804Z,28.1089,142.9308,10,4.6,mb,,157,1.207,0.97,us,us700062y8,2020-01-11T21:26:42.040Z,"Bonin Islands, Japan region",earthquake,9.8,1.9,0.182,9,reviewed,us,us
+2019-10-28T01:59:08.711Z,42.2815,143.0774,66.67,4.6,mb,,114,0.272,0.69,us,us700063hn,2020-01-11T21:26:50.040Z,"58 km E of Shizunai-furukawach?, Japan",earthquake,8.4,5.8,0.128,18,reviewed,us,us
+2019-10-28T11:26:25.215Z,40.3878,145.4485,10,4.8,mb,,124,2.373,0.9,us,us600063x4,2020-01-11T21:26:52.040Z,"off the east coast of Honshu, Japan",earthquake,8.3,1.9,0.087,41,reviewed,us,us
+2019-10-30T15:54:56.002Z,30.2622,141.3895,35,4.5,mb,,140,3.145,0.62,us,us600068pt,2020-01-18T20:00:40.040Z,"Izu Islands, Japan region",earthquake,5.5,2,0.171,10,reviewed,us,us
+2019-10-31T02:06:33.581Z,35.6826,140.158,64.95,4.6,mb,,120,1.801,0.64,us,us60006981,2020-01-18T20:00:41.040Z,"3 km NNW of Yotsukaid?, Japan",earthquake,6.9,8.3,0.109,25,reviewed,us,us
+2019-11-02T03:06:41.531Z,35.6656,140.7851,43.01,4.5,mb,,135,2.199,0.95,us,us600069bd,2020-01-18T20:00:44.040Z,"8 km SSW of Hasaki, Japan",earthquake,8.2,8.7,0.204,7,reviewed,us,us
+2019-11-02T15:33:40.651Z,38.3548,142.2748,25.85,4.5,mb,,143,1.267,0.76,us,us700062bq,2020-01-18T20:00:55.040Z,"85 km E of Ishinomaki, Japan",earthquake,6.5,6.4,0.164,11,reviewed,us,us
+2019-11-02T17:39:28.631Z,35.8812,140.1542,97.62,4.6,mb,,101,1.705,1.17,us,us700062cd,2020-01-18T20:00:55.040Z,"3 km SW of Ry?gasaki, Japan",earthquake,5.7,7.9,0.113,23,reviewed,us,us
+2019-11-03T01:37:56.461Z,36.5111,142.5086,10,4.6,mb,,127,1.929,1.14,us,us700062g8,2020-01-18T20:00:56.040Z,"156 km ESE of Iwaki, Japan",earthquake,6.4,1.5,0.054,103,reviewed,us,us
+2019-11-03T01:47:08.603Z,36.4699,142.6505,10,4.7,mww,,93,2.039,0.91,us,us700062ga,2020-01-18T20:00:56.040Z,"170 km ESE of Iwaki, Japan",earthquake,6.6,1.8,0.075,17,reviewed,us,us
+2019-11-03T05:02:44.384Z,37.3423,141.7503,35.28,4.7,mb,,99,0.926,0.57,us,us700062h2,2020-01-18T20:00:56.040Z,"68 km ESE of Namie, Japan",earthquake,6.8,6.7,0.036,238,reviewed,us,us
+2019-11-03T14:55:45.794Z,36.0062,139.9254,49.71,4.6,mb,,69,1.458,0.5,us,us60006ap7,2020-01-18T20:00:46.040Z,"5 km WSW of Mitsukaid?, Japan",earthquake,5.8,2.1,0.112,24,reviewed,us,us
+2019-11-03T22:56:40.131Z,34.8005,140.5143,81.87,4.6,mb,,135,1.778,0.55,us,us60006app,2020-01-18T20:00:46.040Z,"42 km SSE of Katsuura, Japan",earthquake,6.8,8.1,0.111,24,reviewed,us,us
+2019-11-05T15:41:27.980Z,42.341,143.1438,60.46,4.7,mb,,122,0.326,0.61,us,us700063eb,2020-02-01T23:21:37.040Z,"64 km E of Shizunai-furukawach?, Japan",earthquake,7.4,5.8,0.079,48,reviewed,us,us
+2019-11-06T05:15:52.473Z,30.4044,141.86,24.64,4.6,mb,,130,3.215,1.05,us,us60006bhq,2020-02-01T23:21:39.040Z,"Izu Islands, Japan region",earthquake,5.1,6.4,0.222,6,reviewed,us,us
+2019-11-06T22:03:12.552Z,40.994,142.654,39.01,4.8,mb,,144,1.087,0.84,us,us600068er,2020-02-01T23:21:43.040Z,"near the east coast of Honshu, Japan",earthquake,5.4,7.7,0.107,27,reviewed,us,us
+2019-11-06T22:07:57.442Z,36.4187,142.7628,10,4.6,mb,,157,2.14,0.57,us,us600068g1,2020-02-01T23:21:43.040Z,"181 km ESE of Iwaki, Japan",earthquake,8,1.9,0.117,22,reviewed,us,us
+2019-11-07T02:20:08.320Z,29.2465,130.6917,35,4.5,mb,,136,3.215,0.38,us,us60006byg,2020-02-01T23:21:44.040Z,"110 km S of Koshima, Japan",earthquake,10.6,2,0.181,12,reviewed,us,us
+2019-11-07T02:35:26.920Z,41.6145,142.0458,111.47,4.7,mb,,125,1.107,0.5,us,us600068ii,2020-02-01T23:21:44.040Z,"78 km ENE of Mutsu, Japan",earthquake,7.8,6.4,0.166,11,reviewed,us,us
+2019-11-08T02:01:15.401Z,30.6082,140.7551,44.02,4.5,mb,,129,2.624,1.18,us,us60006c0g,2020-02-01T23:21:53.040Z,"Izu Islands, Japan region",earthquake,9.6,9.6,0.241,5,reviewed,us,us
+2019-11-08T21:23:52.409Z,41.4681,142.1417,58.36,4.6,mb,,134,0.936,0.75,us,us60006c1j,2020-02-01T23:22:02.040Z,"79 km ENE of Mutsu, Japan",earthquake,3.7,8.3,0.095,34,reviewed,us,us
+2019-11-10T10:46:05.040Z,40.2548,143.9904,10,5.2,mww,,92,1.867,0.69,us,us600069xa,2025-12-22T18:21:17.101Z,"187 km ENE of Miyako, Japan",earthquake,6.8,1.9,0.078,16,reviewed,us,us
+2019-11-12T12:55:38.794Z,36.4989,141.0367,42.93,4.6,mb,,95,1.381,0.65,us,us60006aml,2020-02-07T20:20:21.040Z,"36 km ESE of Hitachi, Japan",earthquake,3.4,6,0.052,109,reviewed,us,us
+2019-11-13T04:24:23.116Z,42.1737,131.5449,545.67,4.5,mb,,45,2.051,0.76,us,us70006aiz,2020-02-07T20:20:31.040Z,"63 km SE of Zarubino, Russia",earthquake,11.2,9.5,0.094,33,reviewed,us,us
+2019-11-14T07:30:31.535Z,36.4588,142.6352,10,4.6,mb,,136,1.986,0.65,us,us70006b35,2020-02-07T20:20:49.040Z,"169 km ESE of Iwaki, Japan",earthquake,7.9,1.9,0.122,20,reviewed,us,us
+2019-11-16T02:51:49.789Z,34.038,141.7119,10,4.9,mww,,67,1.832,0.77,us,us700068pt,2020-02-07T20:21:39.040Z,"177 km SE of Katsuura, Japan",earthquake,5.8,1.8,0.089,12,reviewed,us,us
+2019-11-16T18:32:39.827Z,28.5665,130.2554,24.52,4.8,mb,,46,2.462,0.77,us,us700068w9,2020-02-07T20:21:47.040Z,"78 km ENE of Naze, Japan",earthquake,6.1,5.1,0.076,67,reviewed,us,us
+2019-11-17T11:05:33.690Z,34.6027,139.0643,16.35,4.8,mb,,103,0.73,0.74,us,us70006944,2020-02-07T20:21:58.040Z,"13 km SE of Shimoda, Japan",earthquake,2.7,4.9,0.094,35,reviewed,us,us
+2019-11-19T06:10:26.543Z,29.2905,142.2784,10,5,mww,,48,2.188,0.89,us,us700069sk,2025-12-22T18:22:00.982Z,"Izu Islands, Japan region",earthquake,7.9,1.8,0.098,10,reviewed,us,us
+2019-11-21T20:23:49.638Z,36.0637,139.8377,52.57,4.7,mb,,108,1.37,0.79,us,us70006b9c,2020-06-17T06:57:04.112Z,"5 km SE of Sakai, Japan",earthquake,5.6,6.2,0.045,148,reviewed,us,us
+2019-11-21T22:31:58.387Z,32.4876,137.2993,397.79,4.9,mb,,55,2.208,0.61,us,us70006bbt,2020-02-14T22:02:10.040Z,"184 km SE of Shing?, Japan",earthquake,5.9,5.5,0.023,620,reviewed,us,us
+2019-11-22T01:48:20.401Z,29.2077,142.2688,10,4.5,mb,,145,4.427,0.89,us,us70006efx,2020-02-14T22:02:25.040Z,"Izu Islands, Japan region",earthquake,13.8,1.9,0.18,9,reviewed,us,us
+2019-11-22T09:05:08.723Z,31.9093,131.9497,35,5.1,mww,,90,1.513,1.16,us,us70006bhb,2025-12-22T18:22:06.758Z,"49 km ESE of Takanabe, Japan",earthquake,5.9,2,0.069,20,reviewed,us,us
+2019-11-22T16:02:26.594Z,31.9934,131.8679,48.75,4.6,mb,,126,1.404,0.98,us,us70006br0,2020-02-14T22:02:12.040Z,"38 km ESE of Takanabe, Japan",earthquake,6.2,8,0.141,15,reviewed,us,us
+2019-11-25T01:41:00.523Z,37.9201,141.9323,35,4.5,mb,,122,2.906,0.75,us,us70006fk2,2020-02-14T22:02:31.040Z,"78 km SE of Ishinomaki, Japan",earthquake,6.1,2,0.163,11,reviewed,us,us
+2019-11-26T06:09:13.325Z,33.9727,133.1553,20.03,4.6,mb,,67,0.646,0.96,us,us70006d31,2020-02-19T18:58:05.040Z,"6 km NNW of Saij?, Japan",earthquake,6.3,5.6,0.116,22,reviewed,us,us
+2019-11-26T09:29:08.837Z,33.1073,141.9334,10,4.7,mb,,145,4.532,0.58,us,us60006pav,2020-02-19T18:57:53.040Z,"270 km SSE of Katsuura, Japan",earthquake,6.1,1.9,0.138,16,reviewed,us,us
+2019-11-28T07:41:15.901Z,42.8178,145.3057,43.09,4.9,mb,,132,1.781,0.81,us,us70006e3k,2022-08-08T17:12:03.801Z,"60 km SSW of Nemuro, Japan",earthquake,8.6,7.4,0.067,71,reviewed,us,us
+2019-11-28T12:30:48.506Z,35.6,139.4646,124.67,4.5,mb,,123,1.384,0.94,us,us60006pe3,2020-02-19T18:57:56.040Z,"6 km N of Machida, Japan",earthquake,7.9,8.3,0.157,12,reviewed,us,us
+2019-11-29T04:01:40.285Z,39.1619,143.017,19,5.4,mww,,26,2.212,0.9,us,us70006eaz,2025-12-22T17:56:22.791Z,"off the east coast of Honshu, Japan",earthquake,6.8,1.8,0.073,18,reviewed,us,us
+2019-12-02T23:25:19.779Z,40.2972,141.8249,57.13,4.6,mb,,140,0.759,0.63,us,us70006fef,2020-02-19T18:58:31.040Z,"35 km SE of Hachinohe, Japan",earthquake,6.7,7.2,0.068,66,reviewed,us,us
+2019-12-03T01:18:04.058Z,36.1297,139.8658,53.29,4.6,mwr,,108,1.399,0.95,us,us70006fev,2020-06-17T06:57:25.352Z,"6 km ENE of Sakai, Japan",earthquake,5.5,5.4,0.086,13,reviewed,us,us
+2019-12-03T04:21:22.845Z,31.5716,140.6839,57.84,4.6,mb,,111,1.706,0.9,us,us60006q90,2020-02-29T19:52:50.040Z,"Izu Islands, Japan region",earthquake,7.4,7.4,0.109,25,reviewed,us,us
+2019-12-03T19:16:49.958Z,30.9731,142.5781,10,4.6,mb,,110,3.173,0.98,us,us60006lqp,2020-02-29T19:52:50.040Z,"Izu Islands, Japan region",earthquake,8.5,1.8,0.091,38,reviewed,us,us
+2019-12-04T01:38:55.815Z,36.8425,140.4263,26.94,5,mb,,51,1.534,0.82,us,us60006lu8,2020-06-17T06:49:00.328Z,"10 km NE of Daigo, Japan",earthquake,3.8,3.8,0.03,359,reviewed,us,us
+2019-12-04T10:35:06.145Z,36.8347,139.7042,10,4.7,mb,,95,0.718,0.82,us,us60006lxf,2020-06-17T06:52:45.616Z,"12 km NE of Nikk?, Japan",earthquake,4.3,1.8,0.049,126,reviewed,us,us
+2019-12-05T13:35:22.403Z,36.8823,140.3048,52.98,4.6,mb,,128,1.687,0.82,us,us60006me2,2020-02-29T19:52:49.040Z,"13 km NNW of Daigo, Japan",earthquake,8,7.3,0.044,158,reviewed,us,us
+2019-12-05T14:54:11.747Z,31.1177,131.3745,39.28,4.9,mb,,130,2.045,0.75,us,us60006mev,2025-12-22T18:22:52.406Z,"42 km SSE of Kushima, Japan",earthquake,3.8,7.1,0.056,103,reviewed,us,us
+2019-12-07T03:33:51.478Z,37.4621,141.775,35,4.7,mb,,118,2.847,0.62,us,us60006nf4,2020-02-29T19:52:55.040Z,"68 km E of Namie, Japan",earthquake,6.6,1.9,0.041,180,reviewed,us,us
+2019-12-07T17:22:06.888Z,32.4381,140.8,48.87,4.5,mb,,115,1.07,1.08,us,us60006nls,2020-02-29T19:52:50.040Z,"295 km SSE of Tateyama, Japan",earthquake,8.3,7.6,0.11,27,reviewed,us,us
+2019-12-08T03:22:53.306Z,39.4518,142.6694,50.69,4.6,mb,,127,1.816,0.75,us,us60006nt2,2020-02-29T19:52:55.040Z,"61 km E of Yamada, Japan",earthquake,7.5,7.5,0.107,26,reviewed,us,us
+2019-12-09T08:41:20.776Z,33.0631,140.5624,67.57,4.7,mb,,105,0.63,0.63,us,us60006p5s,2020-02-29T19:52:50.040Z,"222 km SSE of Tateyama, Japan",earthquake,8.7,5.5,0.045,149,reviewed,us,us
+2019-12-10T17:05:02.138Z,30.7269,141.7195,11,5.8,mww,,14,2.88,0.73,us,us60006ptp,2025-12-22T18:30:49.247Z,"Izu Islands, Japan region",earthquake,6.4,1.7,0.051,37,reviewed,us,us
+2019-12-10T17:29:01.063Z,30.737,141.7257,10.63,5.1,mww,,66,2.874,0.78,us,us60006ptx,2025-12-22T18:30:50.054Z,"Izu Islands, Japan region",earthquake,5.8,3.6,0.073,18,reviewed,us,us
+2019-12-10T17:30:46.706Z,30.8104,142.008,20.18,4.7,mb,,135,2.959,1.03,us,us70006rap,2020-03-04T21:27:20.040Z,"Izu Islands, Japan region",earthquake,8.4,6.1,0.093,41,reviewed,us,us
+2019-12-10T18:38:37.489Z,30.253,138.6226,438.14,4.5,mb,,80,3.024,0.68,us,us60006pum,2020-03-04T21:26:51.040Z,"Izu Islands, Japan region",earthquake,9.7,1.7,0.032,294,reviewed,us,us
+2019-12-11T09:39:08.902Z,37.7626,141.8258,44.85,5.2,mww,,71,2.836,0.65,us,us60006q3x,2025-12-22T18:23:13.595Z,"79 km ENE of Namie, Japan",earthquake,7.6,4.7,0.069,20,reviewed,us,us
+2019-12-11T16:09:48.450Z,45.1322,141.9308,16.43,4.5,mb,,98,1.118,0.89,us,us60006q6l,2020-03-04T21:26:53.040Z,"27 km SSE of Makubetsu, Japan",earthquake,7.2,4.5,0.063,73,reviewed,us,us
+2019-12-11T23:38:35.955Z,30.7484,141.9185,10,4.9,mb,,99,2.961,0.52,us,us60006qcs,2020-03-04T21:26:55.040Z,"Izu Islands, Japan region",earthquake,7.9,1.8,0.058,92,reviewed,us,us
+2019-12-12T03:33:19.696Z,30.6924,141.8087,10,4.9,mb,,84,2.97,0.48,us,us60006qeh,2020-03-04T21:26:55.040Z,"Izu Islands, Japan region",earthquake,6.6,1.7,0.042,175,reviewed,us,us
+2019-12-12T03:57:31.292Z,31.1125,143.012,10,4.5,mb,,93,6.515,0.54,us,us70006npn,2020-03-04T21:27:14.040Z,"Izu Islands, Japan region",earthquake,6,1.9,0.111,24,reviewed,us,us
+2019-12-13T18:24:04.709Z,35.0095,139.5629,34.58,4.6,mb,,43,1.182,0.92,us,us60006r4u,2020-03-04T21:26:58.040Z,"15 km SSW of Miura, Japan",earthquake,2.7,4.3,0.068,64,reviewed,us,us
+2019-12-13T18:39:58.674Z,30.7118,141.79,10,4.5,mb,,78,2.926,0.71,us,us60006r52,2020-03-04T21:26:58.040Z,"Izu Islands, Japan region",earthquake,7.7,1.8,0.09,43,reviewed,us,us
+2019-12-15T19:13:50.535Z,35.1224,140.833,49.96,4.7,mb,,127,2.173,0.58,us,us60006rvf,2020-03-04T21:27:06.040Z,"42 km ESE of ?hara, Japan",earthquake,5.5,8.9,0.142,15,reviewed,us,us
+2019-12-15T19:58:36.166Z,32.9607,141.8154,10,4.6,mb,,111,1.688,1.03,us,us60006rw9,2020-03-04T21:27:06.040Z,"279 km SSE of Katsuura, Japan",earthquake,8.3,1.9,0.103,28,reviewed,us,us
+2019-12-15T21:52:03.348Z,42.7814,141.9378,44.85,4.6,mb,,77,0.366,0.45,us,us60006rwz,2020-03-04T21:27:07.040Z,"23 km E of Chitose, Japan",earthquake,7.8,7.4,0.041,182,reviewed,us,us
+2019-12-18T11:54:16.372Z,43.4684,145.895,101.9,4.6,mb,,83,2.477,0.6,us,us60006t5k,2020-03-07T17:47:30.040Z,"30 km ENE of Nemuro, Japan",earthquake,8.6,6.2,0.052,113,reviewed,us,us
+2019-12-19T00:23:40.885Z,36.2574,140.7844,85.08,4.6,mb,,120,2.066,0.84,us,us70006n94,2020-03-07T17:47:32.040Z,"19 km ESE of ?arai, Japan",earthquake,6.8,7.4,0.088,38,reviewed,us,us
+2019-12-19T04:55:21.490Z,30.8701,142.7988,10,4.7,mb,,71,6.81,0.68,us,us70006uaz,2020-03-07T17:48:00.040Z,"Izu Islands, Japan region",earthquake,14.4,1.9,0.158,12,reviewed,us,us
+2019-12-19T06:21:33.362Z,40.5559,142.066,49.32,5.1,mww,,41,0.796,0.83,us,us70006nbm,2025-12-22T18:24:05.484Z,"48 km E of Hachinohe, Japan",earthquake,6.4,4.3,0.071,19,reviewed,us,us
+2019-12-19T20:28:41.682Z,30.6445,131.036,42.12,4.9,mb,,94,0.996,0.73,us,us70006nnv,2020-03-07T17:47:36.040Z,"10 km SSE of Nishinoomote, Japan",earthquake,6.8,6.2,0.051,121,reviewed,us,us
+2019-12-20T09:31:17.623Z,28.2845,129.5442,47.85,4.6,mb,,178,1.832,0.94,us,us70006wzg,2020-03-07T17:48:01.040Z,"10 km SSE of Naze, Japan",earthquake,10.1,10.3,0.109,25,reviewed,us,us
+2019-12-20T19:40:52.538Z,32.8613,142.6603,10,5.2,mww,,29,2.405,0.81,us,us70006p7m,2025-12-22T18:24:11.335Z,"Izu Islands, Japan region",earthquake,7.1,1.7,0.049,40,reviewed,us,us
+2019-12-20T20:54:33.707Z,32.9406,142.4768,10,4.6,mb,,104,2.243,0.85,us,us70006p8f,2020-03-07T17:47:39.040Z,"Izu Islands, Japan region",earthquake,7.9,1.8,0.078,53,reviewed,us,us
+2019-12-21T03:00:19.444Z,38.9246,142.2219,60,4.6,mb,,156,3.168,0.47,us,us70006x0g,2020-03-07T17:48:02.040Z,"46 km ESE of ?funato, Japan",earthquake,9.2,7.2,0.182,9,reviewed,us,us
+2019-12-21T21:43:19.104Z,32.361,142.4477,10,4.7,mb,,130,2.343,0.57,us,us70006pld,2020-03-07T17:47:43.040Z,"Izu Islands, Japan region",earthquake,4.7,1.8,0.092,36,reviewed,us,us
+2019-12-22T04:44:39.009Z,31.5495,131.7451,48.07,4.5,mb,,193,1.104,0.62,us,us70006x1v,2020-03-07T17:48:03.040Z,"36 km E of Nichinan, Japan",earthquake,4.1,9.6,0.139,15,reviewed,us,us
+2019-12-22T04:56:44.325Z,29.253,142.1379,19.59,4.6,mb,,107,2.149,0.6,us,us70006pqe,2020-03-07T17:47:45.040Z,"Izu Islands, Japan region",earthquake,9.1,4.4,0.093,35,reviewed,us,us
+2019-12-22T12:33:44.375Z,38.9934,140.8078,10,4.6,mb,,127,2.215,0.53,us,us70006ptd,2020-03-07T17:47:45.040Z,"29 km WNW of Ichinoseki, Japan",earthquake,6.3,1.5,0.077,50,reviewed,us,us
+2019-12-25T08:58:03.061Z,31.4928,139.9304,118.59,5,mb,,46,1.62,1.18,us,us70006qvr,2020-03-14T22:24:57.040Z,"Izu Islands, Japan region",earthquake,7.6,4.9,0.026,471,reviewed,us,us
+2019-12-26T03:41:10.113Z,38.3558,144.4596,10,4.6,mb,,136,3.788,0.63,us,us70006r3z,2020-03-14T22:24:38.040Z,"247 km ESE of Kamaishi, Japan",earthquake,9.8,1.9,0.105,27,reviewed,us,us
+2019-12-26T09:26:40.564Z,38.6213,141.6612,65.02,4.9,mb,,117,2.739,0.63,us,us70006r5w,2020-03-14T22:24:32.040Z,"38 km NE of Ishinomaki, Japan",earthquake,7.4,6.3,0.044,160,reviewed,us,us
+2019-12-27T05:10:01.974Z,37.9223,142.7105,10,4.9,mb,,122,2.628,0.53,us,us70006rff,2020-03-14T22:24:16.040Z,"135 km ESE of Ishinomaki, Japan",earthquake,5.2,1.9,0.068,68,reviewed,us,us
+2019-12-29T01:44:25.682Z,29.3405,143.077,10,4.9,mb,,137,2.371,0.89,us,us70006s2x,2020-03-14T22:23:43.040Z,"Izu Islands, Japan region",earthquake,10.6,1.9,0.096,34,reviewed,us,us
+2019-12-30T18:43:36.410Z,28.8759,142.4958,10,4.9,mb,,105,1.794,0.58,us,us70006sla,2020-03-14T22:23:05.040Z,"Bonin Islands, Japan region",earthquake,3.6,1.8,0.046,149,reviewed,us,us
+2019-12-31T17:10:14.848Z,30.106,142.4452,10,4.7,mb,,110,3.008,0.98,us,us7000709p,2020-03-14T22:22:51.040Z,"Izu Islands, Japan region",earthquake,7.6,1.6,0.077,51,reviewed,us,us
